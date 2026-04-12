@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What year was the GraphQL API developed by Facebook?",
+    "answer": "2015",
+    "answer_paragraph": "## Overview\nThe GraphQL API is a query language for APIs that allows for more flexible and efficient data retrieval. It was developed by Facebook in 2015 and is now maintained by the GraphQL Foundation. Our company, NovaTech, has adopted GraphQL as its primary API technology."
+  },
+  {
+    "question": "What is the required Node.js version for using the GraphQL API?",
+    "answer": "version 14 or higher",
+    "answer_paragraph": "## Prerequisites\nTo get started with the GraphQL API, you need to have Node.js (version 14 or higher) and npm installed on your machine. You also need to have a basic understanding of JavaScript and JSON. Our API uses the Apollo Server library, which provides a simple and intuitive way to create GraphQL APIs."
+  },
+  {
+    "question": "What are the fields of the User type in the GraphQL schema?",
+    "answer": "id, name, and email",
+    "answer_paragraph": "## Types\nThe GraphQL schema defines the types of data that can be queried. We have two main types: `User` and `Product`. The `User` type has three fields: `id`, `name`, and `email`. The `Product` type has four fields: `id`, `name`, `price`, and `description`. Here is an example of how to define these types in your schema.js file:"
+  },
+  {
+    "question": "What is the purpose of the resolvers in the GraphQL API?",
+    "answer": "they are functions that run on the server to fetch the data for a specific field",
+    "answer_paragraph": "## Resolvers\nResolvers are functions that run on the server to fetch the data for a specific field. They can be used to fetch data from a database, make API calls, or perform any other necessary logic. For example, to fetch a user by ID, you can define a resolver like this:"
+  },
+  {
+    "question": "What is the endpoint to fetch a specific user by ID?",
+    "answer": "the user endpoint",
+    "answer_paragraph": "## Query Endpoints\nThe GraphQL API has several query endpoints that allow you to fetch data. The `users` endpoint returns a list of all users, while the `products` endpoint returns a list of all products. You can also use the `user` endpoint to fetch a specific user by ID, or the `product` endpoint to fetch a specific product by ID."
+  },
+  {
+    "question": "What is used for authentication in the GraphQL API?",
+    "answer": "JSON Web Tokens (JWT)",
+    "answer_paragraph": "## Authentication\nTo use the GraphQL API, you need to be authenticated. We use JSON Web Tokens (JWT) to authenticate users. When you log in, you receive a JWT token that you can use to make requests to the API. The token is valid for 30 minutes and can be refreshed using the `refreshToken` endpoint."
+  },
+  {
+    "question": "What is the valid duration of the JWT token?",
+    "answer": "30 minutes",
+    "answer_paragraph": "## Authentication\nTo use the GraphQL API, you need to be authenticated. We use JSON Web Tokens (JWT) to authenticate users. When you log in, you receive a JWT token that you can use to make requests to the API. The token is valid for 30 minutes and can be refreshed using the `refreshToken` endpoint."
+  },
+  {
+    "question": "What is the purpose of the role-based access control system?",
+    "answer": "to determine what endpoints a user can access",
+    "answer_paragraph": "## Authorization\nOnce you are authenticated, you need to be authorized to access specific endpoints. We use a role-based access control system, where each user has a role that determines what endpoints they can access. For example, the `admin` role has access to all endpoints, while the `user` role only has access to the `users` and `products` endpoints."
+  },
+  {
+    "question": "How many GraphQL APIs are in production as of January 2022?",
+    "answer": "15",
+    "answer_paragraph": "## History\nNovaTech started using GraphQL in 2018, with the first production-ready API being launched in February 2019. Since then, we have seen a significant reduction in the number of API requests and an increase in developer satisfaction. As of January 2022, we have 15 GraphQL APIs in production, with over 500 resolvers and 2000 types."
+  },
+  {
+    "question": "What library is used by the GraphQL API?",
+    "answer": "Apollo Server library",
+    "answer_paragraph": "## Prerequisites\nTo get started with the GraphQL API, you need to have Node.js (version 14 or higher) and npm installed on your machine. You also need to have a basic understanding of JavaScript and JSON. Our API uses the Apollo Server library, which provides a simple and intuitive way to create GraphQL APIs."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the purpose of the load balancing configuration guide?",
+    "answer": "The purpose of this guide is to provide a comprehensive overview of load balancing configuration for the fictional company, TechCorp.",
+    "answer_paragraph": "Introduction to Load Balancing Configuration\n\nThe purpose of this guide is to provide a comprehensive overview of load balancing configuration for the fictional company, TechCorp. Load balancing is a critical component of any network infrastructure, as it ensures that incoming traffic is distributed efficiently across multiple servers to improve responsiveness, reliability, and scalability."
+  },
+  {
+    "question": "What are the advantages of the Round-Robin load balancing method?",
+    "answer": "Easy to implement, efficient",
+    "answer_paragraph": "Table 1: Load Balancing Methods\n| Method | Description | Advantages | Disadvantages |\n| --- | --- | --- | --- |\n| Round-Robin | Each incoming request is sent to the next available server | Easy to implement, efficient | Can lead to uneven load distribution |"
+  },
+  {
+    "question": "What is the expected traffic volume for the TechCorp load balancing setup?",
+    "answer": "100,000 incoming requests per day",
+    "answer_paragraph": "As of March 2023, the TechCorp load balancing setup has been in operation for 6 months, with a total of 100,000 incoming requests per day. The setup has been configured to handle a maximum of 500,000 incoming requests per day, with a minimum of 2 servers and a maximum of 10 servers."
+  },
+  {
+    "question": "What is the configuration of the Cisco Catalyst 2960 switch?",
+    "answer": "48 ports, 10/100/1000 Mbps",
+    "answer_paragraph": "Table 4: Network Infrastructure\n| Component | Description | Configuration |\n| --- | --- | --- |\n| Switch | Cisco Catalyst 2960 | 48 ports, 10/100/1000 Mbps |"
+  },
+  {
+    "question": "What is the load balancing method used by Server 1?",
+    "answer": "Round-Robin",
+    "answer_paragraph": "Table 3: Server Configuration\n| Server | IP Address | Port | Load Balancing Method |\n| --- | --- | --- | --- |\n| Server 1 | 192.168.1.100 | 80 | Round-Robin |"
+  },
+  {
+    "question": "What is the minimum number of servers required for the TechCorp load balancing setup?",
+    "answer": "2",
+    "answer_paragraph": "As of March 2023, the TechCorp load balancing setup has been in operation for 6 months, with a total of 100,000 incoming requests per day. The setup has been configured to handle a maximum of 500,000 incoming requests per day, with a minimum of 2 servers and a maximum of 10 servers."
+  },
+  {
+    "question": "What is the description of the Least Connection load balancing method?",
+    "answer": "Incoming requests are sent to the server with the fewest active connections",
+    "answer_paragraph": "Table 1: Load Balancing Methods\n| Method | Description | Advantages | Disadvantages |\n| --- | --- | --- | --- |\n| Least Connection | Incoming requests are sent to the server with the fewest active connections | Efficient, adapts to changing loads | Can be complex to implement |"
+  },
+  {
+    "question": "What is the IP address of Server 2?",
+    "answer": "192.168.1.101",
+    "answer_paragraph": "Table 3: Server Configuration\n| Server | IP Address | Port | Load Balancing Method |\n| --- | --- | --- | --- |\n| Server 2 | 192.168.1.101 | 80 | Round-Robin |"
+  },
+  {
+    "question": "What is the configuration of the Cisco ASA 5506 firewall?",
+    "answer": "8 GB RAM, 8 GB flash",
+    "answer_paragraph": "Table 4: Network Infrastructure\n| Component | Description | Configuration |\n| --- | --- | --- |\n| Firewall | Cisco ASA 5506 | 8 GB RAM, 8 GB flash |"
+  },
+  {
+    "question": "What is the maximum number of incoming requests per day that the TechCorp load balancing setup can handle?",
+    "answer": "500,000",
+    "answer_paragraph": "As of March 2023, the TechCorp load balancing setup has been in operation for 6 months, with a total of 100,000 incoming requests per day. The setup has been configured to handle a maximum of 500,000 incoming requests per day, with a minimum of 2 servers and a maximum of 10 servers."
+  }
+]

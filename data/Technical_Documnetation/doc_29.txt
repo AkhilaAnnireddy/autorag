@@ -1,0 +1,54 @@
+Secrets Management Guide
+Introduction
+The purpose of this guide is to provide a comprehensive overview of secrets management within the organization. Secrets management refers to the practices and procedures used to securely store, manage, and retrieve sensitive information such as passwords, API keys, and certificates.
+
+Table 1: Secrets Management Lifecycle
+| Stage | Description | Responsible Team |
+| --- | --- | --- |
+| Creation | Generation of new secrets | Development Team |
+| Storage | Secure storage of secrets | Security Team |
+| Rotation | Regular rotation of secrets | Operations Team |
+| Revocation | Revocation of compromised secrets | Security Team |
+
+Secrets Storage
+The organization uses a combination of HashiCorp Vault and AWS Secrets Manager to store sensitive information. The choice of storage solution depends on the type of secret and its intended use. For example, API keys are stored in AWS Secrets Manager, while database passwords are stored in HashiCorp Vault.
+
+Table 2: Secrets Storage Solutions
+| Solution | Description | Capacity |
+| --- | --- | --- |
+| HashiCorp Vault | Secure storage of sensitive information | 1000 secrets |
+| AWS Secrets Manager | Secure storage of API keys and other sensitive information | 500 secrets |
+
+Secrets Rotation
+The organization has a secrets rotation policy that requires all secrets to be rotated every 90 days. This policy is enforced through automated scripts that generate new secrets and update the relevant systems.
+
+Table 3: Secrets Rotation Schedule
+| Secret Type | Rotation Frequency | Next Rotation Date |
+| --- | --- | --- |
+| API Key | Every 90 days | 2024-06-15 |
+| Database Password | Every 90 days | 2024-06-20 |
+
+Secrets Revocation
+In the event of a security incident, the organization has a secrets revocation policy that requires all compromised secrets to be revoked immediately. This policy is enforced through manual intervention by the security team.
+
+Table 4: Secrets Revocation Procedure
+| Step | Description | Responsible Team |
+| --- | --- | --- |
+| 1 | Identification of compromised secret | Security Team |
+| 2 | Revocation of compromised secret | Security Team |
+| 3 | Notification of relevant teams | Security Team |
+
+Conclusion
+In conclusion, the organization takes secrets management seriously and has implemented a range of practices and procedures to securely store, manage, and retrieve sensitive information. By following the guidelines outlined in this document, teams can ensure that their secrets are handled in a secure and compliant manner.
+
+Appendix
+The following appendix provides additional information on secrets management best practices.
+
+Table 5: Secrets Management Best Practices
+| Best Practice | Description |
+| --- | --- |
+| Use secure storage solutions | Store sensitive information in secure storage solutions such as HashiCorp Vault or AWS Secrets Manager |
+| Rotate secrets regularly | Rotate secrets every 90 days to reduce the risk of compromise |
+| Revoke compromised secrets | Revoke compromised secrets immediately to prevent further unauthorized access |
+
+As of 2024-03-01, the organization has implemented the following secrets management policies: Secrets Management Policy 1.0, Secrets Storage Policy 2.0, and Secrets Rotation Policy 3.0. These policies are reviewed and updated annually by the security team. The security team is responsible for ensuring that all secrets are stored, rotated, and revoked in accordance with these policies. The development team is responsible for generating new secrets, while the operations team is responsible for updating the relevant systems with the new secrets.

@@ -1,0 +1,46 @@
+Disaster Recovery Plan for NovaTech Inc.
+
+Introduction
+The purpose of this Disaster Recovery Plan (DRP) is to ensure the continuity of NovaTech Inc.'s business operations in the event of a disaster. The plan outlines the procedures to be followed in the event of a disaster, including the restoration of critical systems and the recovery of data.
+
+Table 1: Disaster Recovery Team
+| Name | Title | Department | Contact Information |
+| --- | --- | --- | --- |
+| John Smith | IT Manager | Information Technology | (123) 456-7890, john.smith@novatech.com |
+| Jane Doe | Network Administrator | Information Technology | (987) 654-3210, jane.doe@novatech.com |
+| Bob Johnson | Data Analyst | Finance | (555) 123-4567, bob.johnson@novatech.com |
+
+Table 2: Critical Systems
+| System | Description | Recovery Time Objective (RTO) | Recovery Point Objective (RPO) |
+| --- | --- | --- | --- |
+| Email | Microsoft Exchange Server | 4 hours | 2 hours |
+| File Server | Shared network drive | 2 hours | 1 hour |
+| Database | Oracle Database | 1 hour | 30 minutes |
+
+Recovery Procedures
+In the event of a disaster, the following procedures will be followed:
+Table 3: Recovery Procedures
+| System | Procedure | Responsible Person |
+| --- | --- | --- |
+| Email | Restore from backup | John Smith |
+| File Server | Restore from backup | Jane Doe |
+| Database | Restore from backup | Bob Johnson |
+
+Table 4: Backup Schedule
+| System | Backup Frequency | Backup Location |
+| --- | --- | --- |
+| Email | Daily | Offsite storage |
+| File Server | Weekly | Onsite storage |
+| Database | Hourly | Offsite storage |
+
+Testing and Maintenance
+The DRP will be tested annually, with the first test scheduled for March 15, 2024. The plan will be reviewed and updated every 6 months, or as needed.
+
+Table 5: Test Schedule
+| Test Date | Test Type | Responsible Person |
+| --- | --- | --- |
+| March 15, 2024 | Annual test | John Smith |
+| September 15, 2024 | Bi-annual review | Jane Doe |
+
+Policies and Procedures
+All employees are required to follow the procedures outlined in this plan. Failure to comply with the plan may result in disciplinary action, up to and including termination. The plan will be reviewed and updated in accordance with the NovaTech Inc. IT Policy, which is reviewed and updated annually.

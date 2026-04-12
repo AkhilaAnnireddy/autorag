@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the format of the API version number?",
+    "answer": "major_version.minor_version.patch_version",
+    "answer_paragraph": "Our API versioning scheme is based on the semantic versioning system. Each API version is identified by a unique version number in the format of major_version.minor_version.patch_version. The major version represents significant changes to the API, such as changes to the API endpoint or data format. The minor version represents new features or enhancements that are backward compatible. The patch version represents bug fixes or minor changes that do not affect the API's functionality."
+  },
+  {
+    "question": "What is the deprecation period for an API?",
+    "answer": "typically 6 months, but may vary depending on the specific API and the nature of the changes",
+    "answer_paragraph": "Our deprecation policy ensures that partners and customers have sufficient time to migrate to a new version of the API before the old version is removed. The deprecation period is typically 6 months, but may vary depending on the specific API and the nature of the changes."
+  },
+  {
+    "question": "Who approved the API versioning policy?",
+    "answer": "our CEO, Jane Smith, and CTO, John Doe",
+    "answer_paragraph": "By following this policy, we aim to maintain a stable and reliable API ecosystem that meets the needs of our partners and customers. As of February 15, 2023, this policy has been approved by our CEO, Jane Smith, and CTO, John Doe."
+  },
+  {
+    "question": "What is the support and maintenance service for the GA stage?",
+    "answer": "Full support",
+    "answer_paragraph": "The following table shows the support and maintenance services for each API lifecycle stage:\n\n| Stage | Support and Maintenance |\n| --- | --- |\n| Development | Limited support |\n| Beta | Limited support |\n| GA | Full support |\n| Maintenance | Full support |\n| Deprecation | Limited support |\n| Removal | No support |"
+  },
+  {
+    "question": "What is the date of the initial release of the API versioning policy?",
+    "answer": "January 1, 2022",
+    "answer_paragraph": "The following table shows the revision history of this policy:\n\n| Date | Version | Description |\n| --- | --- | --- |\n| January 1, 2022 | 1.0 | Initial release |\n| February 15, 2023 | 1.1 | Updated deprecation policy |"
+  },
+  {
+    "question": "What is the version number of the initial release of the API?",
+    "answer": "1.0.0",
+    "answer_paragraph": "The following table illustrates the versioning scheme:\n\n| Version | Description |\n| --- | --- |\n| 1.0.0 | Initial release |\n| 1.1.0 | Added new endpoint for user management |\n| 1.1.1 | Fixed bug in authentication |\n| 2.0.0 | Changed API endpoint from HTTP to HTTPS |"
+  },
+  {
+    "question": "What is the email address for API support?",
+    "answer": "api-support@techcorp.com",
+    "answer_paragraph": "For any questions or concerns about this policy, please contact our API support team at api-support@techcorp.com or 1-800-TECHCORP."
+  },
+  {
+    "question": "What is the version number of the API when it is in the beta stage?",
+    "answer": "1.x.x",
+    "answer_paragraph": "The following table shows the API lifecycle stages and their corresponding version numbers:\n\n| Stage | Version |\n| --- | --- |\n| Development | 0.x.x |\n| Beta | 1.x.x |\n| GA | 1.x.x |\n| Maintenance | 1.x.x |\n| Deprecation | 1.x.x (with deprecation notice) |\n| Removal | N/A |"
+  },
+  {
+    "question": "What is the phone number for API support?",
+    "answer": "1-800-TECHCORP",
+    "answer_paragraph": "For any questions or concerns about this policy, please contact our API support team at api-support@techcorp.com or 1-800-TECHCORP."
+  },
+  {
+    "question": "What is the date when the deprecation policy was updated?",
+    "answer": "February 15, 2023",
+    "answer_paragraph": "The following table shows the revision history of this policy:\n\n| Date | Version | Description |\n| --- | --- | --- |\n| January 1, 2022 | 1.0 | Initial release |\n| February 15, 2023 | 1.1 | Updated deprecation policy |"
+  }
+]

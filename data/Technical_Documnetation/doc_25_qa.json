@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the average number of records handled by the data pipeline per hour?",
+    "answer": "10,000 records per hour",
+    "answer_paragraph": "The data pipeline is a critical component of our technical infrastructure, responsible for processing and transforming large volumes of data. As of 2022, our data pipeline has been handling an average of 10,000 records per hour, with a peak of 50,000 records during the holiday season."
+  },
+  {
+    "question": "What is the name of the component responsible for data ingestion?",
+    "answer": "Apache Kafka",
+    "answer_paragraph": "The data pipeline consists of three primary components: data ingestion, data processing, and data storage. Data ingestion is handled by Apache Kafka, which collects data from various sources, including social media, customer feedback, and sales data."
+  },
+  {
+    "question": "What is the average processing time per record?",
+    "answer": "2 seconds per record",
+    "answer_paragraph": "In terms of specific numbers, our data pipeline has been designed to handle 100,000 records per minute, with an average processing time of 2 seconds per record."
+  },
+  {
+    "question": "Who is the lead of the maintenance team?",
+    "answer": "John Lee",
+    "answer_paragraph": "Regular maintenance is crucial to ensure the data pipeline operates smoothly and efficiently. Our maintenance team, led by John Lee, performs daily checks on the pipeline to identify any issues or bottlenecks."
+  },
+  {
+    "question": "What is the number of maintenance personnel?",
+    "answer": "5",
+    "answer_paragraph": "Some key statistics about our maintenance procedures include: * Average downtime: 30 minutes per month * Average response time: 1 hour * Number of maintenance personnel: 5"
+  },
+  {
+    "question": "What is the policy regarding annual training for maintenance personnel?",
+    "answer": "all maintenance personnel to undergo annual training on data pipeline management",
+    "answer_paragraph": "As of March 2023, we have implemented a new policy requiring all maintenance personnel to undergo annual training on data pipeline management."
+  },
+  {
+    "question": "What are the benefits of the data pipeline?",
+    "answer": "* Improved data processing speed * Increased data storage capacity * Enhanced data security * Better data analytics capabilities",
+    "answer_paragraph": "Here are some key benefits of our data pipeline: * Improved data processing speed * Increased data storage capacity * Enhanced data security * Better data analytics capabilities"
+  },
+  {
+    "question": "What is the name of the data analyst involved in the data pipeline project?",
+    "answer": "Jane Smith",
+    "answer_paragraph": "The following are some of the key stakeholders involved in the data pipeline project: 1. John Lee - Maintenance Team Lead 2. Jane Smith - Data Analyst"
+  },
+  {
+    "question": "What is the data retention policy?",
+    "answer": "all data must be stored for a minimum of 6 months",
+    "answer_paragraph": "We have also implemented a data retention policy, which dictates that all data must be stored for a minimum of 6 months."
+  },
+  {
+    "question": "What is the peak number of records handled by the data pipeline during the holiday season?",
+    "answer": "50,000 records",
+    "answer_paragraph": "The data pipeline is a critical component of our technical infrastructure, responsible for processing and transforming large volumes of data. As of 2022, our data pipeline has been handling an average of 10,000 records per hour, with a peak of 50,000 records during the holiday season."
+  }
+]

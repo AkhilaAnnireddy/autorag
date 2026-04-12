@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the average cost of a data breach according to the Ponemon Institute?",
+    "answer": "$3.92 million",
+    "answer_paragraph": "According to a study by the Ponemon Institute, the average cost of a data breach is $3.92 million. The study also found that the most common causes of data breaches are phishing and social engineering attacks, accounting for 32% of all breaches. The study was conducted in 2020 and included data from 507 organizations."
+  },
+  {
+    "question": "What percentage of organizations have experienced a data breach in the past 2 years?",
+    "answer": "60%",
+    "answer_paragraph": "The following are some statistics on the importance of security hardening: * 60% of organizations have experienced a data breach in the past 2 years. * 75% of organizations have experienced a cyber attack in the past 2 years. * 90% of organizations have experienced a security incident in the past 2 years. * The average time to detect a data breach is 196 days. * The average time to contain a data breach is 69 days."
+  },
+  {
+    "question": "What is the name of the framework for managing and reducing cybersecurity risk mentioned in the document?",
+    "answer": "NIST Cybersecurity Framework",
+    "answer_paragraph": "The following are some tools and resources that can be used to support the security hardening process: * NIST Cybersecurity Framework: A framework for managing and reducing cybersecurity risk. * PCI DSS: A standard for securing credit card data. * OWASP Top 10: A list of the top 10 web application security risks. * CVE: A list of known vulnerabilities and exposures. * Security information and event management (SIEM) systems: Systems that provide real-time monitoring and analysis of security-related data."
+  },
+  {
+    "question": "What is the purpose of the host-based firewall mentioned in the document?",
+    "answer": "to control traffic between systems and applications",
+    "answer_paragraph": "* System security: Implement a host-based firewall to control traffic between systems and applications, and configure it to only allow necessary ports and protocols. The host-based firewall should also be configured to log all blocked traffic for auditing and incident response purposes."
+  },
+  {
+    "question": "Who is quoted in the document as stating the importance of security hardening?",
+    "answer": "John Smith, Chief Information Security Officer (CISO) at XYZ Corporation",
+    "answer_paragraph": "As stated by John Smith, Chief Information Security Officer (CISO) at XYZ Corporation, \"Security hardening is an essential process for any organization that wants to protect its sensitive data and prevent security breaches. By following the guidelines and best practices outlined in this document, organizations can reduce the risk of security breaches and protect their sensitive data.\""
+  },
+  {
+    "question": "What is the name of the standard for securing credit card data mentioned in the document?",
+    "answer": "PCI DSS",
+    "answer_paragraph": "The guide is based on industry best practices and compliance requirements, including the National Institute of Standards and Technology (NIST) Cybersecurity Framework and the Payment Card Industry Data Security Standard (PCI DSS)."
+  },
+  {
+    "question": "What is the average time to detect a data breach according to the document?",
+    "answer": "196 days",
+    "answer_paragraph": "The following are some statistics on the importance of security hardening: * 60% of organizations have experienced a data breach in the past 2 years. * 75% of organizations have experienced a cyber attack in the past 2 years. * 90% of organizations have experienced a security incident in the past 2 years. * The average time to detect a data breach is 196 days. * The average time to contain a data breach is 69 days."
+  },
+  {
+    "question": "What is the purpose of the security hardening process mentioned in the document?",
+    "answer": "to secure the organization's IT infrastructure",
+    "answer_paragraph": "The Security Hardening Guide for Enterprise Systems is a comprehensive document that outlines the necessary steps to secure your organization's IT infrastructure. The guide is based on industry best practices and compliance requirements, including the National Institute of Standards and Technology (NIST) Cybersecurity Framework and the Payment Card Industry Data Security Standard (PCI DSS)."
+  },
+  {
+    "question": "What is the name of the list of known vulnerabilities and exposures mentioned in the document?",
+    "answer": "CVE",
+    "answer_paragraph": "The following are some tools and resources that can be used to support the security hardening process: * NIST Cybersecurity Framework: A framework for managing and reducing cybersecurity risk. * PCI DSS: A standard for securing credit card data. * OWASP Top 10: A list of the top 10 web application security risks. * CVE: A list of known vulnerabilities and exposures. * Security information and event management (SIEM) systems: Systems that provide real-time monitoring and analysis of security-related data."
+  },
+  {
+    "question": "What percentage of organizations have experienced a security incident in the past 2 years?",
+    "answer": "90%",
+    "answer_paragraph": "The following are some statistics on the importance of security hardening: * 60% of organizations have experienced a data breach in the past 2 years. * 75% of organizations have experienced a cyber attack in the past 2 years. * 90% of organizations have experienced a security incident in the past 2 years. * The average time to detect a data breach is 196 days. * The average time to contain a data breach is 69 days."
+  }
+]

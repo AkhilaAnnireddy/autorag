@@ -1,0 +1,52 @@
+[
+  {
+    "question": "When did NovaTech first implement Jenkins as the primary CI/CD tool?",
+    "answer": "January 10th, 2018",
+    "answer_paragraph": "The CI/CD pipeline setup guide is a crucial document for any development team, as it outlines the steps necessary to automate the build, test, and deployment of software applications. At NovaTech, our development team has been using Jenkins as the primary CI/CD tool since 2018, when we first implemented it on January 10th."
+  },
+  {
+    "question": "Who made the decision to use Jenkins at NovaTech?",
+    "answer": "Rachel Lee, our CTO",
+    "answer_paragraph": "The CI/CD pipeline setup guide is a crucial document for any development team, as it outlines the steps necessary to automate the build, test, and deployment of software applications. At NovaTech, our development team has been using Jenkins as the primary CI/CD tool since 2018, when we first implemented it on January 10th. The decision to use Jenkins was made by our CTO, Rachel Lee, who has over 10 years of experience in DevOps."
+  },
+  {
+    "question": "What is the name of the internal policy that requires all new projects to have a CI/CD pipeline set up within the first two weeks of project initiation?",
+    "answer": "Document ID: NT-001",
+    "answer_paragraph": "According to our internal policy, Document ID: NT-001, all new projects must have a CI/CD pipeline set up within the first two weeks of project initiation."
+  },
+  {
+    "question": "How long does the build stage take to complete?",
+    "answer": "approximately 10 minutes",
+    "answer_paragraph": "The pipeline consists of three main stages: build, test, and deploy. In the build stage, the code is compiled and packaged into a deployable artifact. This stage takes approximately 10 minutes to complete, depending on the complexity of the code."
+  },
+  {
+    "question": "Who is leading the effort to optimize the build stage?",
+    "answer": "Senior Engineer, Michael Kim",
+    "answer_paragraph": "Our development team, led by Senior Engineer, Michael Kim, has been working on optimizing this stage to reduce the time by 30% over the next quarter."
+  },
+  {
+    "question": "What testing framework is used by the QA team?",
+    "answer": "a combination of JUnit and Selenium",
+    "answer_paragraph": "The test stage is where the automated tests are run, which includes unit tests, integration tests, and UI tests. We use a combination of JUnit and Selenium for our testing framework, which was chosen by our QA team, headed by Emily Chen."
+  },
+  {
+    "question": "When was Kubernetes implemented to manage containerized applications?",
+    "answer": "February 2020",
+    "answer_paragraph": "We use Kubernetes to manage our containerized applications, which has been in place since February 2020."
+  },
+  {
+    "question": "What is the average success rate of the pipeline?",
+    "answer": "95%",
+    "answer_paragraph": "The pipeline has been running smoothly for the past year, with an average success rate of 95%."
+  },
+  {
+    "question": "What is the goal for the pipeline success rate by the end of the year?",
+    "answer": "99%",
+    "answer_paragraph": "The team is constantly working to improve the pipeline, with a goal of reaching a 99% success rate by the end of the year."
+  },
+  {
+    "question": "How much has the customer satisfaction rating increased as of March 2023?",
+    "answer": "20%",
+    "answer_paragraph": "As of March 2023, our customer satisfaction rating has increased by 20%, and our revenue has grown by 15%."
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What is the purpose of the Disaster Recovery Plan for NovaTech Inc.?",
+    "answer": "The purpose of this Disaster Recovery Plan (DRP) is to ensure the continuity of NovaTech Inc.'s business operations in the event of a disaster.",
+    "answer_paragraph": "Introduction\nThe purpose of this Disaster Recovery Plan (DRP) is to ensure the continuity of NovaTech Inc.'s business operations in the event of a disaster. The plan outlines the procedures to be followed in the event of a disaster, including the restoration of critical systems and the recovery of data."
+  },
+  {
+    "question": "Who is the IT Manager responsible for disaster recovery?",
+    "answer": "John Smith",
+    "answer_paragraph": "Table 1: Disaster Recovery Team\n| Name | Title | Department | Contact Information |\n| --- | --- | --- | --- |\n| John Smith | IT Manager | Information Technology | (123) 456-7890, john.smith@novatech.com |\n| Jane Doe | Network Administrator | Information Technology | (987) 654-3210, jane.doe@novatech.com |\n| Bob Johnson | Data Analyst | Finance | (555) 123-4567, bob.johnson@novatech.com |"
+  },
+  {
+    "question": "What is the Recovery Time Objective (RTO) for the Email system?",
+    "answer": "4 hours",
+    "answer_paragraph": "Table 2: Critical Systems\n| System | Description | Recovery Time Objective (RTO) | Recovery Point Objective (RPO) |\n| --- | --- | --- | --- |\n| Email | Microsoft Exchange Server | 4 hours | 2 hours |\n| File Server | Shared network drive | 2 hours | 1 hour |\n| Database | Oracle Database | 1 hour | 30 minutes |"
+  },
+  {
+    "question": "Who is responsible for restoring the File Server from backup?",
+    "answer": "Jane Doe",
+    "answer_paragraph": "Table 3: Recovery Procedures\n| System | Procedure | Responsible Person |\n| --- | --- | --- |\n| Email | Restore from backup | John Smith |\n| File Server | Restore from backup | Jane Doe |\n| Database | Restore from backup | Bob Johnson |"
+  },
+  {
+    "question": "How often is the Database backed up?",
+    "answer": "Hourly",
+    "answer_paragraph": "Table 4: Backup Schedule\n| System | Backup Frequency | Backup Location |\n| --- | --- | --- |\n| Email | Daily | Offsite storage |\n| File Server | Weekly | Onsite storage |\n| Database | Hourly | Offsite storage |"
+  },
+  {
+    "question": "When is the first test of the DRP scheduled?",
+    "answer": "March 15, 2024",
+    "answer_paragraph": "Testing and Maintenance\nThe DRP will be tested annually, with the first test scheduled for March 15, 2024. The plan will be reviewed and updated every 6 months, or as needed."
+  },
+  {
+    "question": "Who is responsible for the annual test of the DRP?",
+    "answer": "John Smith",
+    "answer_paragraph": "Table 5: Test Schedule\n| Test Date | Test Type | Responsible Person |\n| --- | --- | --- |\n| March 15, 2024 | Annual test | John Smith |\n| September 15, 2024 | Bi-annual review | Jane Doe |"
+  },
+  {
+    "question": "What policy is the DRP reviewed and updated in accordance with?",
+    "answer": "NovaTech Inc. IT Policy",
+    "answer_paragraph": "Policies and Procedures\nAll employees are required to follow the procedures outlined in this plan. Failure to comply with the plan may result in disciplinary action, up to and including termination. The plan will be reviewed and updated in accordance with the NovaTech Inc. IT Policy, which is reviewed and updated annually."
+  },
+  {
+    "question": "How often is the NovaTech Inc. IT Policy reviewed and updated?",
+    "answer": "annually",
+    "answer_paragraph": "Policies and Procedures\nAll employees are required to follow the procedures outlined in this plan. Failure to comply with the plan may result in disciplinary action, up to and including termination. The plan will be reviewed and updated in accordance with the NovaTech Inc. IT Policy, which is reviewed and updated annually."
+  },
+  {
+    "question": "What is the consequence of failing to comply with the DRP?",
+    "answer": "disciplinary action, up to and including termination",
+    "answer_paragraph": "Policies and Procedures\nAll employees are required to follow the procedures outlined in this plan. Failure to comply with the plan may result in disciplinary action, up to and including termination. The plan will be reviewed and updated in accordance with the NovaTech Inc. IT Policy, which is reviewed and updated annually."
+  },
+  {
+    "question": "How often will the DRP be reviewed and updated?",
+    "answer": "every 6 months, or as needed",
+    "answer_paragraph": "Testing and Maintenance\nThe DRP will be tested annually, with the first test scheduled for March 15, 2024. The plan will be reviewed and updated every 6 months, or as needed."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who led the development of the Eclipse system?",
+    "answer": "Senior Architect, Rachel Lee",
+    "answer_paragraph": "The system architecture of our new enterprise resource planning system, dubbed 'Eclipse,' is designed to streamline and integrate various business functions across the organization. Developed over the course of 18 months by a team led by Senior Architect, Rachel Lee, Eclipse is slated to go live on January 1, 2024."
+  },
+  {
+    "question": "What type of architecture is used in the Eclipse system?",
+    "answer": "service-oriented architecture",
+    "answer_paragraph": "The system architecture of our new enterprise resource planning system, dubbed 'Eclipse,' is designed to streamline and integrate various business functions across the organization. Developed over the course of 18 months by a team led by Senior Architect, Rachel Lee, Eclipse is slated to go live on January 1, 2024. The system is built around a service-oriented architecture, with each module communicating through RESTful APIs."
+  },
+  {
+    "question": "How many virtual machines are used to host the Eclipse system?",
+    "answer": "50 virtual machines",
+    "answer_paragraph": "The Eclipse system is hosted on a cloud infrastructure provided by Azure, with a total of 50 virtual machines, each equipped with 16 GB of RAM and 4 CPU cores."
+  },
+  {
+    "question": "When is the training for end-users scheduled to start?",
+    "answer": "November 15, 2023",
+    "answer_paragraph": "According to the deployment plan outlined by IT Manager, Michael Patel, the migration to Eclipse is expected to take place over a weekend, with a fallback plan in place in case of any issues. The training for end-users is scheduled to start on November 15, 2023, and will be conducted by the vendor, Oracle."
+  },
+  {
+    "question": "What is the expected pass rate of the test cases?",
+    "answer": "95%",
+    "answer_paragraph": "As part of the testing phase, a total of 500 test cases were executed, with a pass rate of 95%. The remaining test cases are currently being reviewed and addressed by the development team."
+  },
+  {
+    "question": "When is the first report on the system's performance due?",
+    "answer": "February 15, 2024",
+    "answer_paragraph": "The system's performance will be closely monitored after deployment, with key performance indicators (KPIs) including user adoption rate, system uptime, and average response time. These KPIs will be tracked and reported on a monthly basis, with the first report due on February 15, 2024."
+  },
+  {
+    "question": "What is the name of the accounting firm that collaborated with the finance module development?",
+    "answer": "Smith and Co.",
+    "answer_paragraph": "For instance, the finance module, which was developed in collaboration with the accounting firm, Smith and Co., is expected to reduce invoice processing time by 30%."
+  },
+  {
+    "question": "What is the principle that the Eclipse system's security is designed to adhere to?",
+    "answer": "principle of least privilege",
+    "answer_paragraph": "In terms of security, Eclipse implements a role-based access control system, with each user assigned a specific role that determines their level of access to different modules and features. This system was designed in accordance with the company's IT security policy, which was last updated on March 10, 2022. The policy requires all systems to adhere to the principle of least privilege, ensuring that users can only access the data and functionality necessary for their job functions."
+  },
+  {
+    "question": "How many test cases were executed as part of the testing phase?",
+    "answer": "500 test cases",
+    "answer_paragraph": "As part of the testing phase, a total of 500 test cases were executed, with a pass rate of 95%. The remaining test cases are currently being reviewed and addressed by the development team."
+  },
+  {
+    "question": "When was the company's IT security policy last updated?",
+    "answer": "March 10, 2022",
+    "answer_paragraph": "In terms of security, Eclipse implements a role-based access control system, with each user assigned a specific role that determines their level of access to different modules and features. This system was designed in accordance with the company's IT security policy, which was last updated on March 10, 2022."
+  }
+]

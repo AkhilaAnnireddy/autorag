@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the purpose of this guide?",
+    "answer": "The purpose of this guide is to provide a comprehensive overview of secrets management within the organization.",
+    "answer_paragraph": "Introduction\nThe purpose of this guide is to provide a comprehensive overview of secrets management within the organization. Secrets management refers to the practices and procedures used to securely store, manage, and retrieve sensitive information such as passwords, API keys, and certificates."
+  },
+  {
+    "question": "What is the capacity of HashiCorp Vault?",
+    "answer": "1000 secrets",
+    "answer_paragraph": "Table 2: Secrets Storage Solutions\n| Solution | Description | Capacity |\n| --- | --- | --- |\n| HashiCorp Vault | Secure storage of sensitive information | 1000 secrets |\n| AWS Secrets Manager | Secure storage of API keys and other sensitive information | 500 secrets |"
+  },
+  {
+    "question": "How often are API keys rotated?",
+    "answer": "Every 90 days",
+    "answer_paragraph": "Table 3: Secrets Rotation Schedule\n| Secret Type | Rotation Frequency | Next Rotation Date |\n| --- | --- | --- |\n| API Key | Every 90 days | 2024-06-15 |\n| Database Password | Every 90 days | 2024-06-20 |"
+  },
+  {
+    "question": "What is the first step in the secrets revocation procedure?",
+    "answer": "Identification of compromised secret",
+    "answer_paragraph": "Table 4: Secrets Revocation Procedure\n| Step | Description | Responsible Team |\n| --- | --- | --- |\n| 1 | Identification of compromised secret | Security Team |\n| 2 | Revocation of compromised secret | Security Team |\n| 3 | Notification of relevant teams | Security Team |"
+  },
+  {
+    "question": "What is the name of the policy that governs secrets storage?",
+    "answer": "Secrets Storage Policy 2.0",
+    "answer_paragraph": "As of 2024-03-01, the organization has implemented the following secrets management policies: Secrets Management Policy 1.0, Secrets Storage Policy 2.0, and Secrets Rotation Policy 3.0. These policies are reviewed and updated annually by the security team."
+  },
+  {
+    "question": "Which team is responsible for ensuring that all secrets are stored, rotated, and revoked in accordance with the secrets management policies?",
+    "answer": "The security team",
+    "answer_paragraph": "The security team is responsible for ensuring that all secrets are stored, rotated, and revoked in accordance with these policies. The development team is responsible for generating new secrets, while the operations team is responsible for updating the relevant systems with the new secrets."
+  },
+  {
+    "question": "What is the name of the solution used to store API keys?",
+    "answer": "AWS Secrets Manager",
+    "answer_paragraph": "The organization uses a combination of HashiCorp Vault and AWS Secrets Manager to store sensitive information. The choice of storage solution depends on the type of secret and its intended use. For example, API keys are stored in AWS Secrets Manager, while database passwords are stored in HashiCorp Vault."
+  },
+  {
+    "question": "When is the next rotation date for database passwords?",
+    "answer": "2024-06-20",
+    "answer_paragraph": "Table 3: Secrets Rotation Schedule\n| Secret Type | Rotation Frequency | Next Rotation Date |\n| --- | --- | --- |\n| API Key | Every 90 days | 2024-06-15 |\n| Database Password | Every 90 days | 2024-06-20 |"
+  },
+  {
+    "question": "What is the best practice for storing sensitive information?",
+    "answer": "Use secure storage solutions",
+    "answer_paragraph": "Table 5: Secrets Management Best Practices\n| Best Practice | Description |\n| --- | --- |\n| Use secure storage solutions | Store sensitive information in secure storage solutions such as HashiCorp Vault or AWS Secrets Manager |\n| Rotate secrets regularly | Rotate secrets every 90 days to reduce the risk of compromise |\n| Revoke compromised secrets | Revoke compromised secrets immediately to prevent further unauthorized access |"
+  },
+  {
+    "question": "Which team is responsible for generating new secrets?",
+    "answer": "The development team",
+    "answer_paragraph": "The security team is responsible for ensuring that all secrets are stored, rotated, and revoked in accordance with these policies. The development team is responsible for generating new secrets, while the operations team is responsible for updating the relevant systems with the new secrets."
+  }
+]

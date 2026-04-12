@@ -1,0 +1,52 @@
+[
+  {
+    "question": "When was the WebSocket protocol first introduced?",
+    "answer": "It was first introduced in 2011 by Ian Hickson",
+    "answer_paragraph": "The WebSocket protocol, as defined by the Internet Engineering Task Force in RFC 6455, is a full-duplex communication protocol that enables bidirectional, real-time communication between a client and a server over the web. It was first introduced in 2011 by Ian Hickson and has since become a widely adopted standard for real-time web applications."
+  },
+  {
+    "question": "What is the expected number of WebSocket connections by 2025?",
+    "answer": "2.5 billion",
+    "answer_paragraph": "According to a report by ABI Research, the number of WebSocket connections is expected to reach 2.5 billion by 2025, with a growth rate of 25% per annum."
+  },
+  {
+    "question": "How many concurrent connections does Novatrope Inc.'s real-time analytics platform handle?",
+    "answer": "over 10,000",
+    "answer_paragraph": "Our platform, which is built using Node.js and the ws library, handles over 10,000 concurrent connections and has a latency of less than 10 milliseconds."
+  },
+  {
+    "question": "What is the name of the method used to send data to the server in the WebSocket API?",
+    "answer": "the send method",
+    "answer_paragraph": "The API includes a series of methods, including the send method, which is used to send data to the server, and the onmessage method, which is used to handle incoming messages from the server."
+  },
+  {
+    "question": "Who leads the team of developers responsible for maintaining and updating Novatrope Inc.'s WebSocket integration?",
+    "answer": "John Lee",
+    "answer_paragraph": "The team is led by John Lee, who has over 10 years of experience in software development and is an expert in real-time web applications."
+  },
+  {
+    "question": "What is the minimum version of TLS required for secure WebSocket connections according to Novatrope Inc.'s security policy?",
+    "answer": "TLS 1.2 or later",
+    "answer_paragraph": "According to our security policy, which was last updated in 2022, all WebSocket connections must be encrypted using TLS 1.2 or later."
+  },
+  {
+    "question": "How often are the unit tests and integration tests for Novatrope Inc.'s WebSocket integration run?",
+    "answer": "automatically every night",
+    "answer_paragraph": "We also have a series of tests and validation procedures in place to ensure that our WebSocket integration is working correctly, including a series of unit tests and integration tests that are run automatically every night."
+  },
+  {
+    "question": "Who reviews the results of the tests for Novatrope Inc.'s WebSocket integration?",
+    "answer": "our quality assurance team",
+    "answer_paragraph": "The results of these tests are reviewed by our quality assurance team, which is led by Emily Chen, who has over 5 years of experience in software testing and is an expert in test automation."
+  },
+  {
+    "question": "What is the latency of Novatrope Inc.'s real-time analytics platform?",
+    "answer": "less than 10 milliseconds",
+    "answer_paragraph": "Our platform, which is built using Node.js and the ws library, handles over 10,000 concurrent connections and has a latency of less than 10 milliseconds."
+  },
+  {
+    "question": "When was Novatrope Inc.'s security policy last updated?",
+    "answer": "2022",
+    "answer_paragraph": "According to our security policy, which was last updated in 2022, all WebSocket connections must be encrypted using TLS 1.2 or later."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the number of tables in the database schema?",
+    "answer": "15 tables",
+    "answer_paragraph": "The database schema is based on a relational model, with 15 tables and 50 relationships between them. The tables are organized into five categories: customer information, order management, product catalog, inventory management, and reporting."
+  },
+  {
+    "question": "What is the name of the view that provides a summary of customer information?",
+    "answer": "customer_summary",
+    "answer_paragraph": "In addition to the customers table, the customer information category also includes two views: customer_summary and customer_details. The customer_summary view provides a summary of customer information, including the number of orders, total spend, and average order value."
+  },
+  {
+    "question": "What is the policy for processing orders?",
+    "answer": "All orders must be processed within 24 hours of receipt.",
+    "answer_paragraph": "The following are the key policies and procedures for order management: * All orders must be processed within 24 hours of receipt. * Orders can be cancelled or modified up to 2 hours before shipping. * Payment must be received before shipping. * Shipping is typically done within 3-5 business days."
+  },
+  {
+    "question": "How often is the product catalog updated?",
+    "answer": "quarterly",
+    "answer_paragraph": "The product catalog is updated quarterly, with new products added and old products removed. The product catalog is also subject to change based on customer feedback and market trends."
+  },
+  {
+    "question": "What is the target inventory turnover rate?",
+    "answer": "5 times per year",
+    "answer_paragraph": "The following are the key performance indicators (KPIs) for inventory management: * Inventory turnover: 5 times per year * Stockout rate: less than 2% * Overstock rate: less than 5%"
+  },
+  {
+    "question": "Who is the leader of the database administration team?",
+    "answer": "John Smith",
+    "answer_paragraph": "The database schema is maintained by the database administration team, which is responsible for ensuring the integrity and security of the database. The team consists of 5 members, including 2 database administrators, 1 data analyst, and 2 software developers. The team is led by John Smith, who has over 10 years of experience in database administration."
+  },
+  {
+    "question": "When was the database schema updated to include a new table for customer reviews?",
+    "answer": "March 15, 2023",
+    "answer_paragraph": "As of March 15, 2023, the database schema has been updated to include a new table for customer reviews. The customer reviews table has 5 columns, including review ID, customer ID, product ID, and review text."
+  },
+  {
+    "question": "What is the number of columns in the customers table?",
+    "answer": "10 columns",
+    "answer_paragraph": "The customers table has 10 columns, including customer ID, name, email, and phone number."
+  },
+  {
+    "question": "What is the name of the table that stores customer reviews and ratings for products?",
+    "answer": "customer reviews table",
+    "answer_paragraph": "As of March 15, 2023, the database schema has been updated to include a new table for customer reviews. The customer reviews table has 5 columns, including review ID, customer ID, product ID, and review text."
+  },
+  {
+    "question": "How many members are in the database administration team?",
+    "answer": "5 members",
+    "answer_paragraph": "The database schema is maintained by the database administration team, which is responsible for ensuring the integrity and security of the database. The team consists of 5 members, including 2 database administrators, 1 data analyst, and 2 software developers."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the name of the IaC tool used by NovaTech?",
+    "answer": "Terraform",
+    "answer_paragraph": "Terraform is an open-source IaC tool that allows users to define and manage infrastructure using a human-readable configuration file."
+  },
+  {
+    "question": "What is the name of the configuration language used by Terraform?",
+    "answer": "HashiCorp Configuration Language (HCL)",
+    "answer_paragraph": "The Terraform configuration file is written in HashiCorp Configuration Language (HCL), which is a human-readable language that is easy to learn and use."
+  },
+  {
+    "question": "What is the benefit of IaC mentioned by John Smith?",
+    "answer": "IaC has been a game-changer for our organization. It has allowed us to improve our efficiency, reduce errors, and improve our overall scalability.",
+    "answer_paragraph": "As noted by John Smith, our IT Director, \"IaC has been a game-changer for our organization. It has allowed us to improve our efficiency, reduce errors, and improve our overall scalability.\""
+  },
+  {
+    "question": "What is the cloud support for Terraform?",
+    "answer": "AWS, Azure, GCP",
+    "answer_paragraph": "The following table provides a comparison of some of the key features of each tool: | Tool | Cloud Support | Configuration Language | | --- | --- | --- | | Terraform | AWS, Azure, GCP | HCL |"
+  },
+  {
+    "question": "What is the name of the Cloud Architect at NovaTech?",
+    "answer": "Jane Doe",
+    "answer_paragraph": "As noted by Jane Doe, our Cloud Architect, \"IaC has allowed us to improve our agility and responsiveness to changing business needs.\""
+  },
+  {
+    "question": "What is the duration of the IaC project at NovaTech?",
+    "answer": "six weeks",
+    "answer_paragraph": "The project was completed in just six weeks, and it has resulted in significant cost savings and improved efficiency."
+  },
+  {
+    "question": "What is the first week of the project timeline?",
+    "answer": "Planning and design",
+    "answer_paragraph": "The project timeline was as follows: * Week 1: Planning and design"
+  },
+  {
+    "question": "What is the IaC policy at NovaTech?",
+    "answer": "All infrastructure changes must be made through IaC tools, All IaC code must be stored in version control, All IaC deployments must be automated",
+    "answer_paragraph": "Our IaC policy is as follows: * All infrastructure changes must be made through IaC tools * All IaC code must be stored in version control * All IaC deployments must be automated"
+  },
+  {
+    "question": "What is the AMI used in the Terraform configuration example?",
+    "answer": "ami-0c94855ba95c71c99",
+    "answer_paragraph": "For example, the following code defines a simple AWS EC2 instance: resource \"aws_instance\" \"example\" { ami           = \"ami-0c94855ba95c71c99\" instance_type = \"t2.micro\" }"
+  },
+  {
+    "question": "What is the instance type used in the Terraform configuration example?",
+    "answer": "t2.micro",
+    "answer_paragraph": "For example, the following code defines a simple AWS EC2 instance: resource \"aws_instance\" \"example\" { ami           = \"ami-0c94855ba95c71c99\" instance_type = \"t2.micro\" }"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the name of the open-source service mesh platform used by NeuroSpark?",
+    "answer": "Istio",
+    "answer_paragraph": "# Introduction to Service Mesh\n## Overview\nA service mesh is a configurable infrastructure layer for microservices application that makes it easy to manage service discovery, traffic management, and observability. At NeuroSpark, we have implemented a service mesh using Istio, an open-source service mesh platform, to improve the reliability, security, and scalability of our microservices architecture. Our service mesh has been designed to provide a unified way of managing our microservices, which are written in different programming languages, including Java, Python, and Go."
+  },
+  {
+    "question": "What are the components of the control plane in the service mesh?",
+    "answer": "Pilot, Galley, and Citadel",
+    "answer_paragraph": "## Architecture\n### Control Plane\nThe control plane is the brain of the service mesh, responsible for managing and configuring the mesh. It consists of the following components: Pilot, Galley, and Citadel. Pilot is responsible for managing the configuration of the mesh, including the creation and deletion of services, endpoints, and routes. Galley is responsible for managing the validation and processing of mesh configuration. Citadel is responsible for managing the security of the mesh, including authentication, authorization, and encryption. Our control plane is deployed on a Kubernetes cluster, with three nodes, each with 16 GB of RAM and 4 vCPUs."
+  },
+  {
+    "question": "What is the name of the proxy used in the data plane?",
+    "answer": "Envoy proxy",
+    "answer_paragraph": "### Data Plane\nThe data plane is responsible for managing the traffic flow between microservices. It consists of the Envoy proxy, which is a high-performance proxy that mediates all inbound and outbound traffic for the microservices. The Envoy proxy is configured by the control plane and is responsible for implementing the configuration, including routing, load balancing, and circuit breaking. We have deployed the Envoy proxy as a sidecar container in each pod, with a total of 100 pods, each with 2 GB of RAM and 1 vCPU."
+  },
+  {
+    "question": "How is traffic split between two versions of a service?",
+    "answer": "using the TrafficSplit API",
+    "answer_paragraph": "### Traffic Management\nTo manage traffic in the mesh, we use the TrafficManagement API, which provides a set of APIs for managing traffic, including routing, load balancing, and circuit breaking. For example, to split traffic between two versions of a service, we can use the TrafficSplit API, which allows us to define the traffic split between the two versions. We have implemented a traffic split between version 1.0 and version 2.0 of the payment service, with 80% of the traffic going to version 1.0 and 20% going to version 2.0."
+  },
+  {
+    "question": "What type of authentication is used between services in the mesh?",
+    "answer": "mutual TLS authentication",
+    "answer_paragraph": "### Authentication\nTo authenticate services in the mesh, we use mutual TLS authentication, which requires both the client and server to present a valid certificate. We have implemented mutual TLS authentication between the payment service and the order service, using certificates issued by the Citadel component of the control plane. The certificates are valid for 365 days and are rotated every 180 days."
+  },
+  {
+    "question": "What is the name of the monitoring system used to monitor the mesh?",
+    "answer": "Prometheus",
+    "answer_paragraph": "### Metrics\nTo monitor the mesh, we use Prometheus, a popular monitoring system that provides a set of metrics for monitoring the mesh. We have deployed Prometheus on a Kubernetes cluster, with two nodes, each with 8 GB of RAM and 2 vCPUs. The metrics are collected every 15 seconds and are stored for 30 days."
+  },
+  {
+    "question": "What is the name of the logging system used to log the mesh?",
+    "answer": "Fluentd",
+    "answer_paragraph": "### Logging\nTo log the mesh, we use Fluentd, a popular logging system that provides a set of logs for logging the mesh. We have deployed Fluentd on a Kubernetes cluster, with two nodes, each with 8 GB of RAM and 2 vCPUs. The logs are collected every 15 seconds and are stored for 30 days."
+  },
+  {
+    "question": "How many nodes are in the control plane?",
+    "answer": "three nodes",
+    "answer_paragraph": "## Architecture\n### Control Plane\nThe control plane is the brain of the service mesh, responsible for managing and configuring the mesh. It consists of the following components: Pilot, Galley, and Citadel. Pilot is responsible for managing the configuration of the mesh, including the creation and deletion of services, endpoints, and routes. Galley is responsible for managing the validation and processing of mesh configuration. Citadel is responsible for managing the security of the mesh, including authentication, authorization, and encryption. Our control plane is deployed on a Kubernetes cluster, with three nodes, each with 16 GB of RAM and 4 vCPUs."
+  },
+  {
+    "question": "What is the duration for which the metrics are stored?",
+    "answer": "30 days",
+    "answer_paragraph": "### Metrics\nTo monitor the mesh, we use Prometheus, a popular monitoring system that provides a set of metrics for monitoring the mesh. We have deployed Prometheus on a Kubernetes cluster, with two nodes, each with 8 GB of RAM and 2 vCPUs. The metrics are collected every 15 seconds and are stored for 30 days."
+  },
+  {
+    "question": "Who led the engineering team that implemented the service mesh?",
+    "answer": "John Smith",
+    "answer_paragraph": "## Conclusion\nIn conclusion, our service mesh has been designed to provide a unified way of managing our microservices, which are written in different programming languages. The mesh has been implemented using Istio, an open-source service mesh platform, and has been deployed on a Kubernetes cluster. The mesh provides a set of APIs for managing traffic, security, and observability, and has been configured to provide mutual TLS authentication, role-based access control, and metrics and logging for monitoring and observability. The mesh has been designed to improve the reliability, security, and scalability of our microservices architecture, and has been implemented by the NeuroSpark engineering team, led by John Smith, over a period of 6 months, from January 2022 to June 2022."
+  }
+]

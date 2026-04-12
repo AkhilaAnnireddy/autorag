@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What is the purpose of the data migration guide?",
+    "answer": "The purpose of this data migration guide is to provide a comprehensive overview of the migration process from the legacy system to the new cloud-based platform.",
+    "answer_paragraph": "Introduction to Data Migration Guide The purpose of this data migration guide is to provide a comprehensive overview of the migration process from the legacy system to the new cloud-based platform. This guide is intended for IT staff, system administrators, and technical personnel involved in the migration process."
+  },
+  {
+    "question": "What are the phases of the migration timeline?",
+    "answer": "Planning, Data Assessment, Migration, Testing, and Deployment",
+    "answer_paragraph": "Table 1: Migration Timeline | Phase | Start Date | End Date | Description | | --- | --- | --- | --- | | Planning | 2022-01-01 | 2022-01-31 | Define migration scope, identify resources, and develop project plan | | Data Assessment | 2022-02-01 | 2022-02-28 | Evaluate data quality, identify data gaps, and determine data transformation requirements | | Migration | 2022-03-01 | 2022-03-31 | Migrate data from legacy system to new platform | | Testing | 2022-04-01 | 2022-04-30 | Verify data integrity, test system functionality, and identify defects | | Deployment | 2022-05-01 | 2022-05-31 | Deploy new system, configure settings, and provide training to end-users |"
+  },
+  {
+    "question": "Who is responsible for data extraction?",
+    "answer": "IT Staff",
+    "answer_paragraph": "Table 2: Data Migration Process | Step | Description | Responsible Party | | --- | --- | --- | | Data Extraction | Extract data from legacy system | IT Staff | | Data Transformation | Transform data to conform to new system requirements | System Administrators | | Data Loading | Load transformed data into new system | Technical Personnel | | Data Verification | Verify data integrity and accuracy | Quality Assurance Team |"
+  },
+  {
+    "question": "What is the frequency of data completeness checks?",
+    "answer": "Daily",
+    "answer_paragraph": "Table 3: Data Quality and Integrity Checks | Check | Description | Frequency | | --- | --- | --- | | Data Completeness | Verify that all required data fields are populated | Daily | | Data Accuracy | Verify that data is accurate and consistent | Weekly | | Data Consistency | Verify that data is consistent across all systems | Monthly |"
+  },
+  {
+    "question": "What is the definition of the legacy system?",
+    "answer": "The existing system that is being replaced",
+    "answer_paragraph": "Appendix A: Glossary of Terms The following table provides a glossary of terms used in this document. Table 5: Glossary of Terms | Term | Definition | | --- | --- | | Legacy System | The existing system that is being replaced | | New Platform | The cloud-based platform that is being implemented | | Data Migration | The process of transferring data from the legacy system to the new platform |"
+  },
+  {
+    "question": "What is the purpose of the data mapping document?",
+    "answer": "Document that maps data fields from legacy system to new platform",
+    "answer_paragraph": "Appendix B: Migration Tools and Resources The following table provides a list of migration tools and resources that will be used during the migration process. Table 6: Migration Tools and Resources | Tool/Resource | Description | | --- | --- | | Migration Software | Software used to extract, transform, and load data | | Data Mapping Document | Document that maps data fields from legacy system to new platform | | Training Manual | Manual that provides training and guidance to end-users on the new system |"
+  },
+  {
+    "question": "What is the start date of the planning phase?",
+    "answer": "2022-01-01",
+    "answer_paragraph": "Table 1: Migration Timeline | Phase | Start Date | End Date | Description | | --- | --- | --- | --- | | Planning | 2022-01-01 | 2022-01-31 | Define migration scope, identify resources, and develop project plan | | Data Assessment | 2022-02-01 | 2022-02-28 | Evaluate data quality, identify data gaps, and determine data transformation requirements | | Migration | 2022-03-01 | 2022-03-31 | Migrate data from legacy system to new platform | | Testing | 2022-04-01 | 2022-04-30 | Verify data integrity, test system functionality, and identify defects | | Deployment | 2022-05-01 | 2022-05-31 | Deploy new system, configure settings, and provide training to end-users |"
+  },
+  {
+    "question": "Who is responsible for data transformation?",
+    "answer": "System Administrators",
+    "answer_paragraph": "Table 2: Data Migration Process | Step | Description | Responsible Party | | --- | --- | --- | | Data Extraction | Extract data from legacy system | IT Staff | | Data Transformation | Transform data to conform to new system requirements | System Administrators | | Data Loading | Load transformed data into new system | Technical Personnel | | Data Verification | Verify data integrity and accuracy | Quality Assurance Team |"
+  },
+  {
+    "question": "What is the purpose of the migration software?",
+    "answer": "Software used to extract, transform, and load data",
+    "answer_paragraph": "Appendix B: Migration Tools and Resources The following table provides a list of migration tools and resources that will be used during the migration process. Table 6: Migration Tools and Resources | Tool/Resource | Description | | --- | --- | | Migration Software | Software used to extract, transform, and load data | | Data Mapping Document | Document that maps data fields from legacy system to new platform | | Training Manual | Manual that provides training and guidance to end-users on the new system |"
+  },
+  {
+    "question": "What is the end date of the deployment phase?",
+    "answer": "2022-05-31",
+    "answer_paragraph": "Table 1: Migration Timeline | Phase | Start Date | End Date | Description | | --- | --- | --- | --- | | Planning | 2022-01-01 | 2022-01-31 | Define migration scope, identify resources, and develop project plan | | Data Assessment | 2022-02-01 | 2022-02-28 | Evaluate data quality, identify data gaps, and determine data transformation requirements | | Migration | 2022-03-01 | 2022-03-31 | Migrate data from legacy system to new platform | | Testing | 2022-04-01 | 2022-04-30 | Verify data integrity, test system functionality, and identify defects | | Deployment | 2022-05-01 | 2022-05-31 | Deploy new system, configure settings, and provide training to end-users |"
+  },
+  {
+    "question": "Who is responsible for data verification?",
+    "answer": "Quality Assurance Team",
+    "answer_paragraph": "Table 2: Data Migration Process | Step | Description | Responsible Party | | --- | --- | --- | | Data Extraction | Extract data from legacy system | IT Staff | | Data Transformation | Transform data to conform to new system requirements | System Administrators | | Data Loading | Load transformed data into new system | Technical Personnel | | Data Verification | Verify data integrity and accuracy | Quality Assurance Team |"
+  }
+]

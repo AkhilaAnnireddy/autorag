@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the frequency of network connection issues?",
+    "answer": "30%",
+    "answer_paragraph": "Table 1: Common Issues and Solutions | Issue | Solution | Frequency | | --- | --- | --- | | Network Connection | Restart Router | 30% | | Software Update | Run Update Script | 20% | | Hardware Failure | Replace Component | 50% |"
+  },
+  {
+    "question": "What is the expected result of performing a power cycle?",
+    "answer": "Device boots up normally",
+    "answer_paragraph": "Table 2: Pre-Troubleshooting Checks | Check | Description | Expected Result | | --- | --- | --- | | Power Cycle | Restart the device | Device boots up normally | | Firmware Version | Check firmware version | Version 2.1 or later | | Error Logs | Check error logs for clues | No critical errors |"
+  },
+  {
+    "question": "Who is the lead engineer that stated the importance of firmware updates?",
+    "answer": "John Smith",
+    "answer_paragraph": "On February 10, 2022, our team conducted a thorough analysis of the firmware version 2.1, which revealed that 85% of the issues were resolved by simply updating to the latest version. As stated by John Smith, our lead engineer, 'Firmware updates are crucial in resolving compatibility issues and ensuring seamless performance.'"
+  },
+  {
+    "question": "What is the response time of the IT department?",
+    "answer": "2 hours",
+    "answer_paragraph": "As per our company policy, all network connection issues must be reported to the IT department within 24 hours. Our IT department, led by Jane Doe, has a response time of 2 hours, as mandated by the IT Service Level Agreement (SLA)."
+  },
+  {
+    "question": "What is the first step in debugging software update issues?",
+    "answer": "Run Update Script",
+    "answer_paragraph": "Table 4: Software Update Debugging Steps | Step | Action | Expected Result | | --- | --- | --- | | 1 | Run Update Script | Update is successful | | 2 | Check Update Logs | No errors are reported | | 3 | Verify Software Version | Latest version is installed |"
+  },
+  {
+    "question": "What is the policy for testing software updates?",
+    "answer": "All updates must be tested on a staging server before deployment to production",
+    "answer_paragraph": "According to the software update policy, all updates must be tested on a staging server before deployment to production. This policy was implemented on January 1, 2022, and has resulted in a 40% reduction in software-related issues."
+  },
+  {
+    "question": "How many hardware components were replaced in 2022?",
+    "answer": "150",
+    "answer_paragraph": "In 2022, our company replaced a total of 150 hardware components, with an average replacement time of 3 days. The hardware replacement policy, which was updated on March 15, 2022, states that all replaced components must be sent to the manufacturer for analysis."
+  },
+  {
+    "question": "What is the definition of firmware?",
+    "answer": "Software that controls device hardware",
+    "answer_paragraph": "Table 6: Troubleshooting and Debugging Glossary | Term | Definition | | --- | --- | | Firmware | Software that controls device hardware | | Network Connection | Connection to the internet or local network | | Hardware Failure | Failure of a device component |"
+  },
+  {
+    "question": "What is the expected result of running a diagnostic test after replacing a hardware component?",
+    "answer": "Test reports no issues",
+    "answer_paragraph": "Table 5: Hardware Failure Troubleshooting Steps | Step | Action | Expected Result | | --- | --- | --- | | 1 | Identify Failed Component | Component is identified | | 2 | Replace Component | Device is functional again | | 3 | Run Diagnostic Test | Test reports no issues |"
+  },
+  {
+    "question": "What is the average replacement time for hardware components?",
+    "answer": "3 days",
+    "answer_paragraph": "In 2022, our company replaced a total of 150 hardware components, with an average replacement time of 3 days. The hardware replacement policy, which was updated on March 15, 2022, states that all replaced components must be sent to the manufacturer for analysis."
+  }
+]

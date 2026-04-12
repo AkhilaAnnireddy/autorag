@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the peak throughput of the cache architecture?",
+    "answer": "10,000 requests per second",
+    "answer_paragraph": "Our cache architecture is based on a distributed caching model, where cache nodes are spread across multiple servers. This approach allows us to scale our cache horizontally and improve cache availability. We use a combination of caching technologies, including Redis and Memcached, to store and retrieve cached data. The cache architecture is designed to handle a high volume of requests, with a peak throughput of 10,000 requests per second."
+  },
+  {
+    "question": "How much RAM is configured for each cache node?",
+    "answer": "16 GB of RAM",
+    "answer_paragraph": "Each cache node is configured with 16 GB of RAM and 4 CPU cores. The cache nodes are distributed across 4 servers, with 2 nodes per server. This configuration allows us to handle a high volume of requests while minimizing latency. We use a load balancer to distribute incoming requests across the cache nodes, ensuring that no single node is overwhelmed."
+  },
+  {
+    "question": "What is the TTL for each cache entry?",
+    "answer": "30 minutes",
+    "answer_paragraph": "Cache invalidation is a critical component of our caching strategy. We use a time-to-live (TTL) approach to invalidate cached data, where each cache entry has a TTL of 30 minutes. This means that cached data is automatically invalidated after 30 minutes, ensuring that our cache remains up-to-date. We also use a cache tagging approach, where each cache entry is tagged with a unique identifier. This allows us to invalidate specific cache entries when the underlying data changes."
+  },
+  {
+    "question": "What are the three cache invalidation policies used by NovaTech?",
+    "answer": "Cache-Aside, Read-Through, Write-Through",
+    "answer_paragraph": "We have developed a set of cache invalidation policies to ensure that our cache remains consistent with the underlying data. These policies include: Cache-Aside: This policy involves updating the cache whenever the underlying data changes. Read-Through: This policy involves updating the cache whenever data is read from the underlying storage. Write-Through: This policy involves updating the cache whenever data is written to the underlying storage."
+  },
+  {
+    "question": "What monitoring tools are used to track cache performance metrics?",
+    "answer": "Prometheus and Grafana",
+    "answer_paragraph": "Cache monitoring is critical to ensuring the health and performance of our caching system. We use a combination of monitoring tools, including Prometheus and Grafana, to track cache performance metrics such as hit ratio, miss ratio, and latency. We also use logging tools, such as ELK, to track cache errors and exceptions."
+  },
+  {
+    "question": "What is the purpose of the cache tagging approach?",
+    "answer": "to invalidate specific cache entries when the underlying data changes",
+    "answer_paragraph": "Cache invalidation is a critical component of our caching strategy. We use a time-to-live (TTL) approach to invalidate cached data, where each cache entry has a TTL of 30 minutes. This means that cached data is automatically invalidated after 30 minutes, ensuring that our cache remains up-to-date. We also use a cache tagging approach, where each cache entry is tagged with a unique identifier. This allows us to invalidate specific cache entries when the underlying data changes."
+  },
+  {
+    "question": "What cloud-based caching service is being evaluated by NovaTech?",
+    "answer": "Amazon ElastiCache",
+    "answer_paragraph": "We are currently exploring the use of machine learning algorithms to optimize our caching strategy. By analyzing cache performance metrics and user behavior, we can develop predictive models that optimize cache placement and invalidation. We are also investigating the use of cloud-based caching services, such as Amazon ElastiCache, to further improve the scalability and performance of our caching system."
+  },
+  {
+    "question": "What are the benefits of using a cloud-based caching service?",
+    "answer": "scalability, high availability, and reduced administrative overhead",
+    "answer_paragraph": "Cloud-based caching services offer a range of benefits, including scalability, high availability, and reduced administrative overhead. By using a cloud-based caching service, we can quickly scale our cache to meet changing demand, while minimizing the administrative burden associated with managing a caching system. We are currently evaluating the use of Amazon ElastiCache, which offers a range of features, including automatic node replacement, cache cluster management, and integration with Amazon EC2."
+  },
+  {
+    "question": "What is the definition of cache in the glossary?",
+    "answer": "A temporary storage location for frequently accessed data",
+    "answer_paragraph": "## Glossary - Cache: A temporary storage location for frequently accessed data. Cache Node: A server that stores and retrieves cached data. Cache Invalidation: The process of removing outdated or invalid data from the cache. TTL: Time-to-live, the length of time that cached data remains valid."
+  },
+  {
+    "question": "What is the name of the company that developed the caching strategy?",
+    "answer": "NovaTech",
+    "answer_paragraph": "# Introduction to Caching Strategy Caching is a critical component of any high-performance application. At NovaTech, we have developed a comprehensive caching strategy to improve the efficiency and scalability of our systems. This document outlines the key components of our caching strategy, including cache architecture, cache invalidation, and cache monitoring."
+  }
+]

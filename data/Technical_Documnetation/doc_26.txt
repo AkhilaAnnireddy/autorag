@@ -1,0 +1,52 @@
+# Introduction to GraphQL API
+## Overview
+The GraphQL API is a query language for APIs that allows for more flexible and efficient data retrieval. It was developed by Facebook in 2015 and is now maintained by the GraphQL Foundation. Our company, NovaTech, has adopted GraphQL as its primary API technology.
+## History
+NovaTech started using GraphQL in 2018, with the first production-ready API being launched in February 2019. Since then, we have seen a significant reduction in the number of API requests and an increase in developer satisfaction. As of January 2022, we have 15 GraphQL APIs in production, with over 500 resolvers and 2000 types.
+# Getting Started
+## Prerequisites
+To get started with the GraphQL API, you need to have Node.js (version 14 or higher) and npm installed on your machine. You also need to have a basic understanding of JavaScript and JSON. Our API uses the Apollo Server library, which provides a simple and intuitive way to create GraphQL APIs.
+## Setting Up the Project
+To set up a new project, create a new directory and navigate to it in your terminal. Then, run the command `npm init` to create a new package.json file. Next, install the required dependencies by running `npm install apollo-server graphql`. Finally, create a new file called `schema.js` and define your GraphQL schema using the GraphQL Schema Definition Language (SDL).
+# Schema Definition
+## Types
+The GraphQL schema defines the types of data that can be queried. We have two main types: `User` and `Product`. The `User` type has three fields: `id`, `name`, and `email`. The `Product` type has four fields: `id`, `name`, `price`, and `description`. Here is an example of how to define these types in your schema.js file:
+```graphql
+const { gql } = require('apollo-server');
+const typeDefs = gql`
+  type User {
+    id: ID!
+    name: String!
+    email: String!
+  }
+  type Product {
+    id: ID!
+    name: String!
+    price: Float!
+    description: String
+  }
+`;
+```
+## Resolvers
+Resolvers are functions that run on the server to fetch the data for a specific field. They can be used to fetch data from a database, make API calls, or perform any other necessary logic. For example, to fetch a user by ID, you can define a resolver like this:
+```javascript
+const resolvers = {
+  Query: {
+    user: (parent, { id }) => {
+      return users.find((user) => user.id === id);
+    }
+  }
+};
+```
+# API Endpoints
+## Query Endpoints
+The GraphQL API has several query endpoints that allow you to fetch data. The `users` endpoint returns a list of all users, while the `products` endpoint returns a list of all products. You can also use the `user` endpoint to fetch a specific user by ID, or the `product` endpoint to fetch a specific product by ID.
+## Mutation Endpoints
+The GraphQL API also has several mutation endpoints that allow you to create, update, or delete data. The `createUser` endpoint creates a new user, while the `updateUser` endpoint updates an existing user. You can also use the `deleteUser` endpoint to delete a user, or the `createProduct` endpoint to create a new product.
+# Security
+## Authentication
+To use the GraphQL API, you need to be authenticated. We use JSON Web Tokens (JWT) to authenticate users. When you log in, you receive a JWT token that you can use to make requests to the API. The token is valid for 30 minutes and can be refreshed using the `refreshToken` endpoint.
+## Authorization
+Once you are authenticated, you need to be authorized to access specific endpoints. We use a role-based access control system, where each user has a role that determines what endpoints they can access. For example, the `admin` role has access to all endpoints, while the `user` role only has access to the `users` and `products` endpoints.
+# Conclusion
+The GraphQL API is a powerful tool for building flexible and efficient APIs. With its strong typing system and schema-driven approach, it allows you to define a clear and consistent API that is easy to use and maintain. At NovaTech, we have seen significant benefits from using GraphQL, and we continue to invest in its development and adoption.

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "When was the AzureSpark SDK first released to the public?",
+    "answer": "February 10, 2020",
+    "answer_paragraph": "The AzureSpark SDK is a powerful tool for building scalable, data-driven applications. Developed by the team at AzureSpark Technologies, led by CEO, Rachel Lee, the SDK has been in development since 2018 and was first released to the public on February 10, 2020."
+  },
+  {
+    "question": "What is the minimum amount of RAM required to run the AzureSpark SDK?",
+    "answer": "8GB of RAM",
+    "answer_paragraph": "In terms of system requirements, the AzureSpark SDK can run on a variety of operating systems, including Windows, macOS, and Linux. The SDK also requires a minimum of 8GB of RAM and a 2.5GHz processor."
+  },
+  {
+    "question": "What is the name of the CEO of AzureSpark Technologies?",
+    "answer": "Rachel Lee",
+    "answer_paragraph": "The AzureSpark SDK is a powerful tool for building scalable, data-driven applications. Developed by the team at AzureSpark Technologies, led by CEO, Rachel Lee, the SDK has been in development since 2018 and was first released to the public on February 10, 2020."
+  },
+  {
+    "question": "What is the name of the company that used the AzureSpark SDK to build a data integration platform?",
+    "answer": "DataSpark",
+    "answer_paragraph": "According to a case study published by AzureSpark Technologies, the SDK has been used by a number of companies to build scalable, data-driven applications. For example, the company, DataSpark, used the AzureSpark SDK to build a data integration platform that could handle large amounts of data from multiple sources."
+  },
+  {
+    "question": "What is the expected release date of the next version of the AzureSpark SDK?",
+    "answer": "Not specified",
+    "answer_paragraph": "The AzureSpark SDK is expected to continue to evolve and improve, with new features and updates being added all the time. For example, the next version of the SDK, version 3.0, is expected to include a number of new features, such as support for Apache Cassandra and Apache HBase."
+  },
+  {
+    "question": "What is the name of the license under which the AzureSpark SDK is available?",
+    "answer": "Apache 2.0 license",
+    "answer_paragraph": "The AzureSpark SDK is available under the Apache 2.0 license, which allows developers to use and modify the SDK for free."
+  },
+  {
+    "question": "What is the number of subscribers to the AzureSpark SDK subreddit?",
+    "answer": "over 10,000 subscribers",
+    "answer_paragraph": "The AzureSpark SDK community is active and growing, with a number of online forums and discussion groups dedicated to the SDK. For example, the AzureSpark SDK subreddit has over 10,000 subscribers and is a great resource for developers who are just getting started with the SDK."
+  },
+  {
+    "question": "What is the date of the announcement of the partnership between AzureSpark Technologies and Microsoft?",
+    "answer": "January 15, 2022",
+    "answer_paragraph": "On January 15, 2022, AzureSpark Technologies announced a new partnership with Microsoft, which will allow developers to use the AzureSpark SDK with Microsoft Azure."
+  },
+  {
+    "question": "What is the expected outcome of the partnership between AzureSpark Technologies and Microsoft?",
+    "answer": "increase the adoption of the AzureSpark SDK",
+    "answer_paragraph": "This partnership is expected to increase the adoption of the AzureSpark SDK, and to provide developers with even more tools and resources for building scalable, data-driven applications."
+  },
+  {
+    "question": "What is the version of the AzureSpark SDK that includes support for Apache Flink and Apache Beam?",
+    "answer": "version 2.5",
+    "answer_paragraph": "For example, the latest version of the SDK, version 2.5, includes a number of new features, such as support for Apache Flink and Apache Beam."
+  }
+]

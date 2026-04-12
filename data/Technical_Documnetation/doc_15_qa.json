@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the expected annual cost for a basic cloud infrastructure setup for a company with 1000 employees?",
+    "answer": "around $100,000 per year",
+    "answer_paragraph": "Section 1: Planning and Preparation. Before setting up a cloud infrastructure, it is essential to plan and prepare carefully. This involves defining the scope of the project, identifying the required resources, and determining the budget. According to our experience, a well-planned cloud infrastructure setup can save up to 30% of the total cost. For instance, a company like GreenEarth, which has 1000 employees, can expect to pay around $100,000 per year for a basic cloud infrastructure setup."
+  },
+  {
+    "question": "What is the free tier offered by AWS for new customers?",
+    "answer": "750 hours of EC2 usage per month",
+    "answer_paragraph": "Section 2: Choosing a Cloud Provider. With so many cloud providers available, choosing the right one can be a daunting task. Some popular cloud providers include Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). When selecting a cloud provider, consider factors such as scalability, security, and cost. For example, AWS offers a free tier with 750 hours of EC2 usage per month, while Azure provides a $200 credit for new customers."
+  },
+  {
+    "question": "What is the minimum number of EC2 instances and S3 buckets required for a small business like TechCorp?",
+    "answer": "2 EC2 instances and 1 S3 bucket",
+    "answer_paragraph": "Section 3: Setting Up the Infrastructure. Once you have chosen a cloud provider, it is time to set up the infrastructure. This involves creating a virtual private cloud (VPC), configuring the network settings, and deploying the required resources. Our team of experts at NovaTech recommends using a combination of EC2 instances and S3 buckets for optimal performance. For a small business like TechCorp, which has 50 employees, a minimum of 2 EC2 instances and 1 S3 bucket are required."
+  },
+  {
+    "question": "What is the security policy requirement for accessing the cloud infrastructure at NovaTech?",
+    "answer": "all employees to use multi-factor authentication",
+    "answer_paragraph": "Section 4: Security and Compliance. Security and compliance are critical aspects of cloud infrastructure setup. It is essential to ensure that your cloud infrastructure is secure and compliant with relevant regulations. At NovaTech, we follow a set of best practices, including encrypting data at rest and in transit, using secure protocols for communication, and implementing access controls. For example, our security policy requires all employees to use multi-factor authentication when accessing the cloud infrastructure."
+  },
+  {
+    "question": "What is the recommended monitoring and logging setup for a large enterprise like FinanceInc?",
+    "answer": "a combination of 5 CloudWatch metrics and 2 CloudTrail trails",
+    "answer_paragraph": "Section 5: Monitoring and Maintenance. Once the cloud infrastructure is set up, it is essential to monitor and maintain it regularly. This involves tracking performance metrics, identifying potential issues, and performing regular updates and patches. Our team of experts at NovaTech recommends using a combination of CloudWatch and CloudTrail for monitoring and logging. For a large enterprise like FinanceInc, which has 5000 employees, a minimum of 5 CloudWatch metrics and 2 CloudTrail trails are required."
+  },
+  {
+    "question": "What is the version of the NovaTech Cloud Infrastructure Policy (NCIP) used in the cloud infrastructure setup guide?",
+    "answer": "version 1.2, dated February 10, 2022",
+    "answer_paragraph": "Our cloud infrastructure setup guide is based on the following policies: * NovaTech Cloud Infrastructure Policy (NCIP) - version 1.2, dated February 10, 2022. * NovaTech Security Policy (NSP) - version 2.1, dated August 20, 2022. Please note that these policies are subject to change, and it is the responsibility of the client to ensure compliance with the latest versions."
+  },
+  {
+    "question": "What is the cost of an EC2 instance per hour?",
+    "answer": "$100 per hour",
+    "answer_paragraph": "Table 1: Cloud Infrastructure Setup Costs. | Resource | Cost | | --- | --- | | EC2 instance | $100 per hour | | S3 bucket | $0.023 per GB-month |"
+  },
+  {
+    "question": "What is the scalability level of AWS according to the cloud provider comparison table?",
+    "answer": "High",
+    "answer_paragraph": "Table 2: Cloud Provider Comparison. | Provider | Scalability | Security | Cost | | --- | --- | --- | --- | | AWS | High | High | Medium | | Azure | High | Medium | Low | | GCP | Medium | High | Medium |"
+  },
+  {
+    "question": "As of what date has the cloud infrastructure setup guide been updated to include the latest best practices and recommendations?",
+    "answer": "March 15, 2023",
+    "answer_paragraph": "As of March 15, 2023, our cloud infrastructure setup guide has been updated to include the latest best practices and recommendations. For more information, please contact our team of experts at NovaTech."
+  },
+  {
+    "question": "What is the definition of cloud infrastructure according to the key terms and definitions section?",
+    "answer": "a set of cloud-based resources and services used to support business operations",
+    "answer_paragraph": "The following are some key terms and definitions: * Cloud infrastructure: a set of cloud-based resources and services used to support business operations. * Scalability: the ability of a cloud infrastructure to handle increased traffic or demand. * Security: the practice of protecting cloud infrastructure from unauthorized access or malicious activity."
+  }
+]

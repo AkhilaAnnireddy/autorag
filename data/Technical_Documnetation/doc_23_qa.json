@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What programming language is the framework built using?",
+    "answer": "Python 3.9",
+    "answer_paragraph": "The framework is built using Python 3.9 and utilizes the Pytest library for test execution."
+  },
+  {
+    "question": "How many teams are currently using the framework?",
+    "answer": "over 50 teams",
+    "answer_paragraph": "The framework is currently used by over 50 teams across the organization, with over 10,000 tests executed daily."
+  },
+  {
+    "question": "What is the goal for framework adoption by the end of Q2 2024?",
+    "answer": "100% adoption",
+    "answer_paragraph": "As of January 2023, the framework has been adopted by 75% of all development teams, with a goal of 100% adoption by the end of Q2 2024."
+  },
+  {
+    "question": "What command should be run to verify that the framework is installed correctly?",
+    "answer": "'pytest --help'",
+    "answer_paragraph": "Run the command 'pytest --help' to verify that the framework is installed correctly"
+  },
+  {
+    "question": "Who leads the QA Engineering team that maintains the framework?",
+    "answer": "John Smith",
+    "answer_paragraph": "The framework is maintained by the QA Engineering team, led by John Smith."
+  },
+  {
+    "question": "What is the email address to contact the QA Engineering team for support?",
+    "answer": "qae@company.com",
+    "answer_paragraph": "For questions or issues with the framework, please contact the team at qae@company.com."
+  },
+  {
+    "question": "What policy outlines the company's approach to testing?",
+    "answer": "Testing and Validation Policy",
+    "answer_paragraph": "The company's testing strategy is outlined in the Testing and Validation Policy, which can be found on the company's intranet site."
+  },
+  {
+    "question": "What are some common issues encountered when using the framework?",
+    "answer": "Test failures due to environment issues, test timeouts, difficulty in debugging test failures",
+    "answer_paragraph": "Some common issues encountered when using the framework include: * Test failures due to environment issues, such as incorrect configuration or missing dependencies * Test timeouts due to slow test execution or resource constraints * Difficulty in debugging test failures due to lack of logging or reporting information"
+  },
+  {
+    "question": "What is the name of the policy that the framework is subject to, in addition to the Testing and Validation Policy?",
+    "answer": "Secure Coding Policy",
+    "answer_paragraph": "The framework is subject to the company's software development policies, including the Secure Coding Policy and the Testing and Validation Policy."
+  },
+  {
+    "question": "When was version 1.0 of the framework released?",
+    "answer": "January 1, 2022",
+    "answer_paragraph": "The framework has undergone several major releases, including: * Version 1.0, released on January 1, 2022, which introduced support for Windows and Linux test environments"
+  }
+]

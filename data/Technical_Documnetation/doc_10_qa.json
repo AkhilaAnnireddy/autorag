@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the recommended version of Docker to use as of 2022?",
+    "answer": "20.10.12",
+    "answer_paragraph": "At NovaTech Inc., we recommend using the latest version of Docker, which is currently 20.10.12."
+  },
+  {
+    "question": "What are the system requirements for installing Docker?",
+    "answer": "- 64-bit operating system - 4 GB of RAM - 10 GB of free disk space - Internet connection",
+    "answer_paragraph": "The following are the system requirements for installing Docker: - 64-bit operating system - 4 GB of RAM - 10 GB of free disk space - Internet connection"
+  },
+  {
+    "question": "How do you run a container from the official Ubuntu image?",
+    "answer": "docker run -it ubuntu /bin/bash",
+    "answer_paragraph": "For example, to run a container from the official Ubuntu image, you can use the following command: docker run -it ubuntu /bin/bash."
+  },
+  {
+    "question": "What is the purpose of the -p option in the docker run command?",
+    "answer": "Publishes the container port to the host",
+    "answer_paragraph": "The following table shows the different options available with the docker run command: | Option | Description | | --- | --- | | -i | Keeps the container running in the foreground | | -t | Allocates a pseudo-TTY to the container | | -d | Runs the container in detached mode | | -p | Publishes the container port to the host | | -v | Mounts a volume from the host to the container |"
+  },
+  {
+    "question": "How do you specify a name for a container?",
+    "answer": "Use the --name option",
+    "answer_paragraph": "Here are some examples of how to use these best practices: * Use the --name option to specify a name for your container: docker run -it --name my-container ubuntu /bin/bash"
+  },
+  {
+    "question": "What is the new policy for using Docker in production environments at NovaTech Inc.?",
+    "answer": "All containers must be run with the latest version of Docker and all images must be pulled from trusted repositories",
+    "answer_paragraph": "As of March 2023, NovaTech Inc. has implemented a new policy for using Docker in production environments. The policy requires that all containers must be run with the latest version of Docker and that all images must be pulled from trusted repositories."
+  },
+  {
+    "question": "What is the end of life date for Docker version 20.10.12?",
+    "answer": "2024-02-15",
+    "answer_paragraph": "The following table shows the different versions of Docker that are currently supported by NovaTech Inc.: | Version | Release Date | End of Life | | --- | --- | --- | | 20.10.12 | 2022-02-15 | 2024-02-15 | | 19.03.15 | 2021-07-15 | 2023-07-15 | | 18.09.11 | 2020-11-15 | 2022-11-15 |"
+  },
+  {
+    "question": "What is the email address to contact NovaTech Inc. for support?",
+    "answer": "support@novatech.com",
+    "answer_paragraph": "At NovaTech Inc., we are committed to providing the best possible support for our customers. We have a team of experts who are available 24/7 to answer any questions you may have. You can contact us by email at support@novatech.com or by phone at 1-800-NOVATECH."
+  },
+  {
+    "question": "What is the percentage of organizations using or planning to use containerization according to a survey by Gartner?",
+    "answer": "75%",
+    "answer_paragraph": "According to a survey by Gartner, 75% of organizations are using or planning to use containerization in the next two years."
+  },
+  {
+    "question": "How many registered users does Docker have as of 2022?",
+    "answer": "over 10 million",
+    "answer_paragraph": "As of 2022, Docker has become the de facto standard for containerization, with over 10 million registered users and 100,000+ applications available on Docker Hub."
+  }
+]
