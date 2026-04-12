@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the target average order value for the e-commerce platform?",
+    "answer": "The target average order value is $120",
+    "answer_paragraph": "### Key Performance Indicators (KPIs) The success of the project will be measured based on the following KPIs: - Customer satisfaction rating (target: 90%) - Average order value (target: $120) - Order processing time (target: 2 hours)"
+  },
+  {
+    "question": "What is the expected growth rate of the e-commerce market?",
+    "answer": "The e-commerce market is expected to grow by 25% annually for the next 3 years",
+    "answer_paragraph": "## Market Analysis The e-commerce market is expected to grow by 25% annually for the next 3 years. Our main competitors, Amazon and eBay, have a market share of 30% and 20%, respectively. We plan to capture 10% of the market share within the next 2 years."
+  },
+  {
+    "question": "How many developers will be required for the project?",
+    "answer": "10 developers",
+    "answer_paragraph": "## Technical Requirements The project will require the following technical resources: - Development team: 10 developers, 2 QA engineers, and 1 project manager - Infrastructure: 5 servers, 2 load balancers, and 1 database cluster - Software: Java, Python, and MySQL"
+  },
+  {
+    "question": "What is the total budget for the project?",
+    "answer": "The total budget for the project is $1.2 million",
+    "answer_paragraph": "## Budget and Resource Allocation The total budget for the project is $1.2 million, allocated as follows: - Personnel: $600,000 (50%) - Infrastructure: $300,000 (25%) - Software and licenses: $150,000 (12.5%) - Miscellaneous: $150,000 (12.5%)"
+  },
+  {
+    "question": "Who is the project manager for the e-commerce platform expansion project?",
+    "answer": "John Smith, Project Manager",
+    "answer_paragraph": "## Appendices ### Project Team The project team will consist of the following members: - John Smith, Project Manager - Jane Doe, Development Team Lead - Bob Johnson, QA Engineer"
+  },
+  {
+    "question": "What is the expected completion time for the project?",
+    "answer": "The project is expected to be completed within 12 months",
+    "answer_paragraph": "## Technical Requirements The project will require the following technical resources: - Development team: 10 developers, 2 QA engineers, and 1 project manager - Infrastructure: 5 servers, 2 load balancers, and 1 database cluster - Software: Java, Python, and MySQL"
+  },
+  {
+    "question": "What is the target market share for the company within the next 2 years?",
+    "answer": "10% of the market share",
+    "answer_paragraph": "## Market Analysis The e-commerce market is expected to grow by 25% annually for the next 3 years. Our main competitors, Amazon and eBay, have a market share of 30% and 20%, respectively. We plan to capture 10% of the market share within the next 2 years."
+  },
+  {
+    "question": "What is the current user base of the company?",
+    "answer": "1.5 million customers",
+    "answer_paragraph": "# Project Proposal: Expansion of E-Commerce Platform ## Introduction The proposed project aims to expand our existing e-commerce platform to cater to the growing demand for online shopping. Our company, NovaTech Inc., has been a pioneer in the e-commerce industry since its inception in 2010. With a current user base of 1.5 million customers, we plan to increase our market share by 20% within the next 18 months."
+  },
+  {
+    "question": "What is the expected average order processing time after the project is completed?",
+    "answer": "2 hours",
+    "answer_paragraph": "### Key Performance Indicators (KPIs) The success of the project will be measured based on the following KPIs: - Customer satisfaction rating (target: 90%) - Average order value (target: $120) - Order processing time (target: 2 hours)"
+  },
+  {
+    "question": "What is the start date of the project?",
+    "answer": "January 1, 2024",
+    "answer_paragraph": "## Appendices ### Project Schedule The project schedule is as follows: - Start date: January 1, 2024 - End date: December 31, 2024"
+  }
+]

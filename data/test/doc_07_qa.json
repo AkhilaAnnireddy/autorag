@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the total contract value for the two-year term?",
+    "answer": "$250,000",
+    "answer_paragraph": "GreenTech shall provide BlueSky with access to its proprietary software platform ('Software') for a term of two (2) years from the Effective Date. The Software shall be used by BlueSky for its internal business purposes only, and shall not be used for any external or commercial purposes without the prior written consent of GreenTech. The total contract value for the two-year term is $250,000, with $125,000 due upon execution of this Agreement and the remaining $125,000 due on the first anniversary of the Effective Date."
+  },
+  {
+    "question": "What is the availability requirement for the Software?",
+    "answer": "at least 99.9% of the time in any given calendar month, excluding scheduled maintenance windows",
+    "answer_paragraph": "GreenTech shall ensure that the Software is available to BlueSky at least 99.9% of the time in any given calendar month, excluding scheduled maintenance windows. GreenTech shall provide BlueSky with at least 48 hours' notice prior to any scheduled maintenance."
+  },
+  {
+    "question": "How much notice must GreenTech provide prior to any scheduled maintenance?",
+    "answer": "at least 48 hours",
+    "answer_paragraph": "GreenTech shall ensure that the Software is available to BlueSky at least 99.9% of the time in any given calendar month, excluding scheduled maintenance windows. GreenTech shall provide BlueSky with at least 48 hours' notice prior to any scheduled maintenance."
+  },
+  {
+    "question": "What is the interest rate for late payments?",
+    "answer": "1.5% per month or the maximum rate allowed by law, whichever is lower",
+    "answer_paragraph": "BlueSky shall pay GreenTech the fees set forth in the scope of services section above. All payments shall be made in US dollars and are due within thirty (30) days of the date of the invoice. Any late payments shall accrue interest at a rate of 1.5% per month or the maximum rate allowed by law, whichever is lower."
+  },
+  {
+    "question": "What is the definition of Confidential Information?",
+    "answer": "all information, whether written or oral, that is disclosed by one party to the other party, and that is marked as confidential or that a reasonable person would understand to be confidential",
+    "answer_paragraph": "For the purposes of this Agreement, 'Confidential Information' means all information, whether written or oral, that is disclosed by one party to the other party, and that is marked as confidential or that a reasonable person would understand to be confidential. Confidential Information includes, but is not limited to, the Software, its source code, and any related documentation."
+  },
+  {
+    "question": "How may either party terminate this Agreement for convenience?",
+    "answer": "upon thirty (30) days' written notice to the other party",
+    "answer_paragraph": "Either party may terminate this Agreement upon thirty (30) days' written notice to the other party."
+  },
+  {
+    "question": "What is the cure period for a breach of a material term or condition of this Agreement?",
+    "answer": "ten (10) days",
+    "answer_paragraph": "Either party may terminate this Agreement immediately upon written notice to the other party if the other party breaches any material term or condition of this Agreement and fails to cure such breach within ten (10) days of receipt of such notice."
+  },
+  {
+    "question": "What law governs this Agreement?",
+    "answer": "the laws of the State of New York, without giving effect to any principles of conflicts of law",
+    "answer_paragraph": "This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without giving effect to any principles of conflicts of law. Any disputes arising out of or related to this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association, as amended from time to time."
+  },
+  {
+    "question": "How are disputes arising out of or related to this Agreement resolved?",
+    "answer": "through binding arbitration in accordance with the rules of the American Arbitration Association, as amended from time to time",
+    "answer_paragraph": "This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without giving effect to any principles of conflicts of law. Any disputes arising out of or related to this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association, as amended from time to time."
+  },
+  {
+    "question": "What constitutes the entire agreement between the parties with respect to the subject matter hereof?",
+    "answer": "this Agreement",
+    "answer_paragraph": "This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements and understandings, whether written or oral. This Agreement may not be amended or modified except in writing signed by both parties."
+  }
+]

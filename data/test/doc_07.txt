@@ -1,0 +1,40 @@
+
+      # Software Service Agreement
+      ## Introduction
+      This Software Service Agreement ('Agreement') is made and entered into on February 10, 2023 ('Effective Date'), by and between GreenTech Solutions, Inc., a Delaware corporation with its principal place of business at 123 Main Street, New York, NY 10001 ('GreenTech'), and BlueSky Enterprises, LLC, a California limited liability company with its principal place of business at 456 Elm Street, Los Angeles, CA 90001 ('BlueSky').
+
+      ## Scope of Services
+      ### Service Description
+      GreenTech shall provide BlueSky with access to its proprietary software platform ('Software') for a term of two (2) years from the Effective Date. The Software shall be used by BlueSky for its internal business purposes only, and shall not be used for any external or commercial purposes without the prior written consent of GreenTech. The total contract value for the two-year term is $250,000, with $125,000 due upon execution of this Agreement and the remaining $125,000 due on the first anniversary of the Effective Date.
+
+      ### Service Level Agreement
+      GreenTech shall ensure that the Software is available to BlueSky at least 99.9% of the time in any given calendar month, excluding scheduled maintenance windows. GreenTech shall provide BlueSky with at least 48 hours' notice prior to any scheduled maintenance.
+
+      ## Payment Terms
+      ### Payment Schedule
+      BlueSky shall pay GreenTech the fees set forth in the scope of services section above. All payments shall be made in US dollars and are due within thirty (30) days of the date of the invoice. Any late payments shall accrue interest at a rate of 1.5% per month or the maximum rate allowed by law, whichever is lower.
+
+      ### Taxes
+      BlueSky shall be responsible for all applicable taxes, except for taxes based on GreenTech's income.
+
+      ## Confidentiality
+      ### Definition of Confidential Information
+      For the purposes of this Agreement, 'Confidential Information' means all information, whether written or oral, that is disclosed by one party to the other party, and that is marked as confidential or that a reasonable person would understand to be confidential. Confidential Information includes, but is not limited to, the Software, its source code, and any related documentation.
+
+      ### Obligations
+      Each party shall maintain the confidentiality of the other party's Confidential Information and shall not disclose such Confidential Information to any third party without the prior written consent of the other party. Each party shall use the other party's Confidential Information solely for the purposes of this Agreement.
+
+      ## Termination
+      ### Termination for Convenience
+      Either party may terminate this Agreement upon thirty (30) days' written notice to the other party.
+
+      ### Termination for Cause
+      Either party may terminate this Agreement immediately upon written notice to the other party if the other party breaches any material term or condition of this Agreement and fails to cure such breach within ten (10) days of receipt of such notice.
+
+      ## Governing Law
+      This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without giving effect to any principles of conflicts of law. Any disputes arising out of or related to this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association, as amended from time to time.
+
+      ## Entire Agreement
+      This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements and understandings, whether written or oral. This Agreement may not be amended or modified except in writing signed by both parties.
+
+   

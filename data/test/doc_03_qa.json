@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the endpoint for user management?",
+    "answer": "The endpoint is located at https://api.example.com/v1/users",
+    "answer_paragraph": "### User Management The user management endpoint is used to create, read, update, and delete user accounts. The endpoint is located at https://api.example.com/v1/users and supports the following HTTP methods: * GET: Retrieve a list of all users * POST: Create a new user account * PUT: Update an existing user account * DELETE: Delete a user account"
+  },
+  {
+    "question": "What is the default request and response format?",
+    "answer": "The default format is JSON",
+    "answer_paragraph": "## Request and Response Formats The API supports JSON and XML request and response formats. The default format is JSON, but you can specify XML by adding the 'Accept' header to your request with the value 'application/xml'."
+  },
+  {
+    "question": "What HTTP error code indicates a successful request?",
+    "answer": "200 OK: The request was successful",
+    "answer_paragraph": "### Error Handling The API uses standard HTTP error codes to indicate the result of a request. The following error codes are used: * 200 OK: The request was successful * 400 Bad Request: The request was invalid or cannot be processed * 401 Unauthorized: The request requires authentication * 500 Internal Server Error: An unexpected error occurred"
+  },
+  {
+    "question": "What authentication method does the API use?",
+    "answer": "The API uses OAuth 2.0 for authentication",
+    "answer_paragraph": "## Authentication The API uses OAuth 2.0 for authentication. To use the API, you must first obtain an access token by sending a POST request to https://api.example.com/v1/oauth/token with the following parameters: * grant_type: The type of grant (e.g. 'client_credentials') * client_id: The client ID * client_secret: The client secret"
+  },
+  {
+    "question": "What is the URL for retrieving a user account?",
+    "answer": "https://api.example.com/v1/users/1",
+    "answer_paragraph": "### Retrieving a User Account To retrieve a user account, send a GET request to https://api.example.com/v1/users/1."
+  },
+  {
+    "question": "What is the purpose of the 'Accept' header?",
+    "answer": "to specify the response format",
+    "answer_paragraph": "## Request and Response Formats The API supports JSON and XML request and response formats. The default format is JSON, but you can specify XML by adding the 'Accept' header to your request with the value 'application/xml'. For example, to retrieve a user account in XML format, you would send a GET request to https://api.example.com/v1/users/1 with the 'Accept' header set to 'application/xml'."
+  },
+  {
+    "question": "What is the HTTP method for creating a new user account?",
+    "answer": "POST",
+    "answer_paragraph": "### User Management The user management endpoint is used to create, read, update, and delete user accounts. The endpoint is located at https://api.example.com/v1/users and supports the following HTTP methods: * GET: Retrieve a list of all users * POST: Create a new user account * PUT: Update an existing user account * DELETE: Delete a user account"
+  },
+  {
+    "question": "What are the required parameters for obtaining an access token?",
+    "answer": "* grant_type: The type of grant (e.g. 'client_credentials') * client_id: The client ID * client_secret: The client secret",
+    "answer_paragraph": "## Authentication The API uses OAuth 2.0 for authentication. To use the API, you must first obtain an access token by sending a POST request to https://api.example.com/v1/oauth/token with the following parameters: * grant_type: The type of grant (e.g. 'client_credentials') * client_id: The client ID * client_secret: The client secret"
+  },
+  {
+    "question": "What is the JSON payload for creating a new user account?",
+    "answer": "{ 'username': 'john.doe', 'email': 'john.doe@example.com', 'password': 'password123' }",
+    "answer_paragraph": "### Creating a New User Account To create a new user account, send a POST request to https://api.example.com/v1/users with the following JSON payload: { 'username': 'john.doe', 'email': 'john.doe@example.com', 'password': 'password123' }"
+  },
+  {
+    "question": "What is the HTTP error code for an invalid request?",
+    "answer": "400 Bad Request: The request was invalid or cannot be processed",
+    "answer_paragraph": "### Error Handling The API uses standard HTTP error codes to indicate the result of a request. The following error codes are used: * 200 OK: The request was successful * 400 Bad Request: The request was invalid or cannot be processed * 401 Unauthorized: The request requires authentication * 500 Internal Server Error: An unexpected error occurred"
+  }
+]
