@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What was the time period of the internal audit?",
+    "answer": "from January 10, 2023, to February 18, 2023",
+    "answer_paragraph": "This internal audit report is presented to the Board of Directors of XYZ Corporation, a leading manufacturer of industrial equipment. The audit was conducted over a period of six weeks, from January 10, 2023, to February 18, 2023, by our internal audit team led by Auditor-in-Charge, Emily Chen."
+  },
+  {
+    "question": "What is the name of the CEO of XYZ Corporation?",
+    "answer": "Michael Lee",
+    "answer_paragraph": "Background XYZ Corporation was founded in 1995 by CEO, Michael Lee, and has since grown to become a major player in the industrial equipment manufacturing sector."
+  },
+  {
+    "question": "What is the recommended implementation timeline for updating Policy No. ACCT-001?",
+    "answer": "March 15, 2023",
+    "answer_paragraph": "Implementation Timeline We recommend that the following implementation timeline be followed: - Update Policy No. ACCT-001: March 15, 2023"
+  },
+  {
+    "question": "What was the company's annual revenue for 2022?",
+    "answer": "$1.2 billion",
+    "answer_paragraph": "Background XYZ Corporation was founded in 1995 by CEO, Michael Lee, and has since grown to become a major player in the industrial equipment manufacturing sector. The company has a global presence, with operations in over 10 countries and a workforce of over 5,000 employees. Our annual revenue for 2022 was $1.2 billion, with a net income of $150 million."
+  },
+  {
+    "question": "What is the name of the Auditor-in-Charge who led the internal audit team?",
+    "answer": "Emily Chen",
+    "answer_paragraph": "This internal audit report is presented to the Board of Directors of XYZ Corporation, a leading manufacturer of industrial equipment. The audit was conducted over a period of six weeks, from January 10, 2023, to February 18, 2023, by our internal audit team led by Auditor-in-Charge, Emily Chen."
+  },
+  {
+    "question": "What is the recommended action to address the weakness in inventory management?",
+    "answer": "Implement a more robust inventory management system to ensure accurate recording of inventory levels",
+    "answer_paragraph": "Audit Findings Our audit revealed several findings that are worthy of note. Firstly, we found that the company's accounting policy for revenue recognition (Policy No. ACCT-001) is not fully aligned with the latest accounting standards. Specifically, the policy does not address the new requirements for disclosure of revenue recognition policies. We recommend that the policy be updated to reflect the current standards. Secondly, we identified a weakness in the company's internal control over inventory management. Our testing revealed that inventory counts were not always accurately recorded, resulting in a material difference between the physical count and the general ledger balance. We recommend that the company implement a more robust inventory management system to ensure accurate recording of inventory levels."
+  },
+  {
+    "question": "What is the name of the policy that needs to be updated to reflect the current accounting standards for revenue recognition?",
+    "answer": "Policy No. ACCT-001",
+    "answer_paragraph": "Audit Findings Our audit revealed several findings that are worthy of note. Firstly, we found that the company's accounting policy for revenue recognition (Policy No. ACCT-001) is not fully aligned with the latest accounting standards."
+  },
+  {
+    "question": "What was the company's net income for 2022?",
+    "answer": "$150 million",
+    "answer_paragraph": "Background XYZ Corporation was founded in 1995 by CEO, Michael Lee, and has since grown to become a major player in the industrial equipment manufacturing sector. The company has a global presence, with operations in over 10 countries and a workforce of over 5,000 employees. Our annual revenue for 2022 was $1.2 billion, with a net income of $150 million."
+  },
+  {
+    "question": "What is the recommended implementation timeline for developing and implementing the IT security plan?",
+    "answer": "September 30, 2023",
+    "answer_paragraph": "Implementation Timeline We recommend that the following implementation timeline be followed: - Update Policy No. ACCT-001: March 15, 2023 - Implement new inventory management system: June 30, 2023 - Develop and implement IT security plan: September 30, 2023"
+  },
+  {
+    "question": "What is the number of countries where XYZ Corporation has operations?",
+    "answer": "over 10 countries",
+    "answer_paragraph": "Background XYZ Corporation was founded in 1995 by CEO, Michael Lee, and has since grown to become a major player in the industrial equipment manufacturing sector. The company has a global presence, with operations in over 10 countries and a workforce of over 5,000 employees."
+  }
+]

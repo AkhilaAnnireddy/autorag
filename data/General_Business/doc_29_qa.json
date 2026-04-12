@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the price of the product offered by ABC Corporation?",
+    "answer": "$100,000",
+    "answer_paragraph": "Introduction\nThe purpose of this report is to evaluate the performance of three potential vendors for Smithson Inc.: ABC Corporation, DEF Enterprises, and GHI Industries. The evaluation is based on several key factors, including price, quality, delivery time, and customer service.\n\nTable 1: Vendor Information\n| Vendor | Price | Quality | Delivery Time | Customer Service |\n| --- | --- | --- | --- | --- |\n| ABC Corporation | $100,000 | High | 2 weeks | Excellent |\n| DEF Enterprises | $90,000 | Medium | 3 weeks | Good |\n| GHI Industries | $110,000 | High | 1 week | Excellent |"
+  },
+  {
+    "question": "What is the completion date of the Smithson Inc. Warehouse project?",
+    "answer": "2022-02-15",
+    "answer_paragraph": "Table 2: Past Projects\n| Vendor | Project | Completion Date | Budget |\n| --- | --- | --- | --- |\n| ABC Corporation | Smithson Inc. Warehouse | 2022-02-15 | $500,000 |\n| DEF Enterprises | Johnson Inc. Office | 2022-05-20 | $200,000 |\n| GHI Industries | Davis Inc. Factory | 2022-08-10 | $750,000 |"
+  },
+  {
+    "question": "What is the rating of the review for GHI Industries?",
+    "answer": "4/5",
+    "answer_paragraph": "Table 3: Customer Reviews\n| Vendor | Review | Rating |\n| --- | --- | --- |\n| ABC Corporation | Excellent service and quality | 5/5 |\n| DEF Enterprises | Good service, but some quality issues | 3/5 |\n| GHI Industries | Excellent service and quality, but high price | 4/5 |"
+  },
+  {
+    "question": "Who is the manager of the evaluation team?",
+    "answer": "John Smith",
+    "answer_paragraph": "Table 7: Evaluation Team\n| Name | Title | Department |\n| --- | --- | --- |\n| John Smith | Manager | Procurement |\n| Jane Doe | Specialist | Quality Control |\n| Bob Johnson | Analyst | Finance |"
+  },
+  {
+    "question": "What is the date of the evaluation end?",
+    "answer": "2022-08-31",
+    "answer_paragraph": "Table 8: Evaluation Timeline\n| Date | Event | Description |\n| --- | --- | --- |\n| 2022-06-01 | Evaluation Start | The evaluation team started reviewing the vendors and their products |\n| 2022-07-15 | Mid-Evaluation Review | The evaluation team reviewed the progress and discussed the findings |\n| 2022-08-31 | Evaluation End | The evaluation team completed the evaluation and submitted the report |"
+  },
+  {
+    "question": "What is the description of the procurement policy?",
+    "answer": "The company's procurement policy requires a thorough evaluation of all potential vendors",
+    "answer_paragraph": "Table 9: Procurement Policy\n| Policy | Description |\n| --- | --- | --- |\n| Procurement Policy | The company's procurement policy requires a thorough evaluation of all potential vendors |\n| Procurement Manual | The company's procurement manual is available on the company's website |"
+  },
+  {
+    "question": "What is the contract award date for ABC Corporation?",
+    "answer": "2022-09-15",
+    "answer_paragraph": "Table 10: Contract Award\n| Vendor | Contract Award | Date |\n| --- | --- | --- |\n| ABC Corporation | Yes | 2022-09-15 |"
+  },
+  {
+    "question": "What is the budget for the evaluation?",
+    "answer": "$50,000",
+    "answer_paragraph": "As of 2022-09-01, the evaluation team has reviewed all the vendors and their products. The team consists of John Smith, Jane Doe, and Bob Johnson. The evaluation was conducted from 2022-06-01 to 2022-08-31. The total budget for the evaluation was $50,000."
+  },
+  {
+    "question": "What is the title of Jane Doe in the evaluation team?",
+    "answer": "Specialist",
+    "answer_paragraph": "Table 7: Evaluation Team\n| Name | Title | Department |\n| --- | --- | --- |\n| John Smith | Manager | Procurement |\n| Jane Doe | Specialist | Quality Control |\n| Bob Johnson | Analyst | Finance |"
+  },
+  {
+    "question": "What is the date of the mid-evaluation review?",
+    "answer": "2022-07-15",
+    "answer_paragraph": "Table 8: Evaluation Timeline\n| Date | Event | Description |\n| --- | --- | --- |\n| 2022-06-01 | Evaluation Start | The evaluation team started reviewing the vendors and their products |\n| 2022-07-15 | Mid-Evaluation Review | The evaluation team reviewed the progress and discussed the findings |\n| 2022-08-31 | Evaluation End | The evaluation team completed the evaluation and submitted the report |"
+  }
+]

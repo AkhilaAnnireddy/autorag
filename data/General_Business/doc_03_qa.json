@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What was the company's revenue for Q1 2023?",
+    "answer": "$1.2 million",
+    "answer_paragraph": "Introduction: The meeting began with a review of the company's current financial situation. Key points included: * Revenue for Q1 2023: $1.2 million * Expenses for Q1 2023: $900,000 * Net income for Q1 2023: $300,000"
+  },
+  {
+    "question": "Who presented the company's new marketing strategy?",
+    "answer": "The Marketing Manager, Alice Brown",
+    "answer_paragraph": "Marketing Strategy: The Marketing Manager, Alice Brown, presented the company's new marketing strategy, which includes: * Social media campaign: $20,000 budget * Email marketing: $15,000 budget * Content creation: $30,000 budget"
+  },
+  {
+    "question": "What is the company's current cash flow?",
+    "answer": "$500,000",
+    "answer_paragraph": "Financial Review: The CFO, Jane Doe, presented a detailed breakdown of the company's expenses for Q1 2023, including: * Salaries and benefits: $400,000 * Rent and utilities: $150,000 * Marketing and advertising: $100,000 * Research and development: $50,000 The CFO also discussed the company's cash flow, which currently stands at $500,000."
+  },
+  {
+    "question": "What is the budget for the social media campaign?",
+    "answer": "$20,000",
+    "answer_paragraph": "Marketing Strategy: The Marketing Manager, Alice Brown, presented the company's new marketing strategy, which includes: * Social media campaign: $20,000 budget * Email marketing: $15,000 budget * Content creation: $30,000 budget"
+  },
+  {
+    "question": "What is the total value of the company's sales pipeline?",
+    "answer": "$500,000",
+    "answer_paragraph": "Sales Update: The Sales Manager, David Lee, reported on the company's sales performance for Q1 2023, including: * Total sales: $1.2 million * Sales by region: * North America: $600,000 * Europe: $300,000 * Asia: $300,000 The Sales Manager also discussed the company's sales pipeline, which currently includes 10 potential deals worth $500,000."
+  },
+  {
+    "question": "What is the cost of implementing the new CRM system?",
+    "answer": "$20,000",
+    "answer_paragraph": "Technology Update: The CTO, Bob Johnson, presented an update on the company's technology infrastructure, including: * New server installation: $10,000 cost * Software upgrades: $5,000 cost * Cybersecurity measures: $8,000 cost The CTO also discussed the company's plans to implement a new CRM system, which will cost $20,000."
+  },
+  {
+    "question": "Who is responsible for reviewing and approving the company's budget for Q2 2023?",
+    "answer": "John Smith",
+    "answer_paragraph": "Action Items: * John Smith: Review and approve the company's budget for Q2 2023 * Jane Doe: Prepare a detailed financial report for Q1 2023 * Alice Brown: Launch the company's new marketing campaign * David Lee: Follow up on potential sales deals * Bob Johnson: Implement the new CRM system"
+  },
+  {
+    "question": "What is the date of the next meeting?",
+    "answer": "2023-05-15",
+    "answer_paragraph": "Conclusion: The meeting concluded with a review of the company's current situation and a discussion of future plans. Key takeaways included: * The company's revenue and net income are increasing * The company's expenses are under control * The company's marketing and sales strategies are effective The next meeting is scheduled for 2023-05-15."
+  },
+  {
+    "question": "What is the company's net income for Q1 2023?",
+    "answer": "$300,000",
+    "answer_paragraph": "Introduction: The meeting began with a review of the company's current financial situation. Key points included: * Revenue for Q1 2023: $1.2 million * Expenses for Q1 2023: $900,000 * Net income for Q1 2023: $300,000"
+  },
+  {
+    "question": "What is the budget for email marketing?",
+    "answer": "$15,000",
+    "answer_paragraph": "Marketing Strategy: The Marketing Manager, Alice Brown, presented the company's new marketing strategy, which includes: * Social media campaign: $20,000 budget * Email marketing: $15,000 budget * Content creation: $30,000 budget"
+  }
+]

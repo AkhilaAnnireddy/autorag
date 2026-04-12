@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the purpose of the Business Continuity Plan for XYZ Corporation?",
+    "answer": "The purpose of this Business Continuity Plan (BCP) is to ensure the continuation of business operations in the event of a disaster or major disruption.",
+    "answer_paragraph": "The purpose of this Business Continuity Plan (BCP) is to ensure the continuation of business operations in the event of a disaster or major disruption. This plan outlines the procedures and guidelines for responding to and recovering from such events. The BCP will be reviewed and updated annually, or as needed."
+  },
+  {
+    "question": "Who is the Director of IT for XYZ Corporation?",
+    "answer": "John Smith",
+    "answer_paragraph": "Table 1: Business Continuity Team\n\n| Name | Title | Department | Contact Information |\n| --- | --- | --- | --- |\n| John Smith | Director of IT | Information Technology | (123) 456-7890, john.smith@xyzcorp.com |\n| Jane Doe | Director of Operations | Operations | (987) 654-3210, jane.doe@xyzcorp.com |\n| Bob Johnson | Director of Finance | Finance | (555) 123-4567, bob.johnson@xyzcorp.com |"
+  },
+  {
+    "question": "What is the financial impact of a disaster on the Sales department?",
+    "answer": "$100,000 per day",
+    "answer_paragraph": "Table 3: Business Impact Analysis\n\n| Department | Financial Impact | Operational Impact | Reputational Impact |\n| --- | --- | --- | --- |\n| Sales | $100,000 per day | High | Medium |\n| Marketing | $50,000 per day | Medium | High |\n| IT | $20,000 per day | Low | Low |"
+  },
+  {
+    "question": "What is the recovery strategy for the Marketing department?",
+    "answer": "Cloud-based marketing software, backup marketing team",
+    "answer_paragraph": "Table 4: Recovery Strategies\n\n| Department | Recovery Strategy |\n| --- | --- |\n| Sales | Remote work arrangement, backup sales team |\n| Marketing | Cloud-based marketing software, backup marketing team |\n| IT | Backup servers, cloud-based IT services |"
+  },
+  {
+    "question": "When is the training date for the Sales department?",
+    "answer": "January 10, 2024",
+    "answer_paragraph": "Table 5: Training and Testing Schedule\n\n| Department | Training Date | Testing Date |\n| --- | --- | --- |\n| Sales | January 10, 2024 | February 10, 2024 |\n| Marketing | March 10, 2024 | April 10, 2024 |\n| IT | May 10, 2024 | June 10, 2024 |"
+  },
+  {
+    "question": "What is the contact information for Jane Doe?",
+    "answer": "(987) 654-3210, jane.doe@xyzcorp.com",
+    "answer_paragraph": "Table 1: Business Continuity Team\n\n| Name | Title | Department | Contact Information |\n| --- | --- | --- | --- |\n| John Smith | Director of IT | Information Technology | (123) 456-7890, john.smith@xyzcorp.com |\n| Jane Doe | Director of Operations | Operations | (987) 654-3210, jane.doe@xyzcorp.com |\n| Bob Johnson | Director of Finance | Finance | (555) 123-4567, bob.johnson@xyzcorp.com |"
+  },
+  {
+    "question": "What is the priority for the risk of a cyber attack?",
+    "answer": "1",
+    "answer_paragraph": "Table 2: Top 5 Risks\n\n| Risk | Likelihood | Impact | Priority |\n| --- | --- | --- | --- |\n| Cyber Attack | High | High | 1 |\n| Natural Disaster | Medium | High | 2 |\n| Power Outage | Medium | Medium | 3 |\n| Supply Chain Disruption | Low | Medium | 4 |\n| Pandemic | Low | High | 5 |"
+  },
+  {
+    "question": "What is the operational impact of a disaster on the IT department?",
+    "answer": "Low",
+    "answer_paragraph": "Table 3: Business Impact Analysis\n\n| Department | Financial Impact | Operational Impact | Reputational Impact |\n| --- | --- | --- | --- |\n| Sales | $100,000 per day | High | Medium |\n| Marketing | $50,000 per day | Medium | High |\n| IT | $20,000 per day | Low | Low |"
+  },
+  {
+    "question": "What is the recovery procedure for a disaster or major disruption?",
+    "answer": "Activate the emergency response team, assess the damage and impact on the business, implement the recovery strategies outlined in the plan, communicate with employees, customers, and stakeholders, review and update the plan as needed",
+    "answer_paragraph": "The following procedures will be followed in the event of a disaster or major disruption:\n\n1. Activate the emergency response team\n2. Assess the damage and impact on the business\n3. Implement the recovery strategies outlined in the plan\n4. Communicate with employees, customers, and stakeholders\n5. Review and update the plan as needed"
+  },
+  {
+    "question": "Who is the Director of Finance for XYZ Corporation?",
+    "answer": "Bob Johnson",
+    "answer_paragraph": "Table 1: Business Continuity Team\n\n| Name | Title | Department | Contact Information |\n| --- | --- | --- | --- |\n| John Smith | Director of IT | Information Technology | (123) 456-7890, john.smith@xyzcorp.com |\n| Jane Doe | Director of Operations | Operations | (987) 654-3210, jane.doe@xyzcorp.com |\n| Bob Johnson | Director of Finance | Finance | (555) 123-4567, bob.johnson@xyzcorp.com |"
+  }
+]

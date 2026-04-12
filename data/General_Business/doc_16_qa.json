@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What is the purpose of the Product Requirements Document?",
+    "answer": "The purpose of this Product Requirements Document (PRD) is to define the requirements for the development of a new product, codenamed 'Eclipse', at NovaTech Inc.",
+    "answer_paragraph": "The purpose of this Product Requirements Document (PRD) is to define the requirements for the development of a new product, codenamed 'Eclipse', at NovaTech Inc. The Eclipse project aims to create a cutting-edge smart home security system, scheduled for release on December 15, 2024."
+  },
+  {
+    "question": "What are the key features of the Eclipse system?",
+    "answer": "The Eclipse system will have the following key features: - Advanced motion detection with a 99% accuracy rate - Facial recognition with a 95% accuracy rate - Voice control using Amazon Alexa and Google Assistant - Integration with existing smart home devices from major brands",
+    "answer_paragraph": "### Key Features The Eclipse system will have the following key features: - Advanced motion detection with a 99% accuracy rate - Facial recognition with a 95% accuracy rate - Voice control using Amazon Alexa and Google Assistant - Integration with existing smart home devices from major brands"
+  },
+  {
+    "question": "What is the projected sales figure for the first year?",
+    "answer": "100,000 units",
+    "answer_paragraph": "The Eclipse smart home security system will be designed to integrate with existing smart home devices, providing an advanced level of security and convenience to homeowners. The system will include features such as motion detection, facial recognition, and voice control. Our target market includes homeowners in the United States and Europe, with a projected sales figure of 100,000 units in the first year."
+  },
+  {
+    "question": "Who is the Project Manager of the Eclipse project?",
+    "answer": "John Smith",
+    "answer_paragraph": "# Project Team The Eclipse project team will consist of the following members: - John Smith, Project Manager - Jane Doe, System Architect - Bob Johnson, Software Developer - Alice Brown, Quality Assurance Engineer"
+  },
+  {
+    "question": "What is the release date of the Eclipse system?",
+    "answer": "December 15, 2024",
+    "answer_paragraph": "The purpose of this Product Requirements Document (PRD) is to define the requirements for the development of a new product, codenamed 'Eclipse', at NovaTech Inc. The Eclipse project aims to create a cutting-edge smart home security system, scheduled for release on December 15, 2024."
+  },
+  {
+    "question": "What is the system architecture of the Eclipse system?",
+    "answer": "The Eclipse system will have a distributed architecture, with multiple devices connected to a central hub.",
+    "answer_paragraph": "# System Architecture The Eclipse system will have a distributed architecture, with multiple devices connected to a central hub. The central hub will be responsible for processing data from the devices and sending commands to the devices. The system will use a secure communication protocol to protect user data."
+  },
+  {
+    "question": "What are the phases of the Eclipse project?",
+    "answer": "The Eclipse project will be completed in three phases: - Phase 1: Requirements gathering and system design (January 1, 2024 - March 31, 2024) - Phase 2: System development and testing (April 1, 2024 - September 30, 2024) - Phase 3: System deployment and maintenance (October 1, 2024 - December 15, 2024)",
+    "answer_paragraph": "# Project Timeline The Eclipse project will be completed in three phases: - Phase 1: Requirements gathering and system design (January 1, 2024 - March 31, 2024) - Phase 2: System development and testing (April 1, 2024 - September 30, 2024) - Phase 3: System deployment and maintenance (October 1, 2024 - December 15, 2024)"
+  },
+  {
+    "question": "What is the target market for the Eclipse system?",
+    "answer": "homeowners in the United States and Europe",
+    "answer_paragraph": "The Eclipse smart home security system will be designed to integrate with existing smart home devices, providing an advanced level of security and convenience to homeowners. The system will include features such as motion detection, facial recognition, and voice control. Our target market includes homeowners in the United States and Europe, with a projected sales figure of 100,000 units in the first year."
+  },
+  {
+    "question": "What is the role of the central hub in the Eclipse system?",
+    "answer": "The central hub will be responsible for processing data from the devices and sending commands to the devices.",
+    "answer_paragraph": "# System Architecture The Eclipse system will have a distributed architecture, with multiple devices connected to a central hub. The central hub will be responsible for processing data from the devices and sending commands to the devices. The system will use a secure communication protocol to protect user data."
+  },
+  {
+    "question": "What is the start date of Phase 1 of the Eclipse project?",
+    "answer": "January 1, 2024",
+    "answer_paragraph": "# Project Timeline The Eclipse project will be completed in three phases: - Phase 1: Requirements gathering and system design (January 1, 2024 - March 31, 2024) - Phase 2: System development and testing (April 1, 2024 - September 30, 2024) - Phase 3: System deployment and maintenance (October 1, 2024 - December 15, 2024)"
+  },
+  {
+    "question": "What is the name of the System Architect of the Eclipse project?",
+    "answer": "Jane Doe",
+    "answer_paragraph": "# Project Team The Eclipse project team will consist of the following members: - John Smith, Project Manager - Jane Doe, System Architect - Bob Johnson, Software Developer - Alice Brown, Quality Assurance Engineer"
+  }
+]

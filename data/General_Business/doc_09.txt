@@ -1,0 +1,121 @@
+
+   <h1>Welcome to XYZ Corporation</h1>
+   <p>We are excited to have you on board and look forward to seeing the valuable contributions we know you will make. As you begin your journey with us, this onboarding guide is designed to provide you with all the necessary information to get started.</p>
+   <h2>Company Overview</h2>
+   <p>XYZ Corporation was founded in 2001 by CEO, Jane Smith, with the mission to provide innovative solutions to the tech industry. Over the years, we have grown to become a leading player, with offices in New York, London, and Tokyo. Our core values are innovation, integrity, and teamwork.</p>
+   <table>
+     <tr>
+       <th>Office Location</th>
+       <th>Address</th>
+       <th>Contact Number</th>
+     </tr>
+     <tr>
+       <td>New York</td>
+       <td>123 Main Street, NY 10001</td>
+       <td>(123) 456-7890</td>
+     </tr>
+     <tr>
+       <td>London</td>
+       <td>456 Oxford Street, London W1A 1AA</td>
+       <td>(020) 7123-4567</td>
+     </tr>
+     <tr>
+       <td>Tokyo</td>
+       <td>789 Shinjuku, Tokyo 160-0023</td>
+       <td>(03) 4567-8901</td>
+     </tr>
+   </table>
+   <h2>Employee Benefits</h2>
+   <p>At XYZ Corporation, we believe in taking care of our employees. We offer a comprehensive benefits package, including health insurance, retirement plans, and paid time off. The details of these benefits are outlined in the table below.</p>
+   <table>
+     <tr>
+       <th>Benefit</th>
+       <th>Description</th>
+       <th>Eligibility</th>
+     </tr>
+     <tr>
+       <td>Health Insurance</td>
+       <td>Comprehensive medical, dental, and vision coverage</td>
+       <td>All full-time employees</td>
+     </tr>
+     <tr>
+       <td>Retirement Plan</td>
+       <td>401(k) plan with company match</td>
+       <td>All full-time employees after 1 year of service</td>
+     </tr>
+     <tr>
+       <td>Paid Time Off</td>
+       <td>15 days per year, plus 10 holidays</td>
+       <td>All full-time employees</td>
+     </tr>
+   </table>
+   <h2>Company Policies</h2>
+   <p>We have a number of policies in place to ensure a safe and productive work environment. These include our code of conduct, social media policy, and data protection policy. All employees are expected to familiarize themselves with these policies and adhere to them at all times.</p>
+   <table>
+     <tr>
+       <th>Policy</th>
+       <th>Description</th>
+       <th>Location</th>
+     </tr>
+     <tr>
+       <td>Code of Conduct</td>
+       <td>Outlines expected behavior and ethics</td>
+       <td>Company intranet</td>
+     </tr>
+     <tr>
+       <td>Social Media Policy</td>
+       <td>Guidelines for social media use</td>
+       <td>Company intranet</td>
+     </tr>
+     <tr>
+       <td>Data Protection Policy</td>
+       <td>Procedures for handling sensitive data</td>
+       <td>Company intranet</td>
+     </tr>
+   </table>
+   <h2>Performance Evaluation</h2>
+   <p>Regular performance evaluations are an important part of your career development at XYZ Corporation. These evaluations will be conducted every 6 months, and will include feedback from your supervisor and peers.</p>
+   <table>
+     <tr>
+       <th>Evaluation Cycle</th>
+       <th>Frequency</th>
+       <th>Purpose</th>
+     </tr>
+     <tr>
+       <td>6-Month Review</td>
+       <td>Every 6 months</td>
+       <td>To assess progress and set goals</td>
+     </tr>
+     <tr>
+       <td>Annual Review</td>
+       <td>Every 12 months</td>
+       <td>To evaluate overall performance and determine salary increases</td>
+     </tr>
+   </table>
+   <h2>Training and Development</h2>
+   <p>We are committed to helping our employees grow and develop in their careers. We offer a range of training programs, including leadership development, technical skills training, and soft skills training.</p>
+   <table>
+     <tr>
+       <th>Training Program</th>
+       <th>Description</th>
+       <th>Duration</th>
+     </tr>
+     <tr>
+       <td>Leadership Development</td>
+       <td>Develops leadership skills and knowledge</td>
+       <td>6 months</td>
+     </tr>
+     <tr>
+       <td>Technical Skills Training</td>
+       <td>Enhances technical skills and knowledge</td>
+       <td>3 months</td>
+     </tr>
+     <tr>
+       <td>Soft Skills Training</td>
+       <td>Develops communication, teamwork, and time management skills</td>
+       <td>2 months</td>
+     </tr>
+   </table>
+   <p>We hope this onboarding guide has provided you with a comprehensive overview of XYZ Corporation and what you can expect as an employee. If you have any questions or concerns, please do not hesitate to reach out to your supervisor or HR representative.</p>
+   <p>On behalf of the entire XYZ Corporation team, we welcome you aboard and look forward to seeing the valuable contributions we know you will make.</p>
+   
