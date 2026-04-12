@@ -1,52 +1,52 @@
 [
   {
-    "question": "Who oversees the company's leave and time-off policy?",
-    "answer": "Our HR Manager, Emily Chen",
-    "answer_paragraph": "Our company's leave and time-off policy is designed to provide employees with a healthy work-life balance, while also ensuring that our business operations run smoothly. The policy is overseen by our HR Manager, Emily Chen, who can be reached at emily.chen@company.com or extension 123."
+    "question": "How many days of annual leave does an employee accrue per month after the second year of service?",
+    "answer": "2.5 days per month",
+    "answer_paragraph": "Annual leave accrues at a rate of 1.5 days per month for the first year of service, 2 days per month for the second year, and 2.5 days per month thereafter, up to a maximum of 20 days per year."
   },
   {
-    "question": "How many days of paid annual leave are employees entitled to?",
-    "answer": "a minimum of 15 days",
-    "answer_paragraph": "Our company's leave and time-off policy is designed to provide employees with a healthy work-life balance, while also ensuring that our business operations run smoothly. The policy is overseen by our HR Manager, Emily Chen, who can be reached at emily.chen@company.com or extension 123. All employees are entitled to a minimum of 15 days of paid annual leave, which can be taken at any time during the year, provided that adequate notice is given to their supervisor."
+    "question": "What is the purpose of the leave committee?",
+    "answer": "to review and approve all leave requests",
+    "answer_paragraph": "In order to ensure that our leave and time-off policy is fair and consistent, we have established a leave committee to review and approve all leave requests."
   },
   {
-    "question": "What is the company's holiday schedule?",
-    "answer": "10 paid holidays per year, including New Year's Day, Memorial Day, and Christmas Day",
-    "answer_paragraph": "Our company's holiday schedule is published annually, and includes 10 paid holidays per year, including New Year's Day, Memorial Day, and Christmas Day. If a holiday falls on a weekend, the following Monday will be observed as a holiday."
+    "question": "How many federal holidays does the company observe per year?",
+    "answer": "ten federal holidays per year",
+    "answer_paragraph": "Our company observes ten federal holidays per year, including New Year's Day, Memorial Day, and Christmas Day, on which dates the office will be closed and employees will receive a paid day off."
   },
   {
-    "question": "What law does the company's leave policy comply with?",
-    "answer": "the Family and Medical Leave Act (FMLA)",
-    "answer_paragraph": "Our company's leave policy is also designed to comply with all relevant employment laws, including the Family and Medical Leave Act (FMLA), which provides eligible employees with up to 12 weeks of unpaid leave per year, for certain family and medical reasons."
+    "question": "What is the maximum amount of unpaid leave an employee can take in a twelve-month period for family and medical reasons?",
+    "answer": "twelve weeks",
+    "answer_paragraph": "Our company also offers family and medical leave, which allows employees to take up to twelve weeks of unpaid leave in a twelve-month period for certain family and medical reasons, such as the birth or adoption of a child, or to care for a spouse, child, or parent with a serious health condition."
   },
   {
-    "question": "When was the current leave policy last updated?",
-    "answer": "January 1st, 2022",
-    "answer_paragraph": "The company's leave policy is reviewed and updated annually, to ensure that it remains fair, flexible, and compliant with all relevant laws and regulations. The current leave policy was last updated on January 1st, 2022, and is available on the company's intranet, under the HR policies section."
+    "question": "How many days of bereavement leave are available to employees who have experienced the loss of a family member?",
+    "answer": "up to five days of paid leave",
+    "answer_paragraph": "Bereavement leave is also available to employees who have experienced the loss of a family member, and it provides up to five days of paid leave to attend to funeral arrangements and other personal matters."
   },
   {
-    "question": "How many employees does the company have as of 2022?",
-    "answer": "500 employees",
-    "answer_paragraph": "As of 2022, the company has a total of 500 employees, and our leave policy is designed to meet the needs of all employees, regardless of their position or location."
+    "question": "What is the name of the act that regulates family and medical leave?",
+    "answer": "Family and Medical Leave Act (FMLA)",
+    "answer_paragraph": "Our company's leave and time-off policy is also subject to various laws and regulations, including the Family and Medical Leave Act (FMLA) and the Americans with Disabilities Act (ADA)."
   },
   {
-    "question": "What values does the company's leave policy reflect?",
-    "answer": "respect, fairness, and compassion",
-    "answer_paragraph": "The company's leave policy is also designed to be consistent with our company values, which include respect, fairness, and compassion. By providing a generous and flexible leave policy, we aim to demonstrate our commitment to these values, and to support employees' overall well-being and success."
+    "question": "How many members are on the leave committee?",
+    "answer": "three members",
+    "answer_paragraph": "The leave committee consists of three members, including the HR manager, the department manager, and a representative from the employee union."
   },
   {
-    "question": "Where can employees find a copy of the leave policy?",
-    "answer": "on the company's intranet, under the HR policies section",
-    "answer_paragraph": "The company's leave policy is reviewed and updated annually, to ensure that it remains fair, flexible, and compliant with all relevant laws and regulations. The current leave policy was last updated on January 1st, 2022, and is available on the company's intranet, under the HR policies section."
+    "question": "What is the percentage of employees who are satisfied with the new leave tracking system?",
+    "answer": "90% of employees",
+    "answer_paragraph": "In fact, a recent survey found that 90% of employees are satisfied with the new system, and 80% have reported that it has made it easier for them to manage their leave."
   },
   {
-    "question": "What is the purpose of the company's leave policy?",
-    "answer": "to provide employees with a healthy work-life balance, while also ensuring that our business operations run smoothly",
-    "answer_paragraph": "Our company's leave and time-off policy is designed to provide employees with a healthy work-life balance, while also ensuring that our business operations run smoothly."
+    "question": "When does the leave year run from?",
+    "answer": "January 1st to December 31st",
+    "answer_paragraph": "Our leave year runs from January 1st to December 31st, and employees are eligible for various types of leave, including annual leave, sick leave, family and medical leave, and bereavement leave."
   },
   {
-    "question": "What type of leave is available to employees under the FMLA?",
-    "answer": "up to 12 weeks of unpaid leave per year, for certain family and medical reasons",
-    "answer_paragraph": "Our company's leave policy is also designed to comply with all relevant employment laws, including the Family and Medical Leave Act (FMLA), which provides eligible employees with up to 12 weeks of unpaid leave per year, for certain family and medical reasons."
+    "question": "What is the name of the company that has implemented the comprehensive leave and time-off policy?",
+    "answer": "NovaTech Inc.",
+    "answer_paragraph": "Our company, NovaTech Inc., values the well-being and work-life balance of its employees."
   }
 ]
