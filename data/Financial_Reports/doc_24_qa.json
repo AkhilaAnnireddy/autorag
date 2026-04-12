@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What was the revenue for XYZ Corporation in 2022?",
+    "answer": "$10,000,000",
+    "answer_paragraph": "The financial highlights for XYZ Corporation are presented in Table 1. As shown, revenue increased by 11.1% to $10,000,000 in 2022, compared to $9,000,000 in 2021. Net income also increased by 25.0% to $1,500,000 in 2022, compared to $1,200,000 in 2021. Total assets increased by 11.1% to $50,000,000 in 2022, compared to $45,000,000 in 2021."
+  },
+  {
+    "question": "Who prepared the financial compliance report for XYZ Corporation?",
+    "answer": "John Smith, CFO, and reviewed by Jane Doe, CEO",
+    "answer_paragraph": "The financial compliance report for XYZ Corporation was prepared by John Smith, CFO, and reviewed by Jane Doe, CEO. The report is based on the financial statements for the fiscal year ended December 31, 2022."
+  },
+  {
+    "question": "What is the compliance status of XYZ Corporation with respect to SOX Section 404?",
+    "answer": "Compliant",
+    "answer_paragraph": "The compliance checklist for XYZ Corporation is presented in Table 5. As shown, the company is compliant with SOX Section 404, FASB ASC 606, and IRS Code Section 162."
+  },
+  {
+    "question": "What was the net income for XYZ Corporation in 2022?",
+    "answer": "$1,500,000",
+    "answer_paragraph": "The financial highlights for XYZ Corporation are presented in Table 1. As shown, revenue increased by 11.1% to $10,000,000 in 2022, compared to $9,000,000 in 2021. Net income also increased by 25.0% to $1,500,000 in 2022, compared to $1,200,000 in 2021. Total assets increased by 11.1% to $50,000,000 in 2022, compared to $45,000,000 in 2021."
+  },
+  {
+    "question": "What is the recommendation of the audit committee to address the material weakness?",
+    "answer": "Implement additional controls",
+    "answer_paragraph": "The audit committee report for XYZ Corporation is presented in Table 6. As shown, the audit committee identified a material weakness and a significant deficiency. The committee recommends that the company implement additional controls and provide additional training to address these findings."
+  },
+  {
+    "question": "What is the company's mitigation strategy for market risk?",
+    "answer": "Diversify investments",
+    "answer_paragraph": "The risk management report for XYZ Corporation is presented in Table 8. As shown, the company has identified market risk, credit risk, and operational risk. The company has implemented mitigation strategies, including diversifying investments, implementing credit checks, and implementing additional controls."
+  },
+  {
+    "question": "What is the description of the internal control over financial reporting for segregation of duties?",
+    "answer": "Ensure that duties are segregated to prevent errors and fraud.",
+    "answer_paragraph": "The internal control over financial reporting for XYZ Corporation is presented in Table 9. As shown, the company has implemented segregation of duties, reconciliation, and review and approval to ensure the accuracy and reliability of its financial statements."
+  },
+  {
+    "question": "What was the cash balance for XYZ Corporation in 2022?",
+    "answer": "$5,000,000",
+    "answer_paragraph": "The balance sheet for XYZ Corporation is presented in Table 2. As shown, cash increased by $1,000,000 to $5,000,000 in 2022, compared to $4,000,000 in 2021. Accounts receivable increased by $500,000 to $3,000,000 in 2022, compared to $2,500,000 in 2021. Property, plant, and equipment increased by $2,000,000 to $20,000,000 in 2022, compared to $18,000,000 in 2021."
+  },
+  {
+    "question": "What is the analysis of the company's balance sheet?",
+    "answer": "The company's balance sheet is strong, with a significant increase in assets and equity.",
+    "answer_paragraph": "The financial statement analysis for XYZ Corporation is presented in Table 10. As shown, the company's balance sheet is strong, with a significant increase in assets and equity. The company's income statement is improving, with a significant increase in revenue and net income. The company's cash flow statement is sufficient, with a significant increase in cash flows from operations."
+  },
+  {
+    "question": "What is the change in accounts receivable for XYZ Corporation in 2022?",
+    "answer": "($500,000)",
+    "answer_paragraph": "The cash flow statement for XYZ Corporation is presented in Table 4. As shown, net income increased by $300,000 to $1,500,000 in 2022, compared to $1,200,000 in 2021. Depreciation increased by $200,000 to $1,000,000 in 2022, compared to $800,000 in 2021. The change in accounts receivable decreased by $200,000 to ($500,000) in 2022, compared to ($300,000) in 2021."
+  }
+]

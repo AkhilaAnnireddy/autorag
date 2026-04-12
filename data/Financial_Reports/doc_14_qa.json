@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What was the total capital expenditure for FY 2022-2023?",
+    "answer": "$1,190,000",
+    "answer_paragraph": "As of December 31, 2022, the company's capital expenditure stood at $1,190,000. This represents a significant increase from the previous fiscal year, primarily due to the expansion of our manufacturing facilities and the implementation of new technology systems. The majority of the expenditure, $700,000, was allocated towards Property, Plant, and Equipment, with a significant portion going towards the acquisition of new machinery and equipment."
+  },
+  {
+    "question": "How much was spent on Property, Plant, and Equipment in Q1?",
+    "answer": "$80,000",
+    "answer_paragraph": "Table 2: Property, Plant, and Equipment Expenditure | Asset | Q1 | Q2 | Q3 | Q4 | Total | | --- | --- | --- | --- | --- | --- | | Machinery and Equipment | 30,000 | 45,000 | 60,000 | 75,000 | 210,000 | | Vehicles | 10,000 | 15,000 | 20,000 | 25,000 | 70,000 | | Buildings and Structures | 40,000 | 60,000 | 80,000 | 100,000 | 280,000 | | Total | 80,000 | 120,000 | 160,000 | 200,000 | 560,000 |"
+  },
+  {
+    "question": "Who oversaw the implementation of the new enterprise resource planning system?",
+    "answer": "Jane Smith",
+    "answer_paragraph": "The Technology and Infrastructure category saw a significant increase in expenditure, with a total of $350,000 spent during the fiscal year. This was primarily due to the implementation of a new enterprise resource planning system, which was overseen by our Chief Information Officer, Jane Smith. The system is expected to improve operational efficiency and reduce costs in the long run."
+  },
+  {
+    "question": "What was the total expenditure on Research and Development in FY 2022-2023?",
+    "answer": "$140,000",
+    "answer_paragraph": "The Research and Development category saw a total expenditure of $140,000 during the fiscal year. This was primarily due to the development of new products and the improvement of existing ones, which was overseen by our Chief Research Officer, John Doe. The company expects to see significant returns on investment in the coming years as a result of these efforts."
+  },
+  {
+    "question": "How much is expected to be spent on Property, Plant, and Equipment in FY 2023-2024?",
+    "answer": "$800,000",
+    "answer_paragraph": "Table 5: Capital Expenditure Forecast | Category | FY 2023-2024 | FY 2024-2025 | FY 2025-2026 | | --- | --- | --- | --- | | Property, Plant, and Equipment | 800,000 | 900,000 | 1,000,000 | | Technology and Infrastructure | 400,000 | 450,000 | 500,000 | | Research and Development | 160,000 | 180,000 | 200,000 | | Total | 1,360,000 | 1,530,000 | 1,700,000 |"
+  },
+  {
+    "question": "What is the total capital expenditure forecast for FY 2024-2025?",
+    "answer": "$1,530,000",
+    "answer_paragraph": "The company's capital expenditure forecast for the next three years is expected to increase significantly, with a total of $1,360,000, $1,530,000, and $1,700,000 expected to be spent in FY 2023-2024, FY 2024-2025, and FY 2025-2026 respectively. This is primarily due to the company's plans to expand its operations and invest in new technology and research and development projects."
+  },
+  {
+    "question": "How much was spent on Technology and Infrastructure in Q4?",
+    "answer": "$105,000",
+    "answer_paragraph": "Table 3: Technology and Infrastructure Expenditure | Category | Q1 | Q2 | Q3 | Q4 | Total | | --- | --- | --- | --- | --- | --- | | Hardware | 10,000 | 20,000 | 30,000 | 40,000 | 100,000 | | Software | 15,000 | 25,000 | 35,000 | 45,000 | 120,000 | | Consulting Services | 5,000 | 10,000 | 15,000 | 20,000 | 50,000 | | Total | 30,000 | 55,000 | 80,000 | 105,000 | 270,000 |"
+  },
+  {
+    "question": "Who oversaw the development of new products and the improvement of existing ones?",
+    "answer": "John Doe",
+    "answer_paragraph": "The Research and Development category saw a total expenditure of $140,000 during the fiscal year. This was primarily due to the development of new products and the improvement of existing ones, which was overseen by our Chief Research Officer, John Doe. The company expects to see significant returns on investment in the coming years as a result of these efforts."
+  },
+  {
+    "question": "What was the total expenditure on Machinery and Equipment in FY 2022-2023?",
+    "answer": "$210,000",
+    "answer_paragraph": "Table 2: Property, Plant, and Equipment Expenditure | Asset | Q1 | Q2 | Q3 | Q4 | Total | | --- | --- | --- | --- | --- | --- | | Machinery and Equipment | 30,000 | 45,000 | 60,000 | 75,000 | 210,000 | | Vehicles | 10,000 | 15,000 | 20,000 | 25,000 | 70,000 | | Buildings and Structures | 40,000 | 60,000 | 80,000 | 100,000 | 280,000 | | Total | 80,000 | 120,000 | 160,000 | 200,000 | 560,000 |"
+  },
+  {
+    "question": "How much is expected to be spent on Research and Development in FY 2025-2026?",
+    "answer": "$200,000",
+    "answer_paragraph": "Table 5: Capital Expenditure Forecast | Category | FY 2023-2024 | FY 2024-2025 | FY 2025-2026 | | --- | --- | --- | --- | | Property, Plant, and Equipment | 800,000 | 900,000 | 1,000,000 | | Technology and Infrastructure | 400,000 | 450,000 | 500,000 | | Research and Development | 160,000 | 180,000 | 200,000 | | Total | 1,360,000 | 1,530,000 | 1,700,000 |"
+  }
+]

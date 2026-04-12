@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What was the total grant amount awarded to XYZ Corporation by the National Science Foundation?",
+    "answer": "The total grant amount was $1,000,000",
+    "answer_paragraph": "Introduction:\nThis report provides an overview of the grant utilization for the fiscal year 2022. The grant was awarded to XYZ Corporation by the National Science Foundation (NSF) to support research and development in the field of artificial intelligence.\n\nTable 1: Grant Details\n| Category | Amount |\n| --- | --- |\n| Total Grant Amount | $1,000,000 |\n| Research and Development | $600,000 |\n| Personnel | $200,000 |\n| Equipment | $100,000 |\n| Miscellaneous | $100,000 |"
+  },
+  {
+    "question": "Who led the research team for the grant?",
+    "answer": "The research team was led by Dr. Jane Smith",
+    "answer_paragraph": "The grant was utilized to support various research projects, including the development of machine learning algorithms and natural language processing techniques. The research team, led by Dr. Jane Smith, consisted of 5 researchers and 2 interns."
+  },
+  {
+    "question": "What was the budget for the Machine Learning Algorithm Development project?",
+    "answer": "$200,000",
+    "answer_paragraph": "Table 2: Research Projects\n| Project Name | Project Lead | Budget |\n| --- | --- | --- |\n| Machine Learning Algorithm Development | Dr. John Doe | $200,000 |\n| Natural Language Processing | Dr. Jane Smith | $150,000 |\n| Data Analysis | Dr. Bob Johnson | $100,000 |\n| AI Model Development | Dr. Maria Rodriguez | $150,000 |"
+  },
+  {
+    "question": "What type of equipment was purchased with the grant funds?",
+    "answer": "High-Performance Computing Server, Data Storage Devices, Software Licenses, and Miscellaneous",
+    "answer_paragraph": "Table 3: Equipment Purchases\n| Equipment | Cost |\n| --- | --- |\n| High-Performance Computing Server | $50,000 |\n| Data Storage Devices | $20,000 |\n| Software Licenses | $10,000 |\n| Miscellaneous | $20,000 |"
+  },
+  {
+    "question": "What is the due date for the grant utilization report?",
+    "answer": "December 31, 2022",
+    "answer_paragraph": "Table 5: Report Submission Details\n| Category | Details |\n| --- | --- |\n| Report Due Date | December 31, 2022 |\n| Submission Portal | Research.gov |\n| Authorized Representative | Dr. Jane Smith |"
+  },
+  {
+    "question": "How many researchers and interns were part of the research team?",
+    "answer": "5 researchers and 2 interns",
+    "answer_paragraph": "The grant was utilized to support various research projects, including the development of machine learning algorithms and natural language processing techniques. The research team, led by Dr. Jane Smith, consisted of 5 researchers and 2 interns."
+  },
+  {
+    "question": "What is the name of the portal through which the grant utilization report must be submitted?",
+    "answer": "Research.gov",
+    "answer_paragraph": "Table 5: Report Submission Details\n| Category | Details |\n| --- | --- |\n| Report Due Date | December 31, 2022 |\n| Submission Portal | Research.gov |\n| Authorized Representative | Dr. Jane Smith |"
+  },
+  {
+    "question": "Who is the authorized representative responsible for ensuring the accuracy and completeness of the grant utilization report?",
+    "answer": "Dr. Jane Smith",
+    "answer_paragraph": "Table 5: Report Submission Details\n| Category | Details |\n| --- | --- |\n| Report Due Date | December 31, 2022 |\n| Submission Portal | Research.gov |\n| Authorized Representative | Dr. Jane Smith |"
+  },
+  {
+    "question": "What was the total amount spent on research and development?",
+    "answer": "$550,000",
+    "answer_paragraph": "Table 4: Grant Expenditures\n| Category | Amount |\n| --- | --- |\n| Research and Development | $550,000 |\n| Personnel | $180,000 |\n| Equipment | $90,000 |\n| Miscellaneous | $80,000 |"
+  },
+  {
+    "question": "What is the name of the foundation that awarded the grant to XYZ Corporation?",
+    "answer": "National Science Foundation (NSF)",
+    "answer_paragraph": "Introduction:\nThis report provides an overview of the grant utilization for the fiscal year 2022. The grant was awarded to XYZ Corporation by the National Science Foundation (NSF) to support research and development in the field of artificial intelligence."
+  }
+]

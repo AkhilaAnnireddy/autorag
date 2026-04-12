@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What was the revenue of XYZ Corporation in 2022?",
+    "answer": "$10,500,000",
+    "answer_paragraph": "Our company, XYZ Corporation, has seen significant growth in the past year. As shown in Table 1, our revenue increased by $1,300,000, from $9,200,000 in 2021 to $10,500,000 in 2022. This increase is largely due to the expansion of our product line and the acquisition of new clients."
+  },
+  {
+    "question": "Who led the successful marketing campaign for Product A?",
+    "answer": "John Smith",
+    "answer_paragraph": "The revenue breakdown is presented in Table 2. Product A saw the largest increase, with a $1,000,000 rise in sales. This can be attributed to the successful marketing campaign led by our CEO, John Smith, and the efforts of our sales team, led by Jane Doe."
+  },
+  {
+    "question": "What was the largest increase in expenses for XYZ Corporation in 2022?",
+    "answer": "salaries category, with a $500,000 rise",
+    "answer_paragraph": "Our expenses have also increased, as shown in Table 3. The largest increase was in the salaries category, with a $500,000 rise. This is due to the hiring of new employees and the implementation of a new bonus structure. The marketing expense also saw a significant increase, with a $200,000 rise, which is attributed to the expansion of our marketing efforts."
+  },
+  {
+    "question": "What was the cash flow from operating activities in 2022?",
+    "answer": "$2,000,000",
+    "answer_paragraph": "The cash flow statement is presented in Table 4. The operating activities saw a significant increase, with a $500,000 rise. This is due to the improvement in our accounts receivable and payable. The investing activities saw a decrease, with a $500,000 increase in expenditures, which is attributed to the purchase of new equipment and the expansion of our facilities."
+  },
+  {
+    "question": "Who is the CEO of XYZ Corporation?",
+    "answer": "John Smith",
+    "answer_paragraph": "Signed, John Smith, CEO Jane Doe, CFO Date: March 15, 2023"
+  },
+  {
+    "question": "What was the total assets of XYZ Corporation in 2022?",
+    "answer": "$50,000,000",
+    "answer_paragraph": "Table 1: Financial Highlights \n\n| Category | 2022 | 2021 |\n| --- | --- | --- |\n| Revenue | $10,500,000 | $9,200,000 |\n| Net Income | $2,100,000 | $1,800,000 |\n| Total Assets | $50,000,000 | $45,000,000 |"
+  },
+  {
+    "question": "What was the revenue from Product B in 2022?",
+    "answer": "$3,500,000",
+    "answer_paragraph": "Table 2: Revenue Breakdown \n\n| Product | 2022 | 2021 |\n| --- | --- | --- |\n| Product A | $4,000,000 | $3,000,000 |\n| Product B | $3,500,000 | $3,000,000 |\n| Product C | $3,000,000 | $2,500,000 |"
+  },
+  {
+    "question": "What was the research and development expense in 2022?",
+    "answer": "$1,500,000",
+    "answer_paragraph": "Table 3: Expense Breakdown \n\n| Category | 2022 | 2021 |\n| --- | --- | --- |\n| Salaries | $2,500,000 | $2,000,000 |\n| Marketing | $1,000,000 | $800,000 |\n| Research and Development | $1,500,000 | $1,200,000 |"
+  },
+  {
+    "question": "What was the cash and cash equivalents in 2022?",
+    "answer": "$2,000,000",
+    "answer_paragraph": "Table 5: Balance Sheet \n\n| Category | 2022 | 2021 |\n| --- | --- | --- |\n| Cash and Cash Equivalents | $2,000,000 | $1,500,000 |\n| Accounts Receivable | $3,000,000 | $2,500,000 |\n| Accounts Payable | $1,500,000 | $1,000,000 |"
+  },
+  {
+    "question": "When was the annual financial report signed?",
+    "answer": "March 15, 2023",
+    "answer_paragraph": "Signed, John Smith, CEO Jane Doe, CFO Date: March 15, 2023"
+  }
+]

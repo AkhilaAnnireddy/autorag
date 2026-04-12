@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What was the revenue for XYZ Corporation in 2022?",
+    "answer": "$10,000,000",
+    "answer_paragraph": "Table 1: Income Statement\n| Category | 2022 | 2021 | Change |\n| --- | --- | --- | --- |\n| Revenue | $10,000,000 | $8,000,000 | 25% |"
+  },
+  {
+    "question": "Who is the CEO of XYZ Corporation?",
+    "answer": "John Smith",
+    "answer_paragraph": "As stated by our CEO, John Smith, 'Our company has seen significant growth in the past year, with a 25% increase in revenue and a 33.33% increase in net income.'"
+  },
+  {
+    "question": "What was the net income for XYZ Corporation in 2021?",
+    "answer": "$1,500,000",
+    "answer_paragraph": "Table 1: Income Statement\n| Category | 2022 | 2021 | Change |\n| --- | --- | --- | --- |\n| Net Income | $2,000,000 | $1,500,000 | 33.33% |"
+  },
+  {
+    "question": "What is the dividend policy of XYZ Corporation?",
+    "answer": "we will pay out 50% of our net income to our shareholders",
+    "answer_paragraph": "Our company's financial performance is also affected by our policies. For example, our dividend policy states that we will pay out 50% of our net income to our shareholders."
+  },
+  {
+    "question": "What was the operating cash flow for XYZ Corporation in 2022?",
+    "answer": "$2,000,000",
+    "answer_paragraph": "Table 5: Cash Flow Statement\n| Category | 2022 | 2021 | Change |\n| --- | --- | --- | --- |\n| Operating Cash Flow | $2,000,000 | $1,500,000 | 33.33% |"
+  },
+  {
+    "question": "What is the return on equity for XYZ Corporation in 2022?",
+    "answer": "40%",
+    "answer_paragraph": "Table 6: Management Discussion and Analysis\n| Category | 2022 | 2021 | Change |\n| --- | --- | --- | --- |\n| Return on Equity | 40% | 30% | 33.33% |"
+  },
+  {
+    "question": "Who is the CFO of XYZ Corporation?",
+    "answer": "Jane Doe",
+    "answer_paragraph": "Table 9: Board of Directors\n| Name | Title |\n| --- | --- |\n| John Smith | CEO |\n| Jane Doe | CFO |\n| Bob Johnson | COO |"
+  },
+  {
+    "question": "What was the salary of John Smith in 2022?",
+    "answer": "$500,000",
+    "answer_paragraph": "Table 10: Executive Compensation\n| Name | Salary | Bonus |\n| --- | --- | --- |\n| John Smith | $500,000 | $200,000 |"
+  },
+  {
+    "question": "What is the change in revenue growth from 2021 to 2022?",
+    "answer": "150%",
+    "answer_paragraph": "Table 6: Management Discussion and Analysis\n| Category | 2022 | 2021 | Change |\n| --- | --- | --- | --- |\n| Revenue Growth | 25% | 10% | 150% |"
+  },
+  {
+    "question": "What is the auditor's opinion on the financial statements of XYZ Corporation?",
+    "answer": "Unqualified",
+    "answer_paragraph": "Table 8: Auditor's Report\n| Category | Opinion |\n| --- | --- |\n| Financial Statements | Unqualified |"
+  }
+]

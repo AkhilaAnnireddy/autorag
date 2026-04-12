@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the total budget for the department for FY 2023-2024?",
+    "answer": "The total budget for the department is $1,000,000.",
+    "answer_paragraph": "Introduction\nThe Department of Finance is responsible for managing the company's financial resources. This report outlines the budget for the fiscal year 2023-2024. The budget has been prepared in accordance with the company's financial policies and procedures."
+  },
+  {
+    "question": "What are the department's revenue projections for FY 2023-2024?",
+    "answer": "The department expects to generate revenue from the following sources: 1. Interest Income: $50,000 2. Investment Income: $100,000 3. Fees and Charges: $200,000",
+    "answer_paragraph": "Section 2: Revenue Projections\nThe department expects to generate revenue from the following sources: 1. Interest Income: $50,000 2. Investment Income: $100,000 3. Fees and Charges: $200,000\nThe total revenue projected is $350,000."
+  },
+  {
+    "question": "What is the budget allocation for Salaries and Benefits?",
+    "answer": "Salaries and Benefits: $400,000",
+    "answer_paragraph": "Section 1: Budget Overview\nThe total budget for the department is $1,000,000. This represents a 10% increase from the previous year's budget of $900,000. The budget is allocated as follows: \n- Salaries and Benefits: $400,000\n- Operating Expenses: $300,000\n- Capital Expenditures: $300,000"
+  },
+  {
+    "question": "What are the department's initiatives to improve financial management?",
+    "answer": "The department has initiated several projects to improve financial management. The projects are as follows: - Implementation of a new financial management system - Development of a financial reporting dashboard - Establishment of a financial planning and analysis team",
+    "answer_paragraph": "Section 5: Departmental Initiatives\nThe department has initiated several projects to improve financial management. The projects are as follows: - Implementation of a new financial management system - Development of a financial reporting dashboard - Establishment of a financial planning and analysis team\nThe projects are expected to be completed by the end of the fiscal year."
+  },
+  {
+    "question": "What are the risks that may impact the budget?",
+    "answer": "The department has identified several risks that may impact the budget. The risks are as follows: - Economic downturn - Changes in government regulations - Cybersecurity threats",
+    "answer_paragraph": "Section 6: Risk Management\nThe department has identified several risks that may impact the budget. The risks are as follows: - Economic downturn - Changes in government regulations - Cybersecurity threats\nThe department has developed a risk management plan to mitigate these risks."
+  },
+  {
+    "question": "What is the start date of the Financial Management System project?",
+    "answer": "January 1, 2023",
+    "answer_paragraph": "Table 2: Project Timeline\n| Project | Start Date | End Date |\n| --- | --- | --- |\n| Financial Management System | January 1, 2023 | June 30, 2023 |\n| Financial Reporting Dashboard | March 1, 2023 | September 30, 2023 |\n| Financial Planning and Analysis Team | April 1, 2023 | December 31, 2023 |"
+  },
+  {
+    "question": "What is the budget allocation for Operating Expenses?",
+    "answer": "Operating Expenses: $300,000",
+    "answer_paragraph": "Section 1: Budget Overview\nThe total budget for the department is $1,000,000. This represents a 10% increase from the previous year's budget of $900,000. The budget is allocated as follows: \n- Salaries and Benefits: $400,000\n- Operating Expenses: $300,000\n- Capital Expenditures: $300,000"
+  },
+  {
+    "question": "What is the total revenue projected for FY 2023-2024?",
+    "answer": "The total revenue projected is $350,000.",
+    "answer_paragraph": "Section 2: Revenue Projections\nThe department expects to generate revenue from the following sources: 1. Interest Income: $50,000 2. Investment Income: $100,000 3. Fees and Charges: $200,000\nThe total revenue projected is $350,000."
+  },
+  {
+    "question": "What is the end date of the Financial Reporting Dashboard project?",
+    "answer": "September 30, 2023",
+    "answer_paragraph": "Table 2: Project Timeline\n| Project | Start Date | End Date |\n| --- | --- | --- |\n| Financial Management System | January 1, 2023 | June 30, 2023 |\n| Financial Reporting Dashboard | March 1, 2023 | September 30, 2023 |\n| Financial Planning and Analysis Team | April 1, 2023 | December 31, 2023 |"
+  },
+  {
+    "question": "What is the mitigation strategy for the risk of Economic Downturn?",
+    "answer": "Diversify investments, reduce expenses",
+    "answer_paragraph": "Table 3: Risk Management Plan\n| Risk | Mitigation Strategy |\n| --- | --- |\n| Economic Downturn | Diversify investments, reduce expenses |\n| Changes in Government Regulations | Monitor regulatory changes, adjust budget accordingly |\n| Cybersecurity Threats | Implement robust cybersecurity measures, conduct regular audits |"
+  }
+]

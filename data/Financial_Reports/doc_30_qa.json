@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What was the reason for the restatement of the financial statements for the fiscal years 2020 and 2021?",
+    "answer": "The restatement is necessitated by the identification of material weaknesses in our internal control over financial reporting, specifically related to the accounting for revenue recognition and lease liabilities.",
+    "answer_paragraph": "This financial restatement notice is issued by the management of GreenTech Inc., a leading provider of renewable energy solutions, to inform stakeholders about the restatement of our previously issued financial statements for the fiscal years 2020 and 2021. The restatement is necessitated by the identification of material weaknesses in our internal control over financial reporting, specifically related to the accounting for revenue recognition and lease liabilities."
+  },
+  {
+    "question": "When did the Audit Committee commence an investigation into certain accounting practices?",
+    "answer": "On February 10, 2023",
+    "answer_paragraph": "On February 10, 2023, our Audit Committee commenced an investigation into certain accounting practices, following the receipt of an anonymous whistleblower complaint. The investigation, conducted with the assistance of external counsel and forensic accountants, revealed that we had incorrectly recognized revenue on certain contracts, failing to properly apply the requirements of Accounting Standards Codification (ASC) 606. Furthermore, we had not accurately accounted for lease liabilities under ASC 842, resulting in an understatement of our operating lease liabilities."
+  },
+  {
+    "question": "What was the financial impact of the errors on the fiscal year 2020?",
+    "answer": "$1,250,000",
+    "answer_paragraph": "The financial impact of these errors is summarized in the following table: | Fiscal Year | Incorrect Revenue Recognition | Understated Lease Liabilities | |-------------|-------------------------------|--------------------------------| | 2020        | $1,250,000                    | $500,000                       | | 2021        | $1,800,000                    | $750,000                       |"
+  },
+  {
+    "question": "How did the restatement affect the net income for the fiscal year 2021?",
+    "answer": "The net income has been reduced by $1,200,000, from $6,500,000 to $5,300,000",
+    "answer_paragraph": "As a result of the investigation and the subsequent restatement, our previously reported net income for the fiscal year 2020 has been reduced by $1,000,000, from $5,000,000 to $4,000,000. For the fiscal year 2021, the net income has been reduced by $1,200,000, from $6,500,000 to $5,300,000. These adjustments reflect the correction of the revenue recognition errors and the proper accounting for lease liabilities."
+  },
+  {
+    "question": "What adjustments were made to the financial statements as a result of the restatement?",
+    "answer": "Reduction in revenue for 2020: $1,250,000, Reduction in revenue for 2021: $1,800,000, Increase in operating lease liabilities as of December 31, 2020: $500,000, Increase in operating lease liabilities as of December 31, 2021: $750,000",
+    "answer_paragraph": "Below are the key restatement adjustments: - Reduction in revenue for 2020: $1,250,000 - Reduction in revenue for 2021: $1,800,000 - Increase in operating lease liabilities as of December 31, 2020: $500,000 - Increase in operating lease liabilities as of December 31, 2021: $750,000"
+  },
+  {
+    "question": "What was the impact of the restatement on the company's total liabilities?",
+    "answer": "An increase of $1,250,000, reflecting the correction of lease liabilities and the impact of the revenue recognition adjustments",
+    "answer_paragraph": "1. **Balance Sheet:** The restatement results in an increase in our total liabilities and a corresponding decrease in our retained earnings. As of December 31, 2021, our total liabilities increased by $1,250,000, reflecting the correction of lease liabilities and the impact of the revenue recognition adjustments."
+  },
+  {
+    "question": "Who is overseeing the implementation of remedial actions?",
+    "answer": "The Board of Directors and the Audit Committee",
+    "answer_paragraph": "In accordance with our governance policies, the Board of Directors and the Audit Committee are overseeing the implementation of these remedial actions. We will continue to monitor our financial reporting processes to ensure compliance with all applicable accounting standards and regulatory requirements."
+  },
+  {
+    "question": "What is the commitment of the management of GreenTech Inc.?",
+    "answer": "To maintaining the highest standards of financial reporting and transparency",
+    "answer_paragraph": "The management of GreenTech Inc. takes full responsibility for the errors that led to the restatement of our financial statements. We have taken immediate action to remediate the material weaknesses in our internal control over financial reporting and to enhance our accounting practices and policies. We are committed to maintaining the highest standards of financial reporting and transparency."
+  },
+  {
+    "question": "Where can the corrected financial statements be found?",
+    "answer": "In the appendix to this notice",
+    "answer_paragraph": "Appendix: Corrected Financial Statements for Fiscal Years 2020 and 2021 The corrected financial statements, including the balance sheets, income statements, and cash flow statements for the fiscal years 2020 and 2021, are provided on the following pages."
+  },
+  {
+    "question": "What standards were not properly applied in the accounting for revenue recognition?",
+    "answer": "Accounting Standards Codification (ASC) 606",
+    "answer_paragraph": "On February 10, 2023, our Audit Committee commenced an investigation into certain accounting practices, following the receipt of an anonymous whistleblower complaint. The investigation, conducted with the assistance of external counsel and forensic accountants, revealed that we had incorrectly recognized revenue on certain contracts, failing to properly apply the requirements of Accounting Standards Codification (ASC) 606. Furthermore, we had not accurately accounted for lease liabilities under ASC 842, resulting in an understatement of our operating lease liabilities."
+  }
+]
