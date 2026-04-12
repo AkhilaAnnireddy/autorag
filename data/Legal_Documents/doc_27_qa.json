@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the definition of Affiliate Link in the context of this agreement?",
+    "answer": "A unique URL provided by the Company to the Affiliate for the purpose of tracking referrals.",
+    "answer_paragraph": "For the purposes of this Agreement, the following definitions shall apply: <table> <tr> <th>Term</th> <th>Definition</th> </tr> <tr> <td>Affiliate Link</td> <td>A unique URL provided by the Company to the Affiliate for the purpose of tracking referrals.</td> </tr>"
+  },
+  {
+    "question": "What are the Affiliate's obligations under this agreement?",
+    "answer": "The Affiliate shall use its best efforts to market and promote the Company's products and services, comply with all applicable laws, regulations, and industry standards, and clearly and conspicuously disclose its relationship with the Company on its website.",
+    "answer_paragraph": "The Affiliate shall: <table> <tr> <th>Obligation</th> <th>Description</th> </tr> <tr> <td>Marketing Efforts</td> <td>The Affiliate shall use its best efforts to market and promote the Company's products and services.</td> </tr>"
+  },
+  {
+    "question": "What is the Commission Rate for GreenTech Solar Panels?",
+    "answer": "10% of Net Sales",
+    "answer_paragraph": "The Company shall pay the Affiliate a Commission for each Qualified Sale, as defined below: <table> <tr> <th>Product</th> <th>Commission Rate</th> <th>Payment Terms</th> </tr> <tr> <td>GreenTech Solar Panels</td> <td>10% of Net Sales</td> <td>Payment shall be made within 30 days of the end of each calendar quarter.</td> </tr>"
+  },
+  {
+    "question": "How long does the Company's warranty last for GreenTech Solar Panels?",
+    "answer": "10 years",
+    "answer_paragraph": "The Company's product warranty and return policies are as follows: <table> <tr> <th>Product</th> <th>Warranty Period</th> <th>Return Policy</th> </tr> <tr> <td>GreenTech Solar Panels</td> <td>10 years</td> <td>30-day money-back guarantee</td> </tr>"
+  },
+  {
+    "question": "What is the price of GreenTech Wind Turbines?",
+    "answer": "$1,000.00",
+    "answer_paragraph": "The following tables provide additional information regarding the Company's products and services: <table> <tr> <th>Product</th> <th>Description</th> <th>Price</th> </tr> <tr> <td>GreenTech Wind Turbines</td> <td>Vertical-axis wind turbines for small-scale wind energy generation.</td> <td>$1,000.00</td> </tr>"
+  },
+  {
+    "question": "What is the term of this agreement?",
+    "answer": "two (2) years",
+    "answer_paragraph": "The term of this Agreement shall commence on the Effective Date and continue for a period of two (2) years."
+  },
+  {
+    "question": "When will the Company provide the Affiliate with a monthly report?",
+    "answer": "within 30 days of the end of each calendar quarter",
+    "answer_paragraph": "The Company shall also provide the Affiliate with a monthly report detailing the number of Qualified Sales and the corresponding Commissions earned."
+  },
+  {
+    "question": "What is the definition of Affiliate Site in the context of this agreement?",
+    "answer": "The website owned and operated by the Affiliate, located at https://www.ecopartners.com",
+    "answer_paragraph": "For the purposes of this Agreement, the following definitions shall apply: <table> <tr> <th>Term</th> <th>Definition</th> </tr> <tr> <td>Affiliate Site</td> <td>The website owned and operated by the Affiliate, located at https://www.ecopartners.com.</td> </tr>"
+  },
+  {
+    "question": "What is the return policy for GreenTech Solar Panels?",
+    "answer": "30-day money-back guarantee",
+    "answer_paragraph": "The Company's product warranty and return policies are as follows: <table> <tr> <th>Product</th> <th>Warranty Period</th> <th>Return Policy</th> </tr> <tr> <td>GreenTech Solar Panels</td> <td>10 years</td> <td>30-day money-back guarantee</td> </tr>"
+  },
+  {
+    "question": "Who signed the agreement on behalf of the Company?",
+    "answer": "John Smith, CEO",
+    "answer_paragraph": "By signing below, the parties acknowledge that they have read, understand, and agree to be bound by the terms and conditions of this Agreement. COMPANY GreenTech Inc. By: _____________________________ Name: John Smith Title: CEO Date: February 10, 2023"
+  }
+]

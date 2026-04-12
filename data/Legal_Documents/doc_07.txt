@@ -1,0 +1,76 @@
+INTELLECTUAL PROPERTY ASSIGNMENT AGREEMENT
+This Intellectual Property Assignment Agreement (the "Agreement") is made and entered into on February 10, 2023 (the "Effective Date"), by and between NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 ("NovaTech"), and Emily J. Lee, an individual with an address at 456 Elm Street, Othertown, CA 67890 ("Assignor").
+
+Table 1: Parties' Information
+| Party | Address | Contact Information |
+| --- | --- | --- |
+| NovaTech Inc. | 123 Main Street, Anytown, CA 12345 | (555) 123-4567, [info@novatech.com](mailto:info@novatech.com) |
+| Emily J. Lee | 456 Elm Street, Othertown, CA 67890 | (555) 901-2345, [emily.lee@email.com](mailto:emily.lee@email.com) |
+
+WHEREAS, Assignor is the owner of certain intellectual property rights, including but not limited to patents, trademarks, copyrights, and trade secrets, related to the development of a new semiconductor technology (the "Technology"); and
+WHEREAS, NovaTech desires to acquire the Technology and all related intellectual property rights from Assignor.
+
+Table 2: Intellectual Property Rights
+| Type of Right | Description | Status |
+| --- | --- | --- |
+| Patent | US Patent 12,345,678 for "Semiconductor Device" | Pending |
+| Trademark | "NovaTech" logo | Registered |
+| Copyright | Source code for Technology software | Unregistered |
+| Trade Secret | Manufacturing process for Technology | Confidential |
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises contained herein, the parties agree as follows:
+
+1. Assignment of Intellectual Property Rights. Assignor hereby assigns, transfers, and conveys to NovaTech all right, title, and interest in and to the Technology and all related intellectual property rights, including but not limited to the patents, trademarks, copyrights, and trade secrets listed in Table 2.
+
+Table 3: Payment Terms
+| Payment | Amount | Due Date |
+| --- | --- | --- |
+| Initial Payment | $100,000 | February 10, 2023 |
+| Milestone Payment 1 | $200,000 | June 10, 2023 |
+| Milestone Payment 2 | $300,000 | December 10, 2023 |
+
+2. Payment Terms. NovaTech shall pay Assignor the payments set forth in Table 3. The payments shall be made in accordance with the due dates specified in Table 3.
+
+3. Representations and Warranties. Assignor represents and warrants that (a) Assignor is the sole owner of the Technology and all related intellectual property rights, (b) the Technology does not infringe any third-party intellectual property rights, and (c) Assignor has not granted any licenses or other rights to the Technology to any third party.
+
+Table 4: Warranty Disclaimer
+| Type of Warranty | Disclaimer |
+| --- | --- |
+| Express Warranty | All express warranties are disclaimed |
+| Implied Warranty | All implied warranties are disclaimed |
+| Statutory Warranty | All statutory warranties are disclaimed |
+
+4. Warranty Disclaimer. NovaTech disclaims all warranties, express, implied, or statutory, with respect to the Technology and all related intellectual property rights, as set forth in Table 4.
+
+5. Indemnification. Assignor shall indemnify, defend, and hold harmless NovaTech, its officers, directors, employees, and agents, from and against any and all claims, damages, losses, and expenses arising out of or related to (a) any breach of Assignor's representations and warranties, and (b) any infringement of third-party intellectual property rights by the Technology.
+
+Table 5: Governing Law and Jurisdiction
+| Governing Law | Jurisdiction |
+| --- | --- |
+| Delaware law | Delaware courts |
+
+6. Governing Law and Jurisdiction. This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without giving effect to any principles of conflicts of law. Any disputes arising out of or related to this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association, as set forth in Table 5.
+
+7. Entire Agreement. This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous agreements or understandings, whether written or oral.
+
+Table 6: Definitions
+| Term | Definition |
+| --- | --- |
+| Technology | The new semiconductor technology |
+| Intellectual Property Rights | Patents, trademarks, copyrights, and trade secrets |
+| Assignment | The transfer of ownership of the Technology and all related intellectual property rights |
+
+8. Definitions. For purposes of this Agreement, the terms defined in Table 6 shall have the meanings set forth therein.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+NovaTech Inc.
+By: ______________________________
+Name: John Smith
+Title: CEO
+Date: February 10, 2023
+
+Emily J. Lee
+By: ______________________________
+Name: Emily J. Lee
+Date: February 10, 2023

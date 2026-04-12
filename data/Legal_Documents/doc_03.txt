@@ -1,0 +1,89 @@
+
+   Terms of Service Agreement
+
+   This Terms of Service Agreement (the "Agreement") is entered into by and between XYZ Corporation ("XYZ" or "we" or "us" or "our") and you ("you" or "your") for the use of our website and services (the "Services"). The Services include, but are not limited to, access to our website, mobile application, and any other related services.
+
+   Table 1: Definitions
+   | Term | Definition |
+   | --- | --- |
+   | User | An individual who uses the Services |
+   | Account | A unique identifier assigned to each User |
+   | Content | Any information, data, or material submitted by a User |
+
+   By using the Services, you acknowledge that you have read, understood, and agree to be bound by the terms and conditions of this Agreement. If you do not agree with the terms and conditions of this Agreement, please do not use the Services.
+
+   Table 2: Fees and Charges
+   | Service | Fee | Payment Method |
+   | --- | --- | --- |
+   | Basic | $9.99/month | Credit Card, PayPal |
+   | Premium | $19.99/month | Credit Card, PayPal |
+   | Enterprise | Custom quote | Bank Transfer |
+
+   We reserve the right to modify or update the Services, including but not limited to, adding or removing features, at any time and without notice to you. You agree that we will not be liable for any losses or damages resulting from such modifications or updates.
+
+   Table 3: Service Level Agreement
+   | Metric | Target | Measurement Period |
+   | --- | --- | --- |
+   | Uptime | 99.9% | Monthly |
+   | Response Time | 2 seconds | Average |
+   | Resolution Time | 4 hours | Average |
+
+   You agree to comply with all applicable laws, regulations, and rules when using the Services. You shall not use the Services for any unlawful or unauthorized purpose.
+
+   Table 4: Acceptable Use Policy
+   | Prohibited Activity | Description |
+   | --- | --- |
+   | Spamming | Sending unsolicited emails or messages |
+   | Hacking | Attempting to access or modify unauthorized systems or data |
+   | Harassment | Sending threatening or abusive messages |
+
+   We take the security and integrity of our Services seriously. We have implemented various measures to protect the Services and your data, including but not limited to, encryption, firewalls, and access controls.
+
+   Table 5: Security Measures
+   | Measure | Description |
+   | --- | --- |
+   | Encryption | Encrypting data in transit and at rest |
+   | Firewalls | Configuring firewalls to restrict access |
+   | Access Controls | Implementing role-based access controls |
+
+   You agree to indemnify and hold harmless XYZ, its officers, directors, employees, agents, and affiliates, from and against any claims, damages, losses, liabilities, costs, and expenses arising from or related to your use of the Services.
+
+   Table 6: Indemnification
+   | Party | Obligation |
+   | --- | --- |
+   | You | Indemnify XYZ for any claims or damages |
+   | XYZ | Defend and hold harmless you for any claims or damages |
+
+   This Agreement will commence on the date you first access or use the Services and will continue until terminated by either party. You may terminate this Agreement by ceasing to use the Services.
+
+   Table 7: Termination
+   | Event | Effect |
+   | --- | --- |
+   | Termination by You | Cease use of Services |
+   | Termination by XYZ | Notice of termination |
+
+   Governing Law and Jurisdiction. This Agreement will be governed by and construed in accordance with the laws of the State of California, without giving effect to any principles of conflicts of law. Any disputes arising out of or related to this Agreement will be resolved through binding arbitration in accordance with the rules of the American Arbitration Association.
+
+   Table 8: Governing Law
+   | Jurisdiction | Governing Law |
+   | --- | --- |
+   | California | California law |
+
+   Entire Agreement. This Agreement constitutes the entire agreement between you and XYZ regarding the use of the Services and supersedes all prior or contemporaneous agreements or understandings.
+
+   Table 9: Entire Agreement
+   | Document | Description |
+   | --- | --- |
+   | This Agreement | Entire agreement between you and XYZ |
+
+   Changes to this Agreement. We reserve the right to modify or update this Agreement at any time and without notice to you. Your continued use of the Services after any such modification or update will constitute your acceptance of the modified or updated Agreement.
+
+   Table 10: Changes to Agreement
+   | Event | Effect |
+   | --- | --- |
+   | Modification | Updated Agreement |
+
+   As of the date of this Agreement, the following individuals are authorized to bind XYZ: John Doe, CEO; Jane Smith, CTO.
+
+   Effective Date: March 1, 2022
+   

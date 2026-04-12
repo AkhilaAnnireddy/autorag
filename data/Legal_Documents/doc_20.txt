@@ -1,0 +1,49 @@
+This Master Service Agreement ('Agreement') is entered into on February 10, 2023, by and between Azure Technologies, Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 ('Azure'), and Nova Spire LLC, a California limited liability company with its principal place of business at 456 Elm Street, Othertown, CA 67890 ('Nova Spire'). The parties agree to be bound by the terms and conditions of this Agreement. The term of this Agreement shall commence on the Effective Date and continue for a period of three (3) years. Upon expiration of the initial term, this Agreement shall automatically renew for successive one-year periods unless either party gives written notice of termination at least thirty (30) days prior to the end of the then-current term. The pricing for the services to be provided under this Agreement is as follows: $100,000 per year for the first two years, and $120,000 per year for each subsequent year. The payment terms are net thirty (30) days from the date of invoice. Azure shall provide Nova Spire with a detailed invoice that includes the following: (1) a description of the services provided, (2) the dates the services were provided, and (3) the total amount due. In the event of a dispute regarding the invoice, Nova Spire shall notify Azure in writing within ten (10) days of receipt of the invoice, and the parties shall work together in good faith to resolve the dispute. The services to be provided by Azure under this Agreement are outlined below: 
+   
+ Some of the key services include: 
+   
+ - Consulting services: Azure shall provide Nova Spire with consulting services related to the development and implementation of Nova Spire's business strategy. The consulting services shall be provided by Azure's employees and contractors who have the necessary expertise and experience. 
+   
+ - Technology services: Azure shall provide Nova Spire with technology services related to the development and implementation of Nova Spire's technology infrastructure. The technology services shall include, but not be limited to, the design, development, and implementation of software applications and systems. 
+   
+ - Training services: Azure shall provide Nova Spire with training services related to the use and operation of the technology infrastructure developed and implemented by Azure. The training services shall be provided by Azure's employees and contractors who have the necessary expertise and experience. 
+   
+ The following table outlines the timeline for the services: 
+   
+ | Service | Start Date | End Date | 
+   
+ | --- | --- | --- | 
+   
+ | Consulting services | March 1, 2023 | June 30, 2023 | 
+   
+ | Technology services | July 1, 2023 | December 31, 2023 | 
+   
+ | Training services | January 1, 2024 | March 31, 2024 | 
+   
+ In the event of a breach of this Agreement by either party, the non-breaching party may terminate this Agreement upon written notice to the breaching party. The breaching party shall be liable for any damages suffered by the non-breaching party as a result of the breach. The parties agree to comply with all applicable laws and regulations, including but not limited to, the General Data Protection Regulation ('GDPR') and the California Consumer Privacy Act ('CCPA'). The parties shall maintain the confidentiality of all information disclosed under this Agreement, and shall not disclose such information to any third party without the prior written consent of the other party. 
+   
+ The following are the key contacts for each party: 
+   
+ - For Azure: John Doe, CEO, (555) 123-4567, johndoe@azuretech.com 
+   
+ - For Nova Spire: Jane Smith, CFO, (555) 901-2345, janesmith@novaspire.com 
+   
+ Any notices or communications required or permitted to be given under this Agreement shall be in writing and shall be delivered personally or sent by certified mail, return receipt requested, to the address of the other party set forth above. The parties agree that this Agreement constitutes the entire understanding of the parties and supersedes all prior or contemporaneous agreements or understandings, whether written or oral. This Agreement may not be amended or modified except in writing signed by both parties. 
+   
+ In witness whereof, the parties have executed this Agreement as of the date first above written. 
+   
+ Azure Technologies, Inc. 
+   
+ By: /s/ John Doe 
+   
+ Title: CEO 
+   
+ Date: February 10, 2023 
+   
+ Nova Spire LLC 
+   
+ By: /s/ Jane Smith 
+   
+ Title: CFO 
+   
+ Date: February 10, 2023

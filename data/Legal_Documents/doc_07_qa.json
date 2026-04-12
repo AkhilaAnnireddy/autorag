@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the address of NovaTech Inc.?",
+    "answer": "123 Main Street, Anytown, CA 12345",
+    "answer_paragraph": "Table 1: Parties' Information\n| Party | Address | Contact Information |\n| --- | --- | --- |\n| NovaTech Inc. | 123 Main Street, Anytown, CA 12345 | (555) 123-4567, [info@novatech.com](mailto:info@novatech.com) |\n| Emily J. Lee | 456 Elm Street, Othertown, CA 67890 | (555) 901-2345, [emily.lee@email.com](mailto:emily.lee@email.com) |"
+  },
+  {
+    "question": "What type of warranty is disclaimed by NovaTech?",
+    "answer": "All express warranties are disclaimed",
+    "answer_paragraph": "Table 4: Warranty Disclaimer\n| Type of Warranty | Disclaimer |\n| --- | --- |\n| Express Warranty | All express warranties are disclaimed |\n| Implied Warranty | All implied warranties are disclaimed |\n| Statutory Warranty | All statutory warranties are disclaimed |"
+  },
+  {
+    "question": "What is the due date for the initial payment?",
+    "answer": "February 10, 2023",
+    "answer_paragraph": "Table 3: Payment Terms\n| Payment | Amount | Due Date |\n| --- | --- | --- |\n| Initial Payment | $100,000 | February 10, 2023 |\n| Milestone Payment 1 | $200,000 | June 10, 2023 |\n| Milestone Payment 2 | $300,000 | December 10, 2023 |"
+  },
+  {
+    "question": "Who is the CEO of NovaTech Inc.?",
+    "answer": "John Smith",
+    "answer_paragraph": "IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.\n\nNovaTech Inc.\nBy: ______________________________\nName: John Smith\nTitle: CEO\nDate: February 10, 2023"
+  },
+  {
+    "question": "What is the definition of the term 'Technology'?",
+    "answer": "The new semiconductor technology",
+    "answer_paragraph": "Table 6: Definitions\n| Term | Definition |\n| --- | --- |\n| Technology | The new semiconductor technology |\n| Intellectual Property Rights | Patents, trademarks, copyrights, and trade secrets |\n| Assignment | The transfer of ownership of the Technology and all related intellectual property rights |"
+  },
+  {
+    "question": "What is the status of the patent US Patent 12,345,678?",
+    "answer": "Pending",
+    "answer_paragraph": "Table 2: Intellectual Property Rights\n| Type of Right | Description | Status |\n| --- | --- | --- |\n| Patent | US Patent 12,345,678 for \"Semiconductor Device\" | Pending |\n| Trademark | \"NovaTech\" logo | Registered |\n| Copyright | Source code for Technology software | Unregistered |\n| Trade Secret | Manufacturing process for Technology | Confidential |"
+  },
+  {
+    "question": "What is the amount of the milestone payment 2?",
+    "answer": "$300,000",
+    "answer_paragraph": "Table 3: Payment Terms\n| Payment | Amount | Due Date |\n| --- | --- | --- |\n| Initial Payment | $100,000 | February 10, 2023 |\n| Milestone Payment 1 | $200,000 | June 10, 2023 |\n| Milestone Payment 2 | $300,000 | December 10, 2023 |"
+  },
+  {
+    "question": "What is the jurisdiction for any disputes arising out of or related to this Agreement?",
+    "answer": "Delaware courts",
+    "answer_paragraph": "Table 5: Governing Law and Jurisdiction\n| Governing Law | Jurisdiction |\n| --- | --- |\n| Delaware law | Delaware courts |"
+  },
+  {
+    "question": "What is the contact information for Emily J. Lee?",
+    "answer": "(555) 901-2345, [emily.lee@email.com](mailto:emily.lee@email.com)",
+    "answer_paragraph": "Table 1: Parties' Information\n| Party | Address | Contact Information |\n| --- | --- | --- |\n| NovaTech Inc. | 123 Main Street, Anytown, CA 12345 | (555) 123-4567, [info@novatech.com](mailto:info@novatech.com) |\n| Emily J. Lee | 456 Elm Street, Othertown, CA 67890 | (555) 901-2345, [emily.lee@email.com](mailto:emily.lee@email.com) |"
+  },
+  {
+    "question": "What is the effective date of the Agreement?",
+    "answer": "February 10, 2023",
+    "answer_paragraph": "INTELLECTUAL PROPERTY ASSIGNMENT AGREEMENT\nThis Intellectual Property Assignment Agreement (the \"Agreement\") is made and entered into on February 10, 2023 (the \"Effective Date\"), by and between NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 (\"NovaTech\"), and Emily J. Lee, an individual with an address at 456 Elm Street, Othertown, CA 67890 (\"Assignor\")."
+  }
+]

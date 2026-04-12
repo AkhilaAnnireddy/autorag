@@ -1,0 +1,76 @@
+
+   SOFTWARE LICENSE AGREEMENT
+
+   This Software License Agreement (the "Agreement") is entered into as of February 10, 2023 (the "Effective Date"), by and between NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 ("Licensor"), and Apex Software Solutions, a California corporation with its principal place of business at 456 Elm Street, Othertown, CA 67890 ("Licensee").
+
+   Table 1: Definitions
+   | Term | Definition |
+   | --- | --- |
+   | Software | The software program known as "NovaSpire" |
+   | Documentation | The user manuals and guides provided by Licensor |
+   | Effective Date | February 10, 2023 |
+   | License Fee | $100,000 |
+   | Term | 2 years from the Effective Date |
+
+   1. GRANT OF LICENSE
+   Licensor hereby grants to Licensee a non-exclusive, non-transferable license to use the Software and Documentation during the Term, solely for Licensee's internal business purposes. The license granted herein is subject to the terms and conditions of this Agreement.
+
+   Table 2: License Fees
+   | Payment Date | License Fee |
+   | --- | --- |
+   | February 10, 2023 | $50,000 |
+   | August 10, 2023 | $25,000 |
+   | February 10, 2024 | $25,000 |
+
+   2. USE OF SOFTWARE
+   Licensee shall use the Software and Documentation only for its internal business purposes and shall not: (i) sublicense, distribute, or transfer the Software or Documentation to any third party; (ii) modify, reverse engineer, or attempt to derive the source code of the Software; or (iii) use the Software or Documentation for any purpose other than as specifically authorized in this Agreement.
+
+   Table 3: Support and Maintenance
+   | Support Level | Description | Cost |
+   | --- | --- | --- |
+   | Basic | Email support, 8am-5pm PST | $5,000/year |
+   | Premium | Phone and email support, 24/7 | $10,000/year |
+   | Enterprise | On-site support, 24/7 | $20,000/year |
+
+   3. INTELLECTUAL PROPERTY
+   Licensor retains all right, title, and interest in and to the Software and Documentation, including all intellectual property rights therein. Licensee acknowledges that it neither has nor will acquire any right, title, or interest in or to the Software or Documentation, except as specifically granted in this Agreement.
+
+   Table 4: Warranty Disclaimer
+   | Warranty | Description |
+   | --- | --- |
+   | Express | None |
+   | Implied | None, including fitness for a particular purpose |
+
+   4. TERMINATION
+   This Agreement shall terminate on the expiration of the Term, unless sooner terminated as provided in this Section. Either party may terminate this Agreement upon written notice to the other party if the other party breaches any of its obligations under this Agreement and fails to cure such breach within 30 days after receipt of such notice.
+
+   Table 5: Governing Law
+   | Jurisdiction | Law |
+   | --- | --- |
+   | California | California law, without regard to its conflict of laws principles |
+
+   5. ENTIRE AGREEMENT
+   This Agreement, including all exhibits and schedules attached hereto, constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous agreements or understandings, whether written or oral.
+
+   Table 6: Notices
+   | Party | Address |
+   | --- | --- |
+   | Licensor | 123 Main Street, Anytown, CA 12345 |
+   | Licensee | 456 Elm Street, Othertown, CA 67890 |
+
+   By their signatures below, the parties acknowledge that they have read, understand, and agree to be bound by the terms and conditions of this Agreement.
+
+   IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+   NOVATECH INC.
+   By: /s/ John Smith
+   Name: John Smith
+   Title: CEO
+
+   APEX SOFTWARE SOLUTIONS
+   By: /s/ Jane Doe
+   Name: Jane Doe
+   Title: President
+
+   Date: February 10, 2023
+   

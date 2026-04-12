@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the term of the Software Service Agreement between NexaTech Inc. and OmniCorp?",
+    "answer": "three years, commencing on the date of execution of this Agreement and expiring on February 10, 2026",
+    "answer_paragraph": "This Software Service Agreement is entered into on February 10, 2023, by and between NexaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345, and OmniCorp, a California corporation with its principal place of business at 456 Elm Street, Othertown, CA 67890. NexaTech Inc. and OmniCorp are collectively referred to as the Parties. The Parties agree that NexaTech Inc. will provide software services to OmniCorp for a term of three years, commencing on the date of execution of this Agreement and expiring on February 10, 2026."
+  },
+  {
+    "question": "What is the total contract value of the Agreement?",
+    "answer": "$1,500,000",
+    "answer_paragraph": "The Parties agree that NexaTech Inc. will provide software services to OmniCorp for a term of three years, commencing on the date of execution of this Agreement and expiring on February 10, 2026. The services to be provided by NexaTech Inc. include the development, implementation, and maintenance of a customized software solution for OmniCorp's enterprise resource planning system. The total contract value is $1,500,000, payable in quarterly installments of $125,000 over the term of the Agreement."
+  },
+  {
+    "question": "What is the rate for on-site training provided by NexaTech Inc.?",
+    "answer": "$200 per hour",
+    "answer_paragraph": "NexaTech Inc. will also provide training and support services to OmniCorp's personnel, including up to 20 hours of on-site training per month, at a rate of $200 per hour."
+  },
+  {
+    "question": "How long will the confidentiality clause survive the termination of the Agreement?",
+    "answer": "five years",
+    "answer_paragraph": "The Agreement includes a confidentiality clause, which requires both Parties to maintain the confidentiality of all information disclosed by the other Party, including but not limited to trade secrets, business strategies, and technical data. This clause will survive the termination of the Agreement for a period of five years."
+  },
+  {
+    "question": "What is the warranty period for the software services provided by NexaTech Inc.?",
+    "answer": "one year from the date of delivery",
+    "answer_paragraph": "The Agreement also includes a warranty clause, which requires NexaTech Inc. to warrant that the software services provided will be free from defects in material and workmanship for a period of one year from the date of delivery."
+  },
+  {
+    "question": "What is the notice period for termination of the Agreement?",
+    "answer": "30 days' written notice",
+    "answer_paragraph": "The Agreement includes a termination clause, which allows either Party to terminate the Agreement upon 30 days' written notice to the other Party."
+  },
+  {
+    "question": "Who are the representatives appointed by the Parties for the purpose of this Agreement?",
+    "answer": "John Smith for NexaTech Inc. and Jane Doe for OmniCorp",
+    "answer_paragraph": "NexaTech Inc. has appointed John Smith as its representative for the purpose of this Agreement, and OmniCorp has appointed Jane Doe as its representative."
+  },
+  {
+    "question": "What is the frequency of the detailed report to be provided by NexaTech Inc. to OmniCorp on the progress of the software development project?",
+    "answer": "monthly",
+    "answer_paragraph": "The Agreement includes a clause that requires NexaTech Inc. to provide OmniCorp with a detailed report on the progress of the software development project, on a monthly basis."
+  },
+  {
+    "question": "What is the purpose of the software solution to be developed by NexaTech Inc. for OmniCorp?",
+    "answer": "to provide OmniCorp with a state-of-the-art enterprise resource planning system",
+    "answer_paragraph": "The software solution to be developed by NexaTech Inc. will provide OmniCorp with a state-of-the-art enterprise resource planning system, which will enable the company to streamline its operations and improve its efficiency."
+  },
+  {
+    "question": "What is the governing law of the Agreement?",
+    "answer": "the laws of the State of California",
+    "answer_paragraph": "The Agreement is governed by and construed in accordance with the laws of the State of California, without giving effect to any principles of conflicts of law."
+  }
+]

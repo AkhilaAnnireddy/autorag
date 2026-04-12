@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the term of the Consulting Services Agreement?",
+    "answer": "The term of this Agreement shall commence on the Effective Date and continue for a period of two (2) years, unless terminated earlier in accordance with Section 10.",
+    "answer_paragraph": "This Consulting Services Agreement ('Agreement') is entered into on February 10, 2023, by and between GreenTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 ('Client'), and ExpertConsulting LLC, a California limited liability company with its principal place of business at 456 Elm Street, Othertown, CA 67890 ('Consultant')."
+  },
+  {
+    "question": "What services will the Consultant provide to the Client?",
+    "answer": "The Consultant will provide the following services: Development of a comprehensive marketing strategy, Creation of a detailed business plan, Provision of ongoing consulting services",
+    "answer_paragraph": "This Consulting Services Agreement ('Agreement') is entered into on February 10, 2023, by and between GreenTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 ('Client'), and ExpertConsulting LLC, a California limited liability company with its principal place of business at 456 Elm Street, Othertown, CA 67890 ('Consultant')."
+  },
+  {
+    "question": "What is the monthly fee that the Client shall pay to the Consultant?",
+    "answer": "The Client shall pay the Consultant a monthly fee of $10,000, due on the 15th day of each month, commencing on March 15, 2023.",
+    "answer_paragraph": "This Consulting Services Agreement ('Agreement') is entered into on February 10, 2023, by and between GreenTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 ('Client'), and ExpertConsulting LLC, a California limited liability company with its principal place of business at 456 Elm Street, Othertown, CA 67890 ('Consultant')."
+  },
+  {
+    "question": "What are the key performance indicators (KPIs) that will be used to measure the success of the consulting services?",
+    "answer": "The following are the key performance indicators (KPIs) that will be used to measure the success of the consulting services: Increase in sales revenue by at least 15% within the first year, Improvement in customer satisfaction ratings by at least 20% within the first year, Reduction in operational costs by at least 10% within the first year",
+    "answer_paragraph": "This Consulting Services Agreement ('Agreement') is entered into on February 10, 2023, by and between GreenTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 ('Client'), and ExpertConsulting LLC, a California limited liability company with its principal place of business at 456 Elm Street, Othertown, CA 67890 ('Consultant')."
+  },
+  {
+    "question": "What is the minimum number of hours that the Consultant shall devote to the provision of services under this Agreement?",
+    "answer": "The Consultant shall devote a minimum of 20 hours per week to the provision of services under this Agreement.",
+    "answer_paragraph": "The Consultant agrees to provide the following services: Conduct market research and analysis to identify new business opportunities, Develop and implement a comprehensive marketing strategy, Provide ongoing consulting services to the Client, including but not limited to: Strategic planning, Operational improvement, Financial planning"
+  },
+  {
+    "question": "What expenses shall be reimbursed by the Client?",
+    "answer": "The following expenses shall be reimbursed by the Client: Travel expenses, Accommodation expenses, Meal expenses",
+    "answer_paragraph": "The Client shall pay the Consultant the following fees: A monthly fee of $10,000, due on the 15th day of each month, commencing on March 15, 2023, A one-time fee of $50,000, due on the signing of this Agreement"
+  },
+  {
+    "question": "What is the confidentiality obligation of the Consultant?",
+    "answer": "The Consultant shall not disclose any confidential information to any third party without the prior written consent of the Client",
+    "answer_paragraph": "The Consultant and the Client agree to maintain the confidentiality of all information disclosed under this Agreement, including but not limited to: Business strategies, Financial information, Customer lists"
+  },
+  {
+    "question": "What is the intellectual property obligation of the Consultant?",
+    "answer": "The Consultant retains all rights, title, and interest in and to any intellectual property developed under this Agreement, including but not limited to: Copyrights, Trademarks, Patents",
+    "answer_paragraph": "The Consultant retains all rights, title, and interest in and to any intellectual property developed under this Agreement, including but not limited to: Copyrights, Trademarks, Patents"
+  },
+  {
+    "question": "How may this Agreement be terminated?",
+    "answer": "This Agreement may be terminated by either party upon written notice to the other, as follows: Upon 30 days' notice, without cause, Immediately, in the event of a material breach by the other party",
+    "answer_paragraph": "This Agreement may be terminated by either party upon written notice to the other, as follows: Upon 30 days' notice, without cause, Immediately, in the event of a material breach by the other party"
+  },
+  {
+    "question": "What law shall govern this Agreement?",
+    "answer": "This Agreement shall be governed by and construed in accordance with the laws of the State of California, without giving effect to any principles of conflicts of law.",
+    "answer_paragraph": "This Agreement shall be governed by and construed in accordance with the laws of the State of California, without giving effect to any principles of conflicts of law."
+  }
+]

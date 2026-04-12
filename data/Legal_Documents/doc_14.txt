@@ -1,0 +1,114 @@
+
+   Data Processing Agreement
+
+   This Data Processing Agreement ('Agreement') is entered into on February 10, 2023 ('Effective Date') by and between:
+
+   * NovaTech Inc., a corporation organized under the laws of the State of Delaware, with its principal place of business at 123 Main Street, Wilmington, DE 19801 ('Data Controller')
+   * ProxiData LLC, a limited liability company organized under the laws of the State of California, with its principal place of business at 456 Elm Street, San Francisco, CA 94105 ('Data Processor')
+
+   Recitals:
+
+   * The Data Controller is engaged in the business of providing software solutions to its clients.
+   * The Data Processor is engaged in the business of providing data processing services to its clients.
+   * The Data Controller wishes to engage the Data Processor to provide data processing services in connection with the Data Controller's business.
+
+   1. Definitions
+
+   For the purposes of this Agreement, the following definitions shall apply:
+   * 'Personal Data' means any information relating to an identified or identifiable natural person ('Data Subject').
+   * 'Processing' means any operation or set of operations which is performed on Personal Data or on sets of Personal Data, whether or not by automated means.
+   * 'Data Protection Laws' means all applicable laws and regulations relating to the protection of Personal Data, including the General Data Protection Regulation ('GDPR') and the California Consumer Privacy Act ('CCPA').
+
+   2. Scope of Processing
+
+   The Data Processor shall provide data processing services to the Data Controller as follows:
+   * The Data Processor shall process Personal Data on behalf of the Data Controller for the purpose of providing software solutions to the Data Controller's clients.
+   * The Data Processor shall process the following types of Personal Data:
+     + Name
+     + Address
+     + Email address
+     + Phone number
+   * The Data Processor shall process Personal Data for the following purposes:
+     + To provide software solutions to the Data Controller's clients
+     + To respond to inquiries from the Data Controller's clients
+     + To improve the Data Controller's software solutions
+
+   3. Obligations of the Data Processor
+
+   The Data Processor shall:
+   * Process Personal Data only on the documented instructions of the Data Controller.
+   * Ensure that all personnel authorized to process Personal Data have committed to confidentiality.
+   * Implement and maintain appropriate technical and organizational measures to protect Personal Data against unauthorized or unlawful processing and against accidental loss, destruction, or damage.
+   * Notify the Data Controller without undue delay in the event of a Personal Data breach.
+
+   4. Obligations of the Data Controller
+
+   The Data Controller shall:
+   * Provide the Data Processor with all necessary information and documentation to enable the Data Processor to perform its obligations under this Agreement.
+   * Ensure that it has obtained all necessary consents and permissions from Data Subjects to allow the Data Processor to process Personal Data.
+   * Notify the Data Processor of any changes to the Personal Data or the purposes for which it is processed.
+
+   5. Security Measures
+
+   The Data Processor shall implement and maintain the following security measures to protect Personal Data:
+   * Encryption of Personal Data in transit and at rest
+   * Access controls, including multi-factor authentication
+   * Regular security audits and penetration testing
+   * Incident response plan in the event of a Personal Data breach
+
+   6. Data Subject Rights
+
+   The Data Processor shall:
+   * Respond to requests from Data Subjects to exercise their rights under the Data Protection Laws.
+   * Provide the Data Controller with all necessary information and assistance to enable the Data Controller to respond to requests from Data Subjects.
+
+   7. Term and Termination
+
+   This Agreement shall commence on the Effective Date and shall continue in effect until terminated by either party with thirty (30) days' written notice to the other party.
+   * Upon termination of this Agreement, the Data Processor shall:
+     + Return all Personal Data to the Data Controller.
+     + Delete all Personal Data from its systems.
+   * The Data Processor shall provide the Data Controller with a certificate of destruction of Personal Data upon request.
+
+   8. Liability and Indemnification
+
+   The Data Processor shall be liable for any damages or losses suffered by the Data Controller as a result of the Data Processor's breach of this Agreement.
+   * The Data Processor shall indemnify and hold harmless the Data Controller against any claims, demands, or actions brought by a third party against the Data Controller as a result of the Data Processor's breach of this Agreement.
+
+   9. Governing Law and Jurisdiction
+
+   This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware.
+   * Any disputes arising out of or in connection with this Agreement shall be resolved through arbitration in accordance with the rules of the American Arbitration Association.
+
+   10. Entire Agreement
+
+   This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous agreements or understandings.
+   * This Agreement may not be amended or modified except in writing signed by both parties.
+
+   By signing below, the parties acknowledge that they have read, understand, and agree to be bound by the terms and conditions of this Agreement.
+
+   NovaTech Inc.
+   By: ______________________________
+   Title: ______________________________
+   Date: February 10, 2023
+
+   ProxiData LLC
+   By: ______________________________
+   Title: ______________________________
+   Date: February 10, 2023
+
+   Appendices:
+   * Appendix A: List of authorized personnel
+   * Appendix B: Incident response plan
+   * Appendix C: Security audit report
+
+   The following appendices are attached to this Agreement and are incorporated herein by reference:
+   * Appendix A:
+     + John Smith, Chief Information Security Officer
+     + Jane Doe, Data Protection Officer
+   * Appendix B:
+     + Incident response plan, dated January 1, 2023
+   * Appendix C:
+     + Security audit report, dated December 31, 2022
+
+   

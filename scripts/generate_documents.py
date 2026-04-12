@@ -57,44 +57,44 @@ DOMAINS = {
     #     "debt management report", "insurance coverage summary",
     #     "grant utilization report", "financial restatement notice"
     # ],
-    # "Legal_Documents": [
-    #     "software service agreement", "data privacy policy",
-    #     "terms of service document", "vendor contract agreement",
-    #     "non-disclosure agreement", "employment contract",
-    #     "intellectual property assignment agreement", "liability waiver",
-    #     "lease agreement for office space", "consulting services agreement",
-    #     "partnership agreement", "shareholder agreement",
-    #     "end user license agreement", "data processing agreement",
-    #     "subcontractor agreement", "settlement agreement",
-    #     "letter of intent", "memorandum of understanding",
-    #     "software license agreement", "master service agreement",
-    #     "indemnification agreement", "purchase order terms",
-    #     "freelancer contract", "SLA service level agreement",
-    #     "content licensing agreement", "marketing partnership agreement",
-    #     "affiliate agreement", "customer data agreement",
-    #     "open source contribution agreement", "research collaboration agreement"
-    # ],
-    "General_Business": [
-        "project proposal document", "business strategy document",
-        "meeting minutes report", "company handbook section",
-        "product roadmap document", "market analysis report",
-        "competitor analysis document", "customer success plan",
-        "onboarding guide for new employees", "team OKR document",
-        "stakeholder communication plan", "change management plan",
-        "risk management plan", "business continuity plan",
-        "go-to-market strategy document", "product requirements document",
-        "user research findings report", "operational efficiency report",
-        "partnership proposal document", "customer feedback analysis",
-        "brand guidelines document", "crisis communication plan",
-        "sustainability report", "diversity and inclusion report",
-        "quarterly business review document", "sales playbook",
-        "customer journey map document", "event planning document",
-        "vendor evaluation report", "internal audit report"
-    ]
+    "Legal_Documents": [
+        "software service agreement", "data privacy policy",
+        "terms of service document", "vendor contract agreement",
+        "non-disclosure agreement", "employment contract",
+        "intellectual property assignment agreement", "liability waiver",
+        "lease agreement for office space", "consulting services agreement",
+        "partnership agreement", "shareholder agreement",
+        "end user license agreement", "data processing agreement",
+        "subcontractor agreement", "settlement agreement",
+        "letter of intent", "memorandum of understanding",
+        "software license agreement", "master service agreement",
+        "indemnification agreement", "purchase order terms",
+        "freelancer contract", "SLA service level agreement",
+        "content licensing agreement", "marketing partnership agreement",
+        "affiliate agreement", "customer data agreement",
+        "open source contribution agreement", "research collaboration agreement"
+    ],
+    # "General_Business": [
+    #     "project proposal document", "business strategy document",
+    #     "meeting minutes report", "company handbook section",
+    #     "product roadmap document", "market analysis report",
+    #     "competitor analysis document", "customer success plan",
+    #     "onboarding guide for new employees", "team OKR document",
+    #     "stakeholder communication plan", "change management plan",
+    #     "risk management plan", "business continuity plan",
+    #     "go-to-market strategy document", "product requirements document",
+    #     "user research findings report", "operational efficiency report",
+    #     "partnership proposal document", "customer feedback analysis",
+    #     "brand guidelines document", "crisis communication plan",
+    #     "sustainability report", "diversity and inclusion report",
+    #     "quarterly business review document", "sales playbook",
+    #     "customer journey map document", "event planning document",
+    #     "vendor evaluation report", "internal audit report"
+    # ]
 }
 
-STRUCTURES = ["header-heavy", "prose-heavy", "bullet-heavy", "table-heavy", "mixed"]
-LENGTHS = [500, 800, 1000, 1200, 1500]
+STRUCTURES = ["prose-heavy", "bullet-heavy", "table-heavy", "mixed"]
+LENGTHS = [800, 1000, 1200,1300, 1500]
 
 # ── Prompt ─────────────────────────────────────────────────────────────────────
 def build_prompt(domain, doc_type, length, structure):
@@ -106,7 +106,6 @@ Target length: {length} words
 Structure style: {structure}
 
 Structure styles:
-- "header-heavy": many section headers and subheaders throughout
 - "prose-heavy": mostly flowing paragraphs, minimal headers
 - "bullet-heavy": extensive bullet points and numbered lists
 - "table-heavy": multiple tables with realistic data

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the term of the Master Service Agreement?",
+    "answer": "The term of this Agreement shall commence on the Effective Date and continue for a period of three (3) years.",
+    "answer_paragraph": "This Master Service Agreement ('Agreement') is entered into on February 10, 2023, by and between Azure Technologies, Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 ('Azure'), and Nova Spire LLC, a California limited liability company with its principal place of business at 456 Elm Street, Othertown, CA 67890 ('Nova Spire'). The parties agree to be bound by the terms and conditions of this Agreement. The term of this Agreement shall commence on the Effective Date and continue for a period of three (3) years."
+  },
+  {
+    "question": "What is the pricing for the services provided under the Agreement for the first two years?",
+    "answer": "$100,000 per year for the first two years",
+    "answer_paragraph": "The pricing for the services to be provided under this Agreement is as follows: $100,000 per year for the first two years, and $120,000 per year for each subsequent year."
+  },
+  {
+    "question": "What information must Azure include in the invoice provided to Nova Spire?",
+    "answer": "a description of the services provided, the dates the services were provided, and the total amount due",
+    "answer_paragraph": "Azure shall provide Nova Spire with a detailed invoice that includes the following: (1) a description of the services provided, (2) the dates the services were provided, and (3) the total amount due."
+  },
+  {
+    "question": "What are the key services to be provided by Azure under the Agreement?",
+    "answer": "consulting services, technology services, training services",
+    "answer_paragraph": "The services to be provided by Azure under this Agreement are outlined below: Some of the key services include: - Consulting services: Azure shall provide Nova Spire with consulting services related to the development and implementation of Nova Spire's business strategy."
+  },
+  {
+    "question": "What are the start and end dates for the consulting services?",
+    "answer": "March 1, 2023, June 30, 2023",
+    "answer_paragraph": "The following table outlines the timeline for the services: | Service | Start Date | End Date | | --- | --- | --- | | Consulting services | March 1, 2023 | June 30, 2023 |"
+  },
+  {
+    "question": "Who is the key contact for Nova Spire?",
+    "answer": "Jane Smith, CFO, (555) 901-2345, janesmith@novaspire.com",
+    "answer_paragraph": "The following are the key contacts for each party: - For Azure: John Doe, CEO, (555) 123-4567, johndoe@azuretech.com - For Nova Spire: Jane Smith, CFO, (555) 901-2345, janesmith@novaspire.com"
+  },
+  {
+    "question": "What is the notice period for termination of the Agreement?",
+    "answer": "thirty (30) days prior to the end of the then-current term",
+    "answer_paragraph": "Upon expiration of the initial term, this Agreement shall automatically renew for successive one-year periods unless either party gives written notice of termination at least thirty (30) days prior to the end of the then-current term."
+  },
+  {
+    "question": "What laws and regulations must the parties comply with?",
+    "answer": "all applicable laws and regulations, including but not limited to, the General Data Protection Regulation ('GDPR') and the California Consumer Privacy Act ('CCPA')",
+    "answer_paragraph": "The parties agree to comply with all applicable laws and regulations, including but not limited to, the General Data Protection Regulation ('GDPR') and the California Consumer Privacy Act ('CCPA')."
+  },
+  {
+    "question": "How must notices or communications be delivered under the Agreement?",
+    "answer": "in writing and shall be delivered personally or sent by certified mail, return receipt requested",
+    "answer_paragraph": "Any notices or communications required or permitted to be given under this Agreement shall be in writing and shall be delivered personally or sent by certified mail, return receipt requested, to the address of the other party set forth above."
+  },
+  {
+    "question": "When was the Agreement executed?",
+    "answer": "February 10, 2023",
+    "answer_paragraph": "In witness whereof, the parties have executed this Agreement as of the date first above written. Azure Technologies, Inc. By: /s/ John Doe Title: CEO Date: February 10, 2023"
+  }
+]

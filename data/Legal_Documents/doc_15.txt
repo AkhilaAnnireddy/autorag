@@ -1,0 +1,68 @@
+
+   SUBCONTRACTOR AGREEMENT
+
+   This Subcontractor Agreement ('Agreement') is made and entered into on February 10, 2023 ('Effective Date'), by and between GreenTech Construction Inc. ('Contractor'), a corporation with its principal place of business at 123 Main Street, Anytown, CA 12345, and EcoBuild Subcontracting ('Subcontractor'), a corporation with its principal place of business at 456 Elm Street, Othertown, CA 67890.
+
+   Table 1: Project Overview
+   | Project Name | Project Location | Project Duration | Total Contract Price |
+   | --- | --- | --- | --- |
+   | Downtown Revitalization | 901 Broadway, Anytown, CA | 24 months | $10,000,000 |
+   | Oakwood Residential | 789 Oakwood Drive, Othertown, CA | 18 months | $8,000,000 |
+   | Green Park Development | 321 Park Avenue, Anytown, CA | 30 months | $12,000,000 |
+
+   1. Scope of Work
+   The Subcontractor shall provide all labor, materials, equipment, and services necessary to complete the work described in Table 2: Scope of Work.
+
+   Table 2: Scope of Work
+   | Task ID | Task Description | Estimated Hours | Rate per Hour |
+   | --- | --- | --- | --- |
+   | T001 | Site preparation and excavation | 500 hours | $50/hour |
+   | T002 | Foundation work | 800 hours | $75/hour |
+   | T003 | Framing and structural work | 1000 hours | $60/hour |
+
+   The Subcontractor shall commence work on March 1, 2023, and complete the work by August 31, 2024. The Subcontractor shall work a standard 8-hour day, 5 days a week, and shall not work on weekends or holidays without prior written approval from the Contractor.
+
+   Table 3: Payment Schedule
+   | Payment ID | Payment Date | Payment Amount |
+   | --- | --- | --- |
+   | P001 | April 15, 2023 | $500,000 |
+   | P002 | July 15, 2023 | $750,000 |
+   | P003 | October 15, 2023 | $1,000,000 |
+
+   2. Payment Terms
+   The Contractor shall pay the Subcontractor according to the payment schedule outlined in Table 3: Payment Schedule. The Subcontractor shall submit invoices to the Contractor on the 15th day of each month, and the Contractor shall pay the Subcontractor within 30 days of receipt of the invoice.
+
+   Table 4: Insurance Requirements
+   | Insurance Type | Policy Limit | Insurer |
+   | --- | --- | --- |
+   | Liability Insurance | $1,000,000 | Anytown Insurance Co. |
+   | Workers' Compensation Insurance | $500,000 | Othertown Insurance Co. |
+   | Property Insurance | $2,000,000 | GreenTech Insurance Co. |
+
+   The Subcontractor shall maintain the insurance coverage outlined in Table 4: Insurance Requirements throughout the term of this Agreement.
+
+   3. Termination
+   This Agreement may be terminated by either party upon 30 days' written notice to the other party. In the event of termination, the Subcontractor shall be paid for all work completed prior to the termination date, and the Contractor shall be responsible for all costs and expenses incurred by the Subcontractor in connection with the termination.
+
+   Table 5: Termination Fees
+   | Termination Reason | Termination Fee |
+   | --- | --- |
+   | Contractor default | $100,000 |
+   | Subcontractor default | $50,000 |
+   | Mutual agreement | $0 |
+
+   By signing below, the parties acknowledge that they have read, understand, and agree to be bound by the terms and conditions of this Agreement.
+
+   IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+   Contractor: GreenTech Construction Inc.
+   By: ______________________________
+   Title: ______________________________
+   Date: ______________________________
+
+   Subcontractor: EcoBuild Subcontracting
+   By: ______________________________
+   Title: ______________________________
+   Date: ______________________________
+
+   

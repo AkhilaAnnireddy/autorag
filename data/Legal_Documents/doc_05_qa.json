@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the term of the Non-Disclosure Agreement?",
+    "answer": "The term of this Agreement shall commence on the date first above written and shall continue for a period of two years.",
+    "answer_paragraph": "This Non-Disclosure Agreement ('Agreement') is entered into on February 10, 2023, by and between NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Wilmington, DE 19801 ('NovaTech'), and Eclipse Solutions, a California corporation with its principal place of business at 456 Elm Street, San Francisco, CA 94105 ('Eclipse'). The parties agree that they wish to exchange certain confidential and proprietary information ('Confidential Information') for the purpose of exploring a potential business relationship. In consideration of the mutual covenants contained herein, the parties agree as follows. The term of this Agreement shall commence on the date first above written and shall continue for a period of two years."
+  },
+  {
+    "question": "What is the name of the CEO of NovaTech Inc.?",
+    "answer": "John Smith",
+    "answer_paragraph": "NovaTech Inc. By: _____________________________ Name: John Smith Title: CEO Date: February 10, 2023 Eclipse Solutions By: _____________________________ Name: Jane Doe Title: President Date: February 10, 2023."
+  },
+  {
+    "question": "What is the annual revenue of Eclipse Solutions?",
+    "answer": "$10 million",
+    "answer_paragraph": "As of the date of this Agreement, Eclipse has 50 employees and annual revenues of $10 million. NovaTech has 200 employees and annual revenues of $50 million."
+  },
+  {
+    "question": "What is the purpose of the exchange of Confidential Information?",
+    "answer": "for the purpose of exploring a potential business relationship",
+    "answer_paragraph": "This Non-Disclosure Agreement ('Agreement') is entered into on February 10, 2023, by and between NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Wilmington, DE 19801 ('NovaTech'), and Eclipse Solutions, a California corporation with its principal place of business at 456 Elm Street, San Francisco, CA 94105 ('Eclipse'). The parties agree that they wish to exchange certain confidential and proprietary information ('Confidential Information') for the purpose of exploring a potential business relationship. In consideration of the mutual covenants contained herein, the parties agree as follows."
+  },
+  {
+    "question": "What law governs the interpretation of the Agreement?",
+    "answer": "the laws of the State of Delaware",
+    "answer_paragraph": "The parties agree that this Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without giving effect to any choice or conflict of law provision or rule."
+  },
+  {
+    "question": "How many patents are pending for NovaTech?",
+    "answer": "10",
+    "answer_paragraph": "As of the date of this Agreement, NovaTech has a total of 10 patents pending, and Eclipse has a total of 5 patents pending."
+  },
+  {
+    "question": "What is the name of the President of Eclipse Solutions?",
+    "answer": "Jane Doe",
+    "answer_paragraph": "NovaTech Inc. By: _____________________________ Name: John Smith Title: CEO Date: February 10, 2023 Eclipse Solutions By: _____________________________ Name: Jane Doe Title: President Date: February 10, 2023."
+  },
+  {
+    "question": "What is the total number of shareholders of NovaTech?",
+    "answer": "500",
+    "answer_paragraph": "As of the date of this Agreement, NovaTech has a total of 500 shareholders, and Eclipse has a total of 100 shareholders."
+  },
+  {
+    "question": "What is the date on which NovaTech filed a patent application with the United States Patent and Trademark Office?",
+    "answer": "January 1, 2022",
+    "answer_paragraph": "On January 1, 2022, NovaTech filed a patent application with the United States Patent and Trademark Office for a new software product, and the details of this application are considered Confidential Information under this Agreement."
+  },
+  {
+    "question": "What is the timeframe for negotiating a definitive agreement regarding a potential business relationship?",
+    "answer": "90 days",
+    "answer_paragraph": "The parties agree to negotiate in good faith to reach a definitive agreement regarding a potential business relationship within 90 days of the date of this Agreement."
+  }
+]

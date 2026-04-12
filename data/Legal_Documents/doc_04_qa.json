@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the term of the agreement and when does it commence?",
+    "answer": "The term of this Agreement shall commence on the Effective Date and continue for a period of two (2) years, unless terminated earlier in accordance with Section 10 below.",
+    "answer_paragraph": "This Vendor Contract Agreement ('Agreement') is entered into on February 10, 2023 ('Effective Date'), by and between GreenTech Solutions Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 ('GreenTech'), and BlueSky Software LLC, a California limited liability company with its principal place of business at 456 Elm Street, Othertown, CA 67890 ('BlueSky'). The parties agree as follows: GreenTech desires to engage BlueSky as a vendor to provide certain software development services, and BlueSky is willing to provide such services, all as described in Exhibit A attached hereto. The term of this Agreement shall commence on the Effective Date and continue for a period of two (2) years, unless terminated earlier in accordance with Section 10 below."
+  },
+  {
+    "question": "What is the total compensation that GreenTech shall pay to BlueSky?",
+    "answer": "As compensation for the services to be provided by BlueSky, GreenTech shall pay BlueSky a total of $500,000, payable as follows: $100,000 upon execution of this Agreement, $200,000 upon completion of the development phase, and $200,000 upon completion of the deployment phase.",
+    "answer_paragraph": "Section 3: Compensation. As compensation for the services to be provided by BlueSky, GreenTech shall pay BlueSky a total of $500,000, payable as follows: $100,000 upon execution of this Agreement, $200,000 upon completion of the development phase, and $200,000 upon completion of the deployment phase."
+  },
+  {
+    "question": "What are the key performance indicators that BlueSky must meet?",
+    "answer": "The following are the key performance indicators (KPIs) that BlueSky must meet: \n   - On-time delivery of 95% or higher, \n   - Customer satisfaction rating of 90% or higher, \n   - Defect density of 0.5 or lower.",
+    "answer_paragraph": "Section 1: Definitions. For purposes of this Agreement, the following definitions shall apply: 'Confidential Information' means all information, whether written or oral, that is disclosed by one party to the other party, including but not limited to trade secrets, technical data, business plans, and customer lists. 'Deliverables' means the software, documentation, and other materials to be delivered by BlueSky to GreenTech under this Agreement, as described in Exhibit A. The following are the key performance indicators (KPIs) that BlueSky must meet: \n   - On-time delivery of 95% or higher, \n   - Customer satisfaction rating of 90% or higher, \n   - Defect density of 0.5 or lower."
+  },
+  {
+    "question": "What are the services that BlueSky shall provide under this agreement?",
+    "answer": "BlueSky shall provide the services described in Exhibit A, which includes but is not limited to: \n   1. Development of the software application, \n   2. Testing and quality assurance, \n   3. Deployment and maintenance.",
+    "answer_paragraph": "Section 2: Services. BlueSky shall provide the services described in Exhibit A, which includes but is not limited to: \n   1. Development of the software application, \n   2. Testing and quality assurance, \n   3. Deployment and maintenance."
+  },
+  {
+    "question": "What is the timeline for the project?",
+    "answer": "The following table summarizes the timeline for the project: \n   | Task | Start Date | End Date | \n   | --- | --- | --- | \n   | Development | 2023-02-15 | 2023-05-15 | \n   | Testing | 2023-05-16 | 2023-06-15 | \n   | Deployment | 2023-06-16 | 2023-06-30 |",
+    "answer_paragraph": "Section 2: Services. BlueSky shall provide the services described in Exhibit A, which includes but is not limited to: \n   1. Development of the software application, \n   2. Testing and quality assurance, \n   3. Deployment and maintenance. \n   The following table summarizes the timeline for the project: \n   | Task | Start Date | End Date | \n   | --- | --- | --- | \n   | Development | 2023-02-15 | 2023-05-15 | \n   | Testing | 2023-05-16 | 2023-06-15 | \n   | Deployment | 2023-06-16 | 2023-06-30 |"
+  },
+  {
+    "question": "What are the payment terms?",
+    "answer": "The payment schedule is as follows: \n   - Payment 1: $100,000 due on February 10, 2023, \n   - Payment 2: $200,000 due on May 15, 2023, \n   - Payment 3: $200,000 due on June 30, 2023.",
+    "answer_paragraph": "Section 3: Compensation. As compensation for the services to be provided by BlueSky, GreenTech shall pay BlueSky a total of $500,000, payable as follows: $100,000 upon execution of this Agreement, $200,000 upon completion of the development phase, and $200,000 upon completion of the deployment phase. The payment schedule is as follows: \n   - Payment 1: $100,000 due on February 10, 2023, \n   - Payment 2: $200,000 due on May 15, 2023, \n   - Payment 3: $200,000 due on June 30, 2023."
+  },
+  {
+    "question": "What are the confidentiality obligations?",
+    "answer": "The following are the confidentiality obligations: \n   * BlueSky shall not disclose GreenTech's Confidential Information to any third party, \n   * GreenTech shall not disclose BlueSky's Confidential Information to any third party.",
+    "answer_paragraph": "Section 4: Confidentiality. Each party agrees to maintain the confidentiality of the other party's Confidential Information and to use such Confidential Information only for the purposes of this Agreement. The following are the confidentiality obligations: \n   * BlueSky shall not disclose GreenTech's Confidential Information to any third party, \n   * GreenTech shall not disclose BlueSky's Confidential Information to any third party."
+  },
+  {
+    "question": "What are the intellectual property rights assigned to GreenTech?",
+    "answer": "The following are the intellectual property rights: \n   + Copyrights, \n   + Patents, \n   + Trademarks.",
+    "answer_paragraph": "Section 5: Intellectual Property. BlueSky hereby assigns to GreenTech all right, title, and interest in and to the Deliverables, including but not limited to all intellectual property rights therein. The following are the intellectual property rights: \n   + Copyrights, \n   + Patents, \n   + Trademarks."
+  },
+  {
+    "question": "What is the warranty period for the Deliverables?",
+    "answer": "BlueSky warrants that the Deliverables shall be free from defects in material and workmanship for a period of one (1) year from the date of delivery.",
+    "answer_paragraph": "Section 6: Warranties. BlueSky warrants that the Deliverables shall be free from defects in material and workmanship for a period of one (1) year from the date of delivery."
+  },
+  {
+    "question": "How shall disputes be resolved?",
+    "answer": "Any disputes arising out of or related to this Agreement shall be resolved through arbitration in accordance with the rules of the American Arbitration Association.",
+    "answer_paragraph": "Section 9: Dispute Resolution. Any disputes arising out of or related to this Agreement shall be resolved through arbitration in accordance with the rules of the American Arbitration Association."
+  }
+]

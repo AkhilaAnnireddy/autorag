@@ -1,0 +1,58 @@
+
+   MARKETING PARTNERSHIP AGREEMENT
+
+   This Marketing Partnership Agreement ('Agreement') is made and entered into on February 10, 2023 ('Effective Date'), by and between OmniTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, New York, NY 10001 ('OmniTech'), and MarketPro LLC, a California limited liability company with its principal place of business at 456 Elm Street, San Francisco, CA 94105 ('MarketPro').
+
+   The parties agree to the following terms and conditions:
+   * The term of this Agreement shall commence on the Effective Date and continue for a period of two (2) years, unless terminated earlier in accordance with Section 10.
+   * The parties shall work together to develop and implement a comprehensive marketing strategy, which shall include, but not be limited to:
+     + Social media campaigns on Facebook, Twitter, and LinkedIn
+     + Email marketing campaigns to a minimum of 10,000 subscribers
+     + Sponsorship of at least two (2) industry events per year
+   * MarketPro shall provide OmniTech with a minimum of 500 leads per quarter, with a conversion rate of at least 20%
+   * OmniTech shall pay MarketPro a fee of $50,000 per quarter, due and payable within thirty (30) days of receipt of invoice
+
+   Responsibilities of OmniTech:
+   * Provide MarketPro with all necessary marketing materials, including but not limited to logos, product descriptions, and press releases
+   * Ensure that all marketing campaigns are compliant with applicable laws and regulations, including but not limited to the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA)
+   * Provide MarketPro with a dedicated point of contact for all marketing-related matters
+
+   Responsibilities of MarketPro:
+   * Develop and implement a comprehensive marketing strategy, in accordance with the terms and conditions of this Agreement
+   * Provide OmniTech with regular progress reports, including but not limited to lead generation, conversion rates, and campaign ROI
+   * Ensure that all marketing campaigns are compliant with applicable laws and regulations, including but not limited to the GDPR and CCPA
+
+   Intellectual Property:
+   * All intellectual property rights in and to any marketing materials, including but not limited to logos, product descriptions, and press releases, shall remain the property of OmniTech
+   * MarketPro shall not use any of OmniTech's intellectual property for any purpose other than as explicitly authorized in this Agreement
+
+   Confidentiality:
+   * The parties agree to keep confidential all information and materials exchanged between them, including but not limited to business plans, financial projections, and customer lists
+   * The parties shall ensure that all employees, contractors, and agents who have access to confidential information are bound by confidentiality agreements
+
+   Termination:
+   * This Agreement may be terminated by either party upon written notice to the other, in the event of a material breach of this Agreement that is not cured within thirty (30) days
+   * Upon termination, MarketPro shall return all confidential information and materials to OmniTech, and OmniTech shall pay MarketPro all outstanding fees due and payable
+
+   Governing Law:
+   * This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without giving effect to any principles of conflicts of law
+   * Any disputes arising out of or related to this Agreement shall be resolved through binding arbitration, in accordance with the rules of the American Arbitration Association
+
+   Entire Agreement:
+   * This Agreement constitutes the entire agreement between the parties, and supersedes all prior negotiations, understandings, and agreements between the parties
+   * This Agreement may not be amended or modified, except in writing signed by both parties
+
+   By signing below, the parties acknowledge that they have read, understand, and agree to be bound by the terms and conditions of this Agreement.
+
+   IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+   OmniTech Inc.
+   By: /s/ John Smith
+   Title: CEO
+   Date: February 10, 2023
+
+   MarketPro LLC
+   By: /s/ Jane Doe
+   Title: President
+   Date: February 10, 2023
+   

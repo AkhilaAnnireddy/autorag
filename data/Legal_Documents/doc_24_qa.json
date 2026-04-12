@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the term of this SLA?",
+    "answer": "The term of this SLA shall commence on February 10, 2023, and continue for a period of two years, unless otherwise terminated in accordance with the terms of this Agreement.",
+    "answer_paragraph": "This Service Level Agreement (SLA) is entered into on February 10, 2023, by and between NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 (\"NovaTech\"), and Apex Solutions, a California corporation with its principal place of business at 456 Elm Street, Othertown, CA 67890 (\"Apex\"). The purpose of this SLA is to establish the service level expectations for the provision of managed IT services by NovaTech to Apex. The term of this SLA shall commence on February 10, 2023, and continue for a period of two years, unless otherwise terminated in accordance with the terms of this Agreement."
+  },
+  {
+    "question": "What is the target for System Uptime?",
+    "answer": "99.95%",
+    "answer_paragraph": "The following table outlines the service level targets for each metric: \n\n| Metric | Target | \n| --- | --- | \n| System Uptime | 99.95% | \n| System Response Time | 2 seconds | \n| Network Uptime | 99.99% | \n| Help Desk Response Time | 1 hour |"
+  },
+  {
+    "question": "Who is the NovaTech Account Manager?",
+    "answer": "John Doe",
+    "answer_paragraph": "The following are the key contacts for this SLA: \n\n * John Doe, NovaTech Account Manager, (555) 123-4567, johndoe@novatech.com \n * Jane Smith, Apex IT Manager, (555) 901-2345, janesmith@apexsolutions.com"
+  },
+  {
+    "question": "What is the monthly recurring charge for the managed IT services?",
+    "answer": "$10,000",
+    "answer_paragraph": "The following are the payment terms for the managed IT services: \n\n * Monthly recurring charges: $10,000 \n * One-time setup fee: $5,000"
+  },
+  {
+    "question": "How often will NovaTech provide Apex with a report detailing the service level performance?",
+    "answer": "within 10 business days of the end of each month",
+    "answer_paragraph": "NovaTech shall provide Apex with a monthly report detailing the service level performance for the preceding month. The report shall include the following information: \n\n * System Uptime \n * System Response Time \n * Network Uptime \n * Help Desk Response Time \n\n The report shall be provided to Apex within 10 business days of the end of each month."
+  },
+  {
+    "question": "What is the response time for critical issues?",
+    "answer": "30 minutes",
+    "answer_paragraph": "The following are the terms and conditions of the managed IT services to be provided by NovaTech: \n\n 1. Service Hours: 24x7 \n\n 2. Support Channels: phone, email, web portal \n\n 3. Response Times: \n\n * Critical: 30 minutes \n * High: 1 hour \n * Medium: 2 hours \n * Low: 4 hours"
+  },
+  {
+    "question": "What is the one-time setup fee for the managed IT services?",
+    "answer": "$5,000",
+    "answer_paragraph": "The following are the payment terms for the managed IT services: \n\n * Monthly recurring charges: $10,000 \n * One-time setup fee: $5,000"
+  },
+  {
+    "question": "What is the target for Network Uptime?",
+    "answer": "99.99%",
+    "answer_paragraph": "The following table outlines the service level targets for each metric: \n\n| Metric | Target | \n| --- | --- | \n| System Uptime | 99.95% | \n| System Response Time | 2 seconds | \n| Network Uptime | 99.99% | \n| Help Desk Response Time | 1 hour |"
+  },
+  {
+    "question": "Who is the Apex IT Manager?",
+    "answer": "Jane Smith",
+    "answer_paragraph": "The following are the key contacts for this SLA: \n\n * John Doe, NovaTech Account Manager, (555) 123-4567, johndoe@novatech.com \n * Jane Smith, Apex IT Manager, (555) 901-2345, janesmith@apexsolutions.com"
+  },
+  {
+    "question": "What is the credit for System Uptime below 99%?",
+    "answer": "1% of monthly recurring charges",
+    "answer_paragraph": "In the event of a service level failure, NovaTech shall provide Apex with a credit against future invoices as follows: \n\n * 1% of monthly recurring charges for System Uptime below 99% \n * $100 for each hour of System Response Time above 5 seconds \n * 2% of monthly recurring charges for Network Uptime below 99% \n * $50 for each hour of Help Desk Response Time above 2 hours"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the project duration for the Downtown Revitalization project?",
+    "answer": "24 months",
+    "answer_paragraph": "Table 1: Project Overview | Project Name | Project Location | Project Duration | Total Contract Price | | --- | --- | --- | --- | | Downtown Revitalization | 901 Broadway, Anytown, CA | 24 months | $10,000,000 |"
+  },
+  {
+    "question": "What is the estimated number of hours for task T002?",
+    "answer": "800 hours",
+    "answer_paragraph": "Table 2: Scope of Work | Task ID | Task Description | Estimated Hours | Rate per Hour | | --- | --- | --- | --- | | T001 | Site preparation and excavation | 500 hours | $50/hour | | T002 | Foundation work | 800 hours | $75/hour |"
+  },
+  {
+    "question": "What is the payment amount for payment P002?",
+    "answer": "$750,000",
+    "answer_paragraph": "Table 3: Payment Schedule | Payment ID | Payment Date | Payment Amount | | --- | --- | --- | | P001 | April 15, 2023 | $500,000 | | P002 | July 15, 2023 | $750,000 |"
+  },
+  {
+    "question": "What is the policy limit for liability insurance?",
+    "answer": "$1,000,000",
+    "answer_paragraph": "Table 4: Insurance Requirements | Insurance Type | Policy Limit | Insurer | | --- | --- | --- | | Liability Insurance | $1,000,000 | Anytown Insurance Co. |"
+  },
+  {
+    "question": "What is the termination fee for contractor default?",
+    "answer": "$100,000",
+    "answer_paragraph": "Table 5: Termination Fees | Termination Reason | Termination Fee | | --- | --- | | Contractor default | $100,000 |"
+  },
+  {
+    "question": "What is the total contract price for the Oakwood Residential project?",
+    "answer": "$8,000,000",
+    "answer_paragraph": "Table 1: Project Overview | Project Name | Project Location | Project Duration | Total Contract Price | | --- | --- | --- | --- | | Downtown Revitalization | 901 Broadway, Anytown, CA | 24 months | $10,000,000 | | Oakwood Residential | 789 Oakwood Drive, Othertown, CA | 18 months | $8,000,000 |"
+  },
+  {
+    "question": "What is the rate per hour for task T003?",
+    "answer": "$60/hour",
+    "answer_paragraph": "Table 2: Scope of Work | Task ID | Task Description | Estimated Hours | Rate per Hour | | --- | --- | --- | --- | | T001 | Site preparation and excavation | 500 hours | $50/hour | | T002 | Foundation work | 800 hours | $75/hour | | T003 | Framing and structural work | 1000 hours | $60/hour |"
+  },
+  {
+    "question": "What is the payment date for payment P003?",
+    "answer": "October 15, 2023",
+    "answer_paragraph": "Table 3: Payment Schedule | Payment ID | Payment Date | Payment Amount | | --- | --- | --- | | P001 | April 15, 2023 | $500,000 | | P002 | July 15, 2023 | $750,000 | | P003 | October 15, 2023 | $1,000,000 |"
+  },
+  {
+    "question": "What is the insurer for workers' compensation insurance?",
+    "answer": "Othertown Insurance Co.",
+    "answer_paragraph": "Table 4: Insurance Requirements | Insurance Type | Policy Limit | Insurer | | --- | --- | --- | | Liability Insurance | $1,000,000 | Anytown Insurance Co. | | Workers' Compensation Insurance | $500,000 | Othertown Insurance Co. |"
+  },
+  {
+    "question": "What is the project location for the Green Park Development project?",
+    "answer": "321 Park Avenue, Anytown, CA",
+    "answer_paragraph": "Table 1: Project Overview | Project Name | Project Location | Project Duration | Total Contract Price | | --- | --- | --- | --- | | Downtown Revitalization | 901 Broadway, Anytown, CA | 24 months | $10,000,000 | | Oakwood Residential | 789 Oakwood Drive, Othertown, CA | 18 months | $8,000,000 | | Green Park Development | 321 Park Avenue, Anytown, CA | 30 months | $12,000,000 |"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the principal place of business of the partnership?",
+    "answer": "123 Main Street, New York, NY 10001",
+    "answer_paragraph": "This Partnership Agreement ('Agreement') is made and entered into on February 10, 2023 ('Effective Date'), by and between Jackson Smith ('Partner A') and Emily Lee ('Partner B'), collectively referred to as ('Partners'). The principal place of business of the partnership shall be 123 Main Street, New York, NY 10001."
+  },
+  {
+    "question": "What is the initial investment amount?",
+    "answer": "$100,000",
+    "answer_paragraph": "Table 1: Partnership Details | Category | Description | Value | | --- | --- | --- | | Partnership Name | Smith & Lee Partnership | - | | Business Type | Limited Liability Partnership | - | | Initial Investment | $100,000 | - | | Profit Sharing Ratio | 50:50 | - |"
+  },
+  {
+    "question": "What is the payment date for Emily Lee's initial capital contribution?",
+    "answer": "February 15, 2023",
+    "answer_paragraph": "Table 2: Initial Capital Contributions | Partner | Contribution Amount | Payment Date | | --- | --- | --- | | Jackson Smith | $50,000 | February 15, 2023 | | Emily Lee | $50,000 | February 15, 2023 |"
+  },
+  {
+    "question": "What are Jackson Smith's management responsibilities?",
+    "answer": "Financial Management, Client Acquisition",
+    "answer_paragraph": "Table 3: Management Responsibilities | Partner | Responsibilities | | --- | --- | | Jackson Smith | Financial Management, Client Acquisition | | Emily Lee | Marketing, Human Resources |"
+  },
+  {
+    "question": "What is the resolution method for financial disputes?",
+    "answer": "Arbitration",
+    "answer_paragraph": "Table 4: Dispute Resolution | Dispute Type | Resolution Method | | --- | --- | | Financial Disputes | Arbitration | | Operational Disputes | Mediation |"
+  },
+  {
+    "question": "What is the coverage amount for liability insurance?",
+    "answer": "$500,000",
+    "answer_paragraph": "Table 5: Insurance Coverage | Type of Insurance | Coverage Amount | | --- | --- | | Liability Insurance | $500,000 | | Property Insurance | $200,000 |"
+  },
+  {
+    "question": "What is the approval requirement for minor amendments?",
+    "answer": "Written consent of both Partners",
+    "answer_paragraph": "Table 6: Amendment Procedure | Amendment Type | Approval Requirement | | --- | --- | | Minor Amendments | Written consent of both Partners | | Major Amendments | Unanimous vote of both Partners |"
+  },
+  {
+    "question": "What is the date of signing of the partnership agreement?",
+    "answer": "February 10, 2023",
+    "answer_paragraph": "By signing below, the Partners acknowledge that they have read, understand, and agree to be bound by the terms and conditions of this Agreement. Signed on behalf of Jackson Smith: ________________________ Signed on behalf of Emily Lee: ________________________ Date: February 10, 2023"
+  },
+  {
+    "question": "What type of business is the partnership?",
+    "answer": "Limited Liability Partnership",
+    "answer_paragraph": "Table 1: Partnership Details | Category | Description | Value | | --- | --- | --- | | Partnership Name | Smith & Lee Partnership | - | | Business Type | Limited Liability Partnership | - | | Initial Investment | $100,000 | - | | Profit Sharing Ratio | 50:50 | - |"
+  },
+  {
+    "question": "What is the profit sharing ratio between the partners?",
+    "answer": "50:50",
+    "answer_paragraph": "Table 1: Partnership Details | Category | Description | Value | | --- | --- | --- | | Partnership Name | Smith & Lee Partnership | - | | Business Type | Limited Liability Partnership | - | | Initial Investment | $100,000 | - | | Profit Sharing Ratio | 50:50 | - |"
+  }
+]

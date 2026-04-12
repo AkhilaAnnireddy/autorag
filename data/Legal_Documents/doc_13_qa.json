@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the annual fee for using the Software?",
+    "answer": "The Software is provided to the Licensee for a fee of $500 per year, payable on the anniversary date of the Licensee's initial purchase.",
+    "answer_paragraph": "The Software is provided to the Licensee for a fee of $500 per year, payable on the anniversary date of the Licensee's initial purchase. The Licensee may terminate this Agreement at any time by providing written notice to NovaTech, but the Licensee will not be entitled to a refund of any fees paid."
+  },
+  {
+    "question": "What is the effective date of the Agreement?",
+    "answer": "The effective date of this Agreement is January 1, 2022.",
+    "answer_paragraph": "The effective date of this Agreement is January 1, 2022. The Licensee's use of the Software is subject to the terms and conditions of this Agreement, and the Licensee must comply with all applicable laws and regulations when using the Software."
+  },
+  {
+    "question": "What is the address of NovaTech's principal place of business?",
+    "answer": "123 Main Street, Anytown, CA 12345",
+    "answer_paragraph": "This End User License Agreement (the \"Agreement\") is entered into by and between NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 (\"NovaTech\"), and you (the \"Licensee\"), for the use of NovaTech's proprietary software product known as \"Eclipse\" (the \"Software\")."
+  },
+  {
+    "question": "What is the name of NovaTech's CEO?",
+    "answer": "John Smith",
+    "answer_paragraph": "NovaTech's CEO, John Smith, has stated that the company is committed to providing high-quality software and support to its customers, and that the company will continue to update and improve the Software to meet the evolving needs of its customers."
+  },
+  {
+    "question": "What is the URL of NovaTech's privacy policy?",
+    "answer": "https://www.novatech.com/privacy",
+    "answer_paragraph": "The Licensee acknowledges that it has read and understands the NovaTech Privacy Policy, which is available at https://www.novatech.com/privacy, and agrees to be bound by its terms."
+  },
+  {
+    "question": "When did NovaTech update its support policy?",
+    "answer": "As of March 1, 2022",
+    "answer_paragraph": "As of March 1, 2022, NovaTech has implemented a new support policy, which includes 24/7 phone and email support, as well as online resources and documentation."
+  },
+  {
+    "question": "What is the name of the software product licensed under this Agreement?",
+    "answer": "Eclipse",
+    "answer_paragraph": "This End User License Agreement (the \"Agreement\") is entered into by and between NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 (\"NovaTech\"), and you (the \"Licensee\"), for the use of NovaTech's proprietary software product known as \"Eclipse\" (the \"Software\")."
+  },
+  {
+    "question": "When did NovaTech announce the release of a new version of the Software?",
+    "answer": "On May 1, 2022",
+    "answer_paragraph": "On May 1, 2022, NovaTech announced the release of a new version of the Software, which includes new features and functionality, including improved reporting and analytics tools."
+  },
+  {
+    "question": "What is the governing law of this Agreement?",
+    "answer": "The laws of the State of California",
+    "answer_paragraph": "The Licensee agrees that this Agreement will be governed by and construed in accordance with the laws of the State of California, without giving effect to any principles of conflicts of law."
+  },
+  {
+    "question": "When did NovaTech update its pricing policy?",
+    "answer": "As of April 1, 2022",
+    "answer_paragraph": "As of April 1, 2022, NovaTech has updated its pricing policy to include new discounts and promotions for customers who purchase multiple licenses."
+  }
+]

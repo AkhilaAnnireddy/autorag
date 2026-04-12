@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the definition of 'Purchase Order' in the context of the document?",
+    "answer": "'Purchase Order' means the document issued by the Buyer to the Seller, which includes the description of the goods or services to be purchased, the price, and the delivery terms",
+    "answer_paragraph": "1. Definitions:* 'Purchase Order' means the document issued by the Buyer to the Seller, which includes the description of the goods or services to be purchased, the price, and the delivery terms* 'Goods' means the products or materials to be purchased by the Buyer from the Seller* 'Services' means the work or labor to be performed by the Seller for the Buyer"
+  },
+  {
+    "question": "What is the timeframe for the Seller to notify the Buyer of its acceptance or rejection of the purchase order?",
+    "answer": "within 5 business days of receipt",
+    "answer_paragraph": "2. Purchase Order Process:* The Buyer will issue a purchase order to the Seller, which will include the following information: * The description of the goods or services to be purchased* The price of the goods or services* The delivery terms, including the date and location of delivery* The payment terms, including the method of payment and the due date* The Seller will review the purchase order and notify the Buyer of its acceptance or rejection within 5 business days of receipt* The Seller's acceptance of the purchase order will be deemed to be acceptance of these terms and conditions"
+  },
+  {
+    "question": "What is the payment term specified in the document?",
+    "answer": "within 30 days of receipt of the goods or services, or within 30 days of receipt of the invoice, whichever is later",
+    "answer_paragraph": "3. Pricing and Payment:* The price of the goods or services will be as specified in the purchase order* The Buyer will pay the Seller the price specified in the purchase order, minus any applicable discounts or credits* Payment will be made within 30 days of receipt of the goods or services, or within 30 days of receipt of the invoice, whichever is later* The Seller will invoice the Buyer for the goods or services, and the invoice will include the following information: * The purchase order number* The description of the goods or services* The price of the goods or services* The payment terms"
+  },
+  {
+    "question": "What information must the Seller include in the invoice?",
+    "answer": "The purchase order number, the description of the goods or services, the price of the goods or services, and the payment terms",
+    "answer_paragraph": "3. Pricing and Payment:* The price of the goods or services will be as specified in the purchase order* The Buyer will pay the Seller the price specified in the purchase order, minus any applicable discounts or credits* Payment will be made within 30 days of receipt of the goods or services, or within 30 days of receipt of the invoice, whichever is later* The Seller will invoice the Buyer for the goods or services, and the invoice will include the following information: * The purchase order number* The description of the goods or services* The price of the goods or services* The payment terms"
+  },
+  {
+    "question": "What is the responsibility of the Buyer regarding transportation costs and risks associated with the delivery of the goods?",
+    "answer": "The Buyer will be responsible for all transportation costs and risks associated with the delivery of the goods",
+    "answer_paragraph": "4. Delivery and Shipping:* The Seller will deliver the goods or services to the Buyer at the location specified in the purchase order* The Seller will ensure that all goods are properly packaged and labeled for shipment* The Buyer will be responsible for all transportation costs and risks associated with the delivery of the goods* The Seller will provide the Buyer with shipping documents, including a commercial invoice, a packing list, and a certificate of origin"
+  },
+  {
+    "question": "What is the warranty provided by the Seller regarding the goods or services?",
+    "answer": "The Seller warrants that the goods or services will conform to the specifications and requirements set forth in the purchase order",
+    "answer_paragraph": "5. Warranties and Representations:* The Seller warrants that the goods or services will conform to the specifications and requirements set forth in the purchase order* The Seller represents that it has the right to sell the goods or services and that they do not infringe on the intellectual property rights of any third party* The Seller will defend, indemnify, and hold harmless the Buyer against any claims, damages, or expenses arising out of or related to the goods or services"
+  },
+  {
+    "question": "What is the governing law specified in the document for the purchase order?",
+    "answer": "the laws of the State of New York",
+    "answer_paragraph": "9. Governing Law:* The purchase order will be governed by and construed in accordance with the laws of the State of New York* Any disputes arising out of or related to the purchase order will be resolved through arbitration in accordance with the rules of the American Arbitration Association"
+  },
+  {
+    "question": "What is the process for amending or modifying the purchase order?",
+    "answer": "The purchase order may not be amended or modified except in writing signed by both parties",
+    "answer_paragraph": "10. Entire Agreement:* The purchase order, including these terms and conditions, constitutes the entire agreement between the Buyer and Seller and supersedes all prior negotiations, understandings, and agreements between the parties* The purchase order may not be amended or modified except in writing signed by both parties"
+  },
+  {
+    "question": "What is the effective date of the purchase order terms and conditions?",
+    "answer": "February 10, 2024",
+    "answer_paragraph": "Effective Date: February 10, 2024"
+  },
+  {
+    "question": "What is the name and address of the Buyer as specified in the document?",
+    "answer": "XYZ Corporation, 123 Main Street, New York, NY 10001",
+    "answer_paragraph": "Buyer's Information:* Name: XYZ Corporation* Address: 123 Main Street, New York, NY 10001* Phone: 555-555-5555* Fax: 555-555-5556* Email: [info@xyzcorp.com](mailto:info@xyzcorp.com)"
+  }
+]

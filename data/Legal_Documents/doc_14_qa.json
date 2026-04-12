@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the effective date of the Data Processing Agreement?",
+    "answer": "February 10, 2023",
+    "answer_paragraph": "This Data Processing Agreement ('Agreement') is entered into on February 10, 2023 ('Effective Date') by and between:"
+  },
+  {
+    "question": "What types of Personal Data will the Data Processor process on behalf of the Data Controller?",
+    "answer": "Name, Address, Email address, Phone number",
+    "answer_paragraph": "The Data Processor shall process the following types of Personal Data: + Name + Address + Email address + Phone number"
+  },
+  {
+    "question": "What are the obligations of the Data Processor with respect to security measures?",
+    "answer": "Encryption of Personal Data in transit and at rest, Access controls, including multi-factor authentication, Regular security audits and penetration testing, Incident response plan in the event of a Personal Data breach",
+    "answer_paragraph": "The Data Processor shall implement and maintain the following security measures to protect Personal Data: * Encryption of Personal Data in transit and at rest * Access controls, including multi-factor authentication * Regular security audits and penetration testing * Incident response plan in the event of a Personal Data breach"
+  },
+  {
+    "question": "How will the Data Processor respond to requests from Data Subjects to exercise their rights under the Data Protection Laws?",
+    "answer": "The Data Processor shall respond to requests from Data Subjects to exercise their rights under the Data Protection Laws.",
+    "answer_paragraph": "The Data Processor shall: * Respond to requests from Data Subjects to exercise their rights under the Data Protection Laws."
+  },
+  {
+    "question": "What is the term of the Data Processing Agreement?",
+    "answer": "This Agreement shall commence on the Effective Date and shall continue in effect until terminated by either party with thirty (30) days' written notice to the other party.",
+    "answer_paragraph": "This Agreement shall commence on the Effective Date and shall continue in effect until terminated by either party with thirty (30) days' written notice to the other party."
+  },
+  {
+    "question": "What are the obligations of the Data Controller with respect to providing information and documentation to the Data Processor?",
+    "answer": "The Data Controller shall provide the Data Processor with all necessary information and documentation to enable the Data Processor to perform its obligations under this Agreement.",
+    "answer_paragraph": "The Data Controller shall: * Provide the Data Processor with all necessary information and documentation to enable the Data Processor to perform its obligations under this Agreement."
+  },
+  {
+    "question": "How will the Data Processor handle a Personal Data breach?",
+    "answer": "The Data Processor shall notify the Data Controller without undue delay in the event of a Personal Data breach.",
+    "answer_paragraph": "The Data Processor shall: * Notify the Data Controller without undue delay in the event of a Personal Data breach."
+  },
+  {
+    "question": "What are the appendices attached to the Data Processing Agreement?",
+    "answer": "Appendix A: List of authorized personnel, Appendix B: Incident response plan, Appendix C: Security audit report",
+    "answer_paragraph": "The following appendices are attached to this Agreement and are incorporated herein by reference: * Appendix A: * Appendix B: * Appendix C:"
+  },
+  {
+    "question": "What is the governing law of the Data Processing Agreement?",
+    "answer": "The laws of the State of Delaware",
+    "answer_paragraph": "This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware."
+  },
+  {
+    "question": "How will disputes arising out of or in connection with the Data Processing Agreement be resolved?",
+    "answer": "Through arbitration in accordance with the rules of the American Arbitration Association",
+    "answer_paragraph": "Any disputes arising out of or in connection with this Agreement shall be resolved through arbitration in accordance with the rules of the American Arbitration Association."
+  }
+]

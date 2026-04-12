@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the definition of Software according to the agreement?",
+    "answer": "The software program known as \"NovaSpire\"",
+    "answer_paragraph": "Table 1: Definitions | Term | Definition | | --- | --- | | Software | The software program known as \"NovaSpire\" | | Documentation | The user manuals and guides provided by Licensor | | Effective Date | February 10, 2023 | | License Fee | $100,000 | | Term | 2 years from the Effective Date |"
+  },
+  {
+    "question": "What is the total License Fee to be paid by the Licensee?",
+    "answer": "$100,000",
+    "answer_paragraph": "Table 1: Definitions | Term | Definition | | --- | --- | | Software | The software program known as \"NovaSpire\" | | Documentation | The user manuals and guides provided by Licensor | | Effective Date | February 10, 2023 | | License Fee | $100,000 | | Term | 2 years from the Effective Date |"
+  },
+  {
+    "question": "What are the payment dates and amounts for the License Fee?",
+    "answer": "February 10, 2023: $50,000, August 10, 2023: $25,000, February 10, 2024: $25,000",
+    "answer_paragraph": "Table 2: License Fees | Payment Date | License Fee | | --- | --- | | February 10, 2023 | $50,000 | | August 10, 2023 | $25,000 | | February 10, 2024 | $25,000 |"
+  },
+  {
+    "question": "What are the restrictions on the use of the Software by the Licensee?",
+    "answer": "(i) sublicense, distribute, or transfer the Software or Documentation to any third party; (ii) modify, reverse engineer, or attempt to derive the source code of the Software; or (iii) use the Software or Documentation for any purpose other than as specifically authorized in this Agreement",
+    "answer_paragraph": "2. USE OF SOFTWARE Licensee shall use the Software and Documentation only for its internal business purposes and shall not: (i) sublicense, distribute, or transfer the Software or Documentation to any third party; (ii) modify, reverse engineer, or attempt to derive the source code of the Software; or (iii) use the Software or Documentation for any purpose other than as specifically authorized in this Agreement."
+  },
+  {
+    "question": "What are the different support levels and their costs?",
+    "answer": "Basic: $5,000/year, Premium: $10,000/year, Enterprise: $20,000/year",
+    "answer_paragraph": "Table 3: Support and Maintenance | Support Level | Description | Cost | | --- | --- | --- | | Basic | Email support, 8am-5pm PST | $5,000/year | | Premium | Phone and email support, 24/7 | $10,000/year | | Enterprise | On-site support, 24/7 | $20,000/year |"
+  },
+  {
+    "question": "What are the warranties provided by the Licensor?",
+    "answer": "None",
+    "answer_paragraph": "Table 4: Warranty Disclaimer | Warranty | Description | | --- | --- | | Express | None | | Implied | None, including fitness for a particular purpose |"
+  },
+  {
+    "question": "What is the term of the agreement?",
+    "answer": "2 years from the Effective Date",
+    "answer_paragraph": "Table 1: Definitions | Term | Definition | | --- | --- | | Software | The software program known as \"NovaSpire\" | | Documentation | The user manuals and guides provided by Licensor | | Effective Date | February 10, 2023 | | License Fee | $100,000 | | Term | 2 years from the Effective Date |"
+  },
+  {
+    "question": "What is the governing law of the agreement?",
+    "answer": "California law, without regard to its conflict of laws principles",
+    "answer_paragraph": "Table 5: Governing Law | Jurisdiction | Law | | --- | --- | | California | California law, without regard to its conflict of laws principles |"
+  },
+  {
+    "question": "What are the addresses of the parties for notice purposes?",
+    "answer": "Licensor: 123 Main Street, Anytown, CA 12345, Licensee: 456 Elm Street, Othertown, CA 67890",
+    "answer_paragraph": "Table 6: Notices | Party | Address | | --- | --- | | Licensor | 123 Main Street, Anytown, CA 12345 | | Licensee | 456 Elm Street, Othertown, CA 67890 |"
+  },
+  {
+    "question": "Who signed the agreement on behalf of the Licensor?",
+    "answer": "John Smith, CEO",
+    "answer_paragraph": "By their signatures below, the parties acknowledge that they have read, understand, and agree to be bound by the terms and conditions of this Agreement. NOVATECH INC. By: /s/ John Smith Name: John Smith Title: CEO"
+  }
+]

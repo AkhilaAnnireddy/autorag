@@ -1,0 +1,101 @@
+Purchase Order Terms and Conditions
+
+Introduction:
+
+* The following terms and conditions apply to all purchase orders issued by XYZ Corporation (hereinafter referred to as 'Buyer') to its suppliers (hereinafter referred to as 'Seller')
+* These terms and conditions are intended to provide a framework for the purchase of goods and services by the Buyer from the Seller
+* The Buyer and Seller agree to be bound by these terms and conditions, which supersede all prior negotiations, understandings, and agreements between the parties
+
+1. Definitions:
+* 'Purchase Order' means the document issued by the Buyer to the Seller, which includes the description of the goods or services to be purchased, the price, and the delivery terms
+* 'Goods' means the products or materials to be purchased by the Buyer from the Seller
+* 'Services' means the work or labor to be performed by the Seller for the Buyer
+
+2. Purchase Order Process:
+* The Buyer will issue a purchase order to the Seller, which will include the following information: 
+    * The description of the goods or services to be purchased
+    * The price of the goods or services
+    * The delivery terms, including the date and location of delivery
+    * The payment terms, including the method of payment and the due date
+* The Seller will review the purchase order and notify the Buyer of its acceptance or rejection within 5 business days of receipt
+* The Seller's acceptance of the purchase order will be deemed to be acceptance of these terms and conditions
+
+3. Pricing and Payment:
+* The price of the goods or services will be as specified in the purchase order
+* The Buyer will pay the Seller the price specified in the purchase order, minus any applicable discounts or credits
+* Payment will be made within 30 days of receipt of the goods or services, or within 30 days of receipt of the invoice, whichever is later
+* The Seller will invoice the Buyer for the goods or services, and the invoice will include the following information: 
+    * The purchase order number
+    * The description of the goods or services
+    * The price of the goods or services
+    * The payment terms
+
+4. Delivery and Shipping:
+* The Seller will deliver the goods or services to the Buyer at the location specified in the purchase order
+* The Seller will ensure that all goods are properly packaged and labeled for shipment
+* The Buyer will be responsible for all transportation costs and risks associated with the delivery of the goods
+* The Seller will provide the Buyer with shipping documents, including a commercial invoice, a packing list, and a certificate of origin
+
+5. Warranties and Representations:
+* The Seller warrants that the goods or services will conform to the specifications and requirements set forth in the purchase order
+* The Seller represents that it has the right to sell the goods or services and that they do not infringe on the intellectual property rights of any third party
+* The Seller will defend, indemnify, and hold harmless the Buyer against any claims, damages, or expenses arising out of or related to the goods or services
+
+6. Intellectual Property:
+* The Buyer retains all rights, title, and interest in and to its intellectual property, including patents, trademarks, copyrights, and trade secrets
+* The Seller will not use the Buyer's intellectual property for any purpose other than to fulfill its obligations under the purchase order
+* The Seller will not disclose the Buyer's intellectual property to any third party without the prior written consent of the Buyer
+
+7. Confidentiality:
+* The Seller will maintain the confidentiality of all information provided by the Buyer, including business plans, technical data, and trade secrets
+* The Seller will not disclose any confidential information to any third party without the prior written consent of the Buyer
+* The Seller will ensure that its employees, agents, and subcontractors are bound by the same confidentiality obligations
+
+8. Termination:
+* The Buyer may terminate the purchase order at any time, with or without cause, by providing written notice to the Seller
+* The Seller will stop all work and delivery of goods or services upon receipt of the termination notice
+* The Buyer will pay the Seller for all goods or services delivered prior to the termination date, minus any applicable discounts or credits
+
+9. Governing Law:
+* The purchase order will be governed by and construed in accordance with the laws of the State of New York
+* Any disputes arising out of or related to the purchase order will be resolved through arbitration in accordance with the rules of the American Arbitration Association
+
+10. Entire Agreement:
+* The purchase order, including these terms and conditions, constitutes the entire agreement between the Buyer and Seller and supersedes all prior negotiations, understandings, and agreements between the parties
+* The purchase order may not be amended or modified except in writing signed by both parties
+
+Appendix:
+* The following appendix forms an integral part of these terms and conditions: 
+    * Appendix A: Seller's Acknowledgement Form
+    * Appendix B: Buyer's Purchase Order Form
+
+Purchase Order Terms and Conditions Acknowledgement:
+* By signing below, the Seller acknowledges that it has read, understands, and agrees to be bound by these terms and conditions
+* The Seller understands that these terms and conditions supersede all prior negotiations, understandings, and agreements between the parties
+
+Signed for and on behalf of the Seller:
+* ______________________________
+* Title: ______________________________
+* Date: ______________________________
+
+Signed for and on behalf of the Buyer:
+* ______________________________
+* Title: ______________________________
+* Date: ______________________________
+
+Effective Date: February 10, 2024
+
+Buyer's Information:
+* Name: XYZ Corporation
+* Address: 123 Main Street, New York, NY 10001
+* Phone: 555-555-5555
+* Fax: 555-555-5556
+* Email: [info@xyzcorp.com](mailto:info@xyzcorp.com)
+
+Seller's Information:
+* Name: ABC Inc.
+* Address: 456 Elm Street, Chicago, IL 60611
+* Phone: 555-123-4567
+* Fax: 555-123-4568
+* Email: [info@abcinc.com](mailto:info@abcinc.com)
+

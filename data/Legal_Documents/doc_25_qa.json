@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the date of the last signature below for the Content Licensing Agreement?",
+    "answer": "February 10, 2023",
+    "answer_paragraph": "This Content Licensing Agreement (the \"Agreement\") is entered into on February 10, 2023, by and between NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 (\"NovaTech\"), and GreenEarth Media, a California corporation with its principal place of business at 456 Elm Street, Othertown, CA 67890 (\"GreenEarth\")."
+  },
+  {
+    "question": "What is the amount of the licensing fee that GreenEarth shall pay to NovaTech per year?",
+    "answer": "$50,000 per year",
+    "answer_paragraph": "GreenEarth shall pay to NovaTech a licensing fee of $50,000 per year, payable in quarterly installments of $12,500 on the first day of each quarter."
+  },
+  {
+    "question": "How long shall the confidentiality obligations set forth in Section 7 survive the termination of the Agreement?",
+    "answer": "for a period of five years",
+    "answer_paragraph": "The parties agree to maintain the confidentiality of all information and materials that are marked as confidential or that a reasonable person would understand to be confidential. The confidentiality obligations set forth in this Section 7 shall survive the termination of this Agreement for a period of five years."
+  },
+  {
+    "question": "What is the address of NovaTech Inc.?",
+    "answer": "123 Main Street, Anytown, CA 12345",
+    "answer_paragraph": "This Content Licensing Agreement (the \"Agreement\") is entered into on February 10, 2023, by and between NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 (\"NovaTech\"), and GreenEarth Media, a California corporation with its principal place of business at 456 Elm Street, Othertown, CA 67890 (\"GreenEarth\")."
+  },
+  {
+    "question": "What is the title of the person signing the Agreement on behalf of GreenEarth Media?",
+    "answer": "President",
+    "answer_paragraph": "GreenEarth Media By: ______________________________ Name: Jane Doe Title: President Date: February 10, 2023"
+  },
+  {
+    "question": "When is the first payment of the licensing fee due?",
+    "answer": "March 1, 2023",
+    "answer_paragraph": "GreenEarth shall pay to NovaTech a licensing fee of $50,000 per year, payable in quarterly installments of $12,500 on the first day of each quarter. The first payment shall be due on March 1, 2023."
+  },
+  {
+    "question": "What is the language of the arbitration?",
+    "answer": "English",
+    "answer_paragraph": "Any dispute arising out of or related to this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association. The arbitration shall be conducted in the city of San Francisco, California, and the language of the arbitration shall be English."
+  },
+  {
+    "question": "How many days does the other party have to cure a breach after receipt of written notice?",
+    "answer": "thirty days",
+    "answer_paragraph": "Either party may terminate this Agreement upon written notice to the other party if the other party breaches any of its obligations under this Agreement and fails to cure such breach within thirty days after receipt of written notice."
+  },
+  {
+    "question": "What is the term of the license?",
+    "answer": "two years from the Effective Date",
+    "answer_paragraph": "The term of this Agreement shall commence on the Effective Date and continue for a period of two years, unless terminated earlier in accordance with Section 10 below."
+  },
+  {
+    "question": "What is the city where the arbitration shall be conducted?",
+    "answer": "San Francisco, California",
+    "answer_paragraph": "Any dispute arising out of or related to this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association. The arbitration shall be conducted in the city of San Francisco, California, and the language of the arbitration shall be English."
+  }
+]

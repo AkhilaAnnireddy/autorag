@@ -1,0 +1,97 @@
+
+   FREELANCE CONTRACT
+
+   This Freelance Contract ('Contract') is made and entered into on February 10, 2024 ('Effective Date') by and between GreenTech Inc., a corporation with its principal place of business at 123 Main Street, New York, NY 10001 ('Client'), and Emily J. Lee, a freelancer with her principal place of business at 456 Elm Street, Los Angeles, CA 90001 ('Freelancer').
+
+   Table 1: Contract Details
+   | Category | Description | Value |
+   | --- | --- | --- |
+   | Project Name | Development of GreenTech Website | - |
+   | Project Duration | 6 months | - |
+   | Payment Terms | Bi-weekly | - |
+   | Total Payment | $120,000 | - |
+
+   1. Scope of Work
+   The Freelancer agrees to perform the services outlined in Table 2 ('Scope of Work').
+
+   Table 2: Scope of Work
+   | Task | Description | Deadline | Payment |
+   | --- | --- | --- | --- |
+   | Task 1 | Website Design | March 15, 2024 | $20,000 |
+   | Task 2 | Front-end Development | April 15, 2024 | $30,000 |
+   | Task 3 | Back-end Development | May 15, 2024 | $40,000 |
+   | Task 4 | Testing and Debugging | June 15, 2024 | $30,000 |
+
+   2. Payment Terms
+   The Client shall pay the Freelancer according to the payment schedule outlined in Table 3 ('Payment Schedule').
+
+   Table 3: Payment Schedule
+   | Payment Date | Payment Amount |
+   | --- | --- |
+   | February 25, 2024 | $10,000 |
+   | March 10, 2024 | $10,000 |
+   | March 25, 2024 | $10,000 |
+   | ... | ... |
+
+   The total payment for the project is $120,000, payable over 24 bi-weekly payments of $5,000 each.
+
+   3. Confidentiality
+   The Freelancer shall maintain the confidentiality of all Client materials and information, as outlined in the Non-Disclosure Agreement ('NDA') signed by the Freelancer on January 20, 2024.
+
+   Table 4: NDA Terms
+   | Term | Description |
+   | --- | --- |
+   | Term 1 | Confidentiality | 
+   | Term 2 | Non-Disclosure | 
+   | Term 3 | Intellectual Property | 
+
+   4. Termination
+   This Contract may be terminated by either party upon 30 days' written notice to the other party.
+
+   Table 5: Termination Fees
+   | Reason | Fee |
+   | --- | --- |
+   | Client Termination | $10,000 |
+   | Freelancer Termination | $5,000 |
+
+   By signing below, the parties acknowledge that they have read, understand, and agree to be bound by the terms and conditions of this Contract.
+
+   Client: GreenTech Inc.
+   Signature: ________________________
+   Date: February 10, 2024
+
+   Freelancer: Emily J. Lee
+   Signature: ________________________
+   Date: February 10, 2024
+
+   Table 6: Acceptance Criteria
+   | Criterion | Description |
+   | --- | --- |
+   | Criterion 1 | Website Design | 
+   | Criterion 2 | Front-end Development | 
+   | Criterion 3 | Back-end Development | 
+
+   The Freelancer shall ensure that the website meets the acceptance criteria outlined in Table 6.
+
+   The Client shall provide the Freelancer with access to the necessary resources and information to complete the project.
+
+   Table 7: Resources
+   | Resource | Description |
+   | --- | --- |
+   | Resource 1 | Website Content | 
+   | Resource 2 | Design Assets | 
+   | Resource 3 | Development Tools | 
+
+   The Freelancer shall use the resources provided by the Client to complete the project.
+
+   The project timeline is outlined in Table 8.
+
+   Table 8: Project Timeline
+   | Task | Start Date | End Date |
+   | --- | --- | --- |
+   | Task 1 | February 15, 2024 | March 15, 2024 |
+   | Task 2 | March 16, 2024 | April 15, 2024 |
+   | Task 3 | April 16, 2024 | May 15, 2024 |
+   | Task 4 | May 16, 2024 | June 15, 2024 |
+
+   

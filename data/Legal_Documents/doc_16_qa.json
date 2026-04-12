@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the case number of the lawsuit styled Doe v. Acme Corporation?",
+    "answer": "1:22-cv-00123",
+    "answer_paragraph": "This Settlement Agreement ('Agreement') is made and entered into on this 10th day of February, 2023 ('Effective Date'), by and between Acme Corporation ('Acme' or 'Defendant'), a Delaware corporation with its principal place of business at 123 Main Street, New York, NY 10001, and Jane Doe ('Plaintiff'), an individual residing at 456 Elm Street, Los Angeles, CA 90001. The parties agree to settle and resolve all claims, disputes, and causes of action that were or could have been asserted by Plaintiff against Acme in the lawsuit styled Doe v. Acme Corporation, Case No. 1:22-cv-00123, pending in the United States District Court for the Southern District of New York ('Lawsuit')."
+  },
+  {
+    "question": "What is the total amount that Acme agrees to pay to Plaintiff?",
+    "answer": "$525,000.00",
+    "answer_paragraph": "The terms of this Agreement are as follows: Acme agrees to pay to Plaintiff the sum of $525,000.00, which payment shall be made in three installments: $175,000.00 on or before March 15, 2023, $175,000.00 on or before June 15, 2023, and $175,000.00 on or before September 15, 2023."
+  },
+  {
+    "question": "What are the dates and corresponding payment amounts as per the payment schedule?",
+    "answer": "March 15, 2023: $175,000.00, June 15, 2023: $175,000.00, September 15, 2023: $175,000.00",
+    "answer_paragraph": "As set forth in the table below, the payment schedule is as follows: | Payment Date | Payment Amount | | --- | --- | | March 15, 2023 | $175,000.00 | | June 15, 2023 | $175,000.00 | | September 15, 2023 | $175,000.00 |"
+  },
+  {
+    "question": "What type of relief may the parties seek in the event of a breach of the confidentiality provisions?",
+    "answer": "equitable relief, including injunctive relief",
+    "answer_paragraph": "The parties agree that any breach of the confidentiality provisions of this Agreement may cause irreparable harm and that the parties may seek equitable relief, including injunctive relief, in the event of a breach."
+  },
+  {
+    "question": "Who is the President of Acme Corporation?",
+    "answer": "John Smith",
+    "answer_paragraph": "IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written. ACME CORPORATION By: /s/ John Smith Title: President Date: February 10, 2023"
+  },
+  {
+    "question": "What is the address of Jane Doe?",
+    "answer": "456 Elm Street, Los Angeles, CA 90001",
+    "answer_paragraph": "This Settlement Agreement ('Agreement') is made and entered into on this 10th day of February, 2023 ('Effective Date'), by and between Acme Corporation ('Acme' or 'Defendant'), a Delaware corporation with its principal place of business at 123 Main Street, New York, NY 10001, and Jane Doe ('Plaintiff'), an individual residing at 456 Elm Street, Los Angeles, CA 90001."
+  },
+  {
+    "question": "What is the Effective Date of the Settlement Agreement?",
+    "answer": "February 10, 2023",
+    "answer_paragraph": "This Settlement Agreement ('Agreement') is made and entered into on this 10th day of February, 2023 ('Effective Date'), by and between Acme Corporation ('Acme' or 'Defendant'), a Delaware corporation with its principal place of business at 123 Main Street, New York, NY 10001, and Jane Doe ('Plaintiff'), an individual residing at 456 Elm Street, Los Angeles, CA 90001."
+  },
+  {
+    "question": "What court is the lawsuit pending in?",
+    "answer": "United States District Court for the Southern District of New York",
+    "answer_paragraph": "The parties agree to settle and resolve all claims, disputes, and causes of action that were or could have been asserted by Plaintiff against Acme in the lawsuit styled Doe v. Acme Corporation, Case No. 1:22-cv-00123, pending in the United States District Court for the Southern District of New York ('Lawsuit')."
+  },
+  {
+    "question": "What type of corporation is Acme Corporation?",
+    "answer": "Delaware corporation",
+    "answer_paragraph": "This Settlement Agreement ('Agreement') is made and entered into on this 10th day of February, 2023 ('Effective Date'), by and between Acme Corporation ('Acme' or 'Defendant'), a Delaware corporation with its principal place of business at 123 Main Street, New York, NY 10001, and Jane Doe ('Plaintiff'), an individual residing at 456 Elm Street, Los Angeles, CA 90001."
+  },
+  {
+    "question": "What type of releases do the parties agree to?",
+    "answer": "mutual releases of all claims",
+    "answer_paragraph": "The following are the key points of this settlement: - The payment of $525,000.00 is in full and final settlement of all claims, - The parties agree to mutual releases of all claims, - The parties agree to confidentiality of the terms of this Agreement, - The parties agree to be bound by the terms of this Agreement."
+  }
+]

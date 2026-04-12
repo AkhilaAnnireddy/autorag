@@ -1,0 +1,148 @@
+
+   AFFILIATE AGREEMENT
+
+   This Affiliate Agreement ('Agreement') is made and entered into on February 10, 2023 ('Effective Date'), by and between GreenTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, New York, NY 10001 ('Company'), and EcoPartners LLC, a California limited liability company with its principal place of business at 456 Elm Street, San Francisco, CA 94105 ('Affiliate').
+
+   **ARTICLE 1: DEFINITIONS**
+
+   For the purposes of this Agreement, the following definitions shall apply:
+   <table>
+      <tr>
+         <th>Term</th>
+         <th>Definition</th>
+      </tr>
+      <tr>
+         <td>Affiliate Link</td>
+         <td>A unique URL provided by the Company to the Affiliate for the purpose of tracking referrals.</td>
+      </tr>
+      <tr>
+         <td>Affiliate Site</td>
+         <td>The website owned and operated by the Affiliate, located at https://www.ecopartners.com.</td>
+      </tr>
+      <tr>
+         <td>Commission</td>
+         <td>A payment made by the Company to the Affiliate for each Qualified Sale, as defined in Section 3.1.</td>
+      </tr>
+   </table>
+
+   **ARTICLE 2: AFFILIATE OBLIGATIONS**
+
+   The Affiliate shall:
+   <table>
+      <tr>
+         <th>Obligation</th>
+         <th>Description</th>
+      </tr>
+      <tr>
+         <td>Marketing Efforts</td>
+         <td>The Affiliate shall use its best efforts to market and promote the Company's products and services.</td>
+      </tr>
+      <tr>
+         <td>Compliance with Laws</td>
+         <td>The Affiliate shall comply with all applicable laws, regulations, and industry standards.</td>
+      </tr>
+      <tr>
+         <td>Disclosure Requirements</td>
+         <td>The Affiliate shall clearly and conspicuously disclose its relationship with the Company on its website.</td>
+      </tr>
+   </table>
+
+   **ARTICLE 3: COMMISSIONS**
+
+   The Company shall pay the Affiliate a Commission for each Qualified Sale, as defined below:
+   <table>
+      <tr>
+         <th>Product</th>
+         <th>Commission Rate</th>
+         <th>Payment Terms</th>
+      </tr>
+      <tr>
+         <td>GreenTech Solar Panels</td>
+         <td>10% of Net Sales</td>
+         <td>Payment shall be made within 30 days of the end of each calendar quarter.</td>
+      </tr>
+      <tr>
+         <td>GreenTech Wind Turbines</td>
+         <td>15% of Net Sales</td>
+         <td>Payment shall be made within 60 days of the end of each calendar quarter.</td>
+      </tr>
+   </table>
+
+   The Company shall also provide the Affiliate with a monthly report detailing the number of Qualified Sales and the corresponding Commissions earned.
+
+   **ARTICLE 4: TERM AND TERMINATION**
+
+   The term of this Agreement shall commence on the Effective Date and continue for a period of two (2) years. Upon expiration of the initial term, this Agreement shall automatically renew for successive one-year periods unless either party provides written notice of termination at least 30 days prior to the end of the then-current term.
+
+   **ARTICLE 5: CONFIDENTIALITY**
+
+   The Affiliate shall maintain the confidentiality of all information and materials provided by the Company, including but not limited to business strategies, customer lists, and technical data. The Affiliate shall not disclose such information to any third party without the prior written consent of the Company.
+
+   **ARTICLE 6: INDEMNIFICATION**
+
+   The Affiliate shall indemnify and hold harmless the Company, its officers, directors, employees, and agents against any and all claims, damages, and expenses arising out of or related to the Affiliate's breach of this Agreement.
+
+   By signing below, the parties acknowledge that they have read, understand, and agree to be bound by the terms and conditions of this Agreement.
+
+   **COMPANY**
+
+   GreenTech Inc.
+
+   By: _____________________________
+
+   Name: John Smith
+
+   Title: CEO
+
+   Date: February 10, 2023
+
+   **AFFILIATE**
+
+   EcoPartners LLC
+
+   By: _____________________________
+
+   Name: Jane Doe
+
+   Title: President
+
+   Date: February 10, 2023
+
+   The following tables provide additional information regarding the Company's products and services:
+   <table>
+      <tr>
+         <th>Product</th>
+         <th>Description</th>
+         <th>Price</th>
+      </tr>
+      <tr>
+         <td>GreenTech Solar Panels</td>
+         <td>High-efficiency solar panels designed for residential and commercial use.</td>
+         <td>$500.00</td>
+      </tr>
+      <tr>
+         <td>GreenTech Wind Turbines</td>
+         <td>Vertical-axis wind turbines for small-scale wind energy generation.</td>
+         <td>$1,000.00</td>
+      </tr>
+   </table>
+
+   The Company's product warranty and return policies are as follows:
+   <table>
+      <tr>
+         <th>Product</th>
+         <th>Warranty Period</th>
+         <th>Return Policy</th>
+      </tr>
+      <tr>
+         <td>GreenTech Solar Panels</td>
+         <td>10 years</td>
+         <td>30-day money-back guarantee</td>
+      </tr>
+      <tr>
+         <td>GreenTech Wind Turbines</td>
+         <td>5 years</td>
+         <td>60-day money-back guarantee</td>
+      </tr>
+   </table>
+   

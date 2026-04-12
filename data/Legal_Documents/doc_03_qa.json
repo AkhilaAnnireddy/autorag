@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the definition of a User according to the Terms of Service Agreement?",
+    "answer": "An individual who uses the Services",
+    "answer_paragraph": "Table 1: Definitions | Term | Definition | | --- | --- | | User | An individual who uses the Services | | Account | A unique identifier assigned to each User | | Content | Any information, data, or material submitted by a User |"
+  },
+  {
+    "question": "What is the fee for the Premium service?",
+    "answer": "$19.99/month",
+    "answer_paragraph": "Table 2: Fees and Charges | Service | Fee | Payment Method | | --- | --- | --- | | Basic | $9.99/month | Credit Card, PayPal | | Premium | $19.99/month | Credit Card, PayPal | | Enterprise | Custom quote | Bank Transfer |"
+  },
+  {
+    "question": "What is the target uptime for the Services?",
+    "answer": "99.9%",
+    "answer_paragraph": "Table 3: Service Level Agreement | Metric | Target | Measurement Period | | --- | --- | --- | | Uptime | 99.9% | Monthly | | Response Time | 2 seconds | Average | | Resolution Time | 4 hours | Average |"
+  },
+  {
+    "question": "What is the description of the prohibited activity of Spamming?",
+    "answer": "Sending unsolicited emails or messages",
+    "answer_paragraph": "Table 4: Acceptable Use Policy | Prohibited Activity | Description | | --- | --- | | Spamming | Sending unsolicited emails or messages | | Hacking | Attempting to access or modify unauthorized systems or data | | Harassment | Sending threatening or abusive messages |"
+  },
+  {
+    "question": "What is the measure of encryption used to protect the Services?",
+    "answer": "Encrypting data in transit and at rest",
+    "answer_paragraph": "Table 5: Security Measures | Measure | Description | | --- | --- | | Encryption | Encrypting data in transit and at rest | | Firewalls | Configuring firewalls to restrict access | | Access Controls | Implementing role-based access controls |"
+  },
+  {
+    "question": "What is the obligation of the party 'You' in the Indemnification table?",
+    "answer": "Indemnify XYZ for any claims or damages",
+    "answer_paragraph": "Table 6: Indemnification | Party | Obligation | | --- | --- | | You | Indemnify XYZ for any claims or damages | | XYZ | Defend and hold harmless you for any claims or damages |"
+  },
+  {
+    "question": "What is the effect of the event 'Termination by You' in the Termination table?",
+    "answer": "Cease use of Services",
+    "answer_paragraph": "Table 7: Termination | Event | Effect | | --- | --- | | Termination by You | Cease use of Services | | Termination by XYZ | Notice of termination |"
+  },
+  {
+    "question": "What is the governing law for this Agreement?",
+    "answer": "California law",
+    "answer_paragraph": "Table 8: Governing Law | Jurisdiction | Governing Law | | --- | --- | | California | California law |"
+  },
+  {
+    "question": "What is the description of the document 'This Agreement' in the Entire Agreement table?",
+    "answer": "Entire agreement between you and XYZ",
+    "answer_paragraph": "Table 9: Entire Agreement | Document | Description | | --- | --- | | This Agreement | Entire agreement between you and XYZ |"
+  },
+  {
+    "question": "What is the effect of the event 'Modification' in the Changes to Agreement table?",
+    "answer": "Updated Agreement",
+    "answer_paragraph": "Table 10: Changes to Agreement | Event | Effect | | --- | --- | | Modification | Updated Agreement |"
+  }
+]

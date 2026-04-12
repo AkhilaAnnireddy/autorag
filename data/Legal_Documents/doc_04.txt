@@ -1,0 +1,51 @@
+This Vendor Contract Agreement ('Agreement') is entered into on February 10, 2023 ('Effective Date'), by and between GreenTech Solutions Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 ('GreenTech'), and BlueSky Software LLC, a California limited liability company with its principal place of business at 456 Elm Street, Othertown, CA 67890 ('BlueSky'). The parties agree as follows: GreenTech desires to engage BlueSky as a vendor to provide certain software development services, and BlueSky is willing to provide such services, all as described in Exhibit A attached hereto. The term of this Agreement shall commence on the Effective Date and continue for a period of two (2) years, unless terminated earlier in accordance with Section 10 below. In consideration of the mutual covenants and promises contained herein, the parties agree to the following terms and conditions. Section 1: Definitions. For purposes of this Agreement, the following definitions shall apply: 'Confidential Information' means all information, whether written or oral, that is disclosed by one party to the other party, including but not limited to trade secrets, technical data, business plans, and customer lists. 'Deliverables' means the software, documentation, and other materials to be delivered by BlueSky to GreenTech under this Agreement, as described in Exhibit A. The following are the key performance indicators (KPIs) that BlueSky must meet: 
+   - On-time delivery of 95% or higher, 
+   - Customer satisfaction rating of 90% or higher, 
+   - Defect density of 0.5 or lower. 
+   Section 2: Services. BlueSky shall provide the services described in Exhibit A, which includes but is not limited to: 
+   1. Development of the software application, 
+   2. Testing and quality assurance, 
+   3. Deployment and maintenance. 
+   The following table summarizes the timeline for the project: 
+   | Task | Start Date | End Date | 
+   | --- | --- | --- | 
+   | Development | 2023-02-15 | 2023-05-15 | 
+   | Testing | 2023-05-16 | 2023-06-15 | 
+   | Deployment | 2023-06-16 | 2023-06-30 | 
+   Section 3: Compensation. As compensation for the services to be provided by BlueSky, GreenTech shall pay BlueSky a total of $500,000, payable as follows: $100,000 upon execution of this Agreement, $200,000 upon completion of the development phase, and $200,000 upon completion of the deployment phase. The payment schedule is as follows: 
+   - Payment 1: $100,000 due on February 10, 2023, 
+   - Payment 2: $200,000 due on May 15, 2023, 
+   - Payment 3: $200,000 due on June 30, 2023. 
+   Section 4: Confidentiality. Each party agrees to maintain the confidentiality of the other party's Confidential Information and to use such Confidential Information only for the purposes of this Agreement. The following are the confidentiality obligations: 
+   * BlueSky shall not disclose GreenTech's Confidential Information to any third party, 
+   * GreenTech shall not disclose BlueSky's Confidential Information to any third party. 
+   Section 5: Intellectual Property. BlueSky hereby assigns to GreenTech all right, title, and interest in and to the Deliverables, including but not limited to all intellectual property rights therein. The following are the intellectual property rights: 
+   + Copyrights, 
+   + Patents, 
+   + Trademarks. 
+   Section 6: Warranties. BlueSky warrants that the Deliverables shall be free from defects in material and workmanship for a period of one (1) year from the date of delivery. The following are the warranty obligations: 
+   - BlueSky shall repair or replace any defective Deliverables, 
+   - GreenTech shall notify BlueSky of any defects within thirty (30) days of discovery. 
+   Section 7: Indemnification. BlueSky shall indemnify, defend, and hold harmless GreenTech, its officers, directors, employees, and agents from and against any and all claims, damages, and expenses arising out of or related to the services provided by BlueSky under this Agreement. The following are the indemnification obligations: 
+   * BlueSky shall indemnify GreenTech for any damages arising out of BlueSky's breach of this Agreement, 
+   * GreenTech shall indemnify BlueSky for any damages arising out of GreenTech's breach of this Agreement. 
+   Section 8: Termination. Either party may terminate this Agreement upon thirty (30) days' written notice to the other party. The following are the termination obligations: 
+   - Upon termination, BlueSky shall deliver to GreenTech all Deliverables, 
+   - Upon termination, GreenTech shall pay BlueSky for all services rendered prior to termination. 
+   Section 9: Dispute Resolution. Any disputes arising out of or related to this Agreement shall be resolved through arbitration in accordance with the rules of the American Arbitration Association. The following are the dispute resolution obligations: 
+   * The arbitration shall be conducted by a single arbitrator, 
+   * The arbitration shall be held in San Francisco, California. 
+   Section 10: Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of California. The following are the governing law obligations: 
+   - This Agreement shall be governed by California law, 
+   - Any disputes shall be resolved in accordance with California law. 
+   By signing below, the parties acknowledge that they have read, understand, and agree to be bound by the terms and conditions of this Agreement. 
+   GreenTech Solutions Inc. 
+   By: _____________________________ 
+   Name: John Smith 
+   Title: CEO 
+   Date: February 10, 2023 
+   BlueSky Software LLC 
+   By: _____________________________ 
+   Name: Jane Doe 
+   Title: President 
+   Date: February 10, 2023
