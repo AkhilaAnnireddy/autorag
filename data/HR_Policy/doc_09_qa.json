@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the duration of the Leadership Development program?",
+    "answer": "6 months",
+    "answer_paragraph": "Table 1: Training and Development Programs\n| Program | Description | Duration | Cost |\n| --- | --- | --- | --- |\n| Leadership Development | Develops leadership skills for current and future leaders | 6 months | $5,000 |\n| Sales Training | Provides sales techniques and product knowledge | 3 days | $1,500 |\n| IT Training | Offers training on various software applications | 2 days | $1,000 |"
+  },
+  {
+    "question": "What is the eligibility criteria for the Sales Training program?",
+    "answer": "3 months of service, sales performance rating of 3 or higher",
+    "answer_paragraph": "Table 2: Eligibility Criteria\n| Program | Eligibility Criteria |\n| --- | --- |\n| Leadership Development | 6 months of service, performance rating of 4 or higher |\n| Sales Training | 3 months of service, sales performance rating of 3 or higher |\n| IT Training | 1 month of service, no performance criteria |"
+  },
+  {
+    "question": "What is the training budget for the IT department?",
+    "answer": "$12,000",
+    "answer_paragraph": "Table 3: Training Budget\n| Department | Training Budget |\n| --- | --- |\n| Sales | $10,000 |\n| Marketing | $8,000 |\n| IT | $12,000 |"
+  },
+  {
+    "question": "How will the effectiveness of the IT Training program be evaluated?",
+    "answer": "Skill assessment, participant feedback",
+    "answer_paragraph": "Table 4: Evaluation Criteria\n| Program | Evaluation Criteria |\n| --- | --- |\n| Leadership Development | Participant feedback, leadership competency assessment |\n| Sales Training | Sales performance improvement, participant feedback |\n| IT Training | Skill assessment, participant feedback |"
+  },
+  {
+    "question": "When will the Leadership Development program be scheduled?",
+    "answer": "Quarterly, starting January 2024",
+    "answer_paragraph": "Table 5: Training Schedule\n| Program | Schedule |\n| --- | --- |\n| Leadership Development | Quarterly, starting January 2024 |\n| Sales Training | Monthly, starting March 2024 |\n| IT Training | Bi-monthly, starting May 2024 |"
+  },
+  {
+    "question": "What are the responsibilities of the HR department?",
+    "answer": "Administering policy, coordinating programs, managing budgets",
+    "answer_paragraph": "Table 6: Responsibilities\n| Department | Responsibilities |\n| --- | --- |\n| HR | Administering policy, coordinating programs, managing budgets |\n| Department Managers | Identifying training needs, recommending employees |"
+  },
+  {
+    "question": "Who approved the training and development policy?",
+    "answer": "CEO, John Smith",
+    "answer_paragraph": "History\nThis policy was approved by the CEO, John Smith, on February 10, 2024, and is effective as of March 1, 2024.\n"
+  },
+  {
+    "question": "When is the Sales Training program scheduled?",
+    "answer": "Monthly, starting March 2024",
+    "answer_paragraph": "Table 5: Training Schedule\n| Program | Schedule |\n| --- | --- |\n| Leadership Development | Quarterly, starting January 2024 |\n| Sales Training | Monthly, starting March 2024 |\n| IT Training | Bi-monthly, starting May 2024 |"
+  },
+  {
+    "question": "What is the cost of the IT Training program?",
+    "answer": "$1,000",
+    "answer_paragraph": "Table 1: Training and Development Programs\n| Program | Description | Duration | Cost |\n| --- | --- | --- | --- |\n| Leadership Development | Develops leadership skills for current and future leaders | 6 months | $5,000 |\n| Sales Training | Provides sales techniques and product knowledge | 3 days | $1,500 |\n| IT Training | Offers training on various software applications | 2 days | $1,000 |"
+  },
+  {
+    "question": "When did the policy become effective?",
+    "answer": "March 1, 2024",
+    "answer_paragraph": "History\nThis policy was approved by the CEO, John Smith, on February 10, 2024, and is effective as of March 1, 2024.\n"
+  }
+]

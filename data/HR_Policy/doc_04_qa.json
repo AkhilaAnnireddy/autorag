@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the frequency of performance reviews for management employees?",
+    "answer": "Every 6 months",
+    "answer_paragraph": "<p>The purpose of this policy is to provide a framework for conducting regular performance reviews for all employees at XYZ Corporation. The policy is designed to ensure that all employees are treated fairly and consistently, and that their performance is evaluated in a timely and effective manner.</p><table><tr><th>Employee Category</th><th>Review Frequency</th></tr><tr><td>Management</td><td>Every 6 months</td></tr><tr><td>Non-Management</td><td>Every 12 months</td></tr></table>"
+  },
+  {
+    "question": "What are the KPIs used to evaluate employee performance?",
+    "answer": "Sales Revenue, Customer Satisfaction, Productivity, Teamwork and Collaboration",
+    "answer_paragraph": "<p>The following table outlines the key performance indicators (KPIs) that will be used to evaluate employee performance:</p><table><tr><th>KPI</th><th>Weighting</th><th>Target</th></tr><tr><td>Sales Revenue</td><td>30%</td><td>$1 million per quarter</td></tr><tr><td>Customer Satisfaction</td><td>20%</td><td>90% or higher</td></tr><tr><td>Productivity</td><td>30%</td><td>95% or higher</td></tr><tr><td>Teamwork and Collaboration</td><td>20%</td><td>90% or higher</td></tr></table>"
+  },
+  {
+    "question": "Who prepares the draft review document?",
+    "answer": "The employee's supervisor",
+    "answer_paragraph": "<p>The performance review process will consist of the following steps: <ol><li>The employee's supervisor will prepare a draft review document, outlining the employee's strengths, weaknesses, and areas for improvement.</li><li>The employee will be given the opportunity to review and comment on the draft document.</li><li>The supervisor and employee will meet to discuss the review and any issues or concerns that the employee may have.</li><li>The final review document will be completed and signed by both the supervisor and the employee.</li></ol></p>"
+  },
+  {
+    "question": "When will the performance review policy be reviewed and updated?",
+    "answer": "Annually, or as necessary",
+    "answer_paragraph": "<p>The performance review policy will be reviewed and updated annually, or as necessary. The policy will be communicated to all employees, and any changes will be effective immediately.</p>"
+  },
+  {
+    "question": "What is the target for Customer Satisfaction?",
+    "answer": "90% or higher",
+    "answer_paragraph": "<p>The following table outlines the key performance indicators (KPIs) that will be used to evaluate employee performance:</p><table><tr><th>KPI</th><th>Weighting</th><th>Target</th></tr><tr><td>Sales Revenue</td><td>30%</td><td>$1 million per quarter</td></tr><tr><td>Customer Satisfaction</td><td>20%</td><td>90% or higher</td></tr><tr><td>Productivity</td><td>30%</td><td>95% or higher</td></tr><tr><td>Teamwork and Collaboration</td><td>20%</td><td>90% or higher</td></tr></table>"
+  },
+  {
+    "question": "How often will the company provide classroom training?",
+    "answer": "Every 6 months",
+    "answer_paragraph": "<p>The following table outlines the training requirements for employees:</p><table><tr><th>Training Type</th><th>Frequency</th><th>Duration</th></tr><tr><td>Classroom Training</td><td>Every 6 months</td><td>2 days</td></tr><tr><td>Online Courses</td><td>Every 3 months</td><td>1 day</td></tr><tr><td>On-the-Job Training</td><td>Every 12 months</td><td>3 days</td></tr></table>"
+  },
+  {
+    "question": "Who approved the performance review policy?",
+    "answer": "John Smith, CEO",
+    "answer_paragraph": "<p>Approved by: John Smith, CEO<br>Date: March 10, 2024</p>"
+  },
+  {
+    "question": "What is the weighting for Sales Revenue?",
+    "answer": "30%",
+    "answer_paragraph": "<p>The following table outlines the key performance indicators (KPIs) that will be used to evaluate employee performance:</p><table><tr><th>KPI</th><th>Weighting</th><th>Target</th></tr><tr><td>Sales Revenue</td><td>30%</td><td>$1 million per quarter</td></tr><tr><td>Customer Satisfaction</td><td>20%</td><td>90% or higher</td></tr><tr><td>Productivity</td><td>30%</td><td>95% or higher</td></tr><tr><td>Teamwork and Collaboration</td><td>20%</td><td>90% or higher</td></tr></table>"
+  },
+  {
+    "question": "When is the review date for non-management employees?",
+    "answer": "December 15, 2024",
+    "answer_paragraph": "<p>The following table outlines the review schedule for the current year:</p><table><tr><th>Employee Category</th><th>Review Date</th></tr><tr><td>Management</td><td>June 15, 2024</td></tr><tr><td>Non-Management</td><td>December 15, 2024</td></tr></table>"
+  },
+  {
+    "question": "What is the duration of on-the-job training?",
+    "answer": "3 days",
+    "answer_paragraph": "<p>The following table outlines the training requirements for employees:</p><table><tr><th>Training Type</th><th>Frequency</th><th>Duration</th></tr><tr><td>Classroom Training</td><td>Every 6 months</td><td>2 days</td></tr><tr><td>Online Courses</td><td>Every 3 months</td><td>1 day</td></tr><tr><td>On-the-Job Training</td><td>Every 12 months</td><td>3 days</td></tr></table>"
+  }
+]

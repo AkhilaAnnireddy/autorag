@@ -1,0 +1,69 @@
+Overtime and Compensation Policy
+
+Introduction
+
+The purpose of this policy is to outline the rules and regulations regarding overtime and compensation for employees of XYZ Corporation. This policy applies to all full-time and part-time employees, effective January 1, 2022.
+
+Table 1: Overtime Rates
+
+| Employee Type | Overtime Rate |
+| --- | --- |
+| Hourly | 1.5 times regular rate |
+| Salaried | 1.2 times regular rate |
+| Executive | 1.0 times regular rate |
+
+The following tables outline the overtime rates for different employee types. Overtime is defined as any work performed in excess of 40 hours per week.
+
+Table 2: Overtime Eligibility
+
+| Department | Overtime Eligible |
+| --- | --- |
+| Sales | Yes |
+| Marketing | No |
+| IT | Yes |
+| HR | No |
+
+Employees in the Sales and IT departments are eligible for overtime, while employees in the Marketing and HR departments are not. The following table outlines the overtime eligibility for each department.
+
+Table 3: Compensation Structure
+
+| Position | Base Salary | Overtime Rate |
+| --- | --- | --- |
+| Sales Representative | $50,000 | 1.5 times regular rate |
+| Marketing Manager | $80,000 | N/A |
+| IT Specialist | $60,000 | 1.2 times regular rate |
+| HR Generalist | $55,000 | N/A |
+
+The compensation structure for each position is outlined in the table above. The base salary and overtime rate are used to calculate the total compensation for each employee.
+
+Table 4: Overtime Approval Process
+
+| Step | Description |
+| --- | --- |
+| 1 | Employee submits overtime request to manager |
+| 2 | Manager reviews and approves/denies request |
+| 3 | Approved requests are forwarded to HR for processing |
+
+The overtime approval process is outlined in the table above. Employees must submit their overtime requests to their manager for approval, who will then review and approve or deny the request.
+
+Table 5: Overtime Reporting
+
+| Report Type | Frequency |
+| --- | --- |
+| Weekly Overtime Report | Every Monday |
+| Monthly Overtime Report | Every 15th of the month |
+
+The overtime reporting schedule is outlined in the table above. The weekly overtime report is due every Monday, while the monthly overtime report is due every 15th of the month.
+
+Conclusion
+
+In conclusion, the overtime and compensation policy for XYZ Corporation is designed to provide fair and consistent compensation for all employees. The policy outlines the rules and regulations regarding overtime and compensation, and provides a clear understanding of the overtime approval process and reporting schedule. If you have any questions or concerns regarding this policy, please contact the HR department.
+
+Acknowledgement
+
+I, John Doe, acknowledge that I have read and understood the overtime and compensation policy for XYZ Corporation, effective January 1, 2022.
+
+Signature: ______________________________
+
+Date: __________________________________
+

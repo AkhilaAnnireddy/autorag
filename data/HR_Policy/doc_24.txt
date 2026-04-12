@@ -1,0 +1,134 @@
+
+   <h1>Intern Policy</h1>
+   <p>Welcome to XYZ Corporation, a leading technology firm. Our intern policy is designed to provide a comprehensive and structured program for interns to learn and grow with our organization. The internship program is open to students and recent graduates who are looking to gain hands-on experience in their field of study.</p>
+   <h2>Eligibility Criteria</h2>
+   <p>To be eligible for the internship program, applicants must meet the following criteria:</p>
+   <table>
+      <tr>
+         <th>Criteria</th>
+         <th>Requirements</th>
+      </tr>
+      <tr>
+         <td>Age</td>
+         <td>18 years or older</td>
+      </tr>
+      <tr>
+         <td>Education</td>
+         <td>Currently enrolled in a degree-granting program or recently graduated</td>
+      </tr>
+      <tr>
+         <td>Availability</td>
+         <td>Available to work for a minimum of 10 weeks</td>
+      </tr>
+   </table>
+   <h2>Application Process</h2>
+   <p>To apply for the internship program, please submit the following documents:</p>
+   <table>
+      <tr>
+         <th>Document</th>
+         <th>Description</th>
+      </tr>
+      <tr>
+         <td>Resume</td>
+         <td>A current resume that highlights your skills and experience</td>
+      </tr>
+      <tr>
+         <td>Cover Letter</td>
+         <td>A cover letter that explains why you are interested in the internship program and what you hope to achieve</td>
+      </tr>
+      <tr>
+         <td>Transcripts</td>
+         <td>Official or unofficial transcripts that show your current academic standing</td>
+      </tr>
+   </table>
+   <h2>Internship Duration and Schedule</h2>
+   <p>The internship program typically lasts for 10-12 weeks, with a minimum of 20 hours of work per week. The schedule will be determined by the hiring manager and may vary depending on the department and project requirements.</p>
+   <table>
+      <tr>
+         <th>Department</th>
+         <th>Internship Duration</th>
+         <th>Schedule</th>
+      </tr>
+      <tr>
+         <td>Marketing</td>
+         <td>10 weeks</td>
+         <td>Monday - Friday, 9am - 5pm</td>
+      </tr>
+      <tr>
+         <td>Software Development</td>
+         <td>12 weeks</td>
+         <td>Monday - Friday, 10am - 6pm</td>
+      </tr>
+      <tr>
+         <td>Human Resources</td>
+         <td>10 weeks</td>
+         <td>Monday - Friday, 9am - 5pm</td>
+      </tr>
+   </table>
+   <h2>Compensation and Benefits</h2>
+   <p>Interns will receive a stipend of $15 per hour, paid bi-weekly. Additionally, interns will be eligible for free parking, access to our on-site gym, and discounts on company products.</p>
+   <table>
+      <tr>
+         <th>Benefit</th>
+         <th>Description</th>
+      </tr>
+      <tr>
+         <td>Stipend</td>
+         <td>$15 per hour, paid bi-weekly</td>
+      </tr>
+      <tr>
+         <td>Free Parking</td>
+         <td>Access to on-site parking during work hours</td>
+      </tr>
+      <tr>
+         <td>On-site Gym</td>
+         <td>Access to our on-site gym during work hours</td>
+      </tr>
+   </table>
+   <h2>Performance Evaluation</h2>
+   <p>Interns will be evaluated on their performance at the mid-point and at the end of the internship program. The evaluation will be based on the following criteria:</p>
+   <table>
+      <tr>
+         <th>Criteria</th>
+         <th>Weightage</th>
+      </tr>
+      <tr>
+         <td>Job Knowledge</td>
+         <td>30%</td>
+      </tr>
+      <tr>
+         <td>Communication Skills</td>
+         <td>20%</td>
+      </tr>
+      <tr>
+         <td>Teamwork and Collaboration</td>
+         <td>20%</td>
+      </tr>
+   </table>
+   <h2>Intern Testimonials</h2>
+   <p>We have had the pleasure of hosting many talented interns over the years. Here's what some of them have to say about their experience:</p>
+   <table>
+      <tr>
+         <th>Name</th>
+         <th>Department</th>
+         <th>Testimonial</th>
+      </tr>
+      <tr>
+         <td>Emily Chen</td>
+         <td>Marketing</td>
+         <td>I had an amazing experience interning at XYZ Corporation. The team was very supportive and I learned a lot about the industry.</td>
+      </tr>
+      <tr>
+         <td>Ryan Thompson</td>
+         <td>Software Development</td>
+         <td>The internship program at XYZ Corporation was very challenging, but it helped me to grow both professionally and personally.</td>
+      </tr>
+      <tr>
+         <td>Olivia Lee</td>
+         <td>Human Resources</td>
+         <td>I was impressed by the company culture and the opportunities that I had to network with other professionals in the field.</td>
+      </tr>
+   </table>
+   <h2>Conclusion</h2>
+   <p>We believe that our internship program provides a unique opportunity for students and recent graduates to gain hands-on experience and build their skills in a dynamic and supportive environment. If you are interested in applying for the internship program, please submit your application by March 15th, 2024.</p>
+   

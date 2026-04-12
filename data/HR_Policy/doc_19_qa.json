@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the purpose of the Conflict of Interest Policy?",
+    "answer": "The purpose of this policy is to ensure that all employees of XYZ Corporation are aware of their responsibilities to avoid conflicts of interest.",
+    "answer_paragraph": "Introduction\nThe purpose of this policy is to ensure that all employees of XYZ Corporation are aware of their responsibilities to avoid conflicts of interest. A conflict of interest arises when an employee's personal interests could influence their decisions or actions in the performance of their job. As of January 1, 2022, all employees are required to disclose any potential conflicts of interest to their supervisor or HR representative."
+  },
+  {
+    "question": "What are the disclosure requirements for financial interests?",
+    "answer": "Yes",
+    "answer_paragraph": "Table 1: Disclosure Requirements\n| Category | Description | Disclosure Requirement |\n| --- | --- | --- |\n| Financial Interests | Ownership or investment in a company that does business with XYZ Corporation | Yes |\n| Personal Relationships | Family members or close friends who work for a company that does business with XYZ Corporation | Yes |\n| Outside Employment | Employment or consulting work outside of XYZ Corporation | Yes |\n| Gifts and Entertainment | Receipt of gifts or entertainment from a company that does business with XYZ Corporation | Yes |"
+  },
+  {
+    "question": "How many employees have reported potential conflicts of interest as of June 30, 2022?",
+    "answer": "a total of 25 employees have reported potential conflicts of interest, with 15 being resolved and 10 still under review.",
+    "answer_paragraph": "Reporting Requirements\nAll employees are required to report any potential conflicts of interest to their supervisor or HR representative within 30 days of the occurrence. The report should include the nature of the conflict, the potential impact on the employee's job, and any proposed solutions. As of June 30, 2022, a total of 25 employees have reported potential conflicts of interest, with 15 being resolved and 10 still under review."
+  },
+  {
+    "question": "What is the disciplinary action for a first offense of non-compliance with the Conflict of Interest Policy?",
+    "answer": "Warning and mandatory training",
+    "answer_paragraph": "Table 4: Disciplinary Actions\n| Infraction | Disciplinary Action |\n| --- | --- |\n| First offense | Warning and mandatory training |\n| Second offense | Suspension without pay |\n| Third offense | Termination of employment |"
+  },
+  {
+    "question": "Who stated that it is the responsibility of every employee to uphold the highest standards of integrity and to avoid any actions that could be perceived as a conflict of interest?",
+    "answer": "our CEO, John Smith",
+    "answer_paragraph": "Consequences of Non-Compliance\n Failure to comply with this policy may result in disciplinary action, up to and including termination of employment. As stated by our CEO, John Smith, 'It is the responsibility of every employee to uphold the highest standards of integrity and to avoid any actions that could be perceived as a conflict of interest.'"
+  },
+  {
+    "question": "What is the nature of the conflict of interest in the scenario where an employee owns stock in a company that competes with XYZ Corporation?",
+    "answer": "Yes",
+    "answer_paragraph": "Table 2: Examples of Conflicts of Interest\n| Scenario | Conflict of Interest |\n| --- | --- |\n| An employee owns stock in a company that competes with XYZ Corporation | Yes |\n| An employee's family member works for a company that supplies goods to XYZ Corporation | Yes |\n| An employee accepts a gift from a company that is seeking to do business with XYZ Corporation | Yes |"
+  },
+  {
+    "question": "How many reports of potential conflicts of interest were made in the year 2020?",
+    "answer": "10",
+    "answer_paragraph": "Table 3: Reporting Statistics\n| Year | Number of Reports | Number of Resolved Reports |\n| --- | --- | --- |\n| 2020 | 10 | 5 |\n| 2021 | 15 | 10 |\n| 2022 | 25 | 15 |"
+  },
+  {
+    "question": "What is the time frame within which employees are required to report any potential conflicts of interest?",
+    "answer": "within 30 days of the occurrence",
+    "answer_paragraph": "Reporting Requirements\nAll employees are required to report any potential conflicts of interest to their supervisor or HR representative within 30 days of the occurrence. The report should include the nature of the conflict, the potential impact on the employee's job, and any proposed solutions. As of June 30, 2022, a total of 25 employees have reported potential conflicts of interest, with 15 being resolved and 10 still under review."
+  },
+  {
+    "question": "What is the description of the category 'Personal Relationships' in the disclosure requirements?",
+    "answer": "Family members or close friends who work for a company that does business with XYZ Corporation",
+    "answer_paragraph": "Table 1: Disclosure Requirements\n| Category | Description | Disclosure Requirement |\n| --- | --- | --- |\n| Financial Interests | Ownership or investment in a company that does business with XYZ Corporation | Yes |\n| Personal Relationships | Family members or close friends who work for a company that does business with XYZ Corporation | Yes |\n| Outside Employment | Employment or consulting work outside of XYZ Corporation | Yes |\n| Gifts and Entertainment | Receipt of gifts or entertainment from a company that does business with XYZ Corporation | Yes |"
+  },
+  {
+    "question": "What is the date by which all employees are required to disclose any potential conflicts of interest to their supervisor or HR representative?",
+    "answer": "January 1, 2022",
+    "answer_paragraph": "Introduction\nThe purpose of this policy is to ensure that all employees of XYZ Corporation are aware of their responsibilities to avoid conflicts of interest. A conflict of interest arises when an employee's personal interests could influence their decisions or actions in the performance of their job. As of January 1, 2022, all employees are required to disclose any potential conflicts of interest to their supervisor or HR representative."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the overtime rate for hourly employees?",
+    "answer": "1.5 times regular rate",
+    "answer_paragraph": "Table 1: Overtime Rates\n\n| Employee Type | Overtime Rate |\n| --- | --- |\n| Hourly | 1.5 times regular rate |\n| Salaried | 1.2 times regular rate |\n| Executive | 1.0 times regular rate |\n"
+  },
+  {
+    "question": "Which departments are eligible for overtime?",
+    "answer": "Sales and IT",
+    "answer_paragraph": "Table 2: Overtime Eligibility\n\n| Department | Overtime Eligible |\n| --- | --- |\n| Sales | Yes |\n| Marketing | No |\n| IT | Yes |\n| HR | No |\n"
+  },
+  {
+    "question": "What is the base salary for a Sales Representative?",
+    "answer": "$50,000",
+    "answer_paragraph": "Table 3: Compensation Structure\n\n| Position | Base Salary | Overtime Rate |\n| --- | --- | --- |\n| Sales Representative | $50,000 | 1.5 times regular rate |\n| Marketing Manager | $80,000 | N/A |\n| IT Specialist | $60,000 | 1.2 times regular rate |\n| HR Generalist | $55,000 | N/A |\n"
+  },
+  {
+    "question": "What is the first step in the overtime approval process?",
+    "answer": "Employee submits overtime request to manager",
+    "answer_paragraph": "Table 4: Overtime Approval Process\n\n| Step | Description |\n| --- | --- |\n| 1 | Employee submits overtime request to manager |\n| 2 | Manager reviews and approves/denies request |\n| 3 | Approved requests are forwarded to HR for processing |\n"
+  },
+  {
+    "question": "How often is the weekly overtime report due?",
+    "answer": "Every Monday",
+    "answer_paragraph": "Table 5: Overtime Reporting\n\n| Report Type | Frequency |\n| --- | --- |\n| Weekly Overtime Report | Every Monday |\n| Monthly Overtime Report | Every 15th of the month |\n"
+  },
+  {
+    "question": "Who acknowledges the overtime and compensation policy?",
+    "answer": "John Doe",
+    "answer_paragraph": "Acknowledgement\n\nI, John Doe, acknowledge that I have read and understood the overtime and compensation policy for XYZ Corporation, effective January 1, 2022.\n"
+  },
+  {
+    "question": "What is the effective date of the overtime and compensation policy?",
+    "answer": "January 1, 2022",
+    "answer_paragraph": "Introduction\n\nThe purpose of this policy is to outline the rules and regulations regarding overtime and compensation for employees of XYZ Corporation. This policy applies to all full-time and part-time employees, effective January 1, 2022.\n"
+  },
+  {
+    "question": "What is the overtime rate for salaried employees?",
+    "answer": "1.2 times regular rate",
+    "answer_paragraph": "Table 1: Overtime Rates\n\n| Employee Type | Overtime Rate |\n| --- | --- |\n| Hourly | 1.5 times regular rate |\n| Salaried | 1.2 times regular rate |\n| Executive | 1.0 times regular rate |\n"
+  },
+  {
+    "question": "What is the role of the HR department in the overtime approval process?",
+    "answer": "Approved requests are forwarded to HR for processing",
+    "answer_paragraph": "Table 4: Overtime Approval Process\n\n| Step | Description |\n| --- | --- |\n| 1 | Employee submits overtime request to manager |\n| 2 | Manager reviews and approves/denies request |\n| 3 | Approved requests are forwarded to HR for processing |\n"
+  },
+  {
+    "question": "How often is the monthly overtime report due?",
+    "answer": "Every 15th of the month",
+    "answer_paragraph": "Table 5: Overtime Reporting\n\n| Report Type | Frequency |\n| --- | --- |\n| Weekly Overtime Report | Every Monday |\n| Monthly Overtime Report | Every 15th of the month |\n"
+  }
+]

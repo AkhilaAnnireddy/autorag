@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the minimum age requirement to be eligible for the internship program?",
+    "answer": "18 years or older",
+    "answer_paragraph": "To be eligible for the internship program, applicants must meet the following criteria:"
+  },
+  {
+    "question": "What documents are required to apply for the internship program?",
+    "answer": "A current resume, a cover letter, and official or unofficial transcripts",
+    "answer_paragraph": "To apply for the internship program, please submit the following documents:"
+  },
+  {
+    "question": "How many hours per week are interns required to work?",
+    "answer": "A minimum of 20 hours",
+    "answer_paragraph": "The internship program typically lasts for 10-12 weeks, with a minimum of 20 hours of work per week."
+  },
+  {
+    "question": "What is the stipend paid to interns?",
+    "answer": "$15 per hour, paid bi-weekly",
+    "answer_paragraph": "Interns will receive a stipend of $15 per hour, paid bi-weekly."
+  },
+  {
+    "question": "What are the benefits provided to interns?",
+    "answer": "Free parking, access to the on-site gym, and discounts on company products",
+    "answer_paragraph": "Additionally, interns will be eligible for free parking, access to our on-site gym, and discounts on company products."
+  },
+  {
+    "question": "How are interns evaluated during the program?",
+    "answer": "At the mid-point and at the end of the internship program, based on job knowledge, communication skills, and teamwork and collaboration",
+    "answer_paragraph": "Interns will be evaluated on their performance at the mid-point and at the end of the internship program."
+  },
+  {
+    "question": "What is the weightage of job knowledge in the performance evaluation?",
+    "answer": "30%",
+    "answer_paragraph": "The evaluation will be based on the following criteria:"
+  },
+  {
+    "question": "What did Emily Chen say about her experience interning at XYZ Corporation?",
+    "answer": "I had an amazing experience interning at XYZ Corporation. The team was very supportive and I learned a lot about the industry.",
+    "answer_paragraph": "We have had the pleasure of hosting many talented interns over the years."
+  },
+  {
+    "question": "What is the application deadline for the internship program?",
+    "answer": "March 15th, 2024",
+    "answer_paragraph": "If you are interested in applying for the internship program, please submit your application by March 15th, 2024."
+  },
+  {
+    "question": "How long does the internship program in the Software Development department typically last?",
+    "answer": "12 weeks",
+    "answer_paragraph": "The schedule will be determined by the hiring manager and may vary depending on the department and project requirements."
+  }
+]

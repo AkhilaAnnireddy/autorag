@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the purpose of the IT equipment usage policy?",
+    "answer": "The purpose of this policy is to ensure the security and integrity of company data, prevent the misuse of company-owned IT equipment, comply with relevant laws and regulations, and provide guidelines for the use of personal devices for work purposes.",
+    "answer_paragraph": "The IT equipment usage policy is designed to ensure the proper use of company-owned IT equipment, including computers, laptops, mobile devices, and other electronic devices. This policy applies to all employees, contractors, and third-party vendors who use company-owned IT equipment."
+  },
+  {
+    "question": "What are the acceptable uses of company-owned IT equipment?",
+    "answer": "The following uses of company-owned IT equipment are acceptable: work-related activities, such as checking email, browsing the internet, and using company-approved software applications, and limited personal use, such as checking personal email or browsing the internet during breaks",
+    "answer_paragraph": "* The following uses of company-owned IT equipment are acceptable: work-related activities, such as checking email, browsing the internet, and using company-approved software applications, and limited personal use, such as checking personal email or browsing the internet during breaks"
+  },
+  {
+    "question": "What are the security requirements for company-owned IT equipment?",
+    "answer": "All company-owned IT equipment must be protected with up-to-date antivirus software and a firewall, employees must use strong passwords and keep them confidential, and confidential or sensitive information must be encrypted when transmitted or stored on company-owned IT equipment",
+    "answer_paragraph": "* All company-owned IT equipment must be protected with up-to-date antivirus software and a firewall, employees must use strong passwords and keep them confidential, and confidential or sensitive information must be encrypted when transmitted or stored on company-owned IT equipment"
+  },
+  {
+    "question": "What types of personal devices are allowed for work purposes?",
+    "answer": "The following types of personal devices are allowed for work purposes: smartphones, laptops, and tablets",
+    "answer_paragraph": "* The following types of personal devices are allowed for work purposes: smartphones, laptops, and tablets"
+  },
+  {
+    "question": "How often will this policy be reviewed and revised?",
+    "answer": "This policy will be reviewed and revised as necessary, but at least annually",
+    "answer_paragraph": "* This policy will be reviewed and revised as necessary, but at least annually"
+  },
+  {
+    "question": "What is the deadline for employees to acknowledge that they have read and understood this policy?",
+    "answer": "February 28, 2024",
+    "answer_paragraph": "* All employees must acknowledge that they have read and understood this policy, employees must sign and return the acknowledgement form to the HR department by February 28, 2024"
+  },
+  {
+    "question": "When was the previous version of this policy in effect?",
+    "answer": "from June 1, 2022, to January 14, 2024",
+    "answer_paragraph": "* The previous version of this policy was in effect from June 1, 2022, to January 14, 2024"
+  },
+  {
+    "question": "Who is responsible for monitoring company-owned IT equipment for compliance with this policy?",
+    "answer": "The IT department",
+    "answer_paragraph": "* The IT department will monitor company-owned IT equipment for compliance with this policy"
+  },
+  {
+    "question": "What are the requirements for personal devices used for work purposes?",
+    "answer": "Devices must be running a supported operating system, devices must have up-to-date antivirus software and a firewall, and devices must be configured to comply with company security policies",
+    "answer_paragraph": "* The following requirements apply to personal devices used for work purposes: devices must be running a supported operating system, devices must have up-to-date antivirus software and a firewall, and devices must be configured to comply with company security policies"
+  },
+  {
+    "question": "Who should employees contact for questions or concerns about this policy?",
+    "answer": "The IT department at it@xyzcorp.com or 555-1234",
+    "answer_paragraph": "* For questions or concerns about this policy, please contact the IT department at it@xyzcorp.com or 555-1234"
+  }
+]
