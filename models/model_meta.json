@@ -1,0 +1,22 @@
+{
+  "input_dim": 391,
+  "output_dim": 11,
+  "hidden1": 256,
+  "hidden2": 64,
+  "dropout": 0.3,
+  "loo_accuracy": 0.17333333333333334,
+  "majority_baseline": 0.24,
+  "classes": [
+    "config_1",
+    "config_10",
+    "config_12",
+    "config_2",
+    "config_3",
+    "config_4",
+    "config_5",
+    "config_6",
+    "config_7",
+    "config_8",
+    "config_9"
+  ]
+}

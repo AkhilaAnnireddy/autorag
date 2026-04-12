@@ -88,7 +88,7 @@ def main():
     features_df = pd.read_csv(FEATURES_FILE)
     results_df  = pd.read_csv(RESULTS_FILE)
 
-    df = pd.merge(features_df, results_df[["filename", "best_config"]], on="filename")
+    df = pd.merge(features_df, results_df[["filename", "domain", "best_config"]], on=["filename", "domain"])
     print(f"Merged dataset: {len(df)} samples")
 
     # ── Prepare features and labels ────────────────────────────────────────────
