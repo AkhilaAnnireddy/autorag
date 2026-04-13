@@ -1,10 +1,10 @@
 {
   "input_dim": 391,
   "output_dim": 11,
-  "hidden1": 256,
-  "hidden2": 64,
-  "dropout": 0.3,
-  "loo_accuracy": 0.17333333333333334,
+  "hidden1": 64,
+  "hidden2": 32,
+  "dropout": 0.5,
+  "loo_accuracy": 0.18666666666666668,
   "majority_baseline": 0.24,
   "classes": [
     "config_1",

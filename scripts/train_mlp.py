@@ -17,11 +17,11 @@ MODELS_DIR    = "models"
 RANDOM_SEED   = 42
 
 # MLP hyperparameters
-HIDDEN1      = 256
-HIDDEN2      = 64
-DROPOUT      = 0.3
+HIDDEN1 = 64
+HIDDEN2 = 32
+DROPOUT      = 0.5
 LR           = 0.001
-EPOCHS       = 200
+EPOCHS       = 100
 BATCH_SIZE   = 16
 
 torch.manual_seed(RANDOM_SEED)
