@@ -32,7 +32,7 @@ RESULTS_FILE          = "results/retrieval_results.csv"
 MODELS_DIR            = "models"
 DIAGNOSTICS_DIR       = "diagnostics"
 RANDOM_SEED           = 42
-MIN_SAMPLES_PER_CLASS = 5   # classes below this are merged into "other"
+MIN_SAMPLES_PER_CLASS = 5  
 
 # MLP hyperparameters
 HIDDEN1    = 32
