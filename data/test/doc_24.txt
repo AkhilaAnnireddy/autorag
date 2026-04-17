@@ -1,0 +1,71 @@
+INTELLECTUAL PROPERTY ASSIGNMENT AGREEMENT
+This Intellectual Property Assignment Agreement (the "Agreement") is made and entered into on this 12th day of March, 2023 (the "Effective Date"), by and between NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 ("NovaTech"), and Emily J. Lee, an individual with an address at 456 Elm Street, Othertown, CA 67890 ("Assignor").
+
+Table 1: Parties' Information
+| Party Name | Address | Contact Information |
+| --- | --- | --- |
+| NovaTech Inc. | 123 Main Street, Anytown, CA 12345 | (555) 123-4567, [info@novatech.com](mailto:info@novatech.com) |
+| Emily J. Lee | 456 Elm Street, Othertown, CA 67890 | (555) 901-2345, [emily.lee@email.com](mailto:emily.lee@email.com) |
+
+WHEREAS, Assignor is the owner of certain intellectual property rights, including but not limited to patents, trademarks, copyrights, and trade secrets, related to the development of a new software product (the "Software"); and
+WHEREAS, NovaTech desires to obtain the exclusive rights to the Software and the Assignor is willing to assign such rights to NovaTech.
+
+Table 2: Intellectual Property Rights
+| Intellectual Property Type | Description | Ownership |
+| --- | --- | --- |
+| Patents | Utility patent application filed on February 10, 2022, with the USPTO | Assignor |
+| Trademarks | "NovaSoft" trademark application filed on January 15, 2022, with the USPTO | Assignor |
+| Copyrights | Copyright registration for the Software's source code, filed on March 1, 2022, with the U.S. Copyright Office | Assignor |
+| Trade Secrets | Confidential and proprietary information related to the Software's development | Assignor |
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises contained herein, the parties agree as follows:
+
+Article 1: Assignment of Intellectual Property Rights
+1.1 Assignor hereby assigns to NovaTech, its successors, and assigns, all right, title, and interest in and to the Software, including but not limited to the intellectual property rights listed in Table 2.
+1.2 The assignment of the intellectual property rights shall be effective as of the Effective Date and shall be irrevocable.
+
+Table 3: Payment Terms
+| Payment Type | Amount | Payment Date |
+| --- | --- | --- |
+| Initial Payment | $100,000 | March 12, 2023 |
+| Milestone Payment | $50,000 | June 15, 2023 |
+| Royalty Payment | 5% of net sales | Quarterly, starting from September 30, 2023 |
+
+Article 2: Payment Terms
+2.1 NovaTech shall pay to Assignor the payments listed in Table 3.
+2.2 The payments shall be made in accordance with the payment schedule listed in Table 3.
+
+Table 4: Representations and Warranties
+| Representation and Warranty | Description |
+| --- | --- |
+| Ownership | Assignor is the sole owner of the intellectual property rights |
+| Non-Infringement | The Software does not infringe any third-party intellectual property rights |
+| Compliance with Laws | The Software complies with all applicable laws and regulations |
+
+Article 3: Representations and Warranties
+3.1 Assignor represents and warrants to NovaTech that the representations and warranties listed in Table 4 are true and accurate as of the Effective Date.
+3.2 NovaTech represents and warrants to Assignor that it has the necessary funds to make the payments listed in Table 3.
+
+Table 5: Dispute Resolution
+| Dispute Resolution Mechanism | Description |
+| --- | --- |
+| Negotiation | The parties shall attempt to resolve any disputes through negotiation |
+| Mediation | If negotiation fails, the parties shall attempt to resolve any disputes through mediation |
+| Arbitration | If mediation fails, the parties shall resolve any disputes through arbitration |
+
+Article 4: Dispute Resolution
+4.1 Any disputes arising out of or related to this Agreement shall be resolved in accordance with the dispute resolution mechanisms listed in Table 5.
+4.2 The dispute resolution mechanisms shall be conducted in accordance with the rules of the American Arbitration Association.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+NovaTech Inc.
+By: _____________________________
+Name: John Smith
+Title: CEO
+Date: March 12, 2023
+
+Emily J. Lee
+By: _____________________________
+Name: Emily J. Lee
+Date: March 12, 2023

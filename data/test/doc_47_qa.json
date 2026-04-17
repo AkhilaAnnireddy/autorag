@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the effective date of the Agreement?",
+    "answer": "February 10, 2023",
+    "answer_paragraph": "These Terms of Service ('Agreement') are entered into on February 10, 2023, by and between XYZ Corporation ('XYZ') and you ('User'). This Agreement sets forth the terms and conditions under which you may use the Services. By using the Services, you acknowledge that you have read, understood, and agree to be bound by this Agreement. The effective date of this Agreement is February 10, 2023."
+  },
+  {
+    "question": "What is the fee for the Basic service plan?",
+    "answer": "$9.99/month",
+    "answer_paragraph": "Table 2: Service Fees\n\n| Service | Fee |\n| --- | --- |\n| Basic | $9.99/month |\n| Premium | $19.99/month |\n| Enterprise | Custom quote |"
+  },
+  {
+    "question": "What is the target uptime for the Services?",
+    "answer": "99.9%",
+    "answer_paragraph": "Table 3: Service Level Agreement\n\n| Metric | Target |\n| --- | --- |\n| Uptime | 99.9% |\n| Response Time | 2 seconds |\n| Resolution Time | 4 hours |"
+  },
+  {
+    "question": "What is the mailing address of XYZ Corporation?",
+    "answer": "123 Main St, Anytown, CA 12345",
+    "answer_paragraph": "If you have any questions or concerns about this Agreement, please contact us at support@xyzcorp.com or 1-800-XYZ-CORP. Our mailing address is 123 Main St, Anytown, CA 12345."
+  },
+  {
+    "question": "What is prohibited under the Acceptable Use Policy?",
+    "answer": "No uploading, downloading, posting, emailing, or transmitting of unlawful or objectionable content",
+    "answer_paragraph": "Table 4: Acceptable Use Policy\n\n| Policy | Description |\n| --- | --- |\n| Prohibited Content | No uploading, downloading, posting, emailing, or transmitting of unlawful or objectionable content |\n| System Abuse | No interference with or disruption of the Services |\n| Security | No attempting to gain unauthorized access to the Services |"
+  },
+  {
+    "question": "How can the Agreement be amended or modified?",
+    "answer": "except in writing signed by both parties",
+    "answer_paragraph": "This Agreement may not be amended or modified except in writing signed by both parties."
+  },
+  {
+    "question": "What is the language of the arbitration?",
+    "answer": "English",
+    "answer_paragraph": "Any disputes arising out of or related to this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association. The arbitration shall be conducted in Los Angeles, California, and the language of the arbitration shall be English."
+  },
+  {
+    "question": "What is the response time target for the Services?",
+    "answer": "2 seconds",
+    "answer_paragraph": "Table 3: Service Level Agreement\n\n| Metric | Target |\n| --- | --- |\n| Uptime | 99.9% |\n| Response Time | 2 seconds |\n| Resolution Time | 4 hours |"
+  },
+  {
+    "question": "What is the resolution time target for the Services?",
+    "answer": "4 hours",
+    "answer_paragraph": "Table 3: Service Level Agreement\n\n| Metric | Target |\n| --- | --- |\n| Uptime | 99.9% |\n| Response Time | 2 seconds |\n| Resolution Time | 4 hours |"
+  },
+  {
+    "question": "How long must the User notify XYZ of any unauthorized use of their account or password?",
+    "answer": "immediately",
+    "answer_paragraph": "You must notify XYZ immediately of any unauthorized use of your account or password."
+  }
+]

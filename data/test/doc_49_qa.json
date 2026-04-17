@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What is the date of the Non-Disclosure Agreement?",
+    "answer": "February 10, 2023",
+    "answer_paragraph": "This Non-Disclosure Agreement (the \"Agreement\"), dated as of February 10, 2023 (the \"Effective Date\"), is entered into by and between NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, New York, NY 10001 (\"NovaTech\"), and Apex Solutions, a California corporation with its principal place of business at 456 Elm Street, San Francisco, CA 94105 (\"Apex\"), collectively referred to as the \"Parties\"."
+  },
+  {
+    "question": "What is the term of the Non-Disclosure Agreement?",
+    "answer": "two (2) years",
+    "answer_paragraph": "The term of this Agreement shall commence on the Effective Date and continue for a period of two (2) years, unless terminated earlier in accordance with the terms of this Agreement."
+  },
+  {
+    "question": "What happens to confidential information disclosed by NovaTech to Apex upon expiration or termination of the Agreement?",
+    "answer": "all confidential information disclosed by NovaTech to Apex shall be returned to NovaTech, and Apex shall certify in writing that all such confidential information has been destroyed",
+    "answer_paragraph": "Upon expiration or termination of this Agreement, all confidential information disclosed by NovaTech to Apex shall be returned to NovaTech, and Apex shall certify in writing that all such confidential information has been destroyed."
+  },
+  {
+    "question": "What is the purpose of disclosing confidential information by NovaTech to Apex?",
+    "answer": "for the purpose of evaluating the potential business relationship between NovaTech and Apex",
+    "answer_paragraph": "The exchange of such information is contingent upon the terms and conditions set forth in this Agreement. The term of this Agreement shall commence on the Effective Date and continue for a period of two (2) years, unless terminated earlier in accordance with the terms of this Agreement. Upon expiration or termination of this Agreement, all confidential information disclosed by NovaTech to Apex shall be returned to NovaTech, and Apex shall certify in writing that all such confidential information has been destroyed. The Parties agree that the confidential information disclosed by NovaTech to Apex shall include, but not be limited to, certain technical data and trade secrets related to NovaTech's proprietary software, including the source code and object code for such software. Such confidential information shall be disclosed to Apex solely for the purpose of evaluating the potential business relationship between NovaTech and Apex, and shall not be used for any other purpose."
+  },
+  {
+    "question": "What is the governing law for the Non-Disclosure Agreement?",
+    "answer": "the laws of the State of New York",
+    "answer_paragraph": "The validity, construction, and enforcement of this Agreement shall be governed by and construed in accordance with the laws of the State of New York, without giving effect to any principles of conflicts of law."
+  },
+  {
+    "question": "How shall any dispute arising out of or related to the Agreement be resolved?",
+    "answer": "through binding arbitration in accordance with the rules of the American Arbitration Association, as amended from time to time",
+    "answer_paragraph": "Any dispute arising out of or related to this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association, as amended from time to time."
+  },
+  {
+    "question": "What is the language of the arbitration?",
+    "answer": "English",
+    "answer_paragraph": "The language of the arbitration shall be English."
+  },
+  {
+    "question": "What is the place of arbitration?",
+    "answer": "New York, New York",
+    "answer_paragraph": "The place of arbitration shall be New York, New York."
+  },
+  {
+    "question": "What is the role of the arbitrator?",
+    "answer": "to conduct the arbitration and make a decision that is final and binding upon the Parties",
+    "answer_paragraph": "The arbitration shall be conducted by a single arbitrator, who shall be selected by mutual agreement of the Parties. The arbitrator's decision shall be final and binding upon the Parties, and judgment upon the award rendered by the arbitrator may be entered in any court having jurisdiction."
+  },
+  {
+    "question": "What happens if a provision of the Agreement is held to be invalid or unenforceable?",
+    "answer": "the remaining provisions of this Agreement shall remain in full force and effect",
+    "answer_paragraph": "The Parties agree that the provisions of this Agreement are severable, and that if any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions of this Agreement shall remain in full force and effect."
+  },
+  {
+    "question": "How shall the Parties execute and deliver documents and instruments to carry out the purposes of the Agreement?",
+    "answer": "the Parties shall execute and deliver such other documents and instruments as may be reasonably required to carry out the purposes of this Agreement",
+    "answer_paragraph": "The Parties agree to execute and deliver such other documents and instruments as may be reasonably required to carry out the purposes of this Agreement."
+  }
+]

@@ -1,0 +1,74 @@
+Terms of Service Document
+
+Table 1: Definitions
+
+| Term | Definition |
+| --- | --- |
+| User | An individual or entity that uses the Services |
+| Services | The software, data, and other materials provided by XYZ Corporation |
+| Agreement | This Terms of Service document |
+
+Table 2: Service Fees
+
+| Service | Fee |
+| --- | --- |
+| Basic | $9.99/month |
+| Premium | $19.99/month |
+| Enterprise | Custom quote |
+
+1. Introduction
+
+These Terms of Service ('Agreement') are entered into on February 10, 2023, by and between XYZ Corporation ('XYZ') and you ('User'). This Agreement sets forth the terms and conditions under which you may use the Services. By using the Services, you acknowledge that you have read, understood, and agree to be bound by this Agreement. The effective date of this Agreement is February 10, 2023.
+
+2. Service Description
+
+The Services include the use of XYZ's software, data, and other materials. The Services are available 24 hours a day, 7 days a week, except for scheduled maintenance and downtime. The Services are subject to the service fees set forth in Table 2. The Basic service plan includes 100 MB of storage, the Premium service plan includes 1 GB of storage, and the Enterprise service plan includes custom storage. The Services are provided 'as is' and 'as available', without warranties of any kind, either express or implied.
+
+Table 3: Service Level Agreement
+
+| Metric | Target |
+| --- | --- |
+| Uptime | 99.9% |
+| Response Time | 2 seconds |
+| Resolution Time | 4 hours |
+
+3. User Responsibilities
+
+You are responsible for maintaining the confidentiality of your account and password. You are also responsible for all activities that occur under your account. You must notify XYZ immediately of any unauthorized use of your account or password. You must comply with all applicable laws and regulations when using the Services. You must not use the Services for any unlawful or prohibited purpose. The User shall not, and shall not permit any third party to, use the Services to upload, download, post, email, or otherwise transmit any content that is unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable.
+
+4. Intellectual Property
+
+All intellectual property rights in the Services, including but not limited to patents, trademarks, trade secrets, and copyrights, are owned by XYZ. You do not acquire any intellectual property rights in the Services through this Agreement. You must not use any of XYZ's trademarks, trade names, or service marks without XYZ's prior written consent. The User acknowledges that the Services contain proprietary and confidential information of XYZ, and the User agrees to maintain the confidentiality of such information.
+
+5. Termination
+
+Either party may terminate this Agreement upon 30 days' written notice to the other party. Upon termination, you must cease all use of the Services and destroy all copies of the Services in your possession. The following sections shall survive termination: 3, 4, and 6. The User shall pay all unpaid fees due to XYZ upon termination.
+
+6. Governing Law
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of California, without giving effect to any principles of conflicts of law. Any disputes arising out of or related to this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association. The arbitration shall be conducted in Los Angeles, California, and the language of the arbitration shall be English. The User and XYZ waive the right to a trial by jury.
+
+7. Contact Us
+
+If you have any questions or concerns about this Agreement, please contact us at support@xyzcorp.com or 1-800-XYZ-CORP. Our mailing address is 123 Main St, Anytown, CA 12345.
+
+Table 4: Acceptable Use Policy
+
+| Policy | Description |
+| --- | --- |
+| Prohibited Content | No uploading, downloading, posting, emailing, or transmitting of unlawful or objectionable content |
+| System Abuse | No interference with or disruption of the Services |
+| Security | No attempting to gain unauthorized access to the Services |
+
+8. Amendments
+
+We reserve the right to modify or amend this Agreement at any time, with or without notice to you. The most current version of this Agreement will be posted on our website. Your continued use of the Services after the effective date of any changes to this Agreement will be deemed acceptance of those changes.
+
+9. Entire Agreement
+
+This Agreement constitutes the entire agreement between you and XYZ and supersedes all prior or contemporaneous agreements or understandings, whether written or oral. This Agreement may not be amended or modified except in writing signed by both parties.
+
+10. Notice
+
+Any notice required or permitted to be given under this Agreement shall be in writing and shall be delivered personally, or by certified mail, or by overnight courier, or by facsimile transmission, or by email. The notice shall be deemed given when received by the other party.
+

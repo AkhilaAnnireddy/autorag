@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the term length of the partnership between GreenTech and NovaSpire?",
+    "answer": "Three (3) years",
+    "answer_paragraph": "The term of this Agreement shall commence on the Effective Date and continue for a period of three (3) years, unless terminated earlier in accordance with the provisions of Section 10."
+  },
+  {
+    "question": "What is the annual fee that GreenTech will pay to NovaSpire?",
+    "answer": "$250,000",
+    "answer_paragraph": "The following are the payment terms: \n * Payment Amount: GreenTech will pay NovaSpire an annual fee of $250,000, payable in quarterly installments of $62,500."
+  },
+  {
+    "question": "What is the late payment fee for any overdue payments?",
+    "answer": "1.5% per month",
+    "answer_paragraph": "The following are the payment terms: \n * Payment Amount: GreenTech will pay NovaSpire an annual fee of $250,000, payable in quarterly installments of $62,500. \n * Payment Due Date: The payment is due on the first day of each quarter. \n * Late Payment Fee: A late payment fee of 1.5% per month will be charged on any overdue payments."
+  },
+  {
+    "question": "Who is the CEO of GreenTech?",
+    "answer": "John Smith",
+    "answer_paragraph": "The following are the key personnel: \n * John Smith, CEO of GreenTech \n * Jane Doe, CTO of NovaSpire"
+  },
+  {
+    "question": "What is the notice address for NovaSpire?",
+    "answer": "456 Broadway, New York, NY 10013",
+    "answer_paragraph": "The notice address for GreenTech is 123 Main Street, Anytown, CA 12345, and the notice address for NovaSpire is 456 Broadway, New York, NY 10013."
+  },
+  {
+    "question": "What is the policy for data security?",
+    "answer": "NovaSpire will comply with all applicable data security laws and regulations, including the General Data Protection Regulation ('GDPR') and the California Consumer Privacy Act ('CCPA').",
+    "answer_paragraph": "The partnership will be governed by the following policies: \n 1. Data Security Policy: NovaSpire will comply with all applicable data security laws and regulations, including the General Data Protection Regulation ('GDPR') and the California Consumer Privacy Act ('CCPA')."
+  },
+  {
+    "question": "What is the process for dispute resolution?",
+    "answer": "The parties agree to negotiate in good faith to resolve the dispute. If the dispute cannot be resolved through negotiation, it will be resolved through arbitration in accordance with the rules of the American Arbitration Association.",
+    "answer_paragraph": "In the event of a dispute arising out of or in connection with this Agreement, the parties agree to negotiate in good faith to resolve the dispute. If the dispute cannot be resolved through negotiation, it will be resolved through arbitration in accordance with the rules of the American Arbitration Association."
+  },
+  {
+    "question": "What are the steps for the dispute resolution process?",
+    "answer": "Step 1: Negotiation: The parties will negotiate in good faith to resolve the dispute. Step 2: Arbitration: If the dispute cannot be resolved through negotiation, it will be resolved through arbitration. Step 3: Final Decision: The decision of the arbitrator will be final and binding on the parties.",
+    "answer_paragraph": "Table 2: Dispute Resolution Process \n | Step | Description | \n | --- | --- | \n | Step 1 | Negotiation: The parties will negotiate in good faith to resolve the dispute. | \n | Step 2 | Arbitration: If the dispute cannot be resolved through negotiation, it will be resolved through arbitration. | \n | Step 3 | Final Decision: The decision of the arbitrator will be final and binding on the parties."
+  },
+  {
+    "question": "Who is the CTO of NovaSpire?",
+    "answer": "Jane Doe",
+    "answer_paragraph": "The following are the key personnel: \n * John Smith, CEO of GreenTech \n * Jane Doe, CTO of NovaSpire"
+  },
+  {
+    "question": "What is the effective date of the agreement?",
+    "answer": "February 10, 2024",
+    "answer_paragraph": "This Vendor Contract Agreement ('Agreement') is made and entered into on February 10, 2024 ('Effective Date') by and between GreenTech Inc., a corporation organized and existing under the laws of the State of Delaware, with its principal place of business at 123 Main Street, Anytown, CA 12345 ('GreenTech'), and NovaSpire LLC, a limited liability company organized and existing under the laws of the State of New York, with its principal place of business at 456 Broadway, New York, NY 10013 ('NovaSpire')."
+  }
+]
