@@ -1,0 +1,58 @@
+Terms of Service Document for NovaTech Inc.
+
+Table 1: Definitions
+| Term | Definition |
+| --- | --- |
+| 'User' | Any individual or entity accessing the NovaTech Inc. website or services |
+| 'Services' | All products and services offered by NovaTech Inc., including but not limited to software, data storage, and technical support |
+| 'Agreement' | This Terms of Service document |
+
+Table 2: Service Details
+| Service | Description | Price |
+| --- | --- | --- |
+| Basic Plan | 100 GB storage, 1 user license | $9.99/month |
+| Premium Plan | 1 TB storage, 5 user licenses | $49.99/month |
+| Enterprise Plan | Custom storage, 10+ user licenses | Custom quote |
+
+1. Introduction
+NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345, provides various services to its users. By accessing or using the services, users agree to be bound by the terms and conditions outlined in this Agreement. This Agreement was last updated on February 10, 2023.
+
+2. User Responsibilities
+Users are responsible for maintaining the confidentiality of their account information, including usernames and passwords. Users are also responsible for all activities that occur under their account. The following table outlines the acceptable use policy:
+
+Table 3: Acceptable Use Policy
+| Prohibited Activity | Description |
+| --- | --- |
+| Hacking | Attempting to gain unauthorized access to the services or data |
+| Spamming | Sending unsolicited emails or messages |
+| Malware | Uploading or distributing malicious software |
+
+3. Payment Terms
+Payment for services is due on the first day of each month. The following payment methods are accepted: Visa, Mastercard, American Express, and PayPal. A late fee of $10 will be charged for payments not received within 30 days of the due date. The following table outlines the refund policy:
+
+Table 4: Refund Policy
+| Reason | Refund Amount |
+| --- | --- |
+| Cancellation within 30 days | Full refund |
+| Cancellation after 30 days | Prorated refund |
+
+4. Intellectual Property
+NovaTech Inc. retains all intellectual property rights to its services, including but not limited to trademarks, copyrights, and trade secrets. Users agree not to reproduce, modify, or distribute any proprietary materials without prior written consent from NovaTech Inc.
+
+5. Disclaimer of Warranties
+NovaTech Inc. disclaims all warranties, express or implied, including but not limited to implied warranties of merchantability and fitness for a particular purpose. The services are provided 'as is' and 'as available'.
+
+6. Limitation of Liability
+In no event shall NovaTech Inc. be liable for any damages, including but not limited to incidental, consequential, or punitive damages, arising out of or related to the services. The total liability of NovaTech Inc. shall not exceed the amount paid by the user in the 12 months preceding the event giving rise to the claim.
+
+7. Termination
+Either party may terminate this Agreement upon 30 days' written notice to the other party. Upon termination, the user's access to the services will be revoked, and all unpaid fees will become due immediately.
+
+8. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the State of California, without giving effect to any principles of conflicts of law. Any disputes arising out of or related to this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association.
+
+9. Contact Information
+For any questions or concerns regarding this Agreement, please contact NovaTech Inc. at support@novatechinc.com or (555) 123-4567.
+
+10. Changes to the Agreement
+NovaTech Inc. reserves the right to modify or update this Agreement at any time, with or without notice. Users are responsible for reviewing the Agreement regularly to ensure they are aware of any changes.

@@ -1,0 +1,65 @@
+This Master Service Agreement ('Agreement') is made and entered into on February 10, 2023 ('Effective Date'), by and between NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 ('NovaTech'), and Apex Consulting, a California corporation with its principal place of business at 456 Elm Street, Othertown, CA 67890 ('Apex'). The parties agree to be bound by the terms and conditions of this Agreement. This Agreement sets forth the terms and conditions under which NovaTech will provide certain services to Apex, as outlined in the Statement of Work ('SOW') attached hereto as Exhibit A. The term of this Agreement shall commence on the Effective Date and continue for a period of three (3) years, unless earlier terminated in accordance with the provisions of Section 10 below. In the event of any inconsistency between the terms of this Agreement and the terms of any SOW, the terms of this Agreement shall control. The parties acknowledge that they have read, understand, and agree to be bound by the terms and conditions of this Agreement. The following definitions shall apply to this Agreement: 'Business Day' means any day other than a Saturday, Sunday, or a day on which banking institutions in the state of California are authorized or required by law or executive order to close; 'Confidential Information' means any information, whether written or oral, that is disclosed by one party to the other party, and is marked or designated as confidential, or would reasonably be considered confidential; 'Deliverable' means any tangible or intangible work product, including reports, documents, and materials, that is created or developed by NovaTech in the course of performing the Services; 'Services' means the consulting services to be provided by NovaTech to Apex, as outlined in the SOW. The Services shall be performed by NovaTech in accordance with the terms and conditions of this Agreement, and shall include, without limitation, the following: 
+    
+ 
+    The provision of strategic planning and advisory services to Apex, including the development of a comprehensive business strategy and plan; 
+    The provision of operational improvement services, including the analysis of business processes and the implementation of recommendations for improvement; 
+    The provision of technology services, including the development and implementation of software applications and systems. 
+    NovaTech shall perform the Services in a professional and workmanlike manner, and shall devote such time, attention, and resources as may be necessary to perform the Services in accordance with the terms and conditions of this Agreement. Apex shall provide NovaTech with such information, assistance, and access as may be necessary to perform the Services. The fees for the Services shall be as outlined in the SOW, and shall be paid by Apex within thirty (30) days of receipt of an invoice from NovaTech. The total contract value is estimated to be $1,500,000 over the three-year term. In the event that Apex fails to pay any fees or expenses when due, NovaTech may, at its option, suspend performance of the Services until such fees or expenses are paid. The parties agree that the fees and expenses outlined in the SOW are the only fees and expenses that shall be paid by Apex to NovaTech, and that NovaTech shall not be entitled to any additional fees or expenses, unless otherwise agreed to in writing by the parties. 
+    
+ 
+    The following table outlines the payment schedule: 
+    | Payment # | Payment Date | Payment Amount |
+    | --- | --- | --- |
+    | 1 | March 15, 2023 | $200,000 |
+    | 2 | June 15, 2023 | $300,000 |
+    | 3 | September 15, 2023 | $250,000 |
+    | 4 | December 15, 2023 | $200,000 |
+    | 5 | March 15, 2024 | $300,000 |
+    | 6 | June 15, 2024 | $250,000 |
+    | 7 | September 15, 2024 | $200,000 |
+    | 8 | December 15, 2024 | $300,000 |
+    | 9 | March 15, 2025 | $250,000 |
+    | 10 | June 15, 2025 | $200,000 |
+    | 11 | September 15, 2025 | $300,000 |
+    | 12 | December 15, 2025 | $250,000. 
+    
+ 
+    The following are the key performance indicators ('KPIs') that shall be used to measure the performance of NovaTech: 
+    * Customer satisfaction, as measured by surveys and feedback forms; 
+    * Project delivery time, as measured by the time taken to complete each project; 
+    * Budget adherence, as measured by the variance between actual and budgeted costs. 
+    
+ 
+    Either party may terminate this Agreement upon written notice to the other party, in the event of a material breach of this Agreement by the other party that is not cured within thirty (30) days of receipt of such notice. Upon termination of this Agreement, NovaTech shall promptly return to Apex all Confidential Information, and shall destroy any copies thereof. Apex shall pay NovaTech for all Services performed prior to termination, and for any expenses incurred by NovaTech in connection with the termination. The following are the key contacts for each party: 
+    * NovaTech: John Smith, CEO, (555) 123-4567, john.smith@novatech.com; 
+    * Apex: Jane Doe, CFO, (555) 901-2345, jane.doe@apexconsulting.com. 
+    
+ 
+    This Agreement shall be governed by and construed in accordance with the laws of the state of California, without giving effect to any principles of conflicts of law. Any disputes arising out of or related to this Agreement shall be resolved through binding arbitration, in accordance with the rules of the American Arbitration Association. The arbitration shall be conducted by a single arbitrator, and shall take place in Los Angeles, California. The parties agree that the provisions of this Agreement are severable, and that if any provision is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect. 
+    
+ 
+    By signing below, the parties acknowledge that they have read, understand, and agree to be bound by the terms and conditions of this Agreement. 
+    
+ 
+    NovaTech Inc. 
+    
+ 
+    By: John Smith 
+    
+ 
+    Title: CEO 
+    
+ 
+    Date: February 10, 2023 
+    
+ 
+    Apex Consulting 
+    
+ 
+    By: Jane Doe 
+    
+ 
+    Title: CFO 
+    
+ 
+    Date: February 10, 2023

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the definition of \"Software\" in the Agreement?",
+    "answer": "Means the NovaTech Software, as more fully described in Exhibit A.",
+    "answer_paragraph": "**ARTICLE 1: DEFINITIONS**\n\nThe following definitions apply to this Agreement:\n<table>\n      <tr>\n         <th>Term</th>\n         <th>Definition</th>\n      </tr>\n      <tr>\n         <td>\"Software\"</td>\n         <td>Means the NovaTech Software, as more fully described in Exhibit A.</td>\n      </tr>\n      <tr>\n         <td>\"Documentation\"</td>\n         <td>Means the user manuals, guides, and other materials provided by NovaTech in connection with the Software.</td>\n      </tr>\n      <tr>\n         <td>\"License Fee\"</td>\n         <td>Means the fee payable by Apex to NovaTech for the license granted under this Agreement, as set forth in Section 3.1.</td>\n      </tr>\n   </table>"
+  },
+  {
+    "question": "What is the duration of the Development License?",
+    "answer": "12 months",
+    "answer_paragraph": "**ARTICLE 2: GRANT OF LICENSE**\n\nSubject to the terms and conditions of this Agreement, NovaTech hereby grants to Apex a non-exclusive, non-transferable license to use the Software and Documentation for a period of three (3) years from the Effective Date. The license granted under this Section 2.1 is limited to use by Apex for its internal business purposes only.\n<table>\n      <tr>\n         <th>License Type</th>\n         <th>Description</th>\n         <th>Duration</th>\n      </tr>\n      <tr>\n         <td>Development License</td>\n         <td>For use in development and testing environments only.</td>\n         <td>12 months</td>\n      </tr>\n      <tr>\n         <td>Production License</td>\n         <td>For use in production environments only.</td>\n         <td>24 months</td>\n      </tr>\n   </table>"
+  },
+  {
+    "question": "What is the total License Fee for the Software and Documentation?",
+    "answer": "$100,000",
+    "answer_paragraph": "**ARTICLE 3: PAYMENT TERMS**\n\nThe License Fee for the Software and Documentation is $100,000, payable as follows:\n<table>\n      <tr>\n         <th>Payment Due Date</th>\n         <th>Payment Amount</th>\n      </tr>\n      <tr>\n         <td>Within 30 days of the Effective Date</td>\n         <td>$50,000</td>\n      </tr>\n      <tr>\n         <td>Within 12 months of the Effective Date</td>\n         <td>$25,000</td>\n      </tr>\n      <tr>\n         <td>Within 24 months of the Effective Date</td>\n         <td>$25,000</td>\n      </tr>\n   </table>"
+  },
+  {
+    "question": "What is the response time for Standard Support?",
+    "answer": "Within 4 hours",
+    "answer_paragraph": "**ARTICLE 4: SUPPORT AND MAINTENANCE**\n\nNovaTech shall provide Apex with support and maintenance services for the Software and Documentation, as more fully described in Exhibit B. The support and maintenance services shall be provided for a period of three (3) years from the Effective Date.\n<table>\n      <tr>\n         <th>Support Level</th>\n         <th>Description</th>\n         <th>Response Time</th>\n      </tr>\n      <tr>\n         <td>Standard Support</td>\n         <td>Monday to Friday, 9am to 5pm EST.</td>\n         <td>Within 4 hours</td>\n      </tr>\n      <tr>\n         <td>Premium Support</td>\n         <td>24 hours a day, 7 days a week.</td>\n         <td>Within 1 hour</td>\n      </tr>\n   </table>"
+  },
+  {
+    "question": "What is the definition of Highly Confidential information?",
+    "answer": "Information that is highly sensitive and confidential, including but not limited to trade secrets.",
+    "answer_paragraph": "**ARTICLE 5: CONFIDENTIALITY**\n\nThe parties agree to maintain the confidentiality of all information disclosed by one party to the other under this Agreement, including but not limited to the Software and Documentation. The receiving party shall not disclose the confidential information to any third party without the prior written consent of the disclosing party.\n<table>\n      <tr>\n         <th>Confidentiality Level</th>\n         <th>Description</th>\n      </tr>\n      <tr>\n         <td>Highly Confidential</td>\n         <td>Information that is highly sensitive and confidential, including but not limited to trade secrets.</td>\n      </tr>\n      <tr>\n         <td>Confidential</td>\n         <td>Information that is confidential but not highly sensitive.</td>\n      </tr>\n   </table>"
+  },
+  {
+    "question": "What is the term of the Agreement?",
+    "answer": "three (3) years",
+    "answer_paragraph": "**ARTICLE 6: TERM AND TERMINATION**\n\nThe term of this Agreement shall commence on the Effective Date and shall continue for a period of three (3) years. Either party may terminate this Agreement upon written notice to the other party if the other party breaches any of its obligations under this Agreement and fails to cure such breach within 30 days of receipt of such notice."
+  },
+  {
+    "question": "What is the reason for termination due to bankruptcy or insolvency?",
+    "answer": "Either party becomes bankrupt or insolvent.",
+    "answer_paragraph": "**ARTICLE 6: TERM AND TERMINATION**\n\nThe term of this Agreement shall commence on the Effective Date and shall continue for a period of three (3) years. Either party may terminate this Agreement upon written notice to the other party if the other party breaches any of its obligations under this Agreement and fails to cure such breach within 30 days of receipt of such notice.\n<table>\n      <tr>\n         <th>Termination Reason</th>\n         <th>Description</th>\n      </tr>\n      <tr>\n         <td>Breach of Agreement</td>\n         <td>Failure to comply with the terms and conditions of this Agreement.</td>\n      </tr>\n      <tr>\n         <td>Bankruptcy or Insolvency</td>\n         <td>Either party becomes bankrupt or insolvent.</td>\n      </tr>\n   </table>"
+  },
+  {
+    "question": "What is the governing law of the Agreement?",
+    "answer": "the laws of the State of New York",
+    "answer_paragraph": "**ARTICLE 7: GOVERNING LAW**\n\nThis Agreement shall be governed by and construed in accordance with the laws of the State of New York, without giving effect to any principles of conflicts of law. Any disputes arising out of or related to this Agreement shall be resolved through arbitration in accordance with the rules of the American Arbitration Association."
+  },
+  {
+    "question": "What is the method of dispute resolution?",
+    "answer": "Binding arbitration in accordance with the rules of the American Arbitration Association.",
+    "answer_paragraph": "**ARTICLE 7: GOVERNING LAW**\n\nThis Agreement shall be governed by and construed in accordance with the laws of the State of New York, without giving effect to any principles of conflicts of law. Any disputes arising out of or related to this Agreement shall be resolved through arbitration in accordance with the rules of the American Arbitration Association.\n<table>\n      <tr>\n         <th>Dispute Resolution Method</th>\n         <th>Description</th>\n      </tr>\n      <tr>\n         <td>Arbitration</td>\n         <td>Binding arbitration in accordance with the rules of the American Arbitration Association.</td>\n      </tr>\n      <tr>\n         <td>Mediation</td>\n         <td>Non-binding mediation in accordance with the rules of the American Arbitration Association.</td>\n      </tr>\n   </table>"
+  },
+  {
+    "question": "Who is the CEO of NovaTech Inc?",
+    "answer": "John Smith",
+    "answer_paragraph": "IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.\n\nNOVATECH INC.\n\nBy: /s/ John Smith\nName: John Smith\nTitle: CEO"
+  }
+]

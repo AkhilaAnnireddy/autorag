@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the date of the Non-Disclosure Agreement between Emerald Innovations Inc. and Sapphire Technologies LLC?",
+    "answer": "February 10, 2023",
+    "answer_paragraph": "This Non-Disclosure Agreement (the 'Agreement') is entered into on February 10, 2023, by and between Emerald Innovations Inc., a Delaware corporation with its principal place of business at 123 Main Street, Suite 400, New York, NY 10001 ('Emerald'), and Sapphire Technologies LLC, a California limited liability company with its principal place of business at 456 Elm Street, Suite 200, San Francisco, CA 94105 ('Sapphire')."
+  },
+  {
+    "question": "What is the definition of 'Confidential Information' in the Agreement?",
+    "answer": "all information, whether written or oral, that is disclosed by Emerald to Sapphire, including but not limited to trade secrets, technical data, product information, business strategies, and software code",
+    "answer_paragraph": "For the purposes of this Agreement, 'Confidential Information' shall mean all information, whether written or oral, that is disclosed by Emerald to Sapphire, including but not limited to trade secrets, technical data, product information, business strategies, and software code."
+  },
+  {
+    "question": "What is the term of the Agreement?",
+    "answer": "a period of two years",
+    "answer_paragraph": "The term of this Agreement shall commence on the date of execution and shall continue for a period of two years."
+  },
+  {
+    "question": "What is the name of the product line launched by Emerald in 2020?",
+    "answer": "EmeraldAI",
+    "answer_paragraph": "In 2020, Emerald launched a new product line focused on artificial intelligence and machine learning for healthcare. The product line, known as 'EmeraldAI,' uses advanced algorithms to analyze large datasets and provide insights to healthcare providers."
+  },
+  {
+    "question": "What is the name of the product line launched by Sapphire in 2022?",
+    "answer": "SapphireChain",
+    "answer_paragraph": "In 2022, Sapphire launched a new product line focused on blockchain technology for financial services. The product line, known as 'SapphireChain,' uses advanced blockchain algorithms to provide secure and transparent transactions for financial institutions."
+  },
+  {
+    "question": "How many employees does Emerald have as of the date of the Agreement?",
+    "answer": "over 500 employees",
+    "answer_paragraph": "As of the date of this Agreement, Emerald has over 500 employees and annual revenues of over $100 million."
+  },
+  {
+    "question": "What is the annual revenue of Sapphire as of the date of the Agreement?",
+    "answer": "over $50 million",
+    "answer_paragraph": "As of the date of this Agreement, Emerald has over 500 employees and annual revenues of over $100 million. Sapphire has over 200 employees and annual revenues of over $50 million."
+  },
+  {
+    "question": "How many healthcare providers use Emerald's products across the United States?",
+    "answer": "over 10,000 healthcare providers",
+    "answer_paragraph": "As of the date of this Agreement, Emerald's products are used by over 10,000 healthcare providers across the United States."
+  },
+  {
+    "question": "What is the method of dispute resolution specified in the Agreement?",
+    "answer": "binding arbitration in accordance with the rules of the American Arbitration Association",
+    "answer_paragraph": "The parties agree that any dispute arising out of or related to this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association."
+  },
+  {
+    "question": "What is the governing law of the Agreement?",
+    "answer": "the laws of the State of New York",
+    "answer_paragraph": "The parties agree that the terms of this Agreement shall be governed by and construed in accordance with the laws of the State of New York."
+  }
+]

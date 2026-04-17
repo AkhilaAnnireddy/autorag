@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the effective date of the Affiliate Agreement?",
+    "answer": "February 10, 2023",
+    "answer_paragraph": "This Affiliate Agreement ('Agreement') is made and entered into on February 10, 2023 ('Effective Date') by and between GreenTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, New York, NY 10001 ('Company'), and EcoPartner LLC, a California limited liability company with its principal place of business at 456 Elm Street, Los Angeles, CA 90001 ('Affiliate')."
+  },
+  {
+    "question": "What is the term of the Affiliate Agreement?",
+    "answer": "a period of two (2) years from the Effective Date",
+    "answer_paragraph": "The term of this Agreement shall commence on the Effective Date and continue for a period of two (2) years."
+  },
+  {
+    "question": "What is the commission rate paid to the Affiliate?",
+    "answer": "10% on all sales generated through the Affiliate's unique referral link",
+    "answer_paragraph": "The Company shall pay the Affiliate a commission of 10% on all sales generated through the Affiliate's unique referral link."
+  },
+  {
+    "question": "What are the Company's obligations under the Agreement?",
+    "answer": "Provide the Affiliate with marketing materials and support, pay the Affiliate a commission of 10% on all sales generated through the Affiliate's unique referral link, and ensure that all products are manufactured and delivered in accordance with applicable laws and regulations",
+    "answer_paragraph": "The Company shall: - Provide the Affiliate with marketing materials and support, - Pay the Affiliate a commission of 10% on all sales generated through the Affiliate's unique referral link, - Ensure that all products are manufactured and delivered in accordance with applicable laws and regulations"
+  },
+  {
+    "question": "What is the amount of sales generated in January 2023?",
+    "answer": "$10,000",
+    "answer_paragraph": "The following table outlines the payment terms: | Month | Sales | Commission | | --- | --- | --- | | January 2023 | $10,000 | $1,000 |"
+  },
+  {
+    "question": "What is the fee for terminating the Agreement due to breach?",
+    "answer": "$5,000",
+    "answer_paragraph": "The following table outlines the termination fees: | Reason for Termination | Fee | | --- | --- | | Breach of Agreement | $5,000 |"
+  },
+  {
+    "question": "What is the title of the person signing on behalf of GreenTech Inc.?",
+    "answer": "CEO",
+    "answer_paragraph": "GreenTech Inc. By: _______________________ Name: John Smith Title: CEO"
+  },
+  {
+    "question": "What is the name of the company that is engaged in the business of promoting and selling eco-friendly products?",
+    "answer": "EcoPartner LLC",
+    "answer_paragraph": "The Company is engaged in the business of developing and marketing eco-friendly products, and the Affiliate is engaged in the business of promoting and selling such products."
+  },
+  {
+    "question": "What is the description of the obligation to provide customer support?",
+    "answer": "Provide customer support and service to customers referred by the Affiliate",
+    "answer_paragraph": "The Affiliate shall: - Promote the Company's products through its website, social media, and other marketing channels - Provide customer support and service to customers referred by the Affiliate - Comply with all applicable laws, regulations, and policies"
+  },
+  {
+    "question": "What is the name of the product that is a recycling bin?",
+    "answer": "EcoCycle recycling bin",
+    "answer_paragraph": "The Company's products include the EcoCycle recycling bin, the GreenClean cleaning solution, and the SolarPanel solar panel system."
+  }
+]

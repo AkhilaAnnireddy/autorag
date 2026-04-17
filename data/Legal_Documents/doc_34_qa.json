@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the total contract value?",
+    "answer": "The total contract value is $1,200,000.",
+    "answer_paragraph": "The following are the key terms of this Agreement: - The contract duration is 24 months. - The total contract value is $1,200,000. - The payment terms are net 30 days. - The termination notice period is 60 days."
+  },
+  {
+    "question": "What are the payment terms?",
+    "answer": "The payment terms are net 30 days.",
+    "answer_paragraph": "The following are the key terms of this Agreement: - The contract duration is 24 months. - The total contract value is $1,200,000. - The payment terms are net 30 days. - The termination notice period is 60 days."
+  },
+  {
+    "question": "What is the contract duration?",
+    "answer": "The contract duration is 24 months.",
+    "answer_paragraph": "The following are the key terms of this Agreement: - The contract duration is 24 months. - The total contract value is $1,200,000. - The payment terms are net 30 days. - The termination notice period is 60 days."
+  },
+  {
+    "question": "What is the termination notice period?",
+    "answer": "The termination notice period is 60 days.",
+    "answer_paragraph": "The following are the key terms of this Agreement: - The contract duration is 24 months. - The total contract value is $1,200,000. - The payment terms are net 30 days. - The termination notice period is 60 days."
+  },
+  {
+    "question": "What is the payment amount for Payment #1?",
+    "answer": "$200,000",
+    "answer_paragraph": "The following table outlines the payment schedule: | Payment # | Payment Date | Payment Amount | | --- | --- | --- | | 1 | March 15, 2023 | $200,000 | | 2 | June 15, 2023 | $300,000 | | 3 | September 15, 2023 | $200,000 | | 4 | December 15, 2023 | $100,000 | | 5 | March 15, 2024 | $200,000 | | 6 | June 15, 2024 | $300,000 | | 7 | September 15, 2024 | $200,000 | | 8 | December 15, 2024 | $100,000 |"
+  },
+  {
+    "question": "Who is the CEO of GreenTech?",
+    "answer": "John Smith",
+    "answer_paragraph": "GreenTech Solutions, Inc. By: /s/ John Smith Name: John Smith Title: CEO Date: February 10, 2023"
+  },
+  {
+    "question": "What is the date of the Agreement?",
+    "answer": "February 10, 2023",
+    "answer_paragraph": "This Vendor Contract Agreement (the \"Agreement\") is entered into on February 10, 2023, by and between GreenTech Solutions, Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 (\"GreenTech\"), and Elite Vendors, LLC, a California limited liability company with its principal place of business at 456 Elm Street, Othertown, CA 67890 (\"Elite\")."
+  },
+  {
+    "question": "What is the minimum coverage for Elite's liability insurance?",
+    "answer": "$1,000,000",
+    "answer_paragraph": "The following are the insurance requirements for this Agreement: - Elite shall maintain liability insurance with a minimum coverage of $1,000,000. - GreenTech shall maintain property insurance with a minimum coverage of $500,000."
+  },
+  {
+    "question": "What law shall govern this Agreement?",
+    "answer": "the laws of the State of California",
+    "answer_paragraph": "This Agreement shall be governed by and construed in accordance with the laws of the State of California, without giving effect to any principles of conflicts of law. Any dispute arising out of or related to this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association."
+  },
+  {
+    "question": "What is the title of Jane Doe?",
+    "answer": "President",
+    "answer_paragraph": "Elite Vendors, LLC By: /s/ Jane Doe Name: Jane Doe Title: President Date: February 10, 2023"
+  }
+]

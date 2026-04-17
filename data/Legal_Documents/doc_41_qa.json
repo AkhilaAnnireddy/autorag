@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the partnership term as specified in the partnership agreement?",
+    "answer": "5 years from Effective Date",
+    "answer_paragraph": "Table 1: Partnership Overview\n| Category | Description |\n| --- | --- |\n| Partnership Name | Smith & Doe Partnership |\n| Business Address | 123 Main St, Anytown, USA |\n| Partnership Term | 5 years from Effective Date |\n| Initial Capital Contribution | $100,000 |"
+  },
+  {
+    "question": "What is the profit-sharing ratio for Partner A?",
+    "answer": "60%",
+    "answer_paragraph": "Table 2: Profit-Sharing Ratio\n| Partner | Profit-Sharing Ratio |\n| --- | --- |\n| Partner A | 60% |\n| Partner B | 40% |"
+  },
+  {
+    "question": "When is the first quarterly meeting scheduled to be held?",
+    "answer": "March 15, 2023, at 10:00 AM EST",
+    "answer_paragraph": "The Partners will meet quarterly to review the Partnership's financial performance. The first meeting will be held on March 15, 2023, at 10:00 AM EST."
+  },
+  {
+    "question": "What are the responsibilities of Partner B in the partnership?",
+    "answer": "Financial Management",
+    "answer_paragraph": "Table 4: Management Responsibilities\n| Partner | Responsibilities |\n| --- | --- |\n| Partner A | Day-to-Day Operations |\n| Partner B | Financial Management |"
+  },
+  {
+    "question": "What is the minimum cash reserve that the partnership will maintain?",
+    "answer": "$20,000",
+    "answer_paragraph": "The Partnership will maintain a minimum cash reserve of $20,000 to cover unexpected expenses. The Partners will review and update the budget quarterly."
+  },
+  {
+    "question": "How often will the partners review and update the budget?",
+    "answer": "quarterly",
+    "answer_paragraph": "The Partnership will maintain a minimum cash reserve of $20,000 to cover unexpected expenses. The Partners will review and update the budget quarterly."
+  },
+  {
+    "question": "What is the initial capital contribution as specified in the partnership agreement?",
+    "answer": "$100,000",
+    "answer_paragraph": "Table 1: Partnership Overview\n| Category | Description |\n| --- | --- |\n| Partnership Name | Smith & Doe Partnership |\n| Business Address | 123 Main St, Anytown, USA |\n| Partnership Term | 5 years from Effective Date |\n| Initial Capital Contribution | $100,000 |"
+  },
+  {
+    "question": "What is the business address of the partnership as specified in the agreement?",
+    "answer": "123 Main St, Anytown, USA",
+    "answer_paragraph": "Table 1: Partnership Overview\n| Category | Description |\n| --- | --- |\n| Partnership Name | Smith & Doe Partnership |\n| Business Address | 123 Main St, Anytown, USA |\n| Partnership Term | 5 years from Effective Date |\n| Initial Capital Contribution | $100,000 |"
+  },
+  {
+    "question": "How can the partnership agreement be amended?",
+    "answer": "Requires written consent of both Partners",
+    "answer_paragraph": "Table 6: Amendment and Termination\n| Event | Description |\n| --- | --- |\n| Amendment | Requires written consent of both Partners |\n| Termination | 30-day written notice by either Partner |"
+  },
+  {
+    "question": "What is the notice period for terminating the partnership?",
+    "answer": "30-day written notice by either Partner",
+    "answer_paragraph": "Table 6: Amendment and Termination\n| Event | Description |\n| --- | --- |\n| Amendment | Requires written consent of both Partners |\n| Termination | 30-day written notice by either Partner |"
+  }
+]

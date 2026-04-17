@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the address of the Buyer?",
+    "answer": "123 Main Street, New York, NY 10001",
+    "answer_paragraph": "10. Contact Information: * The Buyer's contact information is as follows: * Name: John Smith * Title: Procurement Manager * Address: 123 Main Street, New York, NY 10001 * Phone: 212-123-4567 * Email: [john.smith@novatech.com](mailto:john.smith@novatech.com)"
+  },
+  {
+    "question": "What is the payment term for the goods or services?",
+    "answer": "within 30 days of receipt of the goods or services",
+    "answer_paragraph": "3. Pricing and Payment: * The price of the goods or services will be as specified in the Purchase Order. * The Buyer will pay the Seller within 30 days of receipt of the goods or services, provided that the Seller has complied with all the terms and conditions of the Purchase Order."
+  },
+  {
+    "question": "How long is the warranty period for the goods or services?",
+    "answer": "12 months from the date of delivery",
+    "answer_paragraph": "6. Warranty and Liability: * The Seller warrants that the goods or services will be free from defects in material and workmanship for a period of 12 months from the date of delivery."
+  },
+  {
+    "question": "What is the name of the Buyer's contact person?",
+    "answer": "John Smith",
+    "answer_paragraph": "10. Contact Information: * The Buyer's contact information is as follows: * Name: John Smith * Title: Procurement Manager * Address: 123 Main Street, New York, NY 10001 * Phone: 212-123-4567 * Email: [john.smith@novatech.com](mailto:john.smith@novatech.com)"
+  },
+  {
+    "question": "What is the phone number of the Buyer's contact person?",
+    "answer": "212-123-4567",
+    "answer_paragraph": "10. Contact Information: * The Buyer's contact information is as follows: * Name: John Smith * Title: Procurement Manager * Address: 123 Main Street, New York, NY 10001 * Phone: 212-123-4567 * Email: [john.smith@novatech.com](mailto:john.smith@novatech.com)"
+  },
+  {
+    "question": "What is the Purchase Order number?",
+    "answer": "PO-001",
+    "answer_paragraph": "Date: February 22, 2024 * Purchase Order Number: PO-001 * Seller: ABC Corporation * Buyer: NovaTech Inc."
+  },
+  {
+    "question": "What is the date of the Purchase Order?",
+    "answer": "February 22, 2024",
+    "answer_paragraph": "Date: February 22, 2024 * Purchase Order Number: PO-001 * Seller: ABC Corporation * Buyer: NovaTech Inc."
+  },
+  {
+    "question": "What is the email address of the Buyer's contact person?",
+    "answer": "john.smith@novatech.com",
+    "answer_paragraph": "10. Contact Information: * The Buyer's contact information is as follows: * Name: John Smith * Title: Procurement Manager * Address: 123 Main Street, New York, NY 10001 * Phone: 212-123-4567 * Email: [john.smith@novatech.com](mailto:john.smith@novatech.com)"
+  },
+  {
+    "question": "What is the title of the Buyer's contact person?",
+    "answer": "Procurement Manager",
+    "answer_paragraph": "10. Contact Information: * The Buyer's contact information is as follows: * Name: John Smith * Title: Procurement Manager * Address: 123 Main Street, New York, NY 10001 * Phone: 212-123-4567 * Email: [john.smith@novatech.com](mailto:john.smith@novatech.com)"
+  },
+  {
+    "question": "What is the name of the Seller?",
+    "answer": "ABC Corporation",
+    "answer_paragraph": "Date: February 22, 2024 * Purchase Order Number: PO-001 * Seller: ABC Corporation * Buyer: NovaTech Inc."
+  }
+]

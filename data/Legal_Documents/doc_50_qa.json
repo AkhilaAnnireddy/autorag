@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What is the term of the Master Service Agreement?",
+    "answer": "The term of this Agreement shall commence on the Effective Date and continue for a period of three (3) years, unless earlier terminated in accordance with the provisions of Section 10 below.",
+    "answer_paragraph": "This Master Service Agreement ('Agreement') is made and entered into on February 10, 2023 ('Effective Date'), by and between NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 ('NovaTech'), and Apex Consulting, a California corporation with its principal place of business at 456 Elm Street, Othertown, CA 67890 ('Apex'). The parties agree to be bound by the terms and conditions of this Agreement. This Agreement sets forth the terms and conditions under which NovaTech will provide certain services to Apex, as outlined in the Statement of Work ('SOW') attached hereto as Exhibit A. The term of this Agreement shall commence on the Effective Date and continue for a period of three (3) years, unless earlier terminated in accordance with the provisions of Section 10 below."
+  },
+  {
+    "question": "What is the total contract value estimated to be over the three-year term?",
+    "answer": "The total contract value is estimated to be $1,500,000 over the three-year term.",
+    "answer_paragraph": "NovaTech shall perform the Services in a professional and workmanlike manner, and shall devote such time, attention, and resources as may be necessary to perform the Services in accordance with the terms and conditions of this Agreement. Apex shall provide NovaTech with such information, assistance, and access as may be necessary to perform the Services. The fees for the Services shall be as outlined in the SOW, and shall be paid by Apex within thirty (30) days of receipt of an invoice from NovaTech. The total contract value is estimated to be $1,500,000 over the three-year term."
+  },
+  {
+    "question": "Who is the key contact for NovaTech?",
+    "answer": "NovaTech: John Smith, CEO, (555) 123-4567, john.smith@novatech.com;",
+    "answer_paragraph": "The following are the key contacts for each party: * NovaTech: John Smith, CEO, (555) 123-4567, john.smith@novatech.com; * Apex: Jane Doe, CFO, (555) 901-2345, jane.doe@apexconsulting.com."
+  },
+  {
+    "question": "What are the key performance indicators used to measure the performance of NovaTech?",
+    "answer": "* Customer satisfaction, as measured by surveys and feedback forms; * Project delivery time, as measured by the time taken to complete each project; * Budget adherence, as measured by the variance between actual and budgeted costs.",
+    "answer_paragraph": "The following are the key performance indicators ('KPIs') that shall be used to measure the performance of NovaTech: * Customer satisfaction, as measured by surveys and feedback forms; * Project delivery time, as measured by the time taken to complete each project; * Budget adherence, as measured by the variance between actual and budgeted costs."
+  },
+  {
+    "question": "What is the payment schedule for the Services?",
+    "answer": "| Payment # | Payment Date | Payment Amount | | --- | --- | --- | | 1 | March 15, 2023 | $200,000 | | 2 | June 15, 2023 | $300,000 | | 3 | September 15, 2023 | $250,000 | | 4 | December 15, 2023 | $200,000 | | 5 | March 15, 2024 | $300,000 | | 6 | June 15, 2024 | $250,000 | | 7 | September 15, 2024 | $200,000 | | 8 | December 15, 2024 | $300,000 | | 9 | March 15, 2025 | $250,000 | | 10 | June 15, 2025 | $200,000 | | 11 | September 15, 2025 | $300,000 | | 12 | December 15, 2025 | $250,000 |",
+    "answer_paragraph": "The following table outlines the payment schedule: | Payment # | Payment Date | Payment Amount | | --- | --- | --- | | 1 | March 15, 2023 | $200,000 | | 2 | June 15, 2023 | $300,000 | | 3 | September 15, 2023 | $250,000 | | 4 | December 15, 2023 | $200,000 | | 5 | March 15, 2024 | $300,000 | | 6 | June 15, 2024 | $250,000 | | 7 | September 15, 2024 | $200,000 | | 8 | December 15, 2024 | $300,000 | | 9 | March 15, 2025 | $250,000 | | 10 | June 15, 2025 | $200,000 | | 11 | September 15, 2025 | $300,000 | | 12 | December 15, 2025 | $250,000 |"
+  },
+  {
+    "question": "What is the governing law for the Agreement?",
+    "answer": "This Agreement shall be governed by and construed in accordance with the laws of the state of California, without giving effect to any principles of conflicts of law.",
+    "answer_paragraph": "This Agreement shall be governed by and construed in accordance with the laws of the state of California, without giving effect to any principles of conflicts of law. Any disputes arising out of or related to this Agreement shall be resolved through binding arbitration, in accordance with the rules of the American Arbitration Association."
+  },
+  {
+    "question": "What is the process for resolving disputes arising out of or related to the Agreement?",
+    "answer": "Any disputes arising out of or related to this Agreement shall be resolved through binding arbitration, in accordance with the rules of the American Arbitration Association.",
+    "answer_paragraph": "This Agreement shall be governed by and construed in accordance with the laws of the state of California, without giving effect to any principles of conflicts of law. Any disputes arising out of or related to this Agreement shall be resolved through binding arbitration, in accordance with the rules of the American Arbitration Association."
+  },
+  {
+    "question": "Who is the key contact for Apex?",
+    "answer": "Apex: Jane Doe, CFO, (555) 901-2345, jane.doe@apexconsulting.com;",
+    "answer_paragraph": "The following are the key contacts for each party: * NovaTech: John Smith, CEO, (555) 123-4567, john.smith@novatech.com; * Apex: Jane Doe, CFO, (555) 901-2345, jane.doe@apexconsulting.com."
+  },
+  {
+    "question": "What are the Services that NovaTech will provide to Apex?",
+    "answer": "The Services shall include, without limitation, the following: The provision of strategic planning and advisory services to Apex, including the development of a comprehensive business strategy and plan; The provision of operational improvement services, including the analysis of business processes and the implementation of recommendations for improvement; The provision of technology services, including the development and implementation of software applications and systems.",
+    "answer_paragraph": "The Services shall be performed by NovaTech in accordance with the terms and conditions of this Agreement, and shall include, without limitation, the following: The provision of strategic planning and advisory services to Apex, including the development of a comprehensive business strategy and plan; The provision of operational improvement services, including the analysis of business processes and the implementation of recommendations for improvement; The provision of technology services, including the development and implementation of software applications and systems."
+  },
+  {
+    "question": "How will the fees for the Services be paid by Apex?",
+    "answer": "The fees for the Services shall be as outlined in the SOW, and shall be paid by Apex within thirty (30) days of receipt of an invoice from NovaTech.",
+    "answer_paragraph": "NovaTech shall perform the Services in a professional and workmanlike manner, and shall devote such time, attention, and resources as may be necessary to perform the Services in accordance with the terms and conditions of this Agreement. Apex shall provide NovaTech with such information, assistance, and access as may be necessary to perform the Services. The fees for the Services shall be as outlined in the SOW, and shall be paid by Apex within thirty (30) days of receipt of an invoice from NovaTech."
+  },
+  {
+    "question": "What happens if Apex fails to pay any fees or expenses when due?",
+    "answer": "In the event that Apex fails to pay any fees or expenses when due, NovaTech may, at its option, suspend performance of the Services until such fees or expenses are paid.",
+    "answer_paragraph": "The fees for the Services shall be as outlined in the SOW, and shall be paid by Apex within thirty (30) days of receipt of an invoice from NovaTech. In the event that Apex fails to pay any fees or expenses when due, NovaTech may, at its option, suspend performance of the Services until such fees or expenses are paid."
+  }
+]

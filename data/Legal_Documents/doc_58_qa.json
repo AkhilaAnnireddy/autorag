@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the date of the Master Services Agreement?",
+    "answer": "January 1, 2023",
+    "answer_paragraph": "NovaTech agrees to process Customer Data solely for the purpose of providing the Services as defined in the Master Services Agreement (\"MSA\") dated January 1, 2023."
+  },
+  {
+    "question": "What is the term of the Customer Data Agreement?",
+    "answer": "two (2) years",
+    "answer_paragraph": "The term of this Agreement shall commence on the effective date and continue for a period of two (2) years, unless terminated earlier in accordance with the termination provisions outlined in Section 9.0 of this Agreement."
+  },
+  {
+    "question": "What measures has NovaTech implemented to protect Customer Data?",
+    "answer": "Encryption of Customer Data in transit and at rest, access controls, including multi-factor authentication and role-based access, regular security audits and penetration testing",
+    "answer_paragraph": "NovaTech has implemented and will maintain appropriate technical and organizational measures to protect Customer Data against Security Incidents. These measures include but are not limited to: 1. Encryption of Customer Data in transit and at rest. 2. Access controls, including multi-factor authentication and role-based access. 3. Regular security audits and penetration testing."
+  },
+  {
+    "question": "What information shall NovaTech provide to Customer in the event of a Security Incident?",
+    "answer": "A description of the Security Incident, the categories of Customer Data affected, the measures taken by NovaTech to mitigate the effects of the Security Incident, the measures recommended by NovaTech to prevent future Security Incidents",
+    "answer_paragraph": "In the event of a Security Incident, NovaTech shall notify Customer in writing within 72 hours of becoming aware of the incident. The notification shall include the following information: - A description of the Security Incident. - The categories of Customer Data affected. - The measures taken by NovaTech to mitigate the effects of the Security Incident. - The measures recommended by NovaTech to prevent future Security Incidents."
+  },
+  {
+    "question": "What is the role of the Customer under the Agreement?",
+    "answer": "Maintain login credentials, comply with Agreement",
+    "answer_paragraph": "The following table outlines the roles and responsibilities of the parties: | Role | Responsibility | | --- | --- | | NovaTech | Provide the Services, protect Customer Data | | Customer | Maintain login credentials, comply with Agreement |"
+  },
+  {
+    "question": "What is the contact email of NovaTech Inc.?",
+    "answer": "info@novatech.com",
+    "answer_paragraph": "The following are the contact details for the parties: NovaTech Inc. 123 Main Street Anytown, CA 12345 Phone: 555-1234 Email: info@novatech.com"
+  },
+  {
+    "question": "Who signed the Agreement on behalf of GreenEarth Ltd.?",
+    "answer": "Jane Doe",
+    "answer_paragraph": "IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written. NovaTech Inc. By: _____________________________ Name: John Smith Title: CEO Date: February 10, 2023 GreenEarth Ltd. By: _____________________________ Name: Jane Doe Title: Managing Director Date: February 10, 2023"
+  },
+  {
+    "question": "What is the definition of Customer Data?",
+    "answer": "all data provided by Customer to NovaTech",
+    "answer_paragraph": "The following are the key terms and definitions used throughout this Agreement: Definitions: - \"Customer Data\" means all data provided by Customer to NovaTech."
+  },
+  {
+    "question": "How will disputes arising out of or in connection with this Agreement be resolved?",
+    "answer": "through good faith negotiations, and if unsuccessful, through binding arbitration in accordance with the rules of the American Arbitration Association",
+    "answer_paragraph": "In the event of any dispute arising out of or in connection with this Agreement, the parties agree to attempt to resolve the dispute through good faith negotiations. If the dispute cannot be resolved through negotiations, the parties agree to submit the dispute to binding arbitration in accordance with the rules of the American Arbitration Association."
+  },
+  {
+    "question": "What is the effective date of the Customer Data Agreement?",
+    "answer": "February 10, 2023",
+    "answer_paragraph": "This Customer Data Agreement (the \"Agreement\") is entered into on February 10, 2023, by and between NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 (\"NovaTech\"), and GreenEarth Ltd., a company incorporated under the laws of England and Wales with its registered office at 456 London Road, London, UK (\"Customer\")."
+  }
+]

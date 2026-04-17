@@ -1,0 +1,72 @@
+
+   Data Processing Agreement
+
+   This Data Processing Agreement ('Agreement') is entered into on February 10, 2023, by and between GreenTech Inc., a corporation incorporated under the laws of the State of Delaware with its principal place of business at 123 Main Street, Wilmington, DE 19801 ('Controller'), and BlueData Solutions, a limited liability company incorporated under the laws of the United Kingdom with its registered office at 456 Oxford Street, London, W1D 1AU ('Processor').
+
+   * Definitions:
+     * 'Personal Data' means any information relating to an identified or identifiable natural person ('Data Subject');
+     * 'Processing' means any operation or set of operations which is performed on Personal Data or on sets of Personal Data, whether or not by automated means;
+     * 'Data Protection Laws' means all applicable laws and regulations relating to the processing of Personal Data, including the General Data Protection Regulation (EU) 2016/679 ('GDPR') and the Data Protection Act 2018;
+     * 'Services' means the data processing services to be provided by the Processor to the Controller as described in Annex 1.
+
+   * Purpose and Scope:
+     The Controller engages the Processor to provide the Services, which involve the Processing of Personal Data. The Processor shall only Process Personal Data for the purpose of providing the Services and in accordance with the terms of this Agreement.
+     * The Processor shall Process Personal Data for a period of 24 months from the effective date of this Agreement, unless otherwise agreed upon by the parties in writing.
+     * The Processor shall ensure that all its employees, agents, and subcontractors who have access to the Personal Data are bound by confidentiality obligations.
+
+   * Obligations of the Processor:
+     * The Processor shall implement and maintain appropriate technical and organizational measures to protect the Personal Data against unauthorized or unlawful Processing, accidental loss, destruction, or damage.
+     * The Processor shall:
+       + Implement access controls to ensure that only authorized personnel have access to the Personal Data;
+       + Implement encryption technologies to protect the Personal Data;
+       + Regularly test and evaluate the effectiveness of its technical and organizational measures.
+     * The Processor shall not engage any subprocessor without the prior written consent of the Controller. The Processor shall ensure that any subprocessor it engages is bound by obligations that are at least as protective as those set out in this Agreement.
+
+   * Data Subject Rights:
+     The Processor shall assist the Controller in responding to requests from Data Subjects to exercise their rights under the Data Protection Laws, including:
+     * The right to access their Personal Data;
+     * The right to rectify their Personal Data;
+     * The right to erase their Personal Data;
+     * The right to restrict the Processing of their Personal Data;
+     * The right to object to the Processing of their Personal Data;
+     * The right to data portability.
+     * The Processor shall provide the Controller with all necessary information and assistance to enable the Controller to comply with its obligations under the Data Protection Laws.
+
+   * Security Breach Notification:
+     In the event of a Security Breach, the Processor shall:
+     * Notify the Controller without undue delay, but in any event within 72 hours of becoming aware of the Security Breach;
+     * Provide the Controller with all necessary information and cooperation to enable the Controller to comply with its obligations under the Data Protection Laws;
+     * Take all necessary measures to mitigate the effects of the Security Breach and prevent its recurrence.
+     * The Processor shall maintain a record of all Security Breaches and make it available to the Controller upon request.
+
+   * Liability and Indemnity:
+     * The Processor shall be liable for any damages or losses suffered by the Controller as a result of the Processor's breach of this Agreement.
+     * The Processor shall indemnify the Controller against all claims, demands, and actions brought by third parties as a result of the Processor's breach of this Agreement.
+     * The Processor's total liability under this Agreement shall not exceed $1,000,000.
+
+   * Term and Termination:
+     * This Agreement shall commence on the effective date and continue for a period of 24 months, unless otherwise agreed upon by the parties in writing.
+     * Either party may terminate this Agreement upon written notice to the other party if the other party breaches any of its obligations under this Agreement and fails to cure such breach within 30 days of receipt of such notice.
+     * Upon termination of this Agreement, the Processor shall:
+       + Immediately cease all Processing of Personal Data;
+       + Return to the Controller all Personal Data and any copies thereof;
+       + Destroy all Personal Data and any copies thereof, unless otherwise agreed upon by the parties in writing.
+
+   * Governing Law and Jurisdiction:
+     This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware. Any dispute arising out of or in connection with this Agreement shall be resolved through arbitration in accordance with the rules of the American Arbitration Association.
+
+   * Annex 1: Services
+     The Processor shall provide the following Services to the Controller:
+     * Data collection and processing;
+     * Data storage and hosting;
+     * Data analytics and reporting.
+     * The Processor shall provide the Services in accordance with the terms of this Agreement and the Data Protection Laws.
+
+   * Annex 2: Technical and Organizational Measures
+     The Processor shall implement and maintain the following technical and organizational measures to protect the Personal Data:
+     * Access controls;
+     * Encryption technologies;
+     * Regular testing and evaluation of the effectiveness of its technical and organizational measures.
+     * The Processor shall ensure that all its employees, agents, and subcontractors who have access to the Personal Data are bound by confidentiality obligations.
+
+   

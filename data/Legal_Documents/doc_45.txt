@@ -1,0 +1,63 @@
+SUBCONTRACTOR AGREEMENT
+This Subcontractor Agreement ('Agreement') is made and entered into on February 10, 2023 ('Effective Date'), by and between GreenTech Construction Inc. ('Contractor'), a corporation organized and existing under the laws of the state of California, with its principal place of business at 123 Main Street, San Francisco, CA 94105, and Nova Engineering Ltd. ('Subcontractor'), a corporation organized and existing under the laws of the state of New York, with its principal place of business at 456 Broadway, New York, NY 10013.
+
+The parties agree to the following terms and conditions:
+
+Table 1: Project Overview
+| Project Name | Project Location | Project Duration |
+| --- | --- | --- |
+| Downtown Revitalization | 789 Oak Street, San Francisco, CA | 24 months |
+| City Hall Renovation | 321 City Hall Drive, New York, NY | 18 months |
+| Park Avenue Development | 901 Park Avenue, New York, NY | 30 months |
+
+The Subcontractor agrees to provide labor, materials, and equipment necessary for the completion of the project, as outlined in the project schedule (Table 2).
+
+Table 2: Project Schedule
+| Task | Start Date | End Date | Duration |
+| --- | --- | --- | --- |
+| Site Preparation | March 1, 2023 | March 15, 2023 | 15 days |
+| Foundation Work | March 16, 2023 | April 15, 2023 | 30 days |
+| Framing | April 16, 2023 | May 15, 2023 | 29 days |
+
+The Subcontractor shall be paid a total of $1,200,000 for the completion of the project, according to the payment schedule outlined in Table 3.
+
+Table 3: Payment Schedule
+| Payment Number | Payment Date | Payment Amount |
+| --- | --- | --- |
+| 1 | April 30, 2023 | $300,000 |
+| 2 | June 30, 2023 | $400,000 |
+| 3 | August 31, 2023 | $500,000 |
+
+The Subcontractor shall maintain insurance coverage as required by the terms of this Agreement, as outlined in Table 4.
+
+Table 4: Insurance Requirements
+| Insurance Type | Coverage Amount |
+| --- | --- |
+| General Liability | $1,000,000 |
+| Workers' Compensation | $500,000 |
+| Umbrella Policy | $2,000,000 |
+
+The Subcontractor shall comply with all applicable laws, regulations, and policies, including but not limited to, the Americans with Disabilities Act ('ADA'), the Occupational Safety and Health Act ('OSHA'), and the Environmental Protection Agency ('EPA') regulations.
+
+In the event of a dispute arising out of or related to this Agreement, the parties agree to engage in mediation, as outlined in the Dispute Resolution Policy (attached as Exhibit A).
+
+This Agreement may be terminated by either party upon written notice to the other, as outlined in Table 5.
+
+Table 5: Termination Notice
+| Termination Reason | Notice Period |
+| --- | --- |
+| Convenience | 30 days |
+| Default | 15 days |
+| Force Majeure | Immediate |
+
+By signing below, the parties acknowledge that they have read, understand, and agree to be bound by the terms and conditions of this Agreement.
+
+Contractor:
+GreenTech Construction Inc.
+By: John Smith, President
+Date: February 10, 2023
+
+Subcontractor:
+Nova Engineering Ltd.
+By: Jane Doe, CEO
+Date: February 10, 2023

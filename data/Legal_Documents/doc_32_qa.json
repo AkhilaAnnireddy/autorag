@@ -1,0 +1,52 @@
+[
+  {
+    "question": "When was the Data Privacy Policy of NovaTech Inc. last updated?",
+    "answer": "February 27, 2023",
+    "answer_paragraph": "Introduction: * This Data Privacy Policy was last updated on February 27, 2023."
+  },
+  {
+    "question": "What types of personal data does NovaTech Inc. collect?",
+    "answer": "Name, Email address, Phone number, IP address, Location data",
+    "answer_paragraph": "1. Data Collection: * We collect the following types of personal data: * Name * Email address * Phone number * IP address * Location data"
+  },
+  {
+    "question": "What is the purpose of collecting personal data by NovaTech Inc.?",
+    "answer": "Providing our services to you, Improving our services, Marketing and advertising, Complying with legal requirements",
+    "answer_paragraph": "2. Data Usage: * We use your personal data for the following purposes: * Providing our services to you * Improving our services * Marketing and advertising * Complying with legal requirements"
+  },
+  {
+    "question": "Who is responsible for overseeing the data protection practices of NovaTech Inc.?",
+    "answer": "Data Protection Officer (DPO)",
+    "answer_paragraph": "3. Data Protection: * We have a Data Protection Officer (DPO) who is responsible for overseeing our data protection practices."
+  },
+  {
+    "question": "How long does NovaTech Inc. retain personal data for marketing purposes?",
+    "answer": "2 years",
+    "answer_paragraph": "4. Data Retention: * We retain your personal data for the following periods: * 2 years for marketing purposes"
+  },
+  {
+    "question": "What are the rights of users regarding their personal data?",
+    "answer": "Right to access, Right to rectification, Right to erasure, Right to restriction of processing, Right to data portability, Right to object",
+    "answer_paragraph": "5. User Rights: * You have the following rights regarding your personal data: * Right to access * Right to rectification * Right to erasure * Right to restriction of processing * Right to data portability * Right to object"
+  },
+  {
+    "question": "How can users exercise their rights regarding their personal data?",
+    "answer": "By contacting our DPO at dpo@novatech.com",
+    "answer_paragraph": "5. User Rights: * You can exercise these rights by contacting our DPO at dpo@novatech.com."
+  },
+  {
+    "question": "What is the governing law of the Data Privacy Policy of NovaTech Inc.?",
+    "answer": "The laws of the State of California",
+    "answer_paragraph": "8. Governing Law: * This policy is governed by and construed in accordance with the laws of the State of California."
+  },
+  {
+    "question": "How are disputes arising out of or related to the Data Privacy Policy resolved?",
+    "answer": "Through arbitration in accordance with the rules of the American Arbitration Association",
+    "answer_paragraph": "8. Governing Law: * Any disputes arising out of or related to this policy will be resolved through arbitration in accordance with the rules of the American Arbitration Association."
+  },
+  {
+    "question": "What is the definition of personal data according to the Data Privacy Policy of NovaTech Inc.?",
+    "answer": "Any information relating to an identified or identifiable natural person",
+    "answer_paragraph": "9. Definitions: * Personal data: any information relating to an identified or identifiable natural person."
+  }
+]

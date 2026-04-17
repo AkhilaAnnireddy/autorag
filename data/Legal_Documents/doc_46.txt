@@ -1,0 +1,62 @@
+This Settlement Agreement (the "Agreement") is entered into on February 10, 2023, by and between GreenTech Inc. ("GreenTech"), a corporation organized under the laws of the State of Delaware with its principal place of business at 123 Main Street, Anytown, CA 12345, and EcoCycle LLC ("EcoCycle"), a limited liability company organized under the laws of the State of California with its principal place of business at 456 Elm Street, Othertown, CA 67890.
+
+The parties have agreed to settle all claims arising out of the dispute regarding the alleged infringement of U.S. Patent No. 9,876,543 (the "Patent") by GreenTech. The parties have engaged in good faith negotiations and have reached a mutually acceptable settlement of the dispute. The terms and conditions of the settlement are set forth below.
+
+The consideration for this Agreement shall be as follows:
+
+* GreenTech shall pay to EcoCycle the sum of $500,000, payable in two installments: $250,000 on the date of this Agreement and $250,000 on June 10, 2023.
+* EcoCycle shall grant to GreenTech a non-exclusive license to use the Patent for a period of five years from the date of this Agreement, with an option to renew for an additional two years upon payment of a renewal fee of $50,000.
+* GreenTech shall provide to EcoCycle a report detailing its use of the Patent on an annual basis, due on January 15th of each year.
+
+The following table summarizes the payment schedule:
+
+| Payment Date | Payment Amount |
+| --- | --- |
+| February 10, 2023 | $250,000 |
+| June 10, 2023 | $250,000 |
+
+In the event of a breach of this Agreement by either party, the non-breaching party shall be entitled to seek all available remedies at law or in equity. The parties agree that the following individuals shall be responsible for ensuring compliance with the terms of this Agreement: John Smith, CEO of GreenTech, and Jane Doe, CEO of EcoCycle.
+
+This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations, understandings, and agreements between the parties. This Agreement may not be amended or modified except in writing signed by both parties. The parties acknowledge that they have read and understand the terms and conditions of this Agreement and have executed this Agreement as of the date first above written.
+
+By their execution below, the parties hereto have agreed to the terms and conditions of this Agreement as of February 10, 2023.
+
+GreenTech Inc.
+By: ______________________________
+Name: John Smith
+Title: CEO
+Date: February 10, 2023
+
+EcoCycle LLC
+By: ______________________________
+Name: Jane Doe
+Title: CEO
+Date: February 10, 2023
+
+The parties agree to maintain the confidentiality of this Agreement and all information related thereto, except as required by law or to the extent necessary to enforce the terms of this Agreement. The parties shall ensure that all employees, officers, and agents who have access to this Agreement and related information are aware of and comply with the confidentiality obligations set forth herein.
+
+In witness whereof, the parties have executed this Agreement as of the date first above written.
+
+Exhibit A: List of Licensed Products
+
+* Product A: GreenCycle
+* Product B: EcoClean
+* Product C: GreenWash
+
+The following are the terms and conditions of the license grant:
+
+1. The license grant is non-exclusive and non-transferable.
+2. The license grant is limited to the use of the Patent for the manufacture, sale, and distribution of the Licensed Products.
+3. The license grant does not include the right to sublicense the Patent to any third party.
+4. The license grant is subject to the payment of royalties in the amount of 5% of net sales of the Licensed Products.
+5. The license grant is subject to the terms and conditions of this Agreement, including the confidentiality obligations set forth herein.
+
+The parties agree that any dispute arising out of or related to this Agreement shall be resolved through arbitration in accordance with the rules of the American Arbitration Association. The arbitration shall be conducted by a single arbitrator selected by the parties, and the arbitrator's decision shall be final and binding on the parties.
+
+The following table summarizes the royalty payment schedule:
+
+| Royalty Payment Date | Royalty Payment Amount |
+| --- | --- |
+| March 15, 2023 | $10,000 |
+| June 15, 2023 | $20,000 |
+

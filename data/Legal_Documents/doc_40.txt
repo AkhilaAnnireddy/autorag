@@ -1,0 +1,72 @@
+
+   CONSULTING SERVICES AGREEMENT
+
+   This Consulting Services Agreement ('Agreement') is made and entered into on February 10, 2023 ('Effective Date'), by and between NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, New York, NY 10001 ('Client'), and Apex Consulting Group, LLC, a California limited liability company with its principal place of business at 456 Elm Street, San Francisco, CA 94105 ('Consultant').
+
+   The following terms and conditions apply to the provision of consulting services by Consultant to Client:
+   * The term of this Agreement shall commence on the Effective Date and continue for a period of two (2) years, unless terminated earlier in accordance with Section 10.
+   * Consultant shall provide consulting services to Client as outlined in the scope of work attached hereto as Exhibit A.
+   * Client shall pay Consultant a monthly fee of $50,000, due and payable on the 15th day of each month.
+   * The following are the key performance indicators ('KPIs') that Consultant shall be measured against:
+     + Completion of all deliverables outlined in Exhibit A within the specified timelines
+     + Achievement of a customer satisfaction rating of at least 90% as measured by quarterly surveys
+     + Maintenance of a minimum of 95% uptime for all systems and infrastructure implemented by Consultant
+
+   Consultant shall be responsible for the following:
+   * Providing all necessary equipment, materials, and personnel to perform the consulting services
+   * Ensuring that all work is performed in a professional and workmanlike manner
+   * Maintaining the confidentiality of all Client proprietary information
+   * Complying with all applicable laws, regulations, and industry standards
+
+   The following are the specific deliverables that Consultant shall provide to Client:
+   1. A comprehensive review of Client's current IT infrastructure, including recommendations for upgrades and improvements
+   2. Development of a customized software application to meet Client's specific business needs
+   3. Implementation of a cloud-based data storage solution to enhance Client's data management capabilities
+   4. Provision of ongoing technical support and maintenance services to ensure the continued operation and effectiveness of all systems and infrastructure implemented by Consultant
+
+   Consultant shall be entitled to the following benefits:
+   * Reimbursement of all reasonable expenses incurred in connection with the provision of consulting services, subject to Client's prior approval
+   * Access to Client's facilities and personnel as necessary to perform the consulting services
+   * The right to use and reference Client's name and logo in Consultant's marketing materials, subject to Client's prior approval
+
+   Client shall be responsible for the following:
+   * Providing Consultant with access to all necessary information, data, and personnel to perform the consulting services
+   * Ensuring that all necessary equipment and materials are available to Consultant as needed
+   * Maintaining the confidentiality of all Consultant proprietary information
+   * Complying with all applicable laws, regulations, and industry standards
+
+   The following are the terms and conditions of payment:
+   * Client shall pay Consultant a total of $1,200,000 over the term of this Agreement, payable in monthly installments of $50,000
+   * All payments shall be made in US dollars, via wire transfer to Consultant's bank account
+   * Client shall be responsible for all applicable taxes, fees, and charges associated with the consulting services
+
+   Either party may terminate this Agreement upon written notice to the other party in the event of a material breach that remains uncured for a period of thirty (30) days. In the event of termination, Consultant shall be entitled to payment for all services rendered prior to termination, and Client shall be responsible for all applicable termination fees and charges.
+
+   This Agreement shall be governed by and construed in accordance with the laws of the State of California, without giving effect to its conflict of laws principles. Any disputes arising out of or related to this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association.
+
+   By signing below, the parties acknowledge that they have read, understand, and agree to be bound by the terms and conditions of this Agreement.
+
+   NovaTech Inc.
+   By: ______________________________
+   Title: ______________________________
+   Date: ______________________________
+
+   Apex Consulting Group, LLC
+   By: ______________________________
+   Title: ______________________________
+   Date: ______________________________
+
+   Exhibit A: Scope of Work
+
+   The scope of work for this project includes the following:
+   * Conduct a comprehensive review of Client's current IT infrastructure
+   * Develop a customized software application to meet Client's specific business needs
+   * Implement a cloud-based data storage solution to enhance Client's data management capabilities
+   * Provide ongoing technical support and maintenance services to ensure the continued operation and effectiveness of all systems and infrastructure implemented by Consultant
+   * Deliver the following specific milestones and timelines:
+     + Completion of the IT infrastructure review: March 15, 2023
+     + Development of the customized software application: June 1, 2023
+     + Implementation of the cloud-based data storage solution: August 15, 2023
+     + Completion of all deliverables: November 30, 2023
+
+   

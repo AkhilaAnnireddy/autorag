@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the address of NovaTech Inc.?",
+    "answer": "123 Main Street, Anytown, CA 12345",
+    "answer_paragraph": "This End User License Agreement (the 'Agreement') is entered into on February 10, 2023, by and between NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 ('NovaTech' or 'Licensor'), and the end user ('You' or 'Licensee') who downloads, installs, or uses the software product known as 'NovaOffice' (the 'Software')."
+  },
+  {
+    "question": "What is the price for an additional license of the Software?",
+    "answer": "$99.95, which includes all software updates and support services for a period of one (1) year",
+    "answer_paragraph": "You may contact NovaTech's sales team by email at sales@novatech.com or by phone at (555) 123-4567 to purchase additional licenses or to upgrade Your existing license. NovaTech's sales team is available to assist You Monday through Friday, 9:00 a.m. to 5:00 p.m. Pacific Time. As of the date of this Agreement, the price for an additional license is $99.95, which includes all software updates and support services for a period of one (1) year."
+  },
+  {
+    "question": "What is the customer satisfaction rating of NovaTech as of the date of this Agreement?",
+    "answer": "95%, based on surveys of its customers",
+    "answer_paragraph": "As of the date of this Agreement, NovaTech has a customer satisfaction rating of 95%, based on surveys of its customers. You may view the results of these surveys on NovaTech's website at www.novatech.com/customers."
+  },
+  {
+    "question": "What is the minimum system requirement for the Software to operate?",
+    "answer": "a minimum of 4 GB of RAM and a 2.4 GHz processor",
+    "answer_paragraph": "The Software is designed to operate on computers with a minimum of 4 GB of RAM and a 2.4 GHz processor. You may use the Software on computers with lower specifications, but the performance and functionality of the Software may be impaired."
+  },
+  {
+    "question": "What is the email address for NovaTech's customer support team?",
+    "answer": "support@novatech.com",
+    "answer_paragraph": "You may contact NovaTech's customer support team by email at support@novatech.com or by phone at (555) 123-4567. The customer support team is available to assist You Monday through Friday, 9:00 a.m. to 5:00 p.m. Pacific Time."
+  },
+  {
+    "question": "What is the phone number for NovaTech's sales team?",
+    "answer": "(555) 123-4567",
+    "answer_paragraph": "You may contact NovaTech's sales team by email at sales@novatech.com or by phone at (555) 123-4567 to purchase additional licenses or to upgrade Your existing license."
+  },
+  {
+    "question": "What is the website for viewing the release notes for the new version of the Software?",
+    "answer": "www.novatech.com/release-notes",
+    "answer_paragraph": "On June 1, 2022, NovaTech released a new version of the Software that includes significant enhancements to the user interface and performance. You may view the release notes for this new version on NovaTech's website at www.novatech.com/release-notes."
+  },
+  {
+    "question": "What is the email address for providing feedback and suggestions to NovaTech?",
+    "answer": "feedback@novatech.com",
+    "answer_paragraph": "NovaTech is committed to providing high-quality products and services to its customers, and values Your feedback and suggestions on how to improve the Software and its services. You may provide feedback and suggestions to NovaTech by email at feedback@novatech.com."
+  }
+]

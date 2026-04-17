@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the address of NovaTech Inc.?",
+    "answer": "123 Main Street, Anytown, CA 12345",
+    "answer_paragraph": "This Intellectual Property Assignment Agreement (the \"Agreement\") is made and entered into as of March 12, 2023 (the \"Effective Date\"), by and between NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 (\"NovaTech\"), and Emily J. Lee, an individual with an address at 456 Elm Street, Othertown, CA 67890 (\"Assignor\")."
+  },
+  {
+    "question": "What is the registration number of the NovaTech Patent?",
+    "answer": "US12345678",
+    "answer_paragraph": "Table 2: Intellectual Property Details\n| IP Type | IP Name | Registration Number | Registration Date |\n| --- | --- | --- | --- |\n| Patent | NovaTech Patent | US12345678 | January 1, 2020 |\n| Trademark | NovaTech Trademark | 88765432 | June 15, 2021 |\n| Copyright | NovaTech Copyright | TX1234567 | March 20, 2022 |"
+  },
+  {
+    "question": "What is the assignment price for the Patent?",
+    "answer": "$100,000",
+    "answer_paragraph": "Table 3: Assignment Details\n| IP Type | Assignment Date | Assignment Price |\n| --- | --- | --- |\n| Patent | March 12, 2023 | $100,000 |\n| Trademark | March 12, 2023 | $50,000 |\n| Copyright | March 12, 2023 | $20,000 |"
+  },
+  {
+    "question": "What is the payment amount due on June 12, 2023?",
+    "answer": "$50,000",
+    "answer_paragraph": "Table 4: Payment Schedule\n| Payment Date | Payment Amount |\n| --- | --- |\n| March 12, 2023 | $50,000 |\n| June 12, 2023 | $50,000 |\n| September 12, 2023 | $20,000 |"
+  },
+  {
+    "question": "What law governs this Agreement?",
+    "answer": "the laws of the State of California",
+    "answer_paragraph": "4. GOVERNING LAW\nThis Agreement shall be governed by and construed in accordance with the laws of the State of California, without giving effect to any principles of conflicts of law."
+  },
+  {
+    "question": "What is the effective date of the California State Law?",
+    "answer": "January 1, 2020",
+    "answer_paragraph": "Table 5: Governing Law Details\n| Law Type | Law Name | Effective Date |\n| --- | --- | --- |\n| State Law | California State Law | January 1, 2020 |\n| Federal Law | US Federal Law | June 15, 2021 |"
+  },
+  {
+    "question": "What is the agreement price for the Intellectual Property Assignment Agreement?",
+    "answer": "$170,000",
+    "answer_paragraph": "Table 6: Entire Agreement Details\n| Agreement Type | Agreement Date | Agreement Price |\n| --- | --- | --- |\n| Intellectual Property Assignment Agreement | March 12, 2023 | $170,000 |"
+  },
+  {
+    "question": "Who is the contact person for NovaTech Inc.?",
+    "answer": "John Smith",
+    "answer_paragraph": "Table 1: Parties' Information\n| Party Name | Address | Contact Person | Contact Email |\n| --- | --- | --- | --- |\n| NovaTech Inc. | 123 Main Street, Anytown, CA 12345 | John Smith | john.smith@novatech.com |\n| Emily J. Lee | 456 Elm Street, Othertown, CA 67890 | Emily J. Lee | emily.lee@gmail.com |"
+  },
+  {
+    "question": "What is the registration date of the NovaTech Copyright?",
+    "answer": "March 20, 2022",
+    "answer_paragraph": "Table 2: Intellectual Property Details\n| IP Type | IP Name | Registration Number | Registration Date |\n| --- | --- | --- | --- |\n| Patent | NovaTech Patent | US12345678 | January 1, 2020 |\n| Trademark | NovaTech Trademark | 88765432 | June 15, 2021 |\n| Copyright | NovaTech Copyright | TX1234567 | March 20, 2022 |"
+  },
+  {
+    "question": "What is the title of the person signing on behalf of NovaTech Inc.?",
+    "answer": "CEO",
+    "answer_paragraph": "NovaTech Inc.\nBy: _____________________________\nName: John Smith\nTitle: CEO"
+  }
+]

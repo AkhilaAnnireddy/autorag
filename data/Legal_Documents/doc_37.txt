@@ -1,0 +1,70 @@
+
+   INTELLECTUAL PROPERTY ASSIGNMENT AGREEMENT
+
+   This Intellectual Property Assignment Agreement (the "Agreement") is made and entered into as of March 12, 2023 (the "Effective Date"), by and between NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 ("NovaTech"), and Emily J. Lee, an individual with an address at 456 Elm Street, Othertown, CA 67890 ("Assignor").
+
+   Table 1: Parties' Information
+   | Party Name | Address | Contact Person | Contact Email |
+   | --- | --- | --- | --- |
+   | NovaTech Inc. | 123 Main Street, Anytown, CA 12345 | John Smith | john.smith@novatech.com |
+   | Emily J. Lee | 456 Elm Street, Othertown, CA 67890 | Emily J. Lee | emily.lee@gmail.com |
+
+   1. RECITALS
+   WHEREAS, Assignor is the owner of certain intellectual property rights, including but not limited to patents, trademarks, copyrights, and trade secrets (the "Intellectual Property"); and
+   WHEREAS, NovaTech desires to acquire the Intellectual Property from Assignor.
+
+   Table 2: Intellectual Property Details
+   | IP Type | IP Name | Registration Number | Registration Date |
+   | --- | --- | --- | --- |
+   | Patent | NovaTech Patent | US12345678 | January 1, 2020 |
+   | Trademark | NovaTech Trademark | 88765432 | June 15, 2021 |
+   | Copyright | NovaTech Copyright | TX1234567 | March 20, 2022 |
+
+   2. ASSIGNMENT
+   Assignor hereby assigns, transfers, and conveys to NovaTech, its successors, assigns, and affiliates, all of Assignor's right, title, and interest in and to the Intellectual Property, effective as of the Effective Date.
+
+   Table 3: Assignment Details
+   | IP Type | Assignment Date | Assignment Price |
+   | --- | --- | --- |
+   | Patent | March 12, 2023 | $100,000 |
+   | Trademark | March 12, 2023 | $50,000 |
+   | Copyright | March 12, 2023 | $20,000 |
+
+   3. REPRESENTATIONS AND WARRANTIES
+   Assignor represents and warrants that: (a) Assignor is the sole owner of the Intellectual Property; (b) the Intellectual Property is free and clear of any liens, encumbrances, or other restrictions; and (c) Assignor has not assigned, transferred, or conveyed any rights in the Intellectual Property to any third party.
+
+   Table 4: Payment Schedule
+   | Payment Date | Payment Amount |
+   | --- | --- |
+   | March 12, 2023 | $50,000 |
+   | June 12, 2023 | $50,000 |
+   | September 12, 2023 | $20,000 |
+
+   4. GOVERNING LAW
+   This Agreement shall be governed by and construed in accordance with the laws of the State of California, without giving effect to any principles of conflicts of law.
+
+   Table 5: Governing Law Details
+   | Law Type | Law Name | Effective Date |
+   | --- | --- | --- |
+   | State Law | California State Law | January 1, 2020 |
+   | Federal Law | US Federal Law | June 15, 2021 |
+
+   5. ENTIRE AGREEMENT
+   This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof, and supersedes all prior or contemporaneous agreements or understandings, whether written or oral.
+
+   Table 6: Entire Agreement Details
+   | Agreement Type | Agreement Date | Agreement Price |
+   | --- | --- | --- |
+   | Intellectual Property Assignment Agreement | March 12, 2023 | $170,000 |
+
+   IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+   NovaTech Inc.
+   By: _____________________________
+   Name: John Smith
+   Title: CEO
+
+   Emily J. Lee
+   By: _____________________________
+   Name: Emily J. Lee
+   

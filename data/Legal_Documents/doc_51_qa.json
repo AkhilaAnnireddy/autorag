@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the date of the Supply Agreement between GreenTech and BlueSky?",
+    "answer": "January 1, 2022",
+    "answer_paragraph": "GreenTech and BlueSky have previously entered into a Supply Agreement dated January 1, 2022, pursuant to which GreenTech has agreed to supply certain components to BlueSky for use in BlueSky's products."
+  },
+  {
+    "question": "What is the term of the Indemnification Agreement?",
+    "answer": "five years",
+    "answer_paragraph": "The term of this Agreement shall commence on the Effective Date and shall continue for a period of five years."
+  },
+  {
+    "question": "What is the aggregate liability of each party under the Agreement?",
+    "answer": "$1,000,000",
+    "answer_paragraph": "The aggregate liability of each party under this Agreement shall not exceed $1,000,000."
+  },
+  {
+    "question": "How will disputes arising out of or related to the Agreement be resolved?",
+    "answer": "through arbitration in accordance with the rules of the American Arbitration Association",
+    "answer_paragraph": "Any dispute arising out of or related to this Agreement shall be resolved through arbitration in accordance with the rules of the American Arbitration Association."
+  },
+  {
+    "question": "What is the principal place of business of GreenTech Inc.?",
+    "answer": "123 Main Street, Anytown, CA 12345",
+    "answer_paragraph": "GreenTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 ('GreenTech'),"
+  },
+  {
+    "question": "Who is the CEO of GreenTech Inc.?",
+    "answer": "John Smith",
+    "answer_paragraph": "GreenTech Inc. By: _______________________________ Name: John Smith Title: CEO Date: March 12, 2023"
+  },
+  {
+    "question": "What is the title of Jane Doe in BlueSky Ventures?",
+    "answer": "President",
+    "answer_paragraph": "BlueSky Ventures By: _______________________________ Name: Jane Doe Title: President Date: March 12, 2023"
+  },
+  {
+    "question": "What type of damages is either party not liable for under the Agreement?",
+    "answer": "consequential, indirect, or punitive damages",
+    "answer_paragraph": "In no event shall either party be liable for any consequential, indirect, or punitive damages."
+  },
+  {
+    "question": "How long shall the parties' obligations under the Agreement survive after termination?",
+    "answer": "two years",
+    "answer_paragraph": "In the event of termination, the parties' obligations under this Agreement shall survive for a period of two years after the date of termination."
+  },
+  {
+    "question": "Under which state's laws shall the Agreement be governed and construed?",
+    "answer": "the State of California",
+    "answer_paragraph": "This Agreement shall be governed by and construed in accordance with the laws of the State of California."
+  }
+]

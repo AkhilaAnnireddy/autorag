@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the project name and rate for the marketing campaign?",
+    "answer": "Marketing Campaign, $1,500/week",
+    "answer_paragraph": "Table 1: Project Details | Project Name | Project Description | Duration | Rate | | --- | --- | --- | --- | | Marketing Campaign | Develop a comprehensive marketing campaign for the Client's new product launch | 6 weeks | $1,500/week |"
+  },
+  {
+    "question": "What is the payment schedule for bank transfer?",
+    "answer": "Bi-weekly",
+    "answer_paragraph": "Table 2: Payment Terms | Payment Method | Payment Schedule | Late Fee | | --- | --- | --- | | Bank Transfer | Bi-weekly | 2% per month |"
+  },
+  {
+    "question": "What is the term of the contract?",
+    "answer": "12 months",
+    "answer_paragraph": "The term of this Contract will commence on the Effective Date and will continue for a period of 12 months."
+  },
+  {
+    "question": "What is the termination fee for 30 days' written notice?",
+    "answer": "$5,000",
+    "answer_paragraph": "Table 4: Termination and Notice | Termination Notice | Termination Fee | | --- | --- | | 30 days' written notice | $5,000 |"
+  },
+  {
+    "question": "What is the Client's principal place of business?",
+    "answer": "123 Main Street, New York, NY 10001",
+    "answer_paragraph": "This Freelance Contract (the \"Contract\") is made and entered into on February 10, 2024 (the \"Effective Date\"), by and between Emily J. Lee (the \"Client\") with a principal place of business at 123 Main Street, New York, NY 10001, and David M. Kim (the \"Freelancer\") with a principal place of business at 456 Broadway, Los Angeles, CA 90013."
+  },
+  {
+    "question": "What is the Freelancer's responsibility regarding equipment and software?",
+    "answer": "The Freelancer will be responsible for all equipment, software, and other materials necessary to perform the Services.",
+    "answer_paragraph": "The Freelancer will be responsible for all equipment, software, and other materials necessary to perform the Services."
+  },
+  {
+    "question": "What is the rate for the website design project?",
+    "answer": "$2,000/week",
+    "answer_paragraph": "Table 1: Project Details | Project Name | Project Description | Duration | Rate | | --- | --- | --- | --- | | Website Design | Design and develop a new website for the Client | 8 weeks | $2,000/week |"
+  },
+  {
+    "question": "What is the duration of the content creation project?",
+    "answer": "12 weeks",
+    "answer_paragraph": "Table 1: Project Details | Project Name | Project Description | Duration | Rate | | --- | --- | --- | --- | | Content Creation | Create high-quality content for the Client's social media platforms | 12 weeks | $1,000/week |"
+  },
+  {
+    "question": "What is the late fee for credit card payments?",
+    "answer": "1% per month",
+    "answer_paragraph": "Table 2: Payment Terms | Payment Method | Payment Schedule | Late Fee | | --- | --- | --- | | Credit Card | Weekly | 1% per month |"
+  },
+  {
+    "question": "What is the Client's obligation regarding access to information and personnel?",
+    "answer": "The Client will provide the Freelancer with access to all necessary information, materials, and personnel to perform the Services.",
+    "answer_paragraph": "The Client will provide the Freelancer with access to all necessary information, materials, and personnel to perform the Services."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the price of the Premium Plan?",
+    "answer": "$49.99/month",
+    "answer_paragraph": "Table 2: Service Details\n| Service | Description | Price |\n| --- | --- | --- |\n| Basic Plan | 100 GB storage, 1 user license | $9.99/month |\n| Premium Plan | 1 TB storage, 5 user licenses | $49.99/month |\n| Enterprise Plan | Custom storage, 10+ user licenses | Custom quote |"
+  },
+  {
+    "question": "What is the definition of 'User' in the context of this Agreement?",
+    "answer": "Any individual or entity accessing the NovaTech Inc. website or services",
+    "answer_paragraph": "Table 1: Definitions\n| Term | Definition |\n| --- | --- |\n| 'User' | Any individual or entity accessing the NovaTech Inc. website or services |\n| 'Services' | All products and services offered by NovaTech Inc., including but not limited to software, data storage, and technical support |\n| 'Agreement' | This Terms of Service document |"
+  },
+  {
+    "question": "What is the late fee for payments not received within 30 days of the due date?",
+    "answer": "$10",
+    "answer_paragraph": "Payment for services is due on the first day of each month. The following payment methods are accepted: Visa, Mastercard, American Express, and PayPal. A late fee of $10 will be charged for payments not received within 30 days of the due date."
+  },
+  {
+    "question": "What is the refund policy for cancellations within 30 days?",
+    "answer": "Full refund",
+    "answer_paragraph": "Table 4: Refund Policy\n| Reason | Refund Amount |\n| --- | --- |\n| Cancellation within 30 days | Full refund |\n| Cancellation after 30 days | Prorated refund |"
+  },
+  {
+    "question": "What is the total liability of NovaTech Inc. in the event of a claim?",
+    "answer": "The amount paid by the user in the 12 months preceding the event giving rise to the claim",
+    "answer_paragraph": "In no event shall NovaTech Inc. be liable for any damages, including but not limited to incidental, consequential, or punitive damages, arising out of or related to the services. The total liability of NovaTech Inc. shall not exceed the amount paid by the user in the 12 months preceding the event giving rise to the claim."
+  },
+  {
+    "question": "How can users contact NovaTech Inc. for questions or concerns regarding this Agreement?",
+    "answer": "support@novatechinc.com or (555) 123-4567",
+    "answer_paragraph": "For any questions or concerns regarding this Agreement, please contact NovaTech Inc. at support@novatechinc.com or (555) 123-4567."
+  },
+  {
+    "question": "What is the definition of 'Services' in the context of this Agreement?",
+    "answer": "All products and services offered by NovaTech Inc., including but not limited to software, data storage, and technical support",
+    "answer_paragraph": "Table 1: Definitions\n| Term | Definition |\n| --- | --- |\n| 'User' | Any individual or entity accessing the NovaTech Inc. website or services |\n| 'Services' | All products and services offered by NovaTech Inc., including but not limited to software, data storage, and technical support |\n| 'Agreement' | This Terms of Service document |"
+  },
+  {
+    "question": "What is the acceptable use policy for users?",
+    "answer": "The following table outlines the acceptable use policy: Table 3: Acceptable Use Policy\n| Prohibited Activity | Description |\n| --- | --- |\n| Hacking | Attempting to gain unauthorized access to the services or data |\n| Spamming | Sending unsolicited emails or messages |\n| Malware | Uploading or distributing malicious software |",
+    "answer_paragraph": "Users are responsible for maintaining the confidentiality of their account information, including usernames and passwords. Users are also responsible for all activities that occur under their account. The following table outlines the acceptable use policy:\n\nTable 3: Acceptable Use Policy\n| Prohibited Activity | Description |\n| --- | --- |\n| Hacking | Attempting to gain unauthorized access to the services or data |\n| Spamming | Sending unsolicited emails or messages |\n| Malware | Uploading or distributing malicious software |"
+  },
+  {
+    "question": "What is the governing law for this Agreement?",
+    "answer": "The laws of the State of California, without giving effect to any principles of conflicts of law",
+    "answer_paragraph": "This Agreement shall be governed by and construed in accordance with the laws of the State of California, without giving effect to any principles of conflicts of law. Any disputes arising out of or related to this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association."
+  },
+  {
+    "question": "When was this Agreement last updated?",
+    "answer": "February 10, 2023",
+    "answer_paragraph": "NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345, provides various services to its users. By accessing or using the services, users agree to be bound by the terms and conditions outlined in this Agreement. This Agreement was last updated on February 10, 2023."
+  }
+]

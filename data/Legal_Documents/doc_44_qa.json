@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the definition of 'Personal Data' in the context of this Agreement?",
+    "answer": "any information relating to an identified or identifiable natural person ('Data Subject')",
+    "answer_paragraph": "* Definitions: * 'Personal Data' means any information relating to an identified or identifiable natural person ('Data Subject');"
+  },
+  {
+    "question": "What is the duration of the Processing of Personal Data by the Processor?",
+    "answer": "24 months from the effective date of this Agreement",
+    "answer_paragraph": "* The Processor shall Process Personal Data for a period of 24 months from the effective date of this Agreement, unless otherwise agreed upon by the parties in writing."
+  },
+  {
+    "question": "What technical and organizational measures shall the Processor implement to protect the Personal Data?",
+    "answer": "access controls, encryption technologies, and regular testing and evaluation of the effectiveness of its technical and organizational measures",
+    "answer_paragraph": "* The Processor shall implement access controls to ensure that only authorized personnel have access to the Personal Data; * The Processor shall implement encryption technologies to protect the Personal Data; * The Processor shall regularly test and evaluate the effectiveness of its technical and organizational measures."
+  },
+  {
+    "question": "What rights of Data Subjects shall the Processor assist the Controller in responding to?",
+    "answer": "the right to access their Personal Data, the right to rectify their Personal Data, the right to erase their Personal Data, the right to restrict the Processing of their Personal Data, the right to object to the Processing of their Personal Data, and the right to data portability",
+    "answer_paragraph": "* The Processor shall assist the Controller in responding to requests from Data Subjects to exercise their rights under the Data Protection Laws, including: * The right to access their Personal Data; * The right to rectify their Personal Data; * The right to erase their Personal Data; * The right to restrict the Processing of their Personal Data; * The right to object to the Processing of their Personal Data; * The right to data portability."
+  },
+  {
+    "question": "What is the time limit for the Processor to notify the Controller of a Security Breach?",
+    "answer": "72 hours of becoming aware of the Security Breach",
+    "answer_paragraph": "* In the event of a Security Breach, the Processor shall: * Notify the Controller without undue delay, but in any event within 72 hours of becoming aware of the Security Breach;"
+  },
+  {
+    "question": "What is the total liability of the Processor under this Agreement?",
+    "answer": "$1,000,000",
+    "answer_paragraph": "* The Processor's total liability under this Agreement shall not exceed $1,000,000."
+  },
+  {
+    "question": "How long shall this Agreement commence and continue for?",
+    "answer": "24 months, unless otherwise agreed upon by the parties in writing",
+    "answer_paragraph": "* This Agreement shall commence on the effective date and continue for a period of 24 months, unless otherwise agreed upon by the parties in writing."
+  },
+  {
+    "question": "What law shall this Agreement be governed by and construed in accordance with?",
+    "answer": "the laws of the State of Delaware",
+    "answer_paragraph": "* This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware."
+  },
+  {
+    "question": "What Services shall the Processor provide to the Controller?",
+    "answer": "data collection and processing, data storage and hosting, data analytics and reporting",
+    "answer_paragraph": "* The Processor shall provide the following Services to the Controller: * Data collection and processing; * Data storage and hosting; * Data analytics and reporting."
+  },
+  {
+    "question": "What measures shall the Processor take to mitigate the effects of a Security Breach and prevent its recurrence?",
+    "answer": "all necessary measures",
+    "answer_paragraph": "* The Processor shall take all necessary measures to mitigate the effects of the Security Breach and prevent its recurrence."
+  }
+]

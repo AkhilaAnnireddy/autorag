@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the project name and location of the Downtown Revitalization project?",
+    "answer": "Downtown Revitalization, 789 Oak Street, San Francisco, CA",
+    "answer_paragraph": "Table 1: Project Overview\n| Project Name | Project Location | Project Duration |\n| --- | --- | --- |\n| Downtown Revitalization | 789 Oak Street, San Francisco, CA | 24 months |\n| City Hall Renovation | 321 City Hall Drive, New York, NY | 18 months |\n| Park Avenue Development | 901 Park Avenue, New York, NY | 30 months |"
+  },
+  {
+    "question": "What is the start and end date of the foundation work task?",
+    "answer": "March 16, 2023, April 15, 2023",
+    "answer_paragraph": "Table 2: Project Schedule\n| Task | Start Date | End Date | Duration |\n| --- | --- | --- | --- |\n| Site Preparation | March 1, 2023 | March 15, 2023 | 15 days |\n| Foundation Work | March 16, 2023 | April 15, 2023 | 30 days |\n| Framing | April 16, 2023 | May 15, 2023 | 29 days |"
+  },
+  {
+    "question": "What is the total payment amount for the completion of the project?",
+    "answer": "$1,200,000",
+    "answer_paragraph": "The Subcontractor shall be paid a total of $1,200,000 for the completion of the project, according to the payment schedule outlined in Table 3."
+  },
+  {
+    "question": "What is the payment amount for the second payment?",
+    "answer": "$400,000",
+    "answer_paragraph": "Table 3: Payment Schedule\n| Payment Number | Payment Date | Payment Amount |\n| --- | --- | --- |\n| 1 | April 30, 2023 | $300,000 |\n| 2 | June 30, 2023 | $400,000 |\n| 3 | August 31, 2023 | $500,000 |"
+  },
+  {
+    "question": "What is the required coverage amount for general liability insurance?",
+    "answer": "$1,000,000",
+    "answer_paragraph": "Table 4: Insurance Requirements\n| Insurance Type | Coverage Amount |\n| --- | --- |\n| General Liability | $1,000,000 |\n| Workers' Compensation | $500,000 |\n| Umbrella Policy | $2,000,000 |"
+  },
+  {
+    "question": "What is the notice period for termination due to convenience?",
+    "answer": "30 days",
+    "answer_paragraph": "Table 5: Termination Notice\n| Termination Reason | Notice Period |\n| --- | --- |\n| Convenience | 30 days |\n| Default | 15 days |\n| Force Majeure | Immediate |"
+  },
+  {
+    "question": "Who is the president of GreenTech Construction Inc.?",
+    "answer": "John Smith",
+    "answer_paragraph": "Contractor:\nGreenTech Construction Inc.\nBy: John Smith, President\nDate: February 10, 2023"
+  },
+  {
+    "question": "What is the date of the agreement?",
+    "answer": "February 10, 2023",
+    "answer_paragraph": "This Subcontractor Agreement ('Agreement') is made and entered into on February 10, 2023 ('Effective Date'), by and between GreenTech Construction Inc. ('Contractor'), a corporation organized and existing under the laws of the state of California, with its principal place of business at 123 Main Street, San Francisco, CA 94105, and Nova Engineering Ltd. ('Subcontractor'), a corporation organized and existing under the laws of the state of New York, with its principal place of business at 456 Broadway, New York, NY 10013."
+  },
+  {
+    "question": "What is the project duration of the City Hall Renovation project?",
+    "answer": "18 months",
+    "answer_paragraph": "Table 1: Project Overview\n| Project Name | Project Location | Project Duration |\n| --- | --- | --- |\n| Downtown Revitalization | 789 Oak Street, San Francisco, CA | 24 months |\n| City Hall Renovation | 321 City Hall Drive, New York, NY | 18 months |\n| Park Avenue Development | 901 Park Avenue, New York, NY | 30 months |"
+  },
+  {
+    "question": "What is the duration of the site preparation task?",
+    "answer": "15 days",
+    "answer_paragraph": "Table 2: Project Schedule\n| Task | Start Date | End Date | Duration |\n| --- | --- | --- | --- |\n| Site Preparation | March 1, 2023 | March 15, 2023 | 15 days |\n| Foundation Work | March 16, 2023 | April 15, 2023 | 30 days |\n| Framing | April 16, 2023 | May 15, 2023 | 29 days |"
+  }
+]

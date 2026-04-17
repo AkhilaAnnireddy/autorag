@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the date of the Shareholder Agreement?",
+    "answer": "February 10, 2022",
+    "answer_paragraph": "This Shareholder Agreement ('Agreement') is made and entered into on February 10, 2022, by and between GreenTech Inc., a corporation organized under the laws of the State of Delaware ('Company'), and its shareholders, namely, Emily J. Lee, Michael T. Brown, and David K. White ('Shareholders')."
+  },
+  {
+    "question": "What is the minimum cash balance that the Company shall maintain at all times?",
+    "answer": "$100,000",
+    "answer_paragraph": "The following are the key policies and procedures that the Company shall adhere to: \n\n* The Company shall maintain a minimum cash balance of $100,000 at all times."
+  },
+  {
+    "question": "What are the responsibilities of Emily J. Lee as CEO?",
+    "answer": "Overall strategy and direction",
+    "answer_paragraph": "Their responsibilities and duties are as follows: \n\n| Name | Title | Responsibilities | \n| --- | --- | --- | \n| Emily J. Lee | CEO | Overall strategy and direction |"
+  },
+  {
+    "question": "What is the revenue of the Company for the year 2020?",
+    "answer": "$1,000,000",
+    "answer_paragraph": "The Company shall maintain the following financial records: \n\n| Year | Revenue | Net Income | \n| --- | --- | --- | \n| 2020 | $1,000,000 | $200,000 |"
+  },
+  {
+    "question": "What is the purpose of the Audit Committee?",
+    "answer": "responsible for overseeing the Company's financial reporting and auditing processes",
+    "answer_paragraph": "The Company has established the following committees to assist the board of directors in its decision-making: \n\n1. Audit Committee: responsible for overseeing the Company's financial reporting and auditing processes."
+  },
+  {
+    "question": "When shall the Company hold its annual meeting of Shareholders?",
+    "answer": "the first Monday in May of each year",
+    "answer_paragraph": "The Company shall hold an annual meeting of its Shareholders on the first Monday in May of each year, at which meeting the Shareholders shall elect directors, consider and act upon any other matters that may be properly brought before the meeting."
+  },
+  {
+    "question": "How shall the Shareholders resolve a deadlock between them?",
+    "answer": "through negotiation and mediation, and if not resolved, through arbitration in accordance with the rules of the American Arbitration Association",
+    "answer_paragraph": "In the event of a deadlock between the Shareholders, the following procedures shall be followed: \n\n1. The Shareholders shall attempt to resolve the deadlock through negotiation and mediation. \n2. If the deadlock is not resolved through negotiation and mediation, the Shareholders shall submit the matter to arbitration in accordance with the rules of the American Arbitration Association."
+  },
+  {
+    "question": "What is the par value of the Company's common stock?",
+    "answer": "$0.001 per share",
+    "answer_paragraph": "As of the date of this Agreement, the Company's authorized capital stock consists of 10,000,000 shares of common stock, par value $0.001 per share."
+  },
+  {
+    "question": "What is the ownership percentage of Emily J. Lee in the Company?",
+    "answer": "40%",
+    "answer_paragraph": "The Shareholders collectively own 100% of the Company's outstanding common stock, with Emily J. Lee owning 40%, Michael T. Brown owning 30%, and David K. White owning 30%."
+  },
+  {
+    "question": "What is the term of the transfer agent appointed by the board of directors?",
+    "answer": "two years",
+    "answer_paragraph": "The transfer agent shall be appointed by the board of directors and shall serve for a term of two years."
+  }
+]

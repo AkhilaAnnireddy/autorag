@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the date of execution of the Content Licensing Agreement?",
+    "answer": "February 10, 2023",
+    "answer_paragraph": "This Content Licensing Agreement (the 'Agreement') is entered into on February 10, 2023, by and between Emerald Publishing Inc., a Delaware corporation with its principal place of business at 123 Main Street, New York, NY 10001 ('Licensor'), and Blue Sky Media Ltd., a British Columbia corporation with its principal place of business at 456 Victoria Street, Vancouver, BC V6B 2P6 ('Licensee')."
+  },
+  {
+    "question": "What is the term of the Agreement?",
+    "answer": "three years",
+    "answer_paragraph": "The term of this Agreement shall commence on the date of execution and shall continue for a period of three years, unless terminated earlier in accordance with the provisions of Section 10."
+  },
+  {
+    "question": "What is the license fee payable by the Licensee to the Licensor?",
+    "answer": "$10,000 per year",
+    "answer_paragraph": "The Licensee shall pay to the Licensor a license fee in the amount of $10,000 per year, payable in advance on the first day of each year during the term of this Agreement."
+  },
+  {
+    "question": "How will the Licensor deliver the Journal to the Licensee?",
+    "answer": "in electronic format within five business days after receipt of the license fee for each year",
+    "answer_paragraph": "The Licensor shall deliver to the Licensee a copy of the Journal in electronic format within five business days after receipt of the license fee for each year."
+  },
+  {
+    "question": "What is the governing law of the Agreement?",
+    "answer": "the laws of the State of New York",
+    "answer_paragraph": "The laws of the State of New York shall govern the validity, construction, and enforceability of this Agreement, without regard to its conflict of laws principles."
+  },
+  {
+    "question": "How will disputes arising out of or related to the Agreement be resolved?",
+    "answer": "through binding arbitration in accordance with the rules of the American Arbitration Association",
+    "answer_paragraph": "Any dispute arising out of or related to this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association, as amended from time to time."
+  },
+  {
+    "question": "What is the number of employees of the Licensor as of the date of the Agreement?",
+    "answer": "approximately 500 employees",
+    "answer_paragraph": "As of the date of this Agreement, the Licensor has approximately 500 employees, and the Licensee has approximately 200 employees."
+  },
+  {
+    "question": "What is the revenue of the Licensor for the fiscal year ended December 31, 2022?",
+    "answer": "approximately $10 million",
+    "answer_paragraph": "The Licensor's revenue for the fiscal year ended December 31, 2022, was approximately $10 million, and the Licensee's revenue for the fiscal year ended December 31, 2022, was approximately $5 million."
+  },
+  {
+    "question": "What is the obligation of the Licensee regarding the use of the Journal?",
+    "answer": "to use the Journal only for its internal business purposes",
+    "answer_paragraph": "The Licensee shall not use the Journal for any purpose that is not explicitly permitted by this Agreement, and shall not distribute, sublicense, or assign the Journal to any third party without the prior written consent of the Licensor."
+  },
+  {
+    "question": "What is the requirement for the Licensor and the Licensee regarding the confidentiality of information exchanged between them?",
+    "answer": "to maintain the confidentiality of all information exchanged between them in connection with this Agreement",
+    "answer_paragraph": "The Licensor and the Licensee agree to maintain the confidentiality of all information exchanged between them in connection with this Agreement, and shall not disclose such information to any third party without the prior written consent of the other party."
+  }
+]

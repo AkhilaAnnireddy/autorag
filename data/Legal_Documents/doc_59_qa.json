@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the date of the Open Source Contribution Agreement between NovaTech Inc. and Emily J. Lee?",
+    "answer": "January 10, 2023",
+    "answer_paragraph": "The Open Source Contribution Agreement is entered into as of January 10, 2023, by and between NovaTech Inc., a corporation organized and existing under the laws of the State of California, with its principal place of business at 123 Main Street, San Francisco, CA 94105, and Emily J. Lee, an individual with an address at 456 Elm Street, New York, NY 10001."
+  },
+  {
+    "question": "What is the name of the software development kit owned by NovaTech Inc.?",
+    "answer": "NovaTech Framework",
+    "answer_paragraph": "NovaTech Inc. is the owner of certain software known as the NovaTech Framework, which is distributed under the terms of the GNU General Public License, version 3."
+  },
+  {
+    "question": "How many times has the NovaTech Framework been downloaded as of the date of the Agreement?",
+    "answer": "over 100,000 times",
+    "answer_paragraph": "As of the date of this Agreement, the NovaTech Framework has been downloaded over 100,000 times and has a community of over 1,000 active contributors."
+  },
+  {
+    "question": "What is the term of the Open Source Contribution Agreement?",
+    "answer": "2 years",
+    "answer_paragraph": "The term of this Agreement shall commence on the date of execution and shall continue for a period of 2 years, unless terminated earlier in accordance with the provisions of this Agreement."
+  },
+  {
+    "question": "How much will NovaTech Inc. pay Emily J. Lee per month as a stipend?",
+    "answer": "$5,000 per month",
+    "answer_paragraph": "NovaTech Inc. shall provide Emily J. Lee with a stipend of $5,000 per month to support her contributions to the NovaTech Framework."
+  },
+  {
+    "question": "What will happen if Emily J. Lee fails to make contributions to the NovaTech Framework for 3 consecutive months?",
+    "answer": "NovaTech Inc. may terminate this Agreement upon written notice to Emily J. Lee",
+    "answer_paragraph": "In the event that Emily J. Lee fails to make contributions to the NovaTech Framework for a period of 3 consecutive months, NovaTech Inc. may terminate this Agreement upon written notice to Emily J. Lee."
+  },
+  {
+    "question": "Who will own the intellectual property rights in and to the NovaTech Framework?",
+    "answer": "NovaTech Inc.",
+    "answer_paragraph": "The parties agree that all intellectual property rights in and to the NovaTech Framework, including but not limited to, the copyrights, patents, and trade secrets, shall be owned by NovaTech Inc."
+  },
+  {
+    "question": "Where can the Open-Source Contribution Policy of NovaTech Inc. be found?",
+    "answer": "on its website at www.novatech.com",
+    "answer_paragraph": "NovaTech Inc. has a policy of encouraging open-source contributions, as stated in its Open-Source Contribution Policy, which can be found on its website at www.novatech.com."
+  },
+  {
+    "question": "When was the Open-Source Contribution Policy updated to include a new section on intellectual property rights?",
+    "answer": "February 20, 2023",
+    "answer_paragraph": "As of February 20, 2023, the policy has been updated to include a new section on intellectual property rights, which provides guidance on the ownership and licensing of contributions made to NovaTech Inc.'s open-source projects."
+  },
+  {
+    "question": "Why does NovaTech Inc. believe that open-source contributions are important?",
+    "answer": "because they are essential to the development and growth of its software products",
+    "answer_paragraph": "NovaTech Inc. believes that open-source contributions are essential to the development and growth of its software products, and it is committed to supporting and encouraging open-source contributions, as stated in its Open-Source Contribution Policy."
+  }
+]

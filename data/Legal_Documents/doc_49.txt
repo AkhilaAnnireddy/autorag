@@ -1,0 +1,159 @@
+
+   SOFTWARE LICENSE AGREEMENT
+
+   This Software License Agreement (the "Agreement") is made and entered into on February 10, 2023 (the "Effective Date"), by and between NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, New York, NY 10001 ("NovaTech"), and Apex Software Solutions, a California corporation with its principal place of business at 456 Elm Street, San Francisco, CA 94105 ("Apex").
+
+   **ARTICLE 1: DEFINITIONS**
+
+   The following definitions apply to this Agreement:
+   <table>
+      <tr>
+         <th>Term</th>
+         <th>Definition</th>
+      </tr>
+      <tr>
+         <td>"Software"</td>
+         <td>Means the NovaTech Software, as more fully described in Exhibit A.</td>
+      </tr>
+      <tr>
+         <td>"Documentation"</td>
+         <td>Means the user manuals, guides, and other materials provided by NovaTech in connection with the Software.</td>
+      </tr>
+      <tr>
+         <td>"License Fee"</td>
+         <td>Means the fee payable by Apex to NovaTech for the license granted under this Agreement, as set forth in Section 3.1.</td>
+      </tr>
+   </table>
+
+   **ARTICLE 2: GRANT OF LICENSE**
+
+   Subject to the terms and conditions of this Agreement, NovaTech hereby grants to Apex a non-exclusive, non-transferable license to use the Software and Documentation for a period of three (3) years from the Effective Date. The license granted under this Section 2.1 is limited to use by Apex for its internal business purposes only.
+   <table>
+      <tr>
+         <th>License Type</th>
+         <th>Description</th>
+         <th>Duration</th>
+      </tr>
+      <tr>
+         <td>Development License</td>
+         <td>For use in development and testing environments only.</td>
+         <td>12 months</td>
+      </tr>
+      <tr>
+         <td>Production License</td>
+         <td>For use in production environments only.</td>
+         <td>24 months</td>
+      </tr>
+   </table>
+
+   **ARTICLE 3: PAYMENT TERMS**
+
+   The License Fee for the Software and Documentation is $100,000, payable as follows:
+   <table>
+      <tr>
+         <th>Payment Due Date</th>
+         <th>Payment Amount</th>
+      </tr>
+      <tr>
+         <td>Within 30 days of the Effective Date</td>
+         <td>$50,000</td>
+      </tr>
+      <tr>
+         <td>Within 12 months of the Effective Date</td>
+         <td>$25,000</td>
+      </tr>
+      <tr>
+         <td>Within 24 months of the Effective Date</td>
+         <td>$25,000</td>
+      </tr>
+   </table>
+
+   **ARTICLE 4: SUPPORT AND MAINTENANCE**
+
+   NovaTech shall provide Apex with support and maintenance services for the Software and Documentation, as more fully described in Exhibit B. The support and maintenance services shall be provided for a period of three (3) years from the Effective Date.
+   <table>
+      <tr>
+         <th>Support Level</th>
+         <th>Description</th>
+         <th>Response Time</th>
+      </tr>
+      <tr>
+         <td>Standard Support</td>
+         <td>Monday to Friday, 9am to 5pm EST.</td>
+         <td>Within 4 hours</td>
+      </tr>
+      <tr>
+         <td>Premium Support</td>
+         <td>24 hours a day, 7 days a week.</td>
+         <td>Within 1 hour</td>
+      </tr>
+   </table>
+
+   **ARTICLE 5: CONFIDENTIALITY**
+
+   The parties agree to maintain the confidentiality of all information disclosed by one party to the other under this Agreement, including but not limited to the Software and Documentation. The receiving party shall not disclose the confidential information to any third party without the prior written consent of the disclosing party.
+   <table>
+      <tr>
+         <th>Confidentiality Level</th>
+         <th>Description</th>
+      </tr>
+      <tr>
+         <td>Highly Confidential</td>
+         <td>Information that is highly sensitive and confidential, including but not limited to trade secrets.</td>
+      </tr>
+      <tr>
+         <td>Confidential</td>
+         <td>Information that is confidential but not highly sensitive.</td>
+      </tr>
+   </table>
+
+   **ARTICLE 6: TERM AND TERMINATION**
+
+   The term of this Agreement shall commence on the Effective Date and shall continue for a period of three (3) years. Either party may terminate this Agreement upon written notice to the other party if the other party breaches any of its obligations under this Agreement and fails to cure such breach within 30 days of receipt of such notice.
+   <table>
+      <tr>
+         <th>Termination Reason</th>
+         <th>Description</th>
+      </tr>
+      <tr>
+         <td>Breach of Agreement</td>
+         <td>Failure to comply with the terms and conditions of this Agreement.</td>
+      </tr>
+      <tr>
+         <td>Bankruptcy or Insolvency</td>
+         <td>Either party becomes bankrupt or insolvent.</td>
+      </tr>
+   </table>
+
+   **ARTICLE 7: GOVERNING LAW**
+
+   This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without giving effect to any principles of conflicts of law. Any disputes arising out of or related to this Agreement shall be resolved through arbitration in accordance with the rules of the American Arbitration Association.
+   <table>
+      <tr>
+         <th>Dispute Resolution Method</th>
+         <th>Description</th>
+      </tr>
+      <tr>
+         <td>Arbitration</td>
+         <td>Binding arbitration in accordance with the rules of the American Arbitration Association.</td>
+      </tr>
+      <tr>
+         <td>Mediation</td>
+         <td>Non-binding mediation in accordance with the rules of the American Arbitration Association.</td>
+      </tr>
+   </table>
+
+   IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+   NOVATECH INC.
+
+   By: /s/ John Smith
+   Name: John Smith
+   Title: CEO
+
+   APEX SOFTWARE SOLUTIONS
+
+   By: /s/ Jane Doe
+   Name: Jane Doe
+   Title: President
+   

@@ -1,0 +1,60 @@
+This Customer Data Agreement (the "Agreement") is entered into on February 10, 2023, by and between NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 ("NovaTech"), and GreenEarth Ltd., a company incorporated under the laws of England and Wales with its registered office at 456 London Road, London, UK ("Customer"). The parties agree to comply with the terms and conditions outlined in this Agreement, which governs the collection, use, and disclosure of Customer Data. Customer Data includes all data provided by Customer to NovaTech, including but not limited to personally identifiable information, such as names, addresses, phone numbers, and email addresses. NovaTech agrees to process Customer Data solely for the purpose of providing the Services as defined in the Master Services Agreement ("MSA") dated January 1, 2023. The MSA is incorporated into this Agreement by reference. The term of this Agreement shall commence on the effective date and continue for a period of two (2) years, unless terminated earlier in accordance with the termination provisions outlined in Section 9.0 of this Agreement. The following are the key terms and definitions used throughout this Agreement: 
+   
+ 
+   Definitions: 
+   - "Customer Data" means all data provided by Customer to NovaTech. 
+   - "Services" means the services provided by NovaTech to Customer as outlined in the MSA. 
+   - "Security Incident" means any unauthorized access, use, or disclosure of Customer Data. 
+   NovaTech has implemented and will maintain appropriate technical and organizational measures to protect Customer Data against Security Incidents. These measures include but are not limited to: 
+   
+ 
+   1. Encryption of Customer Data in transit and at rest. 
+   2. Access controls, including multi-factor authentication and role-based access. 
+   3. Regular security audits and penetration testing. 
+   In the event of a Security Incident, NovaTech shall notify Customer in writing within 72 hours of becoming aware of the incident. The notification shall include the following information: 
+   
+ 
+   - A description of the Security Incident. 
+   - The categories of Customer Data affected. 
+   - The measures taken by NovaTech to mitigate the effects of the Security Incident. 
+   - The measures recommended by NovaTech to prevent future Security Incidents. 
+   Customer shall be responsible for maintaining the confidentiality of its login credentials and for ensuring that its authorized users comply with the terms and conditions of this Agreement. The following table outlines the roles and responsibilities of the parties: 
+   
+ 
+   | Role | Responsibility | 
+   | --- | --- | 
+   | NovaTech | Provide the Services, protect Customer Data | 
+   | Customer | Maintain login credentials, comply with Agreement | 
+   In the event of any dispute arising out of or in connection with this Agreement, the parties agree to attempt to resolve the dispute through good faith negotiations. If the dispute cannot be resolved through negotiations, the parties agree to submit the dispute to binding arbitration in accordance with the rules of the American Arbitration Association. The following are the contact details for the parties: 
+   
+ 
+   NovaTech Inc. 
+   123 Main Street 
+   Anytown, CA 12345 
+   Phone: 555-1234 
+   Email: [info@novatech.com](mailto:info@novatech.com) 
+   
+ 
+   GreenEarth Ltd. 
+   456 London Road 
+   London, UK 
+   Phone: 020-1234-5678 
+   Email: [info@greenearth.co.uk](mailto:info@greenearth.co.uk) 
+   This Agreement constitutes the entire agreement between the parties regarding the subject matter hereof and supersedes all prior and contemporaneous agreements and understandings, whether written or oral. This Agreement may not be amended or modified except in writing signed by both parties. By signing below, the parties acknowledge that they have read, understand, and agree to be bound by the terms and conditions of this Agreement. 
+   
+ 
+   IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written. 
+   
+ 
+   NovaTech Inc. 
+   By: _____________________________ 
+   Name: John Smith 
+   Title: CEO 
+   Date: February 10, 2023 
+   
+ 
+   GreenEarth Ltd. 
+   By: _____________________________ 
+   Name: Jane Doe 
+   Title: Managing Director 
+   Date: February 10, 2023

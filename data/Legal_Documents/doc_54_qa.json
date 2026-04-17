@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the term of the SLA?",
+    "answer": "The term of this SLA shall commence on March 1, 2024, and shall continue for a period of two years, unless terminated earlier in accordance with the terms of this SLA.",
+    "answer_paragraph": "This Service Level Agreement (SLA) is entered into on February 10, 2024, by and between NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 (\"NovaTech\"), and Apex Solutions, a California corporation with its principal place of business at 456 Elm Street, Othertown, CA 67890 (\"Apex\"). The purpose of this SLA is to define the service level expectations for the provision of managed IT services by NovaTech to Apex. The term of this SLA shall commence on March 1, 2024, and shall continue for a period of two years, unless terminated earlier in accordance with the terms of this SLA."
+  },
+  {
+    "question": "What are the services to be provided by NovaTech under this SLA?",
+    "answer": "The services to be provided by NovaTech under this SLA include network monitoring, help desk support, and cybersecurity services.",
+    "answer_paragraph": "This Service Level Agreement (SLA) is entered into on February 10, 2024, by and between NovaTech Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 (\"NovaTech\"), and Apex Solutions, a California corporation with its principal place of business at 456 Elm Street, Othertown, CA 67890 (\"Apex\"). The purpose of this SLA is to define the service level expectations for the provision of managed IT services by NovaTech to Apex. The term of this SLA shall commence on March 1, 2024, and shall continue for a period of two years, unless terminated earlier in accordance with the terms of this SLA. The services to be provided by NovaTech under this SLA include network monitoring, help desk support, and cybersecurity services."
+  },
+  {
+    "question": "What is the target network uptime?",
+    "answer": "99.99%",
+    "answer_paragraph": "The service level targets for these services are as follows: network uptime of 99.99%, help desk response time of 15 minutes, and resolution time of 2 hours for critical issues."
+  },
+  {
+    "question": "What is the penalty for failure to meet the network uptime target?",
+    "answer": "$1,000 per hour of downtime",
+    "answer_paragraph": "The following table sets out the service level targets and the corresponding penalties for failure to meet these targets: \n\n| Service | Target | Penalty |\n| --- | --- | --- |\n| Network Uptime | 99.99% | $1,000 per hour of downtime |\n| Help Desk Response Time | 15 minutes | $500 per incident |\n| Resolution Time for Critical Issues | 2 hours | $1,500 per incident |"
+  },
+  {
+    "question": "What are the KPIs used to measure the performance of NovaTech under this SLA?",
+    "answer": "First Response Time (FRT), Mean Time To Resolve (MTTR), and Customer Satisfaction (CSAT)",
+    "answer_paragraph": "The following are the key performance indicators (KPIs) that shall be used to measure the performance of NovaTech under this SLA: First Response Time (FRT), Mean Time To Resolve (MTTR), and Customer Satisfaction (CSAT)."
+  },
+  {
+    "question": "What is the target FRT?",
+    "answer": "15 minutes",
+    "answer_paragraph": "The KPIs shall be measured on a monthly basis, and the measurement period shall be from the 1st day of each month to the last day of each month. The following are the KPI targets: FRT of 15 minutes, MTTR of 2 hours, and CSAT of 90%."
+  },
+  {
+    "question": "What is the format of the monthly report?",
+    "answer": "| Month | Incidents Reported | Incidents Resolved | FRT | MTTR | CSAT |",
+    "answer_paragraph": "The report shall be in the following format: \n\n| Month | Incidents Reported | Incidents Resolved | FRT | MTTR | CSAT |"
+  },
+  {
+    "question": "How often are the KPIs reported to Apex?",
+    "answer": "on a monthly basis, within 10 days of the end of each measurement period",
+    "answer_paragraph": "The KPIs shall be reported to Apex on a monthly basis, within 10 days of the end of each measurement period."
+  },
+  {
+    "question": "What law governs this SLA?",
+    "answer": "the laws of the State of California",
+    "answer_paragraph": "This SLA shall be governed by and construed in accordance with the laws of the State of California."
+  },
+  {
+    "question": "Who signed the SLA on behalf of NovaTech Inc.?",
+    "answer": "John Smith, CEO",
+    "answer_paragraph": "NovaTech Inc. \nBy: ______________________________ \nName: John Smith \nTitle: CEO \nDate: February 10, 2024"
+  }
+]

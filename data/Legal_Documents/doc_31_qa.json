@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the term of the Software Service Agreement?",
+    "answer": "The term of this Agreement shall commence on the Effective Date and shall continue for a period of three years, unless terminated earlier in accordance with the terms of this Agreement.",
+    "answer_paragraph": "The term of this Agreement shall commence on the Effective Date and shall continue for a period of three years, unless terminated earlier in accordance with the terms of this Agreement. During the term of this Agreement, Novum shall provide Apex with access to its proprietary software platform, known as the Novum Financial Platform (the \"Platform\")."
+  },
+  {
+    "question": "What is the total fee for the first year of the term?",
+    "answer": "The total fees for the first year of the term shall be $250,000, payable in quarterly installments of $62,500.",
+    "answer_paragraph": "The fees for the services provided under this Agreement shall be as set forth in Exhibit A, which is attached hereto and incorporated herein by reference. The total fees for the first year of the term shall be $250,000, payable in quarterly installments of $62,500."
+  },
+  {
+    "question": "Where will the Platform be hosted?",
+    "answer": "The Platform shall be hosted on servers located at Novum's data center in Chicago, Illinois",
+    "answer_paragraph": "The parties have agreed that the Platform shall be hosted on servers located at Novum's data center in Chicago, Illinois, and that Novum shall be responsible for maintaining the security and integrity of the Platform."
+  },
+  {
+    "question": "What are the normal business hours for technical support and maintenance services?",
+    "answer": "8:00 a.m. to 5:00 p.m. Central Time, Monday through Friday, excluding holidays",
+    "answer_paragraph": "The support and maintenance services shall be provided during normal business hours, which are defined as 8:00 a.m. to 5:00 p.m. Central Time, Monday through Friday, excluding holidays."
+  },
+  {
+    "question": "What is the name of the software platform provided by Novum?",
+    "answer": "the Novum Financial Platform (the \"Platform\")",
+    "answer_paragraph": "During the term of this Agreement, Novum shall provide Apex with access to its proprietary software platform, known as the Novum Financial Platform (the \"Platform\")."
+  },
+  {
+    "question": "What law will govern this Agreement?",
+    "answer": "the laws of the state of California, without giving effect to any principles of conflicts of law",
+    "answer_paragraph": "The parties have agreed that this Agreement shall be governed by and construed in accordance with the laws of the state of California, without giving effect to any principles of conflicts of law."
+  },
+  {
+    "question": "What is the rate of interest charged on overdue payments?",
+    "answer": "1.5% per month, or the maximum rate permitted by law, whichever is less",
+    "answer_paragraph": "In the event that Apex fails to make any payment when due, Novum may, at its option, charge interest on the overdue amount at a rate of 1.5% per month, or the maximum rate permitted by law, whichever is less."
+  },
+  {
+    "question": "What is the process for resolving disputes arising out of or related to this Agreement?",
+    "answer": "binding arbitration, in accordance with the rules of the American Arbitration Association",
+    "answer_paragraph": "Any disputes arising out of or related to this Agreement shall be resolved through binding arbitration, in accordance with the rules of the American Arbitration Association."
+  },
+  {
+    "question": "What is the title of the person signing the Agreement on behalf of Novum?",
+    "answer": "CEO",
+    "answer_paragraph": "Novum Technologies, Inc. By: ______________________________ Name: John Smith Title: CEO Date: February 10, 2023"
+  },
+  {
+    "question": "What is the date of the Software Service Agreement?",
+    "answer": "February 10, 2023",
+    "answer_paragraph": "This Software Service Agreement (the \"Agreement\") is entered into on February 10, 2023 (the \"Effective Date\"), by and between Novum Technologies, Inc., a Delaware corporation with its principal place of business at 123 Main Street, Anytown, CA 12345 (\"Novum\"), and Apex Business Solutions, LLC, a California limited liability company with its principal place of business at 456 Elm Street, Othertown, CA 67890 (\"Apex\")."
+  }
+]
