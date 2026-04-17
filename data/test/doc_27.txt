@@ -1,0 +1,107 @@
+
+   <h1>Anti-Harassment Policy</h1>
+   <p>At XYZ Corporation, we are committed to providing a workplace that is free from harassment and discrimination. This policy applies to all employees, including full-time, part-time, and temporary workers, as well as interns and volunteers. The policy also applies to third-party vendors, contractors, and clients who interact with our employees.</p>
+   <h2>Definition of Harassment</h2>
+   <p>Harassment is defined as any unwelcome conduct that creates a hostile, intimidating, or offensive work environment. This includes, but is not limited to, sexual harassment, racial harassment, and harassment based on age, disability, or any other protected characteristic. The following table provides examples of behaviors that may be considered harassment:</p>
+   <table>
+      <tr>
+         <th>Behavior</th>
+         <th>Examples</th>
+      </tr>
+      <tr>
+         <td>Verbal Harassment</td>
+         <td>Unwelcome comments, jokes, or slurs; threatening or intimidating language</td>
+      </tr>
+      <tr>
+         <td>Physical Harassment</td>
+         <td>Unwanted touching, pushing, or blocking; assault or battery</td>
+      </tr>
+      <tr>
+         <td>Visual Harassment</td>
+         <td>Displaying offensive or explicit images; making obscene gestures</td>
+      </tr>
+   </table>
+   <h2>Reporting Incidents</h2>
+   <p>If an employee experiences or witnesses harassment, they should report the incident to their supervisor, HR representative, or any other member of management as soon as possible. The following table outlines the steps to take when reporting an incident:</p>
+   <table>
+      <tr>
+         <th>Step</th>
+         <th>Description</th>
+      </tr>
+      <tr>
+         <td>1. Report the Incident</td>
+         <td>Notify a supervisor, HR representative, or member of management of the incident</td>
+      </tr>
+      <tr>
+         <td>2. Provide Details</td>
+         <td>Provide as much detail as possible about the incident, including dates, times, locations, and witnesses</td>
+      </tr>
+      <tr>
+         <td>3. Cooperate with Investigation</td>
+         <td>Cooperate fully with any investigation into the incident, including providing statements and participating in interviews</td>
+      </tr>
+   </table>
+   <p>According to our records, in 2022, we received a total of 15 reports of harassment, with 10 of those reports being related to verbal harassment. The following table provides a breakdown of the types of harassment reported:</p>
+   <table>
+      <tr>
+         <th>Type of Harassment</th>
+         <th>Number of Reports</th>
+      </tr>
+      <tr>
+         <td>Verbal Harassment</td>
+         <td>10</td>
+      </tr>
+      <tr>
+         <td>Physical Harassment</td>
+         <td>3</td>
+      </tr>
+      <tr>
+         <td>Visual Harassment</td>
+         <td>2</td>
+      </tr>
+   </table>
+   <h2>Investigation and Resolution</h2>
+   <p>Once an incident is reported, an investigation will be conducted as soon as possible. The investigation will be thorough and impartial, and will involve interviewing witnesses and gathering evidence. The following table outlines the possible outcomes of an investigation:</p>
+   <table>
+      <tr>
+         <th>Outcome</th>
+         <th>Description</th>
+      </tr>
+      <tr>
+         <td>Unsubstantiated</td>
+         <td>The investigation finds that the allegations are not supported by the evidence</td>
+      </tr>
+      <tr>
+         <td>Substantiated</td>
+         <td>The investigation finds that the allegations are supported by the evidence, and disciplinary action may be taken</td>
+      </tr>
+      <tr>
+         <td>Inconclusive</td>
+         <td>The investigation is unable to determine whether the allegations are supported by the evidence</td>
+      </tr>
+   </table>
+   <p>Disciplinary action may include a verbal warning, written warning, suspension, or termination of employment. The following table provides examples of disciplinary actions that may be taken:</p>
+   <table>
+      <tr>
+         <th>Disciplinary Action</th>
+         <th>Description</th>
+      </tr>
+      <tr>
+         <td>Verbal Warning</td>
+         <td>A verbal warning is given to the employee, outlining the behavior that is unacceptable and the expected improvement</td>
+      </tr>
+      <tr>
+         <td>Written Warning</td>
+         <td>A written warning is given to the employee, outlining the behavior that is unacceptable and the expected improvement</td>
+      </tr>
+      <tr>
+         <td>Suspension</td>
+         <td>The employee is suspended from work for a specified period of time, without pay</td>
+      </tr>
+      <tr>
+         <td>Termination</td>
+         <td>The employee's employment is terminated, effective immediately</td>
+      </tr>
+   </table>
+   <p>Our HR Director, Jane Smith, is responsible for ensuring that all employees are aware of this policy and understand their roles and responsibilities in preventing and reporting harassment. Jane Smith can be reached at (555) 123-4567 or [jane.smith@xyzcorp.com](mailto:jane.smith@xyzcorp.com). The policy will be reviewed and updated annually, or as needed. The last review was conducted on February 10, 2023, by our CEO, John Doe.</p>
+   

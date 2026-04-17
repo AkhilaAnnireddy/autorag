@@ -1,0 +1,81 @@
+
+   <h1>Code of Conduct</h1>
+   <p>Welcome to XYZ Corporation, a leading provider of innovative solutions. Our Code of Conduct outlines the expectations for all employees, officers, and directors. It is the responsibility of each individual to adhere to this code and report any violations to their supervisor or HR representative. The code is reviewed and updated annually, with the most recent revision dated January 10, 2023.</p>
+   <h2>Introduction</h2>
+   <p>At XYZ Corporation, we value integrity, respect, and fairness. We strive to maintain a work environment that is free from discrimination, harassment, and retaliation. Our goal is to provide a safe and healthy workplace for all employees. The following tables outline our policies and procedures:</p>
+   <table>
+      <tr>
+         <th>Policy</th>
+         <th>Description</th>
+      </tr>
+      <tr>
+         <td>Anti-Discrimination Policy</td>
+         <td>XZY Corporation is committed to providing a work environment that is free from discrimination based on race, color, national origin, sex, age, disability, or any other protected characteristic.</td>
+      </tr>
+      <tr>
+         <td>Harassment Policy</td>
+         <td>XZY Corporation prohibits all forms of harassment, including sexual harassment, and will take prompt and effective action to investigate and address any complaints.</td>
+      </tr>
+   </table>
+   <h2>Confidentiality and Data Protection</h2>
+   <p>XZY Corporation is committed to protecting the confidentiality and security of all company and customer data. The following table outlines our data protection policies:</p>
+   <table>
+      <tr>
+         <th>Data Type</th>
+         <th>Protection Level</th>
+         <th>Access Restrictions</th>
+      </tr>
+      <tr>
+         <td>Customer Personal Data</td>
+         <td>High</td>
+         <td>Authorized personnel only, with two-factor authentication</td>
+      </tr>
+      <tr>
+         <td>Company Financial Data</td>
+         <td>Medium</td>
+         <td>Authorized personnel only, with password protection</td>
+      </tr>
+   </table>
+   <p>Our data protection policies are reviewed and updated quarterly, with the most recent revision dated April 15, 2023. All employees are required to complete a data protection training program within their first 30 days of employment.</p>
+   <h2>Reporting Violations</h2>
+   <p>XZY Corporation encourages all employees to report any violations of this code to their supervisor or HR representative. The following table outlines the reporting procedures:</p>
+   <table>
+      <tr>
+         <th>Violation Type</th>
+         <th>Reporting Procedure</th>
+      </tr>
+      <tr>
+         <td>Discrimination or Harassment</td>
+         <td>Report to HR representative within 24 hours, with written documentation</td>
+      </tr>
+      <tr>
+         <td>Data Protection Breach</td>
+         <td>Report to IT department within 2 hours, with incident report form</td>
+      </tr>
+   </table>
+   <p>All reports will be investigated promptly and thoroughly, with disciplinary action taken as necessary. Our goal is to maintain a safe and respectful work environment for all employees.</p>
+   <h2>Training and Compliance</h2>
+   <p>XZY Corporation requires all employees to complete a code of conduct training program within their first 60 days of employment. The program includes modules on anti-discrimination, harassment, and data protection. The following table outlines the training schedule:</p>
+   <table>
+      <tr>
+         <th>Training Module</th>
+         <th>Frequency</th>
+         <th>Duration</th>
+      </tr>
+      <tr>
+         <td>Anti-Discrimination Training</td>
+         <td>Annually</td>
+         <td>2 hours</td>
+      </tr>
+      <tr>
+         <td>Data Protection Training</td>
+         <td>Bi-Annually</td>
+         <td>1 hour</td>
+      </tr>
+   </table>
+   <p>Our training programs are designed to ensure that all employees understand and comply with our code of conduct and policies. We strive to maintain a culture of integrity, respect, and fairness in all aspects of our business.</p>
+   <h2>Conclusion</h2>
+   <p>XZY Corporation is committed to upholding the highest standards of ethics and integrity. We expect all employees to adhere to this code of conduct and report any violations. By working together, we can maintain a safe, respectful, and productive work environment for all employees. The code of conduct is available on our company intranet, and all employees are encouraged to review it regularly.</p>
+   <p>XZY Corporation's code of conduct is overseen by our Compliance Officer, Jane Doe. If you have any questions or concerns, please do not hesitate to contact her at jane.doe@xyzcorp.com or 555-1234.</p>
+   <p>The code of conduct will be reviewed and updated annually, with the next review scheduled for January 10, 2024. We appreciate your commitment to upholding the values and principles outlined in this code.</p>
+   
