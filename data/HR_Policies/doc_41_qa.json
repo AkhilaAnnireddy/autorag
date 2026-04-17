@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the purpose of the Workplace Safety Policy?",
+    "answer": "The purpose of this policy is to provide a safe and healthy work environment for all employees of XYZ Corporation.",
+    "answer_paragraph": "<p>The purpose of this policy is to provide a safe and healthy work environment for all employees of XYZ Corporation. Our goal is to minimize the risk of injury or illness to our employees, visitors, and contractors. The policy applies to all employees, regardless of their position or location.</p>"
+  },
+  {
+    "question": "Who is responsible for conducting regular safety inspections?",
+    "answer": "The Workplace Safety Team",
+    "answer_paragraph": "<p>The following employees have been designated as the Workplace Safety Team: John Smith, Jane Doe, and Bob Johnson. They will be responsible for conducting regular safety inspections, investigating incidents, and providing training to employees. The team will meet quarterly to review the policy and make recommendations for improvements.</p>"
+  },
+  {
+    "question": "What is the frequency of Fire Safety Inspections?",
+    "answer": "Monthly",
+    "answer_paragraph": "<table> <tr> <th>Inspection Type</th> <th>Frequency of Inspection</th> <th>Responsibility</th> </tr> <tr> <td>Fire Safety Inspection</td> <td>Monthly</td> <td>Facilities Manager</td> </tr> <tr> <td>First Aid Inspection</td> <td>Quarterly</td> <td>HR Department</td> </tr> <tr> <td>Emergency Evacuation Inspection</td> <td>Semi-annually</td> <td>Facilities Manager</td> </tr> </table>"
+  },
+  {
+    "question": "How often will the policy be reviewed and updated?",
+    "answer": "annually, or as needed",
+    "answer_paragraph": "<p>The policy will be reviewed and updated annually, or as needed. The Workplace Safety Team will be responsible for ensuring that the policy is implemented and enforced.</p>"
+  },
+  {
+    "question": "Who approved the Workplace Safety Policy?",
+    "answer": "The CEO, Michael Brown",
+    "answer_paragraph": "<p>This policy was approved by the CEO, Michael Brown, on February 10, 2023. The policy will be reviewed and updated annually, or as needed. The Workplace Safety Team will be responsible for ensuring that the policy is implemented and enforced.</p>"
+  },
+  {
+    "question": "What is the frequency of First Aid and CPR training?",
+    "answer": "Bi-annually",
+    "answer_paragraph": "<table> <tr> <th>Training Topic</th> <th>Frequency of Training</th> <th>Responsibility</th> </tr> <tr> <td>Fire Extinguisher Use</td> <td>Annually</td> <td>Facilities Manager</td> </tr> <tr> <td>First Aid and CPR</td> <td>Bi-annually</td> <td>HR Department</td> </tr> <tr> <td>Emergency Evacuation Procedures</td> <td>Quarterly</td> <td>Facilities Manager</td> </tr> </table>"
+  },
+  {
+    "question": "Who is responsible for maintaining the First Aid Kits?",
+    "answer": "HR Department",
+    "answer_paragraph": "<table> <tr> <th>Equipment Type</th> <th>Maintenance Frequency</th> <th>Responsibility</th> </tr> <tr> <td>Fire Extinguishers</td> <td>Monthly</td> <td>Facilities Manager</td> </tr> <tr> <td>First Aid Kits</td> <td>Quarterly</td> <td>HR Department</td> </tr> <tr> <td>Emergency Evacuation Equipment</td> <td>Semi-annually</td> <td>Facilities Manager</td> </tr> </table>"
+  },
+  {
+    "question": "What is the effective date of OSHA Regulation 29 CFR 1910.38?",
+    "answer": "January 1, 2022",
+    "answer_paragraph": "<table> <tr> <th>Regulation</th> <th>Effective Date</th> <th>Review Date</th> </tr> <tr> <td>OSHA Regulation 29 CFR 1910.38</td> <td>January 1, 2022</td> <td>January 1, 2023</td> </tr> <tr> <td>OSHA Regulation 29 CFR 1910.39</td> <td>June 1, 2022</td> <td>June 1, 2023</td> </tr> <tr> <td>OSHA Regulation 29 CFR 1910.40</td> <td>March 1, 2022</td> <td>March 1, 2023</td> </tr> </table>"
+  },
+  {
+    "question": "What is the frequency of Emergency Evacuation Inspections?",
+    "answer": "Semi-annually",
+    "answer_paragraph": "<table> <tr> <th>Inspection Type</th> <th>Frequency of Inspection</th> <th>Responsibility</th> </tr> <tr> <td>Fire Safety Inspection</td> <td>Monthly</td> <td>Facilities Manager</td> </tr> <tr> <td>First Aid Inspection</td> <td>Quarterly</td> <td>HR Department</td> </tr> <tr> <td>Emergency Evacuation Inspection</td> <td>Semi-annually</td> <td>Facilities Manager</td> </tr> </table>"
+  },
+  {
+    "question": "Who is the Facilities Manager?",
+    "answer": "John Smith",
+    "answer_paragraph": "<p>The following employees have been designated as the Workplace Safety Team: John Smith, Jane Doe, and Bob Johnson. They will be responsible for conducting regular safety inspections, investigating incidents, and providing training to employees. The team will meet quarterly to review the policy and make recommendations for improvements.</p>"
+  }
+]

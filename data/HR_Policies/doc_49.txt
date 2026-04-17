@@ -1,0 +1,98 @@
+
+   <h1>Conflict of Interest Policy</h1>
+   <p>The purpose of this Conflict of Interest Policy is to protect the interests of NovaTech Inc., a fictional technology firm, when it is contemplating entering into a transaction or arrangement that might benefit the private interest of an officer or director of the organization or might result in a possible excess benefit transaction. This policy is intended to supplement but not replace any applicable state and federal laws governing conflict of interest applicable to nonprofit and for-profit corporations.</p>
+   <h2>Article I: Purpose and Scope</h2>
+   <p>This Conflict of Interest Policy applies to all officers and directors of NovaTech Inc. and will be reviewed annually or as deemed necessary by the Board of Directors. The policy will be distributed to all officers and directors upon commencement of their term and will be made available on the company intranet for reference. The policy is effective as of January 1, 2022, and was last reviewed on June 15, 2022.</p>
+   <h2>Article II: Definitions</h2>
+   <p>For the purposes of this policy, the following definitions apply:</p>
+   <table>
+     <tr>
+       <th>Term</th>
+       <th>Definition</th>
+     </tr>
+     <tr>
+       <td>Conflict of Interest</td>
+       <td>A situation in which a director's or officer's personal interests may influence their decisions or actions on behalf of the organization.</td>
+     </tr>
+     <tr>
+       <td>Director or Officer</td>
+       <td>Any person serving as a director or officer of NovaTech Inc., including but not limited to the CEO, CFO, and members of the Board of Directors.</td>
+     </tr>
+   </table>
+   <h2>Article III: Procedures</h2>
+   <p>Any potential conflict of interest shall be disclosed by the director or officer to the Board of Directors. The following table outlines the procedures for disclosure and review:</p>
+   <table>
+     <tr>
+       <th>Step</th>
+       <th>Description</th>
+     </tr>
+     <tr>
+       <td>1. Disclosure</td>
+       <td>The director or officer must disclose any potential conflict of interest in writing to the Board of Directors as soon as it becomes known.</td>
+     </tr>
+     <tr>
+       <td>2. Review</td>
+       <td>The Board of Directors will review the disclosure to determine whether a conflict of interest exists and whether the transaction or arrangement is in the best interest of NovaTech Inc.</td>
+     </tr>
+     <tr>
+       <td>3. Determination</td>
+       <td>If the Board of Directors determines that a conflict of interest exists, it will decide what action to take, which may include but is not limited to approving the transaction or arrangement, modifying the terms of the transaction or arrangement, or requiring the director or officer to resign from their position.</td>
+     </tr>
+   </table>
+   <h2>Article IV: Examples of Conflicts of Interest</h2>
+   <p>The following are examples of situations that may give rise to conflicts of interest:</p>
+   <table>
+     <tr>
+       <th>Example</th>
+       <th>Description</th>
+     </tr>
+     <tr>
+       <td>Related Party Transactions</td>
+       <td>A director or officer has a financial interest in a company that NovaTech Inc. is considering doing business with.</td>
+     </tr>
+     <tr>
+       <td>Outside Employment</td>
+       <td>A director or officer has outside employment that competes with the time requirements of their position at NovaTech Inc.</td>
+     </tr>
+   </table>
+   <h2>Article V: Enforcement and Compliance</h2>
+   <p>The Board of Directors is responsible for enforcing this policy and ensuring compliance. Failure to comply with this policy may result in disciplinary action, up to and including termination of employment or removal from the Board of Directors.</p>
+   <p>As of the last review date (June 15, 2022), the following individuals have disclosed potential conflicts of interest: John Smith, CEO; Jane Doe, CFO; and Bob Johnson, Director. The Board of Directors has reviewed these disclosures and has determined that the conflicts of interest are manageable and do not pose a significant risk to NovaTech Inc.</p>
+   <h2>Article VI: Record Keeping</h2>
+   <p>NovaTech Inc. will maintain a record of all disclosures of potential conflicts of interest and the actions taken by the Board of Directors in response to these disclosures. The records will be kept for a period of at least six years and will be made available to the Board of Directors and other authorized personnel upon request.</p>
+   <p>The following table summarizes the record-keeping requirements:</p>
+   <table>
+     <tr>
+       <th>Record</th>
+       <th>Description</th>
+       <th>Retention Period</th>
+     </tr>
+     <tr>
+       <td>Disclosure Form</td>
+       <td>A written disclosure of any potential conflict of interest by a director or officer.</td>
+       <td>At least six years</td>
+     </tr>
+     <tr>
+       <td>Board Meeting Minutes</td>
+       <td>A record of the actions taken by the Board of Directors in response to a disclosure of a potential conflict of interest.</td>
+       <td>At least six years</td>
+     </tr>
+   </table>
+   <h2>Article VII: Amendment</h2>
+   <p>This policy may be amended by a majority vote of the Board of Directors. Any amendments will be effective as of the date of the vote and will be distributed to all directors and officers.</p>
+   <p>The following table summarizes the amendment history:</p>
+   <table>
+     <tr>
+       <th>Date</th>
+       <th>Description of Amendment</th>
+     </tr>
+     <tr>
+       <td>January 1, 2022</td>
+       <td>Initial adoption of the Conflict of Interest Policy.</td>
+     </tr>
+     <tr>
+       <td>June 15, 2022</td>
+       <td>Review and update of the policy to reflect changes in the organization and applicable laws.</td>
+     </tr>
+   </table>
+   

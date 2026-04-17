@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the purpose of the Expense Reimbursement Policy?",
+    "answer": "The purpose of this policy is to provide guidelines for reimbursing employees for expenses incurred while conducting company business.",
+    "answer_paragraph": "Introduction: * The purpose of this policy is to provide guidelines for reimbursing employees for expenses incurred while conducting company business. * This policy applies to all employees of XYZ Corporation. * The policy is effective as of January 1, 2022, and will be reviewed and updated annually."
+  },
+  {
+    "question": "Who has approval authority for expenses between $501 and $2,000?",
+    "answer": "Division managers for expenses between $501 and $2,000",
+    "answer_paragraph": "Approval Authority: * The following managers have approval authority for expense reports: * Department managers for expenses up to $500 * Division managers for expenses between $501 and $2,000 * Vice presidents for expenses over $2,000"
+  },
+  {
+    "question": "How long must all expense reports and supporting documentation be retained?",
+    "answer": "for a minimum of 3 years",
+    "answer_paragraph": "Record Keeping: * All expense reports and supporting documentation must be retained for a minimum of 3 years. * Records must be kept in a secure and confidential manner. * The Accounting Department is responsible for ensuring that all records are properly maintained and retained."
+  },
+  {
+    "question": "What is the maximum amount that can be reimbursed for meals and entertainment per day?",
+    "answer": "$50 per day",
+    "answer_paragraph": "Eligible Expenses: * The following expenses are eligible for reimbursement: * Transportation costs (airfare, train, rental car, etc.) * Meals and entertainment (up to $50 per day) * Lodging (up to $150 per night) * Business-related phone and internet expenses"
+  },
+  {
+    "question": "Who is the head of the Accounting Department and what is their contact information?",
+    "answer": "Jane Smith, who can be reached at (555) 123-4567 or jane.smith@xyzcorp.com",
+    "answer_paragraph": "Reimbursement Procedure: * Employees must submit expense reports within 30 days of incurring the expense. * Expense reports must include: * Date and location of the expense * Description of the expense * Amount of the expense * Receipts or other supporting documentation * Reimbursements will be made on a bi-weekly basis. * The reimbursement process is managed by the Accounting Department, led by Jane Smith, who can be reached at (555) 123-4567 or jane.smith@xyzcorp.com."
+  },
+  {
+    "question": "How often will the company review and update the Expense Reimbursement Policy?",
+    "answer": "annually, or as needed",
+    "answer_paragraph": "Changes to the Policy: * This policy may be amended or updated at any time, with or without notice. * Changes to the policy will be effective immediately, unless otherwise specified. * Employees are responsible for familiarizing themselves with the current policy and any changes that may be made."
+  },
+  {
+    "question": "What is the maximum amount that can be reimbursed for lodging per night?",
+    "answer": "$150 per night",
+    "answer_paragraph": "Eligible Expenses: * The following expenses are eligible for reimbursement: * Transportation costs (airfare, train, rental car, etc.) * Meals and entertainment (up to $50 per day) * Lodging (up to $150 per night) * Business-related phone and internet expenses"
+  },
+  {
+    "question": "How long do employees have to submit expense reports after incurring an expense?",
+    "answer": "within 30 days of incurring the expense",
+    "answer_paragraph": "Reimbursement Procedure: * Employees must submit expense reports within 30 days of incurring the expense. * Expense reports must include: * Date and location of the expense * Description of the expense * Amount of the expense * Receipts or other supporting documentation"
+  },
+  {
+    "question": "What is the contact information for the Accounting Department?",
+    "answer": "(555) 123-4567 or accounting@xyzcorp.com",
+    "answer_paragraph": "Contact Information: * For questions or concerns about this policy, please contact the Accounting Department at (555) 123-4567 or accounting@xyzcorp.com. * The policy is also available on the company intranet, under the 'HR Policies' section."
+  },
+  {
+    "question": "When was the policy last reviewed?",
+    "answer": "December 15, 2023",
+    "answer_paragraph": "As of the last review on December 15, 2023, this policy remains in effect. It is the responsibility of each employee to adhere to the guidelines outlined in this document. Any questions or concerns should be directed to the Accounting Department. The company will review and update this policy annually, or as needed, to ensure compliance with changing regulations and company needs."
+  }
+]

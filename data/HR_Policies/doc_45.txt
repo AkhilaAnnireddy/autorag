@@ -1,0 +1,196 @@
+<h1>Promotion and Career Growth Policy</h1>
+   <p>The purpose of this policy is to outline the procedures and guidelines for promoting employees within the company, as well as to provide opportunities for career growth and development. This policy applies to all regular full-time and part-time employees.</p>
+   <h2>Eligibility for Promotion</h2>
+   <p>To be eligible for promotion, employees must have completed at least 12 months of service with the company and have a performance rating of 4.0 or higher on their most recent performance evaluation. The following table outlines the eligibility criteria:</p>
+   <table>
+       <tr>
+           <th>Employee Type</th>
+           <th>Length of Service</th>
+           <th>Performance Rating</th>
+       </tr>
+       <tr>
+           <td>Regular Full-Time</td>
+           <td>12 months</td>
+           <td>4.0 or higher</td>
+       </tr>
+       <tr>
+           <td>Regular Part-Time</td>
+           <td>12 months</td>
+           <td>4.0 or higher</td>
+       </tr>
+   </table>
+   <p>Employees who meet the eligibility criteria will be considered for promotion based on their performance, skills, and qualifications. The following table outlines the promotion process:</p>
+   <table>
+       <tr>
+           <th>Step</th>
+           <th>Description</th>
+       </tr>
+       <tr>
+           <td>1</td>
+           <td>Employee expresses interest in promotion to supervisor</td>
+       </tr>
+       <tr>
+           <td>2</td>
+           <td>Supervisor reviews employee's performance and eligibility</td>
+       </tr>
+       <tr>
+           <td>3</td>
+           <td>Employee is considered for promotion by the promotion committee</td>
+       </tr>
+   </table>
+   <h2>Performance Evaluations</h2>
+   <p>Performance evaluations are conducted annually for all employees. The evaluation process includes a self-assessment, a supervisor assessment, and a review of goals and objectives. The following table outlines the performance evaluation process:</p>
+   <table>
+       <tr>
+           <th>Step</th>
+           <th>Description</th>
+       </tr>
+       <tr>
+           <td>1</td>
+           <td>Employee completes self-assessment</td>
+       </tr>
+       <tr>
+           <td>2</td>
+           <td>Supervisor completes assessment</td>
+       </tr>
+       <tr>
+           <td>3</td>
+           <td>Employee and supervisor review goals and objectives</td>
+       </tr>
+   </table>
+   <p>The performance evaluation process is used to assess an employee's performance and to identify areas for improvement. The following table outlines the performance rating scale:</p>
+   <table>
+       <tr>
+           <th>Rating</th>
+           <th>Description</th>
+       </tr>
+       <tr>
+           <td>5.0</td>
+           <td>Exceptional performance</td>
+       </tr>
+       <tr>
+           <td>4.0</td>
+           <td>Exceeds expectations</td>
+       </tr>
+       <tr>
+           <td>3.0</td>
+           <td>Meets expectations</td>
+       </tr>
+       <tr>
+           <td>2.0</td>
+           <td>Needs improvement</td>
+       </tr>
+       <tr>
+           <td>1.0</td>
+           <td>Unsatisfactory performance</td>
+       </tr>
+   </table>
+   <h2>Career Growth and Development</h2>
+   <p>The company is committed to providing opportunities for career growth and development. The following table outlines the training and development programs available to employees:</p>
+   <table>
+       <tr>
+           <th>Program</th>
+           <th>Description</th>
+       </tr>
+       <tr>
+           <td>Leadership Development Program</td>
+           <td>A 12-month program designed to develop leadership skills</td>
+       </tr>
+       <tr>
+           <td>Technical Skills Training</td>
+           <td>A series of workshops and courses designed to develop technical skills</td>
+       </tr>
+       <tr>
+           <td>Mentorship Program</td>
+           <td>A program that pairs employees with experienced mentors</td>
+       </tr>
+   </table>
+   <p>Employees are encouraged to participate in these programs to develop their skills and advance their careers. The company also offers a tuition reimbursement program to support employees in pursuing higher education.</p>
+   <h2>Policy Administration</h2>
+   <p>This policy will be administered by the Human Resources Department. The following table outlines the responsibilities of the Human Resources Department:</p>
+   <table>
+       <tr>
+           <th>Responsibility</th>
+           <th>Description</th>
+       </tr>
+       <tr>
+           <td>Policy Development</td>
+           <td>Develop and update the promotion and career growth policy</td>
+       </tr>
+       <tr>
+           <td>Policy Implementation</td>
+           <td>Implement the promotion and career growth policy</td>
+       </tr>
+       <tr>
+           <td>Employee Support</td>
+           <td>Provide support and guidance to employees regarding the promotion and career growth policy</td>
+       </tr>
+   </table>
+   <p>The Human Resources Department will review and update this policy annually, or as needed. The policy will be communicated to all employees and will be available on the company intranet.</p>
+   <h2>Policy History</h2>
+   <p>This policy was developed in January 2020 and was last updated in June 2022. The following table outlines the policy history:</p>
+   <table>
+       <tr>
+           <th>Date</th>
+           <th>Description</th>
+       </tr>
+       <tr>
+           <td>January 2020</td>
+           <td>Policy developed</td>
+       </tr>
+       <tr>
+           <td>June 2022</td>
+           <td>Policy updated</td>
+       </tr>
+   </table>
+   <p>The policy history is maintained to track changes and updates to the policy. The Human Resources Department is responsible for maintaining the policy history.</p>
+   <h2>Acknowledgement</h2>
+   <p>By participating in the promotion and career growth process, employees acknowledge that they have read and understood this policy. The following table outlines the acknowledgement process:</p>
+   <table>
+       <tr>
+           <th>Step</th>
+           <th>Description</th>
+       </tr>
+       <tr>
+           <td>1</td>
+           <td>Employee reads and understands the policy</td>
+       </tr>
+       <tr>
+           <td>2</td>
+           <td>Employee signs and dates the acknowledgement form</td>
+       </tr>
+       <tr>
+           <td>3</td>
+           <td>Employee returns the acknowledgement form to the Human Resources Department</td>
+       </tr>
+   </table>
+   <p>The acknowledgement process is used to ensure that employees understand the promotion and career growth policy and their role in the process.</p>
+   <h2>Conclusion</h2>
+   <p>The promotion and career growth policy is designed to provide opportunities for employees to advance their careers and develop their skills. The policy outlines the procedures and guidelines for promoting employees and provides a framework for career growth and development. The company is committed to supporting the career growth and development of its employees and to providing opportunities for advancement.</p>
+   <p>As of 2022, the company has promoted 25 employees to higher positions, with an average salary increase of 15%. The company has also provided training and development programs to over 50 employees, resulting in a significant increase in employee satisfaction and retention.</p>
+   <p>The company's CEO, John Smith, has stated that the promotion and career growth policy is a key component of the company's strategy to attract and retain top talent. The company's HR Director, Jane Doe, has also stated that the policy has been successful in providing opportunities for career growth and development to employees.</p>
+   <p>The following table outlines the company's promotion and career growth statistics:</p>
+   <table>
+       <tr>
+           <th>Year</th>
+           <th>Number of Promotions</th>
+           <th>Average Salary Increase</th>
+       </tr>
+       <tr>
+           <td>2020</td>
+           <td>10</td>
+           <td>10%</td>
+       </tr>
+       <tr>
+           <td>2021</td>
+           <td>15</td>
+           <td>12%</td>
+       </tr>
+       <tr>
+           <td>2022</td>
+           <td>25</td>
+           <td>15%</td>
+       </tr>
+   </table>
+   <p>The company will continue to review and update the promotion and career growth policy to ensure that it remains effective and aligned with the company's goals and objectives.</p>
+   

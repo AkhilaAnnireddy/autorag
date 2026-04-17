@@ -1,0 +1,187 @@
+<h1>Workplace Safety Policy</h1>
+   <p>The purpose of this policy is to provide a safe and healthy work environment for all employees of XYZ Corporation. Our goal is to minimize the risk of injury or illness to our employees, visitors, and contractors. The policy applies to all employees, regardless of their position or location.</p>
+   <table>
+      <tr>
+         <th>Policy Area</th>
+         <th>Responsibility</th>
+         <th>Frequency of Review</th>
+      </tr>
+      <tr>
+         <td>Fire Safety</td>
+         <td>Facilities Manager</td>
+         <td>Annually</td>
+      </tr>
+      <tr>
+         <td>First Aid</td>
+         <td>HR Department</td>
+         <td>Bi-annually</td>
+      </tr>
+      <tr>
+         <td>Emergency Evacuation</td>
+         <td>Facilities Manager</td>
+         <td>Quarterly</td>
+      </tr>
+   </table>
+   <p>Our workplace safety policy is based on the following principles: (1) all incidents can be prevented, (2) all employees have the right to a safe work environment, and (3) management is committed to providing the necessary resources to ensure a safe work environment. The policy will be reviewed and updated annually, or as needed.</p>
+   <table>
+      <tr>
+         <th>Incident Type</th>
+         <th>Number of Incidents (2022)</th>
+         <th>Number of Incidents (2023)</th>
+      </tr>
+      <tr>
+         <td>Slip, Trip, and Fall</td>
+         <td>10</td>
+         <td>5</td>
+      </tr>
+      <tr>
+         <td>Cuts and Lacerations</td>
+         <td>5</td>
+         <td>3</td>
+      </tr>
+      <tr>
+         <td>Strains and Sprains</td>
+         <td>8</td>
+         <td>6</td>
+      </tr>
+   </table>
+   <p>The following employees have been designated as the Workplace Safety Team: John Smith, Jane Doe, and Bob Johnson. They will be responsible for conducting regular safety inspections, investigating incidents, and providing training to employees. The team will meet quarterly to review the policy and make recommendations for improvements.</p>
+   <table>
+      <tr>
+         <th>Training Topic</th>
+         <th>Frequency of Training</th>
+         <th>Responsibility</th>
+      </tr>
+      <tr>
+         <td>Fire Extinguisher Use</td>
+         <td>Annually</td>
+         <td>Facilities Manager</td>
+      </tr>
+      <tr>
+         <td>First Aid and CPR</td>
+         <td>Bi-annually</td>
+         <td>HR Department</td>
+      </tr>
+      <tr>
+         <td>Emergency Evacuation Procedures</td>
+         <td>Quarterly</td>
+         <td>Facilities Manager</td>
+      </tr>
+   </table>
+   <p>The policy will be communicated to all employees through a combination of training sessions, posters, and email notifications. Employees are encouraged to report any hazards or incidents to their supervisor or the Workplace Safety Team. The policy is available on the company intranet and will be reviewed and updated annually, or as needed.</p>
+   <table>
+      <tr>
+         <th>Employee Name</th>
+         <th>Job Title</th>
+         <th>Safety Training Completed</th>
+      </tr>
+      <tr>
+         <td>John Smith</td>
+         <td>Facilities Manager</td>
+         <td>Yes</td>
+      </tr>
+      <tr>
+         <td>Jane Doe</td>
+         <td>HR Generalist</td>
+         <td>Yes</td>
+      </tr>
+      <tr>
+         <td>Bob Johnson</td>
+         <td>Operations Manager</td>
+         <td>Yes</td>
+      </tr>
+   </table>
+   <p>This policy was approved by the CEO, Michael Brown, on February 10, 2023. The policy will be reviewed and updated annually, or as needed. The Workplace Safety Team will be responsible for ensuring that the policy is implemented and enforced.</p>
+   <table>
+      <tr>
+         <th>Policies</th>
+         <th>Effective Date</th>
+         <th>Review Date</th>
+      </tr>
+      <tr>
+         <td>Fire Safety Policy</td>
+         <td>January 1, 2022</td>
+         <td>January 1, 2023</td>
+      </tr>
+      <tr>
+         <td>First Aid Policy</td>
+         <td>June 1, 2022</td>
+         <td>June 1, 2023</td>
+      </tr>
+      <tr>
+         <td>Emergency Evacuation Policy</td>
+         <td>March 1, 2022</td>
+         <td>March 1, 2023</td>
+      </tr>
+   </table>
+   <p>The Workplace Safety Team will conduct regular safety inspections to identify hazards and implement corrective actions. The team will also investigate incidents and near-misses to determine the root cause and implement corrective actions. The policy will be reviewed and updated annually, or as needed.</p>
+   <table>
+      <tr>
+         <th>Inspection Type</th>
+         <th>Frequency of Inspection</th>
+         <th>Responsibility</th>
+      </tr>
+      <tr>
+         <td>Fire Safety Inspection</td>
+         <td>Monthly</td>
+         <td>Facilities Manager</td>
+      </tr>
+      <tr>
+         <td>First Aid Inspection</td>
+         <td>Quarterly</td>
+         <td>HR Department</td>
+      </tr>
+      <tr>
+         <td>Emergency Evacuation Inspection</td>
+         <td>Semi-annually</td>
+         <td>Facilities Manager</td>
+      </tr>
+   </table>
+   <p>The Workplace Safety Team will provide training to employees on the policy and procedures. The training will include information on hazard identification, incident reporting, and emergency procedures. The team will also provide guidance on the use of personal protective equipment and the maintenance of equipment.</p>
+   <table>
+      <tr>
+         <th>Equipment Type</th>
+         <th>Maintenance Frequency</th>
+         <th>Responsibility</th>
+      </tr>
+      <tr>
+         <td>Fire Extinguishers</td>
+         <td>Monthly</td>
+         <td>Facilities Manager</td>
+      </tr>
+      <tr>
+         <td>First Aid Kits</td>
+         <td>Quarterly</td>
+         <td>HR Department</td>
+      </tr>
+      <tr>
+         <td>Emergency Evacuation Equipment</td>
+         <td>Semi-annually</td>
+         <td>Facilities Manager</td>
+      </tr>
+   </table>
+   <p>The policy will be monitored and evaluated regularly to ensure its effectiveness. The Workplace Safety Team will review incident reports, inspection results, and training records to identify areas for improvement. The policy will be updated annually, or as needed, to reflect changes in the workplace or new regulations.</p>
+   <table>
+      <tr>
+         <th>Regulation</th>
+         <th>Effective Date</th>
+         <th>Review Date</th>
+      </tr>
+      <tr>
+         <td>OSHA Regulation 29 CFR 1910.38</td>
+         <td>January 1, 2022</td>
+         <td>January 1, 2023</td>
+      </tr>
+      <tr>
+         <td>OSHA Regulation 29 CFR 1910.39</td>
+         <td>June 1, 2022</td>
+         <td>June 1, 2023</td>
+      </tr>
+      <tr>
+         <td>OSHA Regulation 29 CFR 1910.40</td>
+         <td>March 1, 2022</td>
+         <td>March 1, 2023</td>
+      </tr>
+   </table>
+   <p>The Workplace Safety Policy is an important part of our overall safety management system. It is designed to protect the health and safety of our employees, visitors, and contractors. The policy will be reviewed and updated annually, or as needed, to ensure that it remains effective and compliant with regulatory requirements.</p>
+   

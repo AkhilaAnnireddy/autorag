@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What is the deductible for the medical insurance plan?",
+    "answer": "The deductible for the medical insurance plan is $1,000 per year.",
+    "answer_paragraph": "Our employee benefits policy is designed to support the well-being and financial security of our employees and their families. At Smithson Corporation, we believe that our employees are our most valuable asset, and we are committed to providing a comprehensive benefits package that meets their needs. Our benefits package includes medical, dental, and vision insurance, as well as life insurance, disability insurance, and a 401(k) retirement plan. The medical insurance plan, which is administered by Blue Cross Blue Shield, has a deductible of $1,000 per year and an out-of-pocket maximum of $5,000 per year."
+  },
+  {
+    "question": "What is the company match for the 401(k) retirement plan?",
+    "answer": "The company match for the 401(k) retirement plan is 50% of the first 6% of contributions.",
+    "answer_paragraph": "The 401(k) retirement plan, which is administered by Fidelity Investments, allows employees to contribute up to 10% of their annual salary on a pre-tax basis, with a company match of 50% of the first 6% of contributions."
+  },
+  {
+    "question": "What is the copay for generic medications?",
+    "answer": "The copay for generic medications is $20.",
+    "answer_paragraph": "The medical insurance plan, which is administered by Blue Cross Blue Shield, has a deductible of $1,000 per year and an out-of-pocket maximum of $5,000 per year. The plan also includes coverage for prescription medications, with a copay of $20 for generic medications and $50 for brand-name medications."
+  },
+  {
+    "question": "What is the out-of-pocket maximum for the dental insurance plan?",
+    "answer": "The out-of-pocket maximum for the dental insurance plan is $1,000 per year.",
+    "answer_paragraph": "The dental insurance plan, which is administered by Delta Dental, covers routine cleanings, fillings, and crowns, with a deductible of $50 per year and an out-of-pocket maximum of $1,000 per year."
+  },
+  {
+    "question": "What is the benefit of the life insurance plan?",
+    "answer": "The life insurance plan provides a benefit of two times the employee's annual salary, up to a maximum of $500,000.",
+    "answer_paragraph": "The life insurance plan, which is administered by MetLife, provides a benefit of two times the employee's annual salary, up to a maximum of $500,000."
+  },
+  {
+    "question": "What is the benefit of the disability insurance plan?",
+    "answer": "The disability insurance plan provides a benefit of 60% of the employee's annual salary, up to a maximum of $10,000 per month.",
+    "answer_paragraph": "The disability insurance plan, which is administered by MetLife, provides a benefit of 60% of the employee's annual salary, up to a maximum of $10,000 per month."
+  },
+  {
+    "question": "What is the vesting schedule for the company match?",
+    "answer": "The vesting schedule is as follows: * 0-1 year of service: 0% vested * 1-2 years of service: 25% vested * 2-3 years of service: 50% vested * 3-4 years of service: 75% vested * 4+ years of service: 100% vested.",
+    "answer_paragraph": "The company match is subject to a vesting schedule, which means that the employee must be employed by the company for a certain period of time in order to be fully vested in the company match. The vesting schedule is as follows: * 0-1 year of service: 0% vested * 1-2 years of service: 25% vested * 2-3 years of service: 50% vested * 3-4 years of service: 75% vested * 4+ years of service: 100% vested."
+  },
+  {
+    "question": "What is the deductible for the vision insurance plan?",
+    "answer": "The deductible for the vision insurance plan is $20 per year.",
+    "answer_paragraph": "The vision insurance plan, which is administered by Vision Service Plan, covers eye exams, glasses, and contact lenses, with a deductible of $20 per year and an out-of-pocket maximum of $200 per year."
+  },
+  {
+    "question": "What is the out-of-pocket maximum for the vision insurance plan?",
+    "answer": "The out-of-pocket maximum for the vision insurance plan is $200 per year.",
+    "answer_paragraph": "The vision insurance plan, which is administered by Vision Service Plan, covers eye exams, glasses, and contact lenses, with a deductible of $20 per year and an out-of-pocket maximum of $200 per year."
+  },
+  {
+    "question": "What is the copay for brand-name medications?",
+    "answer": "The copay for brand-name medications is $50.",
+    "answer_paragraph": "The medical insurance plan, which is administered by Blue Cross Blue Shield, has a deductible of $1,000 per year and an out-of-pocket maximum of $5,000 per year. The plan also includes coverage for prescription medications, with a copay of $20 for generic medications and $50 for brand-name medications."
+  },
+  {
+    "question": "What is the company match based on?",
+    "answer": "The company match is based on the employee's contributions.",
+    "answer_paragraph": "The company match is based on the employee's contributions, and is paid into the employee's 401(k) account on a quarterly basis."
+  }
+]

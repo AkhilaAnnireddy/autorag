@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the budget for IT equipment and software per year?",
+    "answer": "$10,000",
+    "answer_paragraph": "<p>The company has a budget of $10,000 per year for IT equipment and software. This budget will be used to purchase new equipment and software, as well as to maintain and update existing equipment and software. The budget will be managed by the IT department, and all purchases must be approved by the department head.</p>"
+  },
+  {
+    "question": "Who is the IT department head?",
+    "answer": "John Smith",
+    "answer_paragraph": "<p>The company has a number of employees who are responsible for enforcing this policy. These employees include John Smith, the IT department head, and Jane Doe, the HR manager. They will be responsible for monitoring employee usage of IT equipment and reporting any violations to the IT department.</p>"
+  },
+  {
+    "question": "What is the replacement schedule for laptops?",
+    "answer": "Every 3 years",
+    "answer_paragraph": "<p>The company will maintain accurate and up-to-date records of all IT equipment and software. This will include records of purchases, maintenance, and upgrades. The records will be maintained by the IT department, and will be available for review by authorized personnel.</p><table><tr><th>IT Equipment</th><th>Replacement Schedule</th></tr><tr><td>Laptops</td><td>Every 3 years</td></tr><tr><td>Desktops</td><td>Every 5 years</td></tr><tr><td>Mobile Devices</td><td>Every 2 years</td></tr></table>"
+  },
+  {
+    "question": "What type of support is available 24/7?",
+    "answer": "Email Support",
+    "answer_paragraph": "<p>The company will provide support to employees who are experiencing technical difficulties with IT equipment and software. This support will be provided by the IT department, and will include assistance with troubleshooting, maintenance, and repair.</p><table><tr><th>Support Type</th><th>Availability</th></tr><tr><td>Phone Support</td><td>Monday - Friday, 8:00 AM - 5:00 PM</td></tr><tr><td>Email Support</td><td>24/7</td></tr><tr><td>In-Person Support</td><td>Monday - Friday, 8:00 AM - 5:00 PM</td></tr></table>"
+  },
+  {
+    "question": "What is the version of Microsoft Office used by the company?",
+    "answer": "2019",
+    "answer_paragraph": "<p>The IT department is responsible for maintaining and updating all IT equipment. This includes, but is not limited to, software updates, virus scans, and hardware maintenance. The IT department will perform these tasks on a regular basis, but may also be required to do so on an as-needed basis.</p><table><tr><th>Software</th><th>Version</th><th>Last Updated</th></tr><tr><td>Microsoft Office</td><td>2019</td><td>February 10, 2022</td></tr><tr><td>Adobe Creative Cloud</td><td>2022</td><td>January 15, 2022</td></tr><tr><td>Antivirus Software</td><td>2022</td><td>March 20, 2022</td></tr></table>"
+  },
+  {
+    "question": "Who is the HR manager?",
+    "answer": "Jane Doe",
+    "answer_paragraph": "<p>The company has a number of employees who are responsible for enforcing this policy. These employees include John Smith, the IT department head, and Jane Doe, the HR manager. They will be responsible for monitoring employee usage of IT equipment and reporting any violations to the IT department.</p>"
+  },
+  {
+    "question": "What is the cost of 10 laptops?",
+    "answer": "$5,000",
+    "answer_paragraph": "<p>The company has a budget of $10,000 per year for IT equipment and software. This budget will be used to purchase new equipment and software, as well as to maintain and update existing equipment and software. The budget will be managed by the IT department, and all purchases must be approved by the department head.</p><table><tr><th>Equipment</th><th>Cost</th><th>Purchase Date</th></tr><tr><td>10 Laptops</td><td>$5,000</td><td>January 1, 2022</td></tr><tr><td>5 Desktops</td><td>$3,000</td><td>February 1, 2022</td></tr><tr><td>20 Mobile Devices</td><td>$2,000</td><td>March 1, 2022</td></tr></table>"
+  },
+  {
+    "question": "What is the retention period for purchase records?",
+    "answer": "5 years",
+    "answer_paragraph": "<p>The company will maintain accurate and up-to-date records of all IT equipment and software. This will include records of purchases, maintenance, and upgrades. The records will be maintained by the IT department, and will be available for review by authorized personnel.</p><table><tr><th>Record Type</th><th>Retention Period</th></tr><tr><td>Purchase Records</td><td>5 years</td></tr><tr><td>Maintenance Records</td><td>3 years</td></tr><tr><td>Upgrade Records</td><td>2 years</td></tr></table>"
+  },
+  {
+    "question": "When is the training on IT security scheduled?",
+    "answer": "April 1, 2022",
+    "answer_paragraph": "<p>The company will provide training to all employees on the use of IT equipment and software. This training will be provided on a regular basis, and will cover topics such as IT security, data backup and recovery, and software usage. The training will be led by the IT department, and will be mandatory for all employees.</p><table><tr><th>Training Topic</th><th>Date</th><th>Time</th></tr><tr><td>IT Security</td><td>April 1, 2022</td><td>10:00 AM</td></tr><tr><td>Data Backup and Recovery</td><td>May 1, 2022</td><td>2:00 PM</td></tr><tr><td>Software Usage</td><td>June 1, 2022</td><td>10:00 AM</td></tr></table>"
+  },
+  {
+    "question": "What is the role of Bob Johnson?",
+    "answer": "IT Support Specialist",
+    "answer_paragraph": "<p>The company has a number of employees who are responsible for enforcing this policy. These employees include John Smith, the IT department head, and Jane Doe, the HR manager. They will be responsible for monitoring employee usage of IT equipment and reporting any violations to the IT department.</p><table><tr><th>Employee</th><th>Role</th><th>Responsibilities</th></tr><tr><td>John Smith</td><td>IT Department Head</td><td>Managing the IT department, enforcing IT policies, and overseeing IT equipment and software.</td></tr><tr><td>Jane Doe</td><td>HR Manager</td><td>Enforcing company policies, managing employee relations, and overseeing employee training.</td></tr><tr><td>Bob Johnson</td><td>IT Support Specialist</td><td>Providing technical support to employees, maintaining IT equipment and software, and assisting with IT projects.</td></tr></table>"
+  }
+]
