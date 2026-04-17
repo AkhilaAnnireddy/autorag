@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the current dividend yield of GreenTech Inc.?",
+    "answer": "4.2%",
+    "answer_paragraph": "The dividend yield is an important metric for investors, as it indicates the return on investment based on the current stock price and dividend payment. Our current dividend yield is 4.2%, which is competitive with other companies in our industry."
+  },
+  {
+    "question": "What is the payment date for the dividend payment in 2020?",
+    "answer": "2020-06-15",
+    "answer_paragraph": "Table 1: Dividend Payment Schedule | Year | Dividend Per Share | Payment Date | |------|--------------------|-------------| | 2020 | $1.20              | 2020-06-15  |"
+  },
+  {
+    "question": "Who is the CEO of GreenTech Inc.?",
+    "answer": "John Smith",
+    "answer_paragraph": "Our CEO, John Smith, has stated that 'our dividend policy is a key part of our strategy to provide value to our shareholders. We are committed to continuing to pay dividends to our shareholders and to increasing the dividend payment over time.'"
+  },
+  {
+    "question": "What is the net income of GreenTech Inc. in 2020?",
+    "answer": "$120 million",
+    "answer_paragraph": "Table 3: Net Income | Year | Net Income | |------|------------| | 2020 | $120 million|"
+  }
+]

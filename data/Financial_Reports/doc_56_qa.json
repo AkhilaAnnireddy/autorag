@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What was the total payroll expense for the year 2022?",
+    "answer": "$10,000,000",
+    "answer_paragraph": "The following are the key highlights of the payroll expense report: * Total payroll expenses for the year: $10,000,000 * Average monthly salary per employee: $5,000 * Total number of employees: 200 * Breakdown of payroll expenses by department: * Sales: $3,000,000 (30% of total payroll expenses) * Marketing: $2,000,000 (20% of total payroll expenses) * IT: $1,500,000 (15% of total payroll expenses) * HR: $1,000,000 (10% of total payroll expenses) * Finance: $1,000,000 (10% of total payroll expenses) * Operations: $1,500,000 (15% of total payroll expenses)"
+  },
+  {
+    "question": "What was the average monthly salary per employee in the sales department?",
+    "answer": "$6,000",
+    "answer_paragraph": "Department-wise Payroll Expense Analysis: * Sales department: * Total payroll expenses: $3,000,000 * Average monthly salary per employee: $6,000 * Number of employees: 50"
+  },
+  {
+    "question": "How many employees were there in the marketing department?",
+    "answer": "40",
+    "answer_paragraph": "Department-wise Payroll Expense Analysis: * Marketing department: * Total payroll expenses: $2,000,000 * Average monthly salary per employee: $5,000 * Number of employees: 40"
+  },
+  {
+    "question": "What percentage of employees were in the 31-40 years age range?",
+    "answer": "40%",
+    "answer_paragraph": "Employee Demographics: * Age distribution: * 20-30 years: 30% * 31-40 years: 40% * 41-50 years: 20% * 51-60 years: 10%"
+  },
+  {
+    "question": "What was the total payroll expense for the IT department?",
+    "answer": "$1,500,000",
+    "answer_paragraph": "Department-wise Payroll Expense Analysis: * IT department: * Total payroll expenses: $1,500,000 * Average monthly salary per employee: $7,000 * Number of employees: 20"
+  },
+  {
+    "question": "What was the percentage of female employees in the company?",
+    "answer": "40%",
+    "answer_paragraph": "Employee Demographics: * Gender distribution: * Male: 60% * Female: 40%"
+  },
+  {
+    "question": "What was the total payroll expense for the finance department?",
+    "answer": "$1,000,000",
+    "answer_paragraph": "Department-wise Payroll Expense Analysis: * Finance department: * Total payroll expenses: $1,000,000 * Average monthly salary per employee: $6,000 * Number of employees: 15"
+  },
+  {
+    "question": "What was the percentage of employees with a master's degree?",
+    "answer": "30%",
+    "answer_paragraph": "Employee Demographics: * Education level: * High school diploma: 20% * Bachelor's degree: 50% * Master's degree: 30%"
+  },
+  {
+    "question": "What was the total number of employees in the company?",
+    "answer": "200",
+    "answer_paragraph": "The following are the key highlights of the payroll expense report: * Total payroll expenses for the year: $10,000,000 * Average monthly salary per employee: $5,000 * Total number of employees: 200 * Breakdown of payroll expenses by department: * Sales: $3,000,000 (30% of total payroll expenses) * Marketing: $2,000,000 (20% of total payroll expenses) * IT: $1,500,000 (15% of total payroll expenses) * HR: $1,000,000 (10% of total payroll expenses) * Finance: $1,000,000 (10% of total payroll expenses) * Operations: $1,500,000 (15% of total payroll expenses)"
+  },
+  {
+    "question": "What was the average monthly salary per employee in the operations department?",
+    "answer": "$7,000",
+    "answer_paragraph": "Department-wise Payroll Expense Analysis: * Operations department: * Total payroll expenses: $1,500,000 * Average monthly salary per employee: $7,000 * Number of employees: 25"
+  }
+]

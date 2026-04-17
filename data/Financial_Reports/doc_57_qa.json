@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the outstanding balance of the bank loans as of December 31, 2022?",
+    "answer": "$10,000,000",
+    "answer_paragraph": "Debt Portfolio:\nTable 1: Debt Portfolio as of December 31, 2022\n| Debt Type | Outstanding Balance | Interest Rate | Maturity Date |\n| --- | --- | --- | --- |\n| Bank Loans | $10,000,000 | 6.0% | June 30, 2025 |\n| Bonds | $20,000,000 | 7.0% | December 31, 2027 |\n| Commercial Paper | $5,000,000 | 4.0% | March 31, 2023 |"
+  },
+  {
+    "question": "What is the total payment due in Q2 2023?",
+    "answer": "$1,250,000",
+    "answer_paragraph": "Debt Service:\nTable 2: Debt Service Schedule for 2023\n| Quarter | Interest Payment | Principal Payment | Total Payment |\n| --- | --- | --- | --- |\n| Q1 | $750,000 | $500,000 | $1,250,000 |\n| Q2 | $750,000 | $500,000 | $1,250,000 |\n| Q3 | $750,000 | $500,000 | $1,250,000 |\n| Q4 | $750,000 | $500,000 | $1,250,000 |"
+  },
+  {
+    "question": "What is the credit rating assigned by Moody's as of December 31, 2022?",
+    "answer": "Baa1",
+    "answer_paragraph": "Credit Ratings:\nTable 3: Credit Ratings as of December 31, 2022\n| Rating Agency | Credit Rating |\n| --- | --- |\n| Moody's | Baa1 |\n| Standard & Poor's | BBB+ |\n| Fitch | BBB |"
+  },
+  {
+    "question": "What is the company's target debt-to-equity ratio by the end of 2025?",
+    "answer": "0.5:1",
+    "answer_paragraph": "Debt Management Strategy:\nThe company's debt management strategy is to maintain a diversified debt portfolio with a mix of short-term and long-term debt. The company aims to reduce its debt-to-equity ratio to 0.5:1 by the end of 2025. According to Mr. John Smith, the company's CFO, 'our debt management strategy is designed to ensure that we have sufficient liquidity to meet our debt obligations while minimizing our interest expenses.'"
+  },
+  {
+    "question": "Who is the company's CEO?",
+    "answer": "Ms. Jane Doe",
+    "answer_paragraph": "Conclusion:\nIn conclusion, the company's debt management activities for the fiscal year 2022 were successful in maintaining a stable debt portfolio and reducing the company's debt-to-equity ratio. The company will continue to monitor its debt portfolio and adjust its debt management strategy as needed to ensure that it remains aligned with the company's overall business objectives. As stated by Ms. Jane Doe, the company's CEO, 'we are committed to maintaining a strong balance sheet and ensuring that our debt management practices are transparent and accountable.'"
+  },
+  {
+    "question": "What is the interest rate on the commercial paper?",
+    "answer": "4.0%",
+    "answer_paragraph": "Debt Portfolio:\nTable 1: Debt Portfolio as of December 31, 2022\n| Debt Type | Outstanding Balance | Interest Rate | Maturity Date |\n| --- | --- | --- | --- |\n| Bank Loans | $10,000,000 | 6.0% | June 30, 2025 |\n| Bonds | $20,000,000 | 7.0% | December 31, 2027 |\n| Commercial Paper | $5,000,000 | 4.0% | March 31, 2023 |"
+  },
+  {
+    "question": "What is the maturity date of the bonds?",
+    "answer": "December 31, 2027",
+    "answer_paragraph": "Debt Portfolio:\nTable 1: Debt Portfolio as of December 31, 2022\n| Debt Type | Outstanding Balance | Interest Rate | Maturity Date |\n| --- | --- | --- | --- |\n| Bank Loans | $10,000,000 | 6.0% | June 30, 2025 |\n| Bonds | $20,000,000 | 7.0% | December 31, 2027 |\n| Commercial Paper | $5,000,000 | 4.0% | March 31, 2023 |"
+  },
+  {
+    "question": "What is the debt-to-equity ratio for the year 2021?",
+    "answer": "0.7:1",
+    "answer_paragraph": "Appendix:\nTable 4: Historical Debt-to-Equity Ratio\n| Year | Debt-to-Equity Ratio |\n| --- | --- |\n| 2020 | 0.8:1 |\n| 2021 | 0.7:1 |\n| 2022 | 0.6:1 |"
+  },
+  {
+    "question": "What is the description of the policy to manage interest rate risk?",
+    "answer": "Manage interest rate risk through the use of fixed-rate debt instruments",
+    "answer_paragraph": "Appendix:\nTable 5: Debt Management Policy\n| Policy | Description |\n| --- | --- |\n| Debt-to-Equity Ratio | Maintain a debt-to-equity ratio of 0.5:1 or less |\n| Interest Rate Risk | Manage interest rate risk through the use of fixed-rate debt instruments |\n| Liquidity Risk | Maintain sufficient liquidity to meet debt obligations |"
+  },
+  {
+    "question": "What is the total interest payment due in Q1 2023?",
+    "answer": "$750,000",
+    "answer_paragraph": "Debt Service:\nTable 2: Debt Service Schedule for 2023\n| Quarter | Interest Payment | Principal Payment | Total Payment |\n| --- | --- | --- | --- |\n| Q1 | $750,000 | $500,000 | $1,250,000 |\n| Q2 | $750,000 | $500,000 | $1,250,000 |\n| Q3 | $750,000 | $500,000 | $1,250,000 |\n| Q4 | $750,000 | $500,000 | $1,250,000 |"
+  }
+]

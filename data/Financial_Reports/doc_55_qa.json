@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What was the total amount paid to vendors in 2022?",
+    "answer": "$10,456,789",
+    "answer_paragraph": "The total amount paid to vendors in 2022 was $10,456,789, with the majority of these payments being made to the company's top five vendors: ABC Supplies, DEF Services, GHI Consulting, JKL Materials, and MNO Logistics."
+  },
+  {
+    "question": "What is the company's payment term?",
+    "answer": "net 30 days",
+    "answer_paragraph": "The company's payment terms are typically net 30 days, with a 2% discount offered for payments made within 10 days."
+  },
+  {
+    "question": "How many international payments did the company make in 2022?",
+    "answer": "500",
+    "answer_paragraph": "The company made a total of 500 international payments, with a total value of $2,091,475."
+  },
+  {
+    "question": "What is the name of the department that manages the company's vendor contracts?",
+    "answer": "Contract Management department",
+    "answer_paragraph": "The company's vendor contracts are managed by the company's Contract Management department, which is responsible for negotiating and managing the contracts."
+  },
+  {
+    "question": "What is the total value of the company's vendor contracts?",
+    "answer": "$50 million",
+    "answer_paragraph": "The company has a total of 250 vendor contracts, with a total value of $50 million."
+  },
+  {
+    "question": "What law requires the company to maintain accurate records of its vendor payments?",
+    "answer": "Sarbanes-Oxley Act",
+    "answer_paragraph": "The company is subject to a number of laws and regulations, including the Sarbanes-Oxley Act and the Foreign Corrupt Practices Act."
+  },
+  {
+    "question": "Who is the head of the company's Accounts Payable department?",
+    "answer": "Mrs. Emily Chen",
+    "answer_paragraph": "The company's Accounts Payable department, led by Mrs. Emily Chen, has been working diligently to ensure that all payments are made in a timely and efficient manner."
+  },
+  {
+    "question": "What percentage of the company's payments were made to domestic vendors in 2022?",
+    "answer": "80%",
+    "answer_paragraph": "The majority of its payments were made to vendors in the United States, with 80% of the total payments being made to domestic vendors."
+  },
+  {
+    "question": "How much did the company save by taking advantage of the 2% discount for early payments?",
+    "answer": "$208,943",
+    "answer_paragraph": "In 2022, the company took advantage of this discount on 75% of its payments, resulting in a total savings of $208,943."
+  },
+  {
+    "question": "What is the name of the system used by the company to track and manage its vendor relationships?",
+    "answer": "vendor management system",
+    "answer_paragraph": "The company also uses a vendor management system to track and manage its vendor relationships."
+  }
+]
