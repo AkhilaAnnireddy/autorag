@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What was the revenue of the marketing department for the first quarter of 2023?",
+    "answer": "$100,000",
+    "answer_paragraph": "The marketing department reported a revenue of $100,000 for the first quarter, with expenses of $50,000, resulting in a profit of $50,000."
+  },
+  {
+    "question": "How many social media followers did the marketing department have at the end of Q1 2023?",
+    "answer": "10,000",
+    "answer_paragraph": "Table 2: Marketing Department Performance Metrics\n| Metric | Q1 2023 | Q1 2022\n| --- | --- | ---\n| Social Media Followers | 10,000 | 8,000\n| Website Traffic | 50,000 | 35,000\n| Lead Generation | 500 | 300"
+  },
+  {
+    "question": "What was the profit of the sales department for the first quarter of 2023?",
+    "answer": "$300,000",
+    "answer_paragraph": "The sales department reported a revenue of $500,000 for the first quarter, with expenses of $200,000, resulting in a profit of $300,000."
+  },
+  {
+    "question": "What was the average deal size for the sales department in Q1 2023?",
+    "answer": "$50,000",
+    "answer_paragraph": "Table 3: Sales Department Performance Metrics\n| Metric | Q1 2023 | Q1 2022\n| --- | --- | ---\n| Sales Calls | 1,000 | 800\n| Conversion Rates | 20% | 18%\n| Average Deal Size | $50,000 | $40,000"
+  },
+  {
+    "question": "What was the revenue of the IT department for the first quarter of 2023?",
+    "answer": "$50,000",
+    "answer_paragraph": "The IT department reported a revenue of $50,000 for the first quarter, with expenses of $20,000, resulting in a profit of $30,000."
+  },
+  {
+    "question": "What was the system uptime for the IT department in Q1 2023?",
+    "answer": "99%",
+    "answer_paragraph": "Table 4: IT Department Performance Metrics\n| Metric | Q1 2023 | Q1 2022\n| --- | --- | ---\n| System Uptime | 99% | 95%\n| IT Support Requests | 100 | 120\n| Project Completion Rate | 90% | 80%"
+  },
+  {
+    "question": "What was the total revenue of the company for the first quarter of 2023?",
+    "answer": "$650,000",
+    "answer_paragraph": "Table 1: Quarterly Performance Summary\n| Department | Revenue | Expenses | Profit\n| --- | --- | --- | ---\n| Marketing | $100,000 | $50,000 | $50,000\n| Sales | $500,000 | $200,000 | $300,000\n| IT | $50,000 | $20,000 | $30,000\n| Total | $650,000 | $270,000 | $380,000"
+  },
+  {
+    "question": "How many lead generations did the marketing department have in Q1 2023?",
+    "answer": "500",
+    "answer_paragraph": "Table 2: Marketing Department Performance Metrics\n| Metric | Q1 2023 | Q1 2022\n| --- | --- | ---\n| Social Media Followers | 10,000 | 8,000\n| Website Traffic | 50,000 | 35,000\n| Lead Generation | 500 | 300"
+  },
+  {
+    "question": "What was the conversion rate for the sales department in Q1 2023?",
+    "answer": "20%",
+    "answer_paragraph": "Table 3: Sales Department Performance Metrics\n| Metric | Q1 2023 | Q1 2022\n| --- | --- | ---\n| Sales Calls | 1,000 | 800\n| Conversion Rates | 20% | 18%\n| Average Deal Size | $50,000 | $40,000"
+  },
+  {
+    "question": "What was the project completion rate for the IT department in Q1 2023?",
+    "answer": "90%",
+    "answer_paragraph": "Table 4: IT Department Performance Metrics\n| Metric | Q1 2023 | Q1 2022\n| --- | --- | ---\n| System Uptime | 99% | 95%\n| IT Support Requests | 100 | 120\n| Project Completion Rate | 90% | 80%"
+  }
+]
