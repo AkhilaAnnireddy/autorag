@@ -1,51 +1,48 @@
 
-   Customer Success Plan for NovaTech Inc.
-   Executive Summary:
-   * NovaTech Inc. is a leading provider of innovative technology solutions, and our customer success plan is designed to ensure that our clients achieve their business goals through the effective use of our products and services.
-   * The plan will be implemented over a period of 12 months, starting from January 1, 2024, and ending on December 31, 2024.
-   * Our customer success team will be led by Rachel Lee, who has over 10 years of experience in the industry.
-   
-   Customer Overview:
-   * NovaTech Inc. has been working with XYZ Corporation, a leading financial services company, since 2020.
-   * XYZ Corporation has a total of 500 employees, with 200 of them using our software solutions.
-   * The company's annual revenue is $100 million, and they have a growth rate of 15% per annum.
-   * Key stakeholders at XYZ Corporation include:
-     * John Smith, CEO
-     * Emily Chen, CTO
-     * David Kim, IT Manager
-   * Our customer success team has established a strong relationship with the stakeholders, with regular meetings and progress updates.
-   
-   Goals and Objectives:
-   * The primary goal of this customer success plan is to increase the adoption rate of our software solutions by 20% within the next 6 months.
-   * Specific objectives include:
-     * Providing training and support to 80% of XYZ Corporation's employees within the next 3 months.
-     * Achieving a customer satisfaction rating of 90% or higher through regular surveys and feedback.
-     * Identifying and resolving any technical issues within 24 hours of notification.
-   * Key performance indicators (KPIs) will be used to measure progress, including:
-     * Adoption rate
-     * Customer satisfaction rating
-     * Response time to technical issues
-   * The customer success team will review and update the plan on a quarterly basis to ensure that it remains relevant and effective.
-   
-   Implementation Plan:
-   * The implementation plan will be divided into four phases:
-     * Phase 1: Needs assessment and goal setting (January 1 - January 31, 2024)
-     * Phase 2: Training and support (February 1 - April 30, 2024)
-     * Phase 3: Technical issue resolution and feedback (May 1 - July 31, 2024)
-     * Phase 4: Review and evaluation (August 1 - December 31, 2024)
-   * The customer success team will work closely with XYZ Corporation's stakeholders to ensure a smooth implementation process.
-   
-   Resources and Budget:
-   * The customer success team will consist of 5 members, including 2 customer success managers, 1 technical support engineer, and 2 training specialists.
-   * The total budget for the customer success plan is $200,000, which will be allocated as follows:
-     * Personnel costs: $120,000
-     * Training and support materials: $30,000
-     * Travel and accommodation: $20,000
-     * Miscellaneous (contingency fund): $30,000
-   * The budget will be reviewed and updated on a quarterly basis to ensure that it remains sufficient to support the implementation of the plan.
-   
-   Conclusion:
-   * The customer success plan for NovaTech Inc. is designed to ensure that our clients achieve their business goals through the effective use of our products and services.
-   * The plan will be implemented over a period of 12 months, starting from January 1, 2024, and ending on December 31, 2024.
-   * We believe that this plan will help us to build strong relationships with our clients and achieve our business objectives.
+      Introduction to Capital Expenditure Report:
+      * The purpose of this report is to provide an overview of the company's capital expenditures for the fiscal year 2022.
+      * The report will cover the various categories of expenditures, including property, plant, and equipment (PP&E), technology, and research and development (R&D).
+      * The report will also discuss the company's capital expenditure policy and the approval process for capital expenditures.
+
+      Company Overview:
+      * The company, XYZ Inc., is a leading manufacturer of industrial equipment.
+      * XYZ Inc. was founded in 1990 by John Smith and has since grown to become a global company with operations in over 10 countries.
+      * The company's headquarters is located in New York City, and it is listed on the New York Stock Exchange (NYSE) under the ticker symbol XYZ.
+
+      Capital Expenditure Policy:
+      * The company's capital expenditure policy is to invest in projects that have a minimum expected return on investment (ROI) of 15%.
+      * The policy also requires that all capital expenditures over $100,000 be approved by the company's board of directors.
+      * The company has a dedicated team, led by Jane Doe, that is responsible for reviewing and approving capital expenditures.
+
+      Capital Expenditures by Category:
+      * PP&E: 
+         + The company spent $1.2 million on PP&E in 2022, which included the purchase of new machinery and equipment for the company's manufacturing facilities.
+         + The company also spent $500,000 on maintenance and repairs of existing PP&E.
+      * Technology: 
+         + The company spent $800,000 on technology in 2022, which included the implementation of a new enterprise resource planning (ERP) system.
+         + The company also spent $200,000 on cybersecurity measures to protect the company's data and systems.
+      * R&D: 
+         + The company spent $1.5 million on R&D in 2022, which included the development of new products and the improvement of existing products.
+         + The company also spent $300,000 on research partnerships with universities and other companies.
+
+      Approval Process:
+      * The approval process for capital expenditures involves several steps, including:
+         1. Submission of a capital expenditure request (CER) by the department or business unit.
+         2. Review of the CER by the company's finance team to ensure that it meets the company's capital expenditure policy.
+         3. Approval of the CER by the company's board of directors.
+      * The company's board of directors meets quarterly to review and approve capital expenditures.
+
+      Conclusion:
+      * In conclusion, the company's capital expenditures for 2022 were $3.7 million, which is a 10% increase from the previous year.
+      * The company's capital expenditure policy is to invest in projects that have a minimum expected ROI of 15%.
+      * The company's approval process for capital expenditures involves several steps, including submission of a CER, review by the finance team, and approval by the board of directors.
+
+      Recommendations:
+      * The company recommends that the board of directors approve the proposed capital expenditures for 2023, which total $4.2 million.
+      * The company also recommends that the board of directors review and update the company's capital expenditure policy to ensure that it remains aligned with the company's strategic objectives.
+
+      Appendices:
+      * Appendix A: Capital Expenditure Request (CER) Form
+      * Appendix B: Capital Expenditure Policy
+      * Appendix C: List of Approved Capital Expenditures for 2022
    
