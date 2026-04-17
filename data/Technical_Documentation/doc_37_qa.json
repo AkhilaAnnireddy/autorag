@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the purpose of the guide?",
+    "answer": "The purpose of this guide is to walk developers through the process of setting up a Continuous Integration/Continuous Deployment (CI/CD) pipeline for the fictional company, GreenTech Inc., using Jenkins and Docker.",
+    "answer_paragraph": "The purpose of this guide is to walk developers through the process of setting up a Continuous Integration/Continuous Deployment (CI/CD) pipeline for the fictional company, GreenTech Inc., using Jenkins and Docker. The pipeline will be used to automate the build, test, and deployment of the company's flagship application, EcoTracker."
+  },
+  {
+    "question": "What are the prerequisites for setting up the CI/CD pipeline?",
+    "answer": "Jenkins 2.303, Docker 20.10.7, and Git 2.34.1",
+    "answer_paragraph": "Before setting up the CI/CD pipeline, ensure that you have the following tools installed: Jenkins 2.303, Docker 20.10.7, and Git 2.34.1. These versions are specified in the company's IT Policy Document, dated February 10, 2022."
+  },
+  {
+    "question": "How many stages are in the CI/CD pipeline?",
+    "answer": "three stages: Build, Test, and Deploy",
+    "answer_paragraph": "The CI/CD pipeline will consist of three stages: Build, Test, and Deploy. The Build stage will compile and package the EcoTracker application, taking approximately 5 minutes to complete. The Test stage will run unit tests and integration tests, taking around 10 minutes to finish. Finally, the Deploy stage will deploy the application to the production environment, taking about 3 minutes to complete."
+  },
+  {
+    "question": "What is the IP address of the production environment?",
+    "answer": "192.168.1.102",
+    "answer_paragraph": "The EcoTracker application will be deployed to three different environments: Development, Staging, and Production. Each environment will have its own server and IP address, as specified in the table above. The Development environment will be used for testing and debugging, while the Staging environment will be used for quality assurance and user acceptance testing. The Production environment will be used for the live application, and will be accessible to end-users."
+  },
+  {
+    "question": "How often will the database be backed up?",
+    "answer": "Daily",
+    "answer_paragraph": "To ensure the CI/CD pipeline and the EcoTracker application remain up-to-date and secure, regular maintenance tasks will be performed. The database will be backed up daily by the DBA team, while the development team will update dependencies on a weekly basis. Additionally, the security team will run security scans on a monthly basis to identify and address any potential vulnerabilities."
+  },
+  {
+    "question": "What is the name of the company's flagship application?",
+    "answer": "EcoTracker",
+    "answer_paragraph": "The purpose of this guide is to walk developers through the process of setting up a Continuous Integration/Continuous Deployment (CI/CD) pipeline for the fictional company, GreenTech Inc., using Jenkins and Docker. The pipeline will be used to automate the build, test, and deployment of the company's flagship application, EcoTracker."
+  },
+  {
+    "question": "What is the duration of the Build stage?",
+    "answer": "5 minutes",
+    "answer_paragraph": "The CI/CD pipeline will consist of three stages: Build, Test, and Deploy. The Build stage will compile and package the EcoTracker application, taking approximately 5 minutes to complete. The Test stage will run unit tests and integration tests, taking around 10 minutes to finish. Finally, the Deploy stage will deploy the application to the production environment, taking about 3 minutes to complete."
+  },
+  {
+    "question": "Who is responsible for updating dependencies?",
+    "answer": "Development team",
+    "answer_paragraph": "To ensure the CI/CD pipeline and the EcoTracker application remain up-to-date and secure, regular maintenance tasks will be performed. The database will be backed up daily by the DBA team, while the development team will update dependencies on a weekly basis. Additionally, the security team will run security scans on a monthly basis to identify and address any potential vulnerabilities."
+  },
+  {
+    "question": "How often will security scans be run?",
+    "answer": "Monthly",
+    "answer_paragraph": "To ensure the CI/CD pipeline and the EcoTracker application remain up-to-date and secure, regular maintenance tasks will be performed. The database will be backed up daily by the DBA team, while the development team will update dependencies on a weekly basis. Additionally, the security team will run security scans on a monthly basis to identify and address any potential vulnerabilities."
+  },
+  {
+    "question": "What is the name of the team responsible for backing up the database?",
+    "answer": "DBA team",
+    "answer_paragraph": "To ensure the CI/CD pipeline and the EcoTracker application remain up-to-date and secure, regular maintenance tasks will be performed. The database will be backed up daily by the DBA team, while the development team will update dependencies on a weekly basis. Additionally, the security team will run security scans on a monthly basis to identify and address any potential vulnerabilities."
+  }
+]

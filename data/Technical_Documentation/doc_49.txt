@@ -1,0 +1,66 @@
+Disaster Recovery Plan for NovaTech Inc.
+
+Introduction
+The purpose of this disaster recovery plan is to ensure the continuity of NovaTech Inc.'s business operations in the event of a disaster. This plan outlines the procedures to be followed in the event of a disaster, including the restoration of critical systems and the recovery of data. The plan is based on the assumption that a disaster may occur at any time, and that it is essential to be prepared to respond quickly and effectively.
+
+Table 1: Disaster Recovery Team
+| Name | Title | Contact Information |
+| --- | --- | --- |
+| John Smith | IT Manager | (123) 456-7890, john.smith@novatech.com |
+| Jane Doe | Network Administrator | (987) 654-3210, jane.doe@novatech.com |
+| Bob Johnson | Data Center Manager | (555) 123-4567, bob.johnson@novatech.com |
+
+Disaster Recovery Procedures
+In the event of a disaster, the following procedures will be followed:
+Table 2: Disaster Recovery Procedures
+| Procedure | Description | Responsible Person |
+| --- | --- | --- |
+| 1. Notification | Notify the disaster recovery team and management of the disaster | John Smith |
+| 2. Assessment | Assess the damage and determine the extent of the disaster | Jane Doe |
+| 3. Recovery | Restore critical systems and recover data | Bob Johnson |
+
+Data Backup and Recovery
+NovaTech Inc. uses a combination of tape and disk backups to ensure that all critical data is backed up on a regular basis. The backup schedule is as follows:
+Table 3: Backup Schedule
+| System | Backup Frequency | Backup Type |
+| --- | --- | --- |
+| Email | Daily | Disk |
+| File Server | Weekly | Tape |
+| Database | Daily | Disk |
+
+Table 4: Data Recovery Procedures
+| Procedure | Description | Responsible Person |
+| --- | --- | --- |
+| 1. Data Restoration | Restore data from backups | Bob Johnson |
+| 2. Data Verification | Verify the integrity of the restored data | Jane Doe |
+| 3. System Recovery | Recover the systems and applications | John Smith |
+
+Network Infrastructure
+The network infrastructure at NovaTech Inc. consists of a combination of routers, switches, and firewalls. The network is designed to be highly available and fault-tolerant, with redundant connections and backup power systems.
+Table 5: Network Infrastructure
+| Component | Description | Location |
+| --- | --- | --- |
+| Router | Cisco 3845 | Data Center |
+| Switch | Cisco 2960 | Data Center |
+| Firewall | Cisco ASA 5520 | Data Center |
+
+Server Infrastructure
+The server infrastructure at NovaTech Inc. consists of a combination of physical and virtual servers. The servers are designed to be highly available and fault-tolerant, with redundant power supplies and backup systems.
+Table 6: Server Infrastructure
+| Server | Description | Location |
+| --- | --- | --- |
+| Email Server | Microsoft Exchange 2010 | Data Center |
+| File Server | Microsoft Windows 2008 | Data Center |
+| Database Server | Oracle 11g | Data Center |
+
+Testing and Maintenance
+The disaster recovery plan will be tested and maintained on a regular basis to ensure that it is up-to-date and effective. The testing schedule is as follows:
+Table 7: Testing Schedule
+| Test | Frequency | Description |
+| --- | --- | --- |
+| Tabletop Exercise | Quarterly | Review of the disaster recovery plan |
+| Simulation Exercise | Bi-Annually | Simulation of a disaster scenario |
+| Full-Scale Exercise | Annually | Full-scale test of the disaster recovery plan |
+
+Conclusion
+The disaster recovery plan for NovaTech Inc. is designed to ensure the continuity of business operations in the event of a disaster. The plan outlines the procedures to be followed in the event of a disaster, including the restoration of critical systems and the recovery of data. The plan will be tested and maintained on a regular basis to ensure that it is up-to-date and effective.

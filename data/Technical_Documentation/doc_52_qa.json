@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the recommended operating system for the message queue system?",
+    "answer": "Windows 10 or Linux Ubuntu 20.04",
+    "answer_paragraph": "System Requirements\n* Operating System: Windows 10 or Linux Ubuntu 20.04\n* CPU: 2.5 GHz or faster\n* Memory: 8 GB or more\n* Disk Space: 10 GB or more"
+  },
+  {
+    "question": "What is the queue name used in the example code?",
+    "answer": "myqueue",
+    "answer_paragraph": "Queue Configuration\nThe queue configuration settings are as follows:\n* Queue Name: myqueue\n* Queue Type: Standard\n* Message Size Limit: 10 MB\n* Message Time-to-Live: 1 hour\n* Dead Letter Queue: enabled"
+  },
+  {
+    "question": "What is the message size limit for the standard queue type?",
+    "answer": "10 MB",
+    "answer_paragraph": "Queue Configuration\nThe queue configuration settings are as follows:\n* Queue Name: myqueue\n* Queue Type: Standard\n* Message Size Limit: 10 MB\n* Message Time-to-Live: 1 hour\n* Dead Letter Queue: enabled"
+  },
+  {
+    "question": "What error code is returned when a message is too large?",
+    "answer": "1002",
+    "answer_paragraph": "Error Handling\nError handling is an important aspect of message queuing. The following error codes are supported:\n* 1001: Queue not found\n* 1002: Message too large\n* 1003: Message expired\n* 1004: Queue full"
+  },
+  {
+    "question": "What is the purpose of a dead letter queue?",
+    "answer": "to handle undeliverable messages",
+    "answer_paragraph": "Best Practices\nHere are some best practices for using the message queue system:\n* Use a consistent naming convention for queues and messages\n* Set a reasonable message size limit\n* Monitor queue performance regularly\n* Use dead letter queues to handle undeliverable messages"
+  },
+  {
+    "question": "What programming languages are supported by the message queue system?",
+    "answer": "Java, Python, and C#",
+    "answer_paragraph": "Key Features\n* Supports multiple messaging protocols, including AMQP, MQTT, and STOMP\n* Provides a scalable and reliable messaging system\n* Includes a user-friendly management interface for monitoring and managing queues\n* Supports integration with popular programming languages, including Java, Python, and C#"
+  },
+  {
+    "question": "What is the version number of the initial release of the message queue system?",
+    "answer": "1.0",
+    "answer_paragraph": "Change Log\n* Version 1.0: Initial release\n* Version 1.1: Added support for MQTT protocol\n* Version 1.2: Improved error handling and added dead letter queues\n* Version 1.3: Updated system requirements and added support for C# programming language"
+  },
+  {
+    "question": "What is the contact email for the support team?",
+    "answer": "support@example.com",
+    "answer_paragraph": "Contact Information\nFor any questions or feedback, please contact our support team at support@example.com or visit our website at example.com."
+  },
+  {
+    "question": "What is the purpose of the appendix section?",
+    "answer": "to provide additional information and resources",
+    "answer_paragraph": "Appendix\nThe appendix includes additional information and resources:\n* Message Queue API Reference: provides detailed information on the message queue API\n* Message Queue SDK: provides software development kits for popular programming languages\n* Message Queue Community Forum: provides a community-driven forum for discussion and support"
+  },
+  {
+    "question": "What is the time-to-live for messages in the standard queue type?",
+    "answer": "1 hour",
+    "answer_paragraph": "Queue Configuration\nThe queue configuration settings are as follows:\n* Queue Name: myqueue\n* Queue Type: Standard\n* Message Size Limit: 10 MB\n* Message Time-to-Live: 1 hour\n* Dead Letter Queue: enabled"
+  }
+]

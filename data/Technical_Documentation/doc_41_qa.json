@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the purpose of the guide?",
+    "answer": "The purpose of this guide is to provide a comprehensive overview of the monitoring and alerting setup for the IT infrastructure of XYZ Corporation.",
+    "answer_paragraph": "Introduction\nThe purpose of this guide is to provide a comprehensive overview of the monitoring and alerting setup for the IT infrastructure of XYZ Corporation. The guide is intended for system administrators and IT staff who are responsible for ensuring the smooth operation of the company's IT systems."
+  },
+  {
+    "question": "What is the location of the Web Server?",
+    "answer": "Data Center 1",
+    "answer_paragraph": "Table 1: IT Infrastructure Components\n| Component | Description | Location |\n| --- | --- | --- |\n| Web Server | Apache HTTP Server | Data Center 1 |\n| Database Server | MySQL Database Server | Data Center 2 |\n| Network Switch | Cisco Catalyst 6500 | Data Center 1 |"
+  },
+  {
+    "question": "What is the function of Nagios?",
+    "answer": "System and network monitoring",
+    "answer_paragraph": "Table 2: Monitoring Tools\n| Tool | Function | Frequency |\n| --- | --- | --- |\n| Nagios | System and network monitoring | Every 5 minutes |\n| Prometheus | System and application monitoring | Every 1 minute |\n| Grafana | Data visualization and alerting | On demand |"
+  },
+  {
+    "question": "What is the description of the System Down policy?",
+    "answer": "Notification when a system is down",
+    "answer_paragraph": "Table 3: Alerting Policies\n| Policy | Description | Notification |\n| --- | --- | --- |\n| System Down | Notification when a system is down | Email and SMS to IT staff |\n| High CPU Usage | Notification when CPU usage exceeds 80% | Email to IT staff |\n| Disk Space Low | Notification when disk space falls below 10% | Email to IT staff |"
+  },
+  {
+    "question": "When was the monitoring and alerting setup implemented?",
+    "answer": "January 1, 2022",
+    "answer_paragraph": "Implementation\nThe monitoring and alerting setup was implemented on January 1, 2022, by the IT department. The setup was tested and verified by the IT staff to ensure that it is working as expected."
+  },
+  {
+    "question": "What is the status of the implementation task?",
+    "answer": "Completed",
+    "answer_paragraph": "Table 4: Implementation Timeline\n| Date | Task | Status |\n| --- | --- | --- |\n| December 15, 2021 | Planning and design | Completed |\n| December 20, 2021 | Implementation | Completed |\n| January 1, 2022 | Testing and verification | Completed |"
+  },
+  {
+    "question": "Who is the IT Manager?",
+    "answer": "John Smith",
+    "answer_paragraph": "Table 5: Contact Information\n| Name | Title | Email | Phone |\n| --- | --- | --- | --- |\n| John Smith | IT Manager | john.smith@xyzcorp.com | 123-456-7890 |\n| Jane Doe | IT Staff | jane.doe@xyzcorp.com | 987-654-3210 |"
+  },
+  {
+    "question": "What is the email of Jane Doe?",
+    "answer": "jane.doe@xyzcorp.com",
+    "answer_paragraph": "Table 5: Contact Information\n| Name | Title | Email | Phone |\n| --- | --- | --- | --- |\n| John Smith | IT Manager | john.smith@xyzcorp.com | 123-456-7890 |\n| Jane Doe | IT Staff | jane.doe@xyzcorp.com | 987-654-3210 |"
+  },
+  {
+    "question": "What is the frequency of Prometheus?",
+    "answer": "Every 1 minute",
+    "answer_paragraph": "Table 2: Monitoring Tools\n| Tool | Function | Frequency |\n| --- | --- | --- |\n| Nagios | System and network monitoring | Every 5 minutes |\n| Prometheus | System and application monitoring | Every 1 minute |\n| Grafana | Data visualization and alerting | On demand |"
+  },
+  {
+    "question": "What is the description of the Disk Space Low policy?",
+    "answer": "Notification when disk space falls below 10%",
+    "answer_paragraph": "Table 3: Alerting Policies\n| Policy | Description | Notification |\n| --- | --- | --- |\n| System Down | Notification when a system is down | Email and SMS to IT staff |\n| High CPU Usage | Notification when CPU usage exceeds 80% | Email to IT staff |\n| Disk Space Low | Notification when disk space falls below 10% | Email to IT staff |"
+  }
+]

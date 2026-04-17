@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the purpose of this guide?",
+    "answer": "The purpose of this guide is to provide detailed instructions on performance tuning for NovaTech systems.",
+    "answer_paragraph": "Introduction"
+  },
+  {
+    "question": "What type of processors are used in the NovaTech system?",
+    "answer": "Intel Xeon E5-2680 v4 processors",
+    "answer_paragraph": "Hardware Configuration"
+  },
+  {
+    "question": "What is the total storage capacity of the NovaTech system?",
+    "answer": "20 TB",
+    "answer_paragraph": "Hardware Configuration"
+  },
+  {
+    "question": "What version of the Linux kernel is used in the NovaTech system?",
+    "answer": "3.10.0-1160.42.2.el7.x86_64",
+    "answer_paragraph": "Hardware Configuration"
+  },
+  {
+    "question": "What is the version of OpenMPI used in the NovaTech system?",
+    "answer": "OpenMPI 4.1.1",
+    "answer_paragraph": "Software Configuration"
+  },
+  {
+    "question": "What tool is used for cluster monitoring in the NovaTech system?",
+    "answer": "Ganglia 3.7.2",
+    "answer_paragraph": "Performance Monitoring"
+  },
+  {
+    "question": "How often is performance data collected in the NovaTech system?",
+    "answer": "at 1-minute intervals",
+    "answer_paragraph": "Performance Monitoring"
+  },
+  {
+    "question": "What is the recommended file system for high-performance storage in the NovaTech system?",
+    "answer": "Lustre or GPFS",
+    "answer_paragraph": "Performance Optimization"
+  },
+  {
+    "question": "What is the version of Slurm used in the NovaTech system?",
+    "answer": "Slurm 20.11.8",
+    "answer_paragraph": "Software Configuration"
+  },
+  {
+    "question": "When was version 1.0 of this guide initially released?",
+    "answer": "2022-01-01",
+    "answer_paragraph": "Revision History"
+  }
+]

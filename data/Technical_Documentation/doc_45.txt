@@ -1,0 +1,93 @@
+Cloud Infrastructure Setup Guide for Azure and AWS
+
+Introduction
+The purpose of this guide is to provide a step-by-step walkthrough of setting up a cloud infrastructure using Azure and AWS. This guide is intended for IT professionals and system administrators who are responsible for managing and maintaining cloud-based systems. The guide covers the setup of virtual networks, subnets, and security groups, as well as the deployment of virtual machines and databases.
+
+Table 1: Cloud Service Providers
+| Provider | Description | Pricing
+| --- | --- | ---
+| Azure | Microsoft's cloud computing platform | $0.013 per hour
+| AWS | Amazon's cloud computing platform | $0.02 per hour
+
+Planning and Design
+Before setting up the cloud infrastructure, it is essential to plan and design the architecture. This includes determining the number of virtual networks, subnets, and security groups required. The following table outlines the recommended architecture for a small-sized business.
+
+Table 2: Recommended Architecture
+| Component | Description | Quantity
+| --- | --- | ---
+| Virtual Networks | Isolated networks for resources | 2
+| Subnets | Subdivisions of virtual networks | 4
+| Security Groups | Sets of rules for network traffic | 3
+
+Setup and Configuration
+The setup and configuration of the cloud infrastructure involve several steps. The following table outlines the steps required for Azure.
+
+Table 3: Azure Setup and Configuration
+| Step | Description | Estimated Time
+| --- | --- | ---
+| Create Virtual Network | Create a new virtual network | 10 minutes
+| Create Subnet | Create a new subnet | 5 minutes
+| Create Security Group | Create a new security group | 10 minutes
+
+Table 4: AWS Setup and Configuration
+| Step | Description | Estimated Time
+| --- | --- | ---
+| Create VPC | Create a new virtual private cloud | 10 minutes
+| Create Subnet | Create a new subnet | 5 minutes
+| Create Security Group | Create a new security group | 10 minutes
+
+Deployment and Management
+Once the cloud infrastructure is set up and configured, the next step is to deploy and manage the resources. This includes deploying virtual machines and databases, as well as configuring network traffic rules. The following table outlines the deployment options for Azure and AWS.
+
+Table 5: Deployment Options
+| Provider | Deployment Option | Description
+| --- | --- | ---
+| Azure | Azure Virtual Machines | Deploy virtual machines
+| AWS | AWS EC2 | Deploy virtual machines
+
+Security and Compliance
+Security and compliance are critical aspects of cloud infrastructure setup. The following table outlines the security and compliance requirements for Azure and AWS.
+
+Table 6: Security and Compliance Requirements
+| Provider | Requirement | Description
+| --- | --- | ---
+| Azure | Azure Security Center | Monitor and protect resources
+| AWS | AWS IAM | Manage access and identity
+
+Conclusion
+In conclusion, setting up a cloud infrastructure using Azure and AWS requires careful planning, design, and configuration. By following the steps outlined in this guide, IT professionals and system administrators can ensure a secure and compliant cloud infrastructure. The recommended architecture and setup and configuration steps outlined in this guide can be used as a starting point for small-sized businesses.
+
+Appendix
+The following table outlines the pricing for Azure and AWS.
+
+Table 7: Pricing
+| Provider | Pricing | Description
+| --- | --- | ---
+| Azure | $0.013 per hour | Virtual machine pricing
+| AWS | $0.02 per hour | Virtual machine pricing
+
+As of February 2022, the pricing for Azure and AWS is as follows: Azure pricing starts at $0.013 per hour, while AWS pricing starts at $0.02 per hour. Our team, led by John Smith, has been working on this project since January 2022, and we expect to complete it by the end of March 2022. We will be following the company's cloud infrastructure policy, which was last updated on December 2021.
+
+Our company's cloud infrastructure policy requires that all cloud-based systems be monitored and protected by a security center, such as Azure Security Center or AWS IAM. We will also be implementing a set of rules for network traffic, including security groups and access controls. The following table outlines the company's cloud infrastructure policy.
+
+Table 8: Cloud Infrastructure Policy
+| Policy | Description
+| --- | ---
+| Security | Monitor and protect resources
+| Compliance | Manage access and identity
+
+The company's cloud infrastructure policy was last updated on December 2021, and it is reviewed and updated annually. The policy requires that all cloud-based systems be compliant with industry standards and regulations, including HIPAA and PCI-DSS. The following table outlines the compliance requirements for Azure and AWS.
+
+Table 9: Compliance Requirements
+| Provider | Requirement | Description
+| --- | --- | ---
+| Azure | HIPAA | Compliant with healthcare regulations
+| AWS | PCI-DSS | Compliant with payment card industry regulations
+
+In order to ensure compliance with the company's cloud infrastructure policy, we will be conducting regular security audits and risk assessments. The following table outlines the security audit and risk assessment schedule.
+
+Table 10: Security Audit and Risk Assessment Schedule
+| Date | Description
+| --- | ---
+| March 2022 | Conduct security audit
+| June 2022 | Conduct risk assessment

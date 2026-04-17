@@ -1,0 +1,49 @@
+Monitoring and Alerting Setup Guide
+Introduction
+The purpose of this guide is to provide a comprehensive overview of the monitoring and alerting setup for the IT infrastructure of XYZ Corporation. The guide is intended for system administrators and IT staff who are responsible for ensuring the smooth operation of the company's IT systems.
+
+Table 1: IT Infrastructure Components
+| Component | Description | Location |
+| --- | --- | --- |
+| Web Server | Apache HTTP Server | Data Center 1 |
+| Database Server | MySQL Database Server | Data Center 2 |
+| Network Switch | Cisco Catalyst 6500 | Data Center 1 |
+
+Monitoring Tools
+The company uses a combination of monitoring tools to ensure the IT infrastructure is running smoothly. These tools include Nagios, Prometheus, and Grafana. The following table provides a summary of the tools and their functions.
+
+Table 2: Monitoring Tools
+| Tool | Function | Frequency |
+| --- | --- | --- |
+| Nagios | System and network monitoring | Every 5 minutes |
+| Prometheus | System and application monitoring | Every 1 minute |
+| Grafana | Data visualization and alerting | On demand |
+
+Alerting Policies
+The company has established alerting policies to ensure that IT staff are notified in a timely manner in case of any issues. The following table provides a summary of the alerting policies.
+
+Table 3: Alerting Policies
+| Policy | Description | Notification |
+| --- | --- | --- |
+| System Down | Notification when a system is down | Email and SMS to IT staff |
+| High CPU Usage | Notification when CPU usage exceeds 80% | Email to IT staff |
+| Disk Space Low | Notification when disk space falls below 10% | Email to IT staff |
+
+Implementation
+The monitoring and alerting setup was implemented on January 1, 2022, by the IT department. The setup was tested and verified by the IT staff to ensure that it is working as expected.
+
+Table 4: Implementation Timeline
+| Date | Task | Status |
+| --- | --- | --- |
+| December 15, 2021 | Planning and design | Completed |
+| December 20, 2021 | Implementation | Completed |
+| January 1, 2022 | Testing and verification | Completed |
+
+Conclusion
+The monitoring and alerting setup is an essential component of the IT infrastructure of XYZ Corporation. The setup provides real-time monitoring and alerting capabilities, ensuring that IT staff can respond quickly to any issues that may arise. The setup was implemented on January 1, 2022, and has been working as expected since then.
+
+Table 5: Contact Information
+| Name | Title | Email | Phone |
+| --- | --- | --- | --- |
+| John Smith | IT Manager | john.smith@xyzcorp.com | 123-456-7890 |
+| Jane Doe | IT Staff | jane.doe@xyzcorp.com | 987-654-3210 |

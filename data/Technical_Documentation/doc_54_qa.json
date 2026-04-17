@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the total number of configuration items in the X5000 system?",
+    "answer": "500 configuration items",
+    "answer_paragraph": "The X5000 system has a total of 500 configuration items, which are divided into 10 categories, including hardware, software, and firmware."
+  },
+  {
+    "question": "Who is responsible for reviewing and approving all changes to the system's configuration?",
+    "answer": "The Configuration Control Board (CCB)",
+    "answer_paragraph": "The system's configuration is controlled by the Configuration Control Board (CCB), which is responsible for reviewing and approving all changes to the system's configuration."
+  },
+  {
+    "question": "What is the purpose of the change control process?",
+    "answer": "to ensure that all changes to the system's configuration are properly documented, approved, and implemented",
+    "answer_paragraph": "The change control process is designed to ensure that all changes to the system's configuration are properly documented, approved, and implemented."
+  },
+  {
+    "question": "What is the role of the configuration manager?",
+    "answer": "responsible for ensuring that the configuration management process is followed and that the system's configuration is properly managed",
+    "answer_paragraph": "The configuration manager is also responsible for ensuring that the configuration management process is followed and that the system's configuration is properly managed."
+  },
+  {
+    "question": "What is the name of the configuration manager?",
+    "answer": "John Smith",
+    "answer_paragraph": "Some key names to note are: John Smith, Configuration Manager"
+  },
+  {
+    "question": "How many personnel are in the configuration management team?",
+    "answer": "5 personnel",
+    "answer_paragraph": "The configuration management team consists of 5 personnel, including the configuration manager, who is responsible for ensuring that the configuration management process is followed and that the system's configuration is properly managed."
+  },
+  {
+    "question": "What is the purpose of the configuration management database?",
+    "answer": "to contain information about all configuration items, including their description, location, and status",
+    "answer_paragraph": "The configuration manager is also responsible for maintaining the configuration management database, which contains information about all configuration items, including their description, location, and status."
+  },
+  {
+    "question": "What is the frequency of configuration audits?",
+    "answer": "on a regular basis",
+    "answer_paragraph": "The configuration management process is also subject to audits, which are designed to ensure that the process is being followed and that the system's configuration is in compliance with established policies and procedures."
+  },
+  {
+    "question": "What is the name of the engineer responsible for implementing changes to the system's configuration?",
+    "answer": "Jane Doe",
+    "answer_paragraph": "The team also includes 2 engineers, who are responsible for implementing changes to the system's configuration, and 2 quality assurance personnel, who are responsible for reviewing and approving changes to the system's configuration. Some key names to note are: Jane Doe, Engineer"
+  },
+  {
+    "question": "What is the date when the configuration management process was implemented?",
+    "answer": "January 1, 2020",
+    "answer_paragraph": "Some key dates to note are: January 1, 2020: The configuration management process was implemented"
+  }
+]

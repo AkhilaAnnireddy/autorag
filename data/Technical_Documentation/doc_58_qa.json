@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the price of the standard plan and what is the rate limit included in this plan?",
+    "answer": "The standard plan, which is priced at $9.99 per month, includes a rate limit of 100 requests per second",
+    "answer_paragraph": "The policy, which applies to all users of our services, including those on the standard plan and the premium plan, is enforced through a combination of hardware and software solutions. For example, our standard plan, which is priced at $9.99 per month, includes a rate limit of 100 requests per second, while our premium plan, which is priced at $19.99 per month, includes a rate limit of 500 requests per second."
+  },
+  {
+    "question": "What is the maximum number of requests per second that the system is designed to handle?",
+    "answer": "The system is designed to handle a maximum of 10,000 requests per second, with a burst capacity of 50,000 requests per second",
+    "answer_paragraph": "The technical specifications of our rate limiting system are as follows: \n- The system is built using a combination of open-source and proprietary technologies, including Apache Kafka and our custom-built rate limiting algorithm. \n- The system is designed to handle a maximum of 10,000 requests per second, with a burst capacity of 50,000 requests per second. \n- The system uses a combination of IP blocking and rate limiting to prevent abuse, with a block duration of 30 minutes for excessive requests."
+  },
+  {
+    "question": "What are the benefits of the rate limiting system?",
+    "answer": "Improved security, increased performance, and better user experience",
+    "answer_paragraph": "Here are some key benefits of our rate limiting system: \n1. Improved security: By limiting the number of requests that can be made to our systems, we can prevent malicious activity and protect our users' data. \n2. Increased performance: By preventing excessive requests, we can ensure that our systems run smoothly and efficiently, even under heavy loads. \n3. Better user experience: By preventing abuse, we can ensure that our users have a positive and uninterrupted experience when using our services."
+  },
+  {
+    "question": "What is the block duration for excessive requests?",
+    "answer": "30 minutes",
+    "answer_paragraph": "The technical specifications of our rate limiting system are as follows: \n- The system is built using a combination of open-source and proprietary technologies, including Apache Kafka and our custom-built rate limiting algorithm. \n- The system is designed to handle a maximum of 10,000 requests per second, with a burst capacity of 50,000 requests per second. \n- The system uses a combination of IP blocking and rate limiting to prevent abuse, with a block duration of 30 minutes for excessive requests."
+  },
+  {
+    "question": "When was the rate limiting system first implemented?",
+    "answer": "January 1, 2020",
+    "answer_paragraph": "Our rate limiting system has been in place since January 1, 2020, and has been highly effective in preventing abuse and ensuring fair usage of our services. According to our metrics, the system has prevented over 1 million malicious requests per day, with a block rate of 99.9%. As we continue to evolve and improve our rate limiting system, we are committed to providing the highest level of security, performance, and user experience for our users."
+  },
+  {
+    "question": "What is the burst capacity of the premium plan?",
+    "answer": "2,000 requests/second",
+    "answer_paragraph": "The following table illustrates the rate limiting policies for our different plans: \n| Plan | Rate Limit | Burst Capacity | \n| --- | --- | --- | \n| Standard | 100 requests/second | 500 requests/second | \n| Premium | 500 requests/second | 2,000 requests/second | \n| Enterprise | 2,000 requests/second | 10,000 requests/second |"
+  },
+  {
+    "question": "How many malicious requests has the system prevented per day?",
+    "answer": "over 1 million",
+    "answer_paragraph": "Our rate limiting system has been in place since January 1, 2020, and has been highly effective in preventing abuse and ensuring fair usage of our services. According to our metrics, the system has prevented over 1 million malicious requests per day, with a block rate of 99.9%. As we continue to evolve and improve our rate limiting system, we are committed to providing the highest level of security, performance, and user experience for our users."
+  },
+  {
+    "question": "What is the total number of days that the rate limiting system has been in operation?",
+    "answer": "730 days",
+    "answer_paragraph": "Here are some key statistics about our rate limiting system: \n- The system has been in place for over 2 years, with a total of 730 days of operation. \n- The system has prevented a total of 730 million malicious requests, with a block rate of 99.9%. \n- The system has a capacity of 10,000 requests per second, with a burst capacity of 50,000 requests per second."
+  },
+  {
+    "question": "What is the purpose of IP blocking in the rate limiting system?",
+    "answer": "Prevents excessive requests from a single IP address",
+    "answer_paragraph": "The following table illustrates the security features of our rate limiting system: \n| Feature | Description | \n| --- | --- | \n| IP Blocking | Prevents excessive requests from a single IP address | \n| Rate Limiting | Prevents excessive requests from a single user | \n| Encryption | Encrypts all data in transit to prevent eavesdropping | \n| Authentication | Requires authentication for all requests to prevent unauthorized access |"
+  },
+  {
+    "question": "What is the block rate of the rate limiting system?",
+    "answer": "99.9%",
+    "answer_paragraph": "Our rate limiting system has been in place since January 1, 2020, and has been highly effective in preventing abuse and ensuring fair usage of our services. According to our metrics, the system has prevented over 1 million malicious requests per day, with a block rate of 99.9%. As we continue to evolve and improve our rate limiting system, we are committed to providing the highest level of security, performance, and user experience for our users."
+  }
+]

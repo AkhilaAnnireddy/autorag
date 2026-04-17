@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the purpose of this guide?",
+    "answer": "The purpose of this guide is to provide a step-by-step walkthrough of setting up a cloud infrastructure using Azure and AWS.",
+    "answer_paragraph": "The purpose of this guide is to provide a step-by-step walkthrough of setting up a cloud infrastructure using Azure and AWS. This guide is intended for IT professionals and system administrators who are responsible for managing and maintaining cloud-based systems. The guide covers the setup of virtual networks, subnets, and security groups, as well as the deployment of virtual machines and databases."
+  },
+  {
+    "question": "What is the pricing for Azure?",
+    "answer": "$0.013 per hour",
+    "answer_paragraph": "Table 1: Cloud Service Providers\n| Provider | Description | Pricing\n| --- | --- | ---\n| Azure | Microsoft's cloud computing platform | $0.013 per hour\n| AWS | Amazon's cloud computing platform | $0.02 per hour"
+  },
+  {
+    "question": "How many virtual networks are recommended for a small-sized business?",
+    "answer": "2",
+    "answer_paragraph": "Table 2: Recommended Architecture\n| Component | Description | Quantity\n| --- | --- | ---\n| Virtual Networks | Isolated networks for resources | 2\n| Subnets | Subdivisions of virtual networks | 4\n| Security Groups | Sets of rules for network traffic | 3"
+  },
+  {
+    "question": "What is the estimated time required to create a new virtual network in Azure?",
+    "answer": "10 minutes",
+    "answer_paragraph": "Table 3: Azure Setup and Configuration\n| Step | Description | Estimated Time\n| --- | --- | ---\n| Create Virtual Network | Create a new virtual network | 10 minutes\n| Create Subnet | Create a new subnet | 5 minutes\n| Create Security Group | Create a new security group | 10 minutes"
+  },
+  {
+    "question": "What is the deployment option for Azure?",
+    "answer": "Azure Virtual Machines",
+    "answer_paragraph": "Table 5: Deployment Options\n| Provider | Deployment Option | Description\n| --- | --- | ---\n| Azure | Azure Virtual Machines | Deploy virtual machines\n| AWS | AWS EC2 | Deploy virtual machines"
+  },
+  {
+    "question": "What is the security requirement for Azure?",
+    "answer": "Azure Security Center",
+    "answer_paragraph": "Table 6: Security and Compliance Requirements\n| Provider | Requirement | Description\n| --- | --- | ---\n| Azure | Azure Security Center | Monitor and protect resources\n| AWS | AWS IAM | Manage access and identity"
+  },
+  {
+    "question": "When was the company's cloud infrastructure policy last updated?",
+    "answer": "December 2021",
+    "answer_paragraph": "Our company's cloud infrastructure policy requires that all cloud-based systems be monitored and protected by a security center, such as Azure Security Center or AWS IAM. We will also be implementing a set of rules for network traffic, including security groups and access controls. The following table outlines the company's cloud infrastructure policy.\n\nTable 8: Cloud Infrastructure Policy\n| Policy | Description\n| --- | ---\n| Security | Monitor and protect resources\n| Compliance | Manage access and identity\n\nThe company's cloud infrastructure policy was last updated on December 2021, and it is reviewed and updated annually."
+  },
+  {
+    "question": "What is the compliance requirement for Azure?",
+    "answer": "HIPAA",
+    "answer_paragraph": "Table 9: Compliance Requirements\n| Provider | Requirement | Description\n| --- | --- | ---\n| Azure | HIPAA | Compliant with healthcare regulations\n| AWS | PCI-DSS | Compliant with payment card industry regulations"
+  },
+  {
+    "question": "When is the next security audit scheduled?",
+    "answer": "March 2022",
+    "answer_paragraph": "In order to ensure compliance with the company's cloud infrastructure policy, we will be conducting regular security audits and risk assessments. The following table outlines the security audit and risk assessment schedule.\n\nTable 10: Security Audit and Risk Assessment Schedule\n| Date | Description\n| --- | ---\n| March 2022 | Conduct security audit\n| June 2022 | Conduct risk assessment"
+  },
+  {
+    "question": "Who is leading the project?",
+    "answer": "John Smith",
+    "answer_paragraph": "As of February 2022, the pricing for Azure and AWS is as follows: Azure pricing starts at $0.013 per hour, while AWS pricing starts at $0.02 per hour. Our team, led by John Smith, has been working on this project since January 2022, and we expect to complete it by the end of March 2022."
+  }
+]

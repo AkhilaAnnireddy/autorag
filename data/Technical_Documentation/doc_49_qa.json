@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the purpose of the disaster recovery plan for NovaTech Inc.?",
+    "answer": "The purpose of this disaster recovery plan is to ensure the continuity of NovaTech Inc.'s business operations in the event of a disaster.",
+    "answer_paragraph": "Introduction\nThe purpose of this disaster recovery plan is to ensure the continuity of NovaTech Inc.'s business operations in the event of a disaster. This plan outlines the procedures to be followed in the event of a disaster, including the restoration of critical systems and the recovery of data. The plan is based on the assumption that a disaster may occur at any time, and that it is essential to be prepared to respond quickly and effectively."
+  },
+  {
+    "question": "Who is the IT Manager at NovaTech Inc.?",
+    "answer": "John Smith",
+    "answer_paragraph": "Table 1: Disaster Recovery Team\n| Name | Title | Contact Information |\n| --- | --- | --- |\n| John Smith | IT Manager | (123) 456-7890, john.smith@novatech.com |\n| Jane Doe | Network Administrator | (987) 654-3210, jane.doe@novatech.com |\n| Bob Johnson | Data Center Manager | (555) 123-4567, bob.johnson@novatech.com |"
+  },
+  {
+    "question": "What is the backup frequency for the email system?",
+    "answer": "Daily",
+    "answer_paragraph": "Table 3: Backup Schedule\n| System | Backup Frequency | Backup Type |\n| --- | --- | --- |\n| Email | Daily | Disk |\n| File Server | Weekly | Tape |\n| Database | Daily | Disk |"
+  },
+  {
+    "question": "Who is responsible for data restoration?",
+    "answer": "Bob Johnson",
+    "answer_paragraph": "Table 4: Data Recovery Procedures\n| Procedure | Description | Responsible Person |\n| --- | --- | --- |\n| 1. Data Restoration | Restore data from backups | Bob Johnson |\n| 2. Data Verification | Verify the integrity of the restored data | Jane Doe |\n| 3. System Recovery | Recover the systems and applications | John Smith |"
+  },
+  {
+    "question": "What type of firewall is used in the network infrastructure?",
+    "answer": "Cisco ASA 5520",
+    "answer_paragraph": "Table 5: Network Infrastructure\n| Component | Description | Location |\n| --- | --- | --- |\n| Router | Cisco 3845 | Data Center |\n| Switch | Cisco 2960 | Data Center |\n| Firewall | Cisco ASA 5520 | Data Center |"
+  },
+  {
+    "question": "What is the frequency of the tabletop exercise?",
+    "answer": "Quarterly",
+    "answer_paragraph": "Table 7: Testing Schedule\n| Test | Frequency | Description |\n| --- | --- | --- |\n| Tabletop Exercise | Quarterly | Review of the disaster recovery plan |\n| Simulation Exercise | Bi-Annually | Simulation of a disaster scenario |\n| Full-Scale Exercise | Annually | Full-scale test of the disaster recovery plan |"
+  },
+  {
+    "question": "Who is the Network Administrator at NovaTech Inc.?",
+    "answer": "Jane Doe",
+    "answer_paragraph": "Table 1: Disaster Recovery Team\n| Name | Title | Contact Information |\n| --- | --- | --- |\n| John Smith | IT Manager | (123) 456-7890, john.smith@novatech.com |\n| Jane Doe | Network Administrator | (987) 654-3210, jane.doe@novatech.com |\n| Bob Johnson | Data Center Manager | (555) 123-4567, bob.johnson@novatech.com |"
+  },
+  {
+    "question": "What is the location of the email server?",
+    "answer": "Data Center",
+    "answer_paragraph": "Table 6: Server Infrastructure\n| Server | Description | Location |\n| --- | --- | --- |\n| Email Server | Microsoft Exchange 2010 | Data Center |\n| File Server | Microsoft Windows 2008 | Data Center |\n| Database Server | Oracle 11g | Data Center |"
+  },
+  {
+    "question": "What is the description of the data verification procedure?",
+    "answer": "Verify the integrity of the restored data",
+    "answer_paragraph": "Table 4: Data Recovery Procedures\n| Procedure | Description | Responsible Person |\n| --- | --- | --- |\n| 1. Data Restoration | Restore data from backups | Bob Johnson |\n| 2. Data Verification | Verify the integrity of the restored data | Jane Doe |\n| 3. System Recovery | Recover the systems and applications | John Smith |"
+  },
+  {
+    "question": "What is the frequency of the full-scale exercise?",
+    "answer": "Annually",
+    "answer_paragraph": "Table 7: Testing Schedule\n| Test | Frequency | Description |\n| --- | --- | --- |\n| Tabletop Exercise | Quarterly | Review of the disaster recovery plan |\n| Simulation Exercise | Bi-Annually | Simulation of a disaster scenario |\n| Full-Scale Exercise | Annually | Full-scale test of the disaster recovery plan |"
+  }
+]

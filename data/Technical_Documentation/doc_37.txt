@@ -1,0 +1,100 @@
+
+   <h1>CI/CD Pipeline Setup Guide</h1>
+   <p>The purpose of this guide is to walk developers through the process of setting up a Continuous Integration/Continuous Deployment (CI/CD) pipeline for the fictional company, <b>GreenTech Inc.</b>, using <b>Jenkins</b> and <b>Docker</b>. The pipeline will be used to automate the build, test, and deployment of the company's flagship application, <b>EcoTracker</b>.</p>
+   <h2>Prerequisites</h2>
+   <table>
+      <tr>
+         <th>Tool</th>
+         <th>Version</th>
+         <th>Description</th>
+      </tr>
+      <tr>
+         <td>Jenkins</td>
+         <td>2.303</td>
+         <td>Automation server for building, testing, and deploying applications</td>
+      </tr>
+      <tr>
+         <td>Docker</td>
+         <td>20.10.7</td>
+         <td>Containerization platform for deploying applications</td>
+      </tr>
+      <tr>
+         <td>Git</td>
+         <td>2.34.1</td>
+         <td>Version control system for managing code changes</td>
+      </tr>
+   </table>
+   <p>Before setting up the CI/CD pipeline, ensure that you have the following tools installed: Jenkins 2.303, Docker 20.10.7, and Git 2.34.1. These versions are specified in the company's <b>IT Policy Document</b>, dated <b>February 10, 2022</b>.</p>
+   <h2>Pipeline Configuration</h2>
+   <table>
+      <tr>
+         <th>Stage</th>
+         <th>Description</th>
+         <th>Duration</th>
+      </tr>
+      <tr>
+         <td>Build</td>
+         <td>Compile and package the EcoTracker application</td>
+         <td>5 minutes</td>
+      </tr>
+      <tr>
+         <td>Test</td>
+         <td>Run unit tests and integration tests for the EcoTracker application</td>
+         <td>10 minutes</td>
+      </tr>
+      <tr>
+         <td>Deploy</td>
+         <td>Deploy the EcoTracker application to the production environment</td>
+         <td>3 minutes</td>
+      </tr>
+   </table>
+   <p>The CI/CD pipeline will consist of three stages: Build, Test, and Deploy. The Build stage will compile and package the EcoTracker application, taking approximately <b>5 minutes</b> to complete. The Test stage will run unit tests and integration tests, taking around <b>10 minutes</b> to finish. Finally, the Deploy stage will deploy the application to the production environment, taking about <b>3 minutes</b> to complete.</p>
+   <h2>Deployment Environment</h2>
+   <table>
+      <tr>
+         <th>Environment</th>
+         <th>Server</th>
+         <th>IP Address</th>
+      </tr>
+      <tr>
+         <td>Development</td>
+         <td>dev-server</td>
+         <td>192.168.1.100</td>
+      </tr>
+      <tr>
+         <td>Staging</td>
+         <td>stg-server</td>
+         <td>192.168.1.101</td>
+      </tr>
+      <tr>
+         <td>Production</td>
+         <td>prod-server</td>
+         <td>192.168.1.102</td>
+      </tr>
+   </table>
+   <p>The EcoTracker application will be deployed to three different environments: Development, Staging, and Production. Each environment will have its own server and IP address, as specified in the table above. The Development environment will be used for testing and debugging, while the Staging environment will be used for quality assurance and user acceptance testing. The Production environment will be used for the live application, and will be accessible to end-users.</p>
+   <h2>Maintenance and Updates</h2>
+   <table>
+      <tr>
+         <th>Task</th>
+         <th>Frequency</th>
+         <th>Responsibility</th>
+      </tr>
+      <tr>
+         <td>Backup database</td>
+         <td>Daily</td>
+         <td>DBA team</td>
+      </tr>
+      <tr>
+         <td>Update dependencies</td>
+         <td>Weekly</td>
+         <td>Development team</td>
+      </tr>
+      <tr>
+         <td>Run security scans</td>
+         <td>Monthly</td>
+         <td>Security team</td>
+      </tr>
+   </table>
+   <p>To ensure the CI/CD pipeline and the EcoTracker application remain up-to-date and secure, regular maintenance tasks will be performed. The database will be backed up daily by the <b>DBA team</b>, while the development team will update dependencies on a weekly basis. Additionally, the security team will run security scans on a monthly basis to identify and address any potential vulnerabilities.</p>
+   

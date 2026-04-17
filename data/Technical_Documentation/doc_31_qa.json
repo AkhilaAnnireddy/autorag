@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the current version of the NovaTech API?",
+    "answer": "version 2.5",
+    "answer_paragraph": "The REST API reference guide for the fictional company, NovaTech, is a comprehensive resource that outlines the various endpoints, methods, and parameters used to interact with the company's web services. As of February 10, 2023, the API has been updated to version 2.5, which includes new features such as improved error handling and enhanced security measures."
+  },
+  {
+    "question": "Who is the CTO of NovaTech?",
+    "answer": "Rachel Lee",
+    "answer_paragraph": "The REST API reference guide for the fictional company, NovaTech, is a comprehensive resource that outlines the various endpoints, methods, and parameters used to interact with the company's web services. As of February 10, 2023, the API has been updated to version 2.5, which includes new features such as improved error handling and enhanced security measures. According to the company's CTO, Rachel Lee, the updated API is designed to provide a more seamless and efficient experience for developers."
+  },
+  {
+    "question": "What is the maximum number of requests per minute per IP address?",
+    "answer": "100 requests per minute per IP address",
+    "answer_paragraph": "The API uses JSON Web Tokens (JWT) for authentication, which are issued by the authentication service and validated by each subsequent service. The tokens are valid for a period of 30 minutes, after which they must be refreshed. The API also supports rate limiting, with a maximum of 100 requests per minute per IP address."
+  },
+  {
+    "question": "What is the name of the senior developer leading the development team?",
+    "answer": "Michael Kim",
+    "answer_paragraph": "The company's development team, led by Senior Developer, Michael Kim, has implemented a number of best practices to ensure the security and integrity of the API."
+  },
+  {
+    "question": "What is the maximum response time for the support team?",
+    "answer": "within a maximum of 2 hours",
+    "answer_paragraph": "The API is supported by a dedicated team, which provides assistance with integration, troubleshooting, and optimization. The team is available via email, phone, and live chat, and responds to inquiries within a maximum of 2 hours."
+  },
+  {
+    "question": "How many developers have used the API as of March 15, 2023?",
+    "answer": "over 500 developers",
+    "answer_paragraph": "As of March 15, 2023, the API has been used by over 500 developers, who have built a range of applications, including mobile apps, web applications, and IoT devices."
+  },
+  {
+    "question": "What is the scheduled release date for the next major API update?",
+    "answer": "June 2023",
+    "answer_paragraph": "The company plans to continue to evolve and improve the API, with new features and enhancements scheduled for release in the coming months. According to the company's roadmap, the next major release is scheduled for June 2023, and will include support for GraphQL and gRPC."
+  },
+  {
+    "question": "What is the minimum uptime guarantee for the API?",
+    "answer": "99.99%",
+    "answer_paragraph": "The API is designed to be highly available and scalable, with a minimum uptime of 99.99%. The company uses a range of monitoring tools to track the performance and availability of the API, and has implemented a comprehensive incident response plan to handle any issues that may arise."
+  },
+  {
+    "question": "What standard has the API been certified as compliant with as of April 1, 2023?",
+    "answer": "OpenAPI Specification",
+    "answer_paragraph": "As of April 1, 2023, the API has been certified as compliant with the OpenAPI Specification, which provides a standardized framework for building and documenting APIs."
+  },
+  {
+    "question": "What type of tokens are used for authentication by the API?",
+    "answer": "JSON Web Tokens (JWT)",
+    "answer_paragraph": "The API uses JSON Web Tokens (JWT) for authentication, which are issued by the authentication service and validated by each subsequent service."
+  }
+]

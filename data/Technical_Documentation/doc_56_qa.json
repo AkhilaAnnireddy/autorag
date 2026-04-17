@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the primary benefit of using the GraphQL API?",
+    "answer": "Reduced overhead: By only requesting the data they need, developers can reduce the amount of data transferred and improve performance.",
+    "answer_paragraph": "Introduction to GraphQL API * Overview: Our GraphQL API is designed to provide a flexible and efficient way to interact with our data, allowing developers to request specific data and receive only the data they need. * Benefits: * Reduced overhead: By only requesting the data they need, developers can reduce the amount of data transferred and improve performance. * Improved flexibility: Our GraphQL API allows developers to request data in a variety of formats, including JSON, XML, and CSV. * Enhanced security: Our GraphQL API includes robust security features, including authentication and authorization, to ensure that data is only accessible to authorized users."
+  },
+  {
+    "question": "Who are the members of the GraphQL API team?",
+    "answer": "John Smith, Jane Doe, and Bob Johnson",
+    "answer_paragraph": "Introduction to GraphQL API * Overview: Our GraphQL API is designed to provide a flexible and efficient way to interact with our data, allowing developers to request specific data and receive only the data they need. * Benefits: * Reduced overhead: By only requesting the data they need, developers can reduce the amount of data transferred and improve performance. * Improved flexibility: Our GraphQL API allows developers to request data in a variety of formats, including JSON, XML, and CSV. * Enhanced security: Our GraphQL API includes robust security features, including authentication and authorization, to ensure that data is only accessible to authorized users. * History: Our GraphQL API was first released on January 1, 2020, and has since undergone several updates and improvements, including the addition of new features and bug fixes. * Team: Our GraphQL API is maintained by a team of experienced developers, including John Smith, Jane Doe, and Bob Johnson."
+  },
+  {
+    "question": "What are the prerequisites for getting started with the GraphQL API?",
+    "answer": "Node.js version 14.17.0 or higher, npm version 6.14.13 or higher, and a code editor or IDE",
+    "answer_paragraph": "Getting Started * Prerequisites: * Node.js version 14.17.0 or higher * npm version 6.14.13 or higher * A code editor or IDE, such as Visual Studio Code or IntelliJ IDEA"
+  },
+  {
+    "question": "What is the purpose of the `users` endpoint?",
+    "answer": "Returns a list of all users",
+    "answer_paragraph": "API Endpoints * Users: * `users`: Returns a list of all users * `user(id: ID!)`: Returns a single user by ID * `createUser(name: String!, email: String!)`: Creates a new user * `updateUser(id: ID!, name: String, email: String)`: Updates an existing user * `deleteUser(id: ID!)`: Deletes a user"
+  },
+  {
+    "question": "What are the available roles in the GraphQL API?",
+    "answer": "ADMIN, MODERATOR, and USER",
+    "answer_paragraph": "Schema * Enums: * `Role`: Represents a user role * `ADMIN` * `MODERATOR` * `USER`"
+  },
+  {
+    "question": "How long does the GraphQL API retain data?",
+    "answer": "365 days",
+    "answer_paragraph": "Policies * Data Retention: Our GraphQL API retains data for a period of 365 days, after which it is automatically deleted."
+  },
+  {
+    "question": "What is the purpose of the `client.query` method?",
+    "answer": "Querying the API for a list of users",
+    "answer_paragraph": "Getting Started * Example Use Case: * Querying the API for a list of users: `client.query({ query: '{ users { id name email } }' }).then(result => console.log(result.data.users))`"
+  },
+  {
+    "question": "What is the authentication mechanism used by the GraphQL API?",
+    "answer": "JSON Web Tokens (JWT)",
+    "answer_paragraph": "Policies * Authentication: Our GraphQL API uses JSON Web Tokens (JWT) for authentication, which are issued to users after a successful login."
+  },
+  {
+    "question": "How can I enable debug logging for the GraphQL API?",
+    "answer": "By setting the `DEBUG` environment variable to `true`",
+    "answer_paragraph": "Troubleshooting * Debugging: * Enable debug logging by setting the `DEBUG` environment variable to `true`. * Use a tool like GraphQL Debugger to inspect and debug GraphQL queries."
+  },
+  {
+    "question": "What is the version of the GraphQL API that added support for JSON Web Tokens (JWT) authentication?",
+    "answer": "Version 1.1.0",
+    "answer_paragraph": "Troubleshooting * Release Notes: * Version 1.0.0: Initial release of the GraphQL API. * Version 1.1.0: Added support for JSON Web Tokens (JWT) authentication. * Version 1.2.0: Added support for role-based access control (RBAC) authorization."
+  }
+]

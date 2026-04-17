@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the bandwidth of the wired connections in the network architecture?",
+    "answer": "up to 10 Gbps",
+    "answer_paragraph": "The network architecture for NovaTech Inc. consists of a combination of wired and wireless connections. The wired connections are based on Category 6 (Cat6) cables, which provide a bandwidth of up to 10 Gbps. The wireless connections are based on the 802.11ax standard, which provides a bandwidth of up to 9.6 Gbps. The network architecture is designed to support a maximum of 500 devices, including computers, printers, and mobile devices."
+  },
+  {
+    "question": "What is the model of the switches used in the network architecture?",
+    "answer": "Cisco WS-C2960X-24TS-L",
+    "answer_paragraph": "The network architecture for NovaTech Inc. consists of a combination of wired and wireless connections. The wired connections are based on Category 6 (Cat6) cables, which provide a bandwidth of up to 10 Gbps. The wireless connections are based on the 802.11ax standard, which provides a bandwidth of up to 9.6 Gbps. The network architecture is designed to support a maximum of 500 devices, including computers, printers, and mobile devices."
+  },
+  {
+    "question": "What is the maximum number of CPU cores supported by the physical servers?",
+    "answer": "48 CPU cores",
+    "answer_paragraph": "The server configuration for NovaTech Inc. consists of a combination of physical and virtual servers. The physical servers are based on the Dell PowerEdge R740, which provides a maximum of 48 CPU cores and 768 GB of RAM. The virtual servers are based on the VMware ESXi 7.0, which provides a maximum of 128 virtual CPUs and 4 TB of RAM."
+  },
+  {
+    "question": "What is the model of the firewalls used in the security configuration?",
+    "answer": "Cisco ASA 5545-X",
+    "answer_paragraph": "The security configuration for NovaTech Inc. consists of a combination of firewalls, intrusion detection systems, and antivirus software. The firewalls are based on the Cisco ASA 5545-X, which provides a maximum of 10 Gbps throughput and supports up to 1000 VPN connections. The intrusion detection systems are based on the Cisco IDS 4500, which provides real-time monitoring and alerting of potential security threats."
+  },
+  {
+    "question": "What is the maximum storage capacity of the local backup solution?",
+    "answer": "100 TB of storage",
+    "answer_paragraph": "The backup and recovery configuration for NovaTech Inc. consists of a combination of local and cloud-based backup solutions. The local backup solution is based on the Veritas NetBackup 8.2, which provides a maximum of 100 TB of storage and supports up to 100 backup jobs. The cloud-based backup solution is based on the Amazon S3, which provides a maximum of 5 TB of storage and supports up to 1000 backup jobs."
+  },
+  {
+    "question": "What is the model of the wireless access points used in the network architecture?",
+    "answer": "Cisco WAP121",
+    "answer_paragraph": "The network architecture for NovaTech Inc. consists of a combination of wired and wireless connections. The wired connections are based on Category 6 (Cat6) cables, which provide a bandwidth of up to 10 Gbps. The wireless connections are based on the 802.11ax standard, which provides a bandwidth of up to 9.6 Gbps. The network architecture is designed to support a maximum of 500 devices, including computers, printers, and mobile devices."
+  },
+  {
+    "question": "What is the maximum number of virtual CPUs supported by the virtual servers?",
+    "answer": "128 virtual CPUs",
+    "answer_paragraph": "The server configuration for NovaTech Inc. consists of a combination of physical and virtual servers. The physical servers are based on the Dell PowerEdge R740, which provides a maximum of 48 CPU cores and 768 GB of RAM. The virtual servers are based on the VMware ESXi 7.0, which provides a maximum of 128 virtual CPUs and 4 TB of RAM."
+  },
+  {
+    "question": "What is the model of the routers used in the network architecture?",
+    "answer": "Cisco ISR4431/K9",
+    "answer_paragraph": "The network architecture for NovaTech Inc. consists of a combination of wired and wireless connections. The wired connections are based on Category 6 (Cat6) cables, which provide a bandwidth of up to 10 Gbps. The wireless connections are based on the 802.11ax standard, which provides a bandwidth of up to 9.6 Gbps. The network architecture is designed to support a maximum of 500 devices, including computers, printers, and mobile devices."
+  },
+  {
+    "question": "What is the maximum storage capacity of the cloud-based backup solution?",
+    "answer": "5 TB of storage",
+    "answer_paragraph": "The backup and recovery configuration for NovaTech Inc. consists of a combination of local and cloud-based backup solutions. The local backup solution is based on the Veritas NetBackup 8.2, which provides a maximum of 100 TB of storage and supports up to 100 backup jobs. The cloud-based backup solution is based on the Amazon S3, which provides a maximum of 5 TB of storage and supports up to 1000 backup jobs."
+  },
+  {
+    "question": "What is the model of the antivirus software used in the security configuration?",
+    "answer": "McAfee Endpoint Security",
+    "answer_paragraph": "The security configuration for NovaTech Inc. consists of a combination of firewalls, intrusion detection systems, and antivirus software. The firewalls are based on the Cisco ASA 5545-X, which provides a maximum of 10 Gbps throughput and supports up to 1000 VPN connections. The intrusion detection systems are based on the Cisco IDS 4500, which provides real-time monitoring and alerting of potential security threats."
+  }
+]

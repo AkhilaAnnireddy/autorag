@@ -1,0 +1,92 @@
+
+   <h1>Deployment Guide for Enterprise Network Infrastructure</h1>
+   <p>This deployment guide is designed to assist IT professionals in setting up and configuring the enterprise network infrastructure for the new headquarters of NovaTech Inc., located at 123 Main Street, Anytown, USA. The guide is based on the company's IT policy, which was last updated on February 10, 2022, and is valid until February 10, 2025.</p>
+   <h2>Network Architecture</h2>
+   <p>The network architecture for NovaTech Inc. consists of a combination of wired and wireless connections. The wired connections are based on Category 6 (Cat6) cables, which provide a bandwidth of up to 10 Gbps. The wireless connections are based on the 802.11ax standard, which provides a bandwidth of up to 9.6 Gbps. The network architecture is designed to support a maximum of 500 devices, including computers, printers, and mobile devices.</p>
+   <table>
+      <tr>
+         <th>Network Component</th>
+         <th>Quantity</th>
+         <th>Model</th>
+      </tr>
+      <tr>
+         <td>Switches</td>
+         <td>10</td>
+         <td>Cisco WS-C2960X-24TS-L</td>
+      </tr>
+      <tr>
+         <td>Routers</td>
+         <td>2</td>
+         <td>Cisco ISR4431/K9</td>
+      </tr>
+      <tr>
+         <td>Wireless Access Points</td>
+         <td>20</td>
+         <td>Cisco WAP121</td>
+      </tr>
+   </table>
+   <h2>Server Configuration</h2>
+   <p>The server configuration for NovaTech Inc. consists of a combination of physical and virtual servers. The physical servers are based on the Dell PowerEdge R740, which provides a maximum of 48 CPU cores and 768 GB of RAM. The virtual servers are based on the VMware ESXi 7.0, which provides a maximum of 128 virtual CPUs and 4 TB of RAM.</p>
+   <table>
+      <tr>
+         <th>Server Type</th>
+         <th>Quantity</th>
+         <th>Model</th>
+      </tr>
+      <tr>
+         <td>Physical Servers</td>
+         <td>5</td>
+         <td>Dell PowerEdge R740</td>
+      </tr>
+      <tr>
+         <td>Virtual Servers</td>
+         <td>10</td>
+         <td>VMware ESXi 7.0</td>
+      </tr>
+   </table>
+   <h2>Security Configuration</h2>
+   <p>The security configuration for NovaTech Inc. consists of a combination of firewalls, intrusion detection systems, and antivirus software. The firewalls are based on the Cisco ASA 5545-X, which provides a maximum of 10 Gbps throughput and supports up to 1000 VPN connections. The intrusion detection systems are based on the Cisco IDS 4500, which provides real-time monitoring and alerting of potential security threats.</p>
+   <table>
+      <tr>
+         <th>Security Component</th>
+         <th>Quantity</th>
+         <th>Model</th>
+      </tr>
+      <tr>
+         <td>Firewalls</td>
+         <td>2</td>
+         <td>Cisco ASA 5545-X</td>
+      </tr>
+      <tr>
+         <td>Intrusion Detection Systems</td>
+         <td>1</td>
+         <td>Cisco IDS 4500</td>
+      </tr>
+      <tr>
+         <td>Antivirus Software</td>
+         <td>1</td>
+         <td>McAfee Endpoint Security</td>
+      </tr>
+   </table>
+   <h2>Backup and Recovery</h2>
+   <p>The backup and recovery configuration for NovaTech Inc. consists of a combination of local and cloud-based backup solutions. The local backup solution is based on the Veritas NetBackup 8.2, which provides a maximum of 100 TB of storage and supports up to 100 backup jobs. The cloud-based backup solution is based on the Amazon S3, which provides a maximum of 5 TB of storage and supports up to 1000 backup jobs.</p>
+   <table>
+      <tr>
+         <th>Backup Component</th>
+         <th>Quantity</th>
+         <th>Model</th>
+      </tr>
+      <tr>
+         <td>Local Backup Solution</td>
+         <td>1</td>
+         <td>Veritas NetBackup 8.2</td>
+      </tr>
+      <tr>
+         <td>Cloud-Based Backup Solution</td>
+         <td>1</td>
+         <td>Amazon S3</td>
+      </tr>
+   </table>
+   <h2>Conclusion</h2>
+   <p>In conclusion, the deployment guide for NovaTech Inc.'s enterprise network infrastructure provides a comprehensive overview of the network architecture, server configuration, security configuration, and backup and recovery configuration. The guide is designed to assist IT professionals in setting up and configuring the network infrastructure, and provides a detailed overview of the hardware and software components required.</p>
+   

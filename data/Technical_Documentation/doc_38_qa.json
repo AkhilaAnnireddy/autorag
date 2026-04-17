@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the name of the company's Chief Information Security Officer (CISO)?",
+    "answer": "John Smith",
+    "answer_paragraph": "The security hardening guide is a comprehensive document that outlines the necessary steps to secure a company's network and systems from potential threats. According to the company's security policy, all employees are required to follow the guidelines set forth in this document. As stated by John Smith, the company's Chief Information Security Officer (CISO), 'the security of our systems and data is of the utmost importance, and it is every employee's responsibility to ensure that they are taking the necessary steps to protect them.'"
+  },
+  {
+    "question": "What is the name of the firewall used by the company?",
+    "answer": "Cisco ASA 5506-X",
+    "answer_paragraph": "The company's network is protected by a Cisco ASA 5506-X firewall, which is configured to block all incoming traffic by default. The following are some of the key features of the firewall: "
+  },
+  {
+    "question": "What is the length of passwords required by the company's password policy?",
+    "answer": "at least 12 characters",
+    "answer_paragraph": "The company's password policy requires all employees to use strong passwords that are at least 12 characters in length and include a mix of uppercase and lowercase letters, numbers, and special characters. The company's password policy is as follows: "
+  },
+  {
+    "question": "What is the name of the data center where the company's data is stored?",
+    "answer": "not specified",
+    "answer_paragraph": "The company's data is stored in a secure data center, which is protected by a number of physical security measures, including cameras, motion detectors, and alarms. The data center is also equipped with a fire suppression system, which is designed to prevent damage to the company's systems and data in the event of a fire."
+  },
+  {
+    "question": "What is the name of the security software used by the company to protect its systems?",
+    "answer": "Symantec Endpoint Protection",
+    "answer_paragraph": "The company's systems are also protected by Symantec Endpoint Protection, which provides real-time protection against malware and other types of threats. The software is updated daily, and all updates are tested thoroughly before they are deployed to the company's systems."
+  },
+  {
+    "question": "What is the frequency of password changes required by the company's password policy?",
+    "answer": "every 60 days",
+    "answer_paragraph": "The company's password policy requires all employees to use strong passwords that are at least 12 characters in length and include a mix of uppercase and lowercase letters, numbers, and special characters. The company's password policy is as follows: "
+  },
+  {
+    "question": "What is the name of the industry standard used by the company to guide its security hardening?",
+    "answer": "NIST 800-53 and ISO 27001",
+    "answer_paragraph": "The company's security hardening guide is based on a number of industry standards and best practices, including NIST 800-53 and ISO 27001. The guide is designed to provide a comprehensive framework for securing the company's systems and data, and to ensure that the company is in compliance with all relevant laws and regulations."
+  },
+  {
+    "question": "What is the company's compliance status with HIPAA?",
+    "answer": "Compliant",
+    "answer_paragraph": "The following table provides a summary of the company's compliance with relevant laws and regulations: "
+  },
+  {
+    "question": "What is the name of the security awareness training program provided by the company?",
+    "answer": "not specified",
+    "answer_paragraph": "The company's security awareness training program is designed to educate employees on the importance of security and the steps they can take to protect the company's systems and data. The program includes a number of topics, including password security, phishing, and social engineering."
+  },
+  {
+    "question": "What is the frequency of the company's security awareness training program?",
+    "answer": "annually",
+    "answer_paragraph": "The company's security awareness training program is designed to educate employees on the importance of security and the steps they can take to protect the company's systems and data. The program includes a number of topics, including password security, phishing, and social engineering. The program is mandatory for all employees, and is provided annually."
+  }
+]

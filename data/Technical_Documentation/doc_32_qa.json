@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the expected growth rate of the system?",
+    "answer": "20% per year",
+    "answer_paragraph": "* System Overview * The ERP system will be built using a microservices architecture, with each service designed to handle a specific business function, such as accounting, inventory management, and human resources. * The system will be deployed on Amazon Web Services (AWS), utilizing a combination of EC2 instances, RDS databases, and S3 storage. * The system will be designed to handle a minimum of 1000 concurrent users, with a expected growth rate of 20% per year. * The system will be built using a combination of Java, Python, and JavaScript, with a focus on scalability, security, and maintainability."
+  },
+  {
+    "question": "What is the name of the company that the system is designed for?",
+    "answer": "NovaTech Inc.",
+    "answer_paragraph": "System Architecture Document for Cloud-Based Enterprise Resource Planning (ERP) System The following document outlines the system architecture for a cloud-based Enterprise Resource Planning (ERP) system, designed for the fictional company, NovaTech Inc."
+  },
+  {
+    "question": "What is the minimum number of concurrent users that the system is designed to handle?",
+    "answer": "1000",
+    "answer_paragraph": "* System Overview * The ERP system will be built using a microservices architecture, with each service designed to handle a specific business function, such as accounting, inventory management, and human resources. * The system will be deployed on Amazon Web Services (AWS), utilizing a combination of EC2 instances, RDS databases, and S3 storage. * The system will be designed to handle a minimum of 1000 concurrent users, with a expected growth rate of 20% per year. * The system will be built using a combination of Java, Python, and JavaScript, with a focus on scalability, security, and maintainability."
+  },
+  {
+    "question": "What is the name of the team lead for system maintenance and support?",
+    "answer": "John Smith",
+    "answer_paragraph": "* System Maintenance and Support * The system will be maintained and supported by a team of five engineers, led by John Smith, with a focus on ensuring system uptime and resolving issues in a timely manner."
+  },
+  {
+    "question": "What is the minimum level of encryption required for the system?",
+    "answer": "128-bit",
+    "answer_paragraph": "* System Security * The system will be designed with security in mind, with a focus on protecting sensitive data and preventing unauthorized access. * The system will utilize SSL/TLS encryption for all communication, with a minimum of 128-bit encryption."
+  },
+  {
+    "question": "What is the expected completion date for Phase 1 of the system deployment?",
+    "answer": "February 28, 2024",
+    "answer_paragraph": "* System Deployment * The system will be deployed in three phases, over a period of six months, starting from January 1, 2024. * Phase 1: Deployment of the UI and Application Server, expected to be completed by February 28, 2024."
+  },
+  {
+    "question": "What is the name of the database management system used by the system?",
+    "answer": "MySQL",
+    "answer_paragraph": "* System Components * The system will consist of the following components: 1. User Interface (UI) - built using React and JavaScript, with a responsive design to accommodate various devices and screen sizes. 2. Application Server - built using Java and Spring Boot, with a focus on scalability and performance. 3. Database Server - built using MySQL and RDS, with a focus on data security and reliability."
+  },
+  {
+    "question": "What is the name of the cloud platform used by the system?",
+    "answer": "Amazon Web Services (AWS)",
+    "answer_paragraph": "* System Overview * The ERP system will be built using a microservices architecture, with each service designed to handle a specific business function, such as accounting, inventory management, and human resources. * The system will be deployed on Amazon Web Services (AWS), utilizing a combination of EC2 instances, RDS databases, and S3 storage."
+  },
+  {
+    "question": "What is the expected completion date for the entire system deployment?",
+    "answer": "June 30, 2024",
+    "answer_paragraph": "* System Deployment * The system will be deployed in three phases, over a period of six months, starting from January 1, 2024. * Phase 1: Deployment of the UI and Application Server, expected to be completed by February 28, 2024. * Phase 2: Deployment of the Database Server and Storage Server, expected to be completed by April 30, 2024. * Phase 3: Deployment of the Security Server and final testing, expected to be completed by June 30, 2024."
+  },
+  {
+    "question": "What is the name of the regulation that the system is compliant with, regarding data protection?",
+    "answer": "General Data Protection Regulation (GDPR)",
+    "answer_paragraph": "* System Security * The system will be designed with security in mind, with a focus on protecting sensitive data and preventing unauthorized access. * The system will utilize SSL/TLS encryption for all communication, with a minimum of 128-bit encryption. * The system will be compliant with the General Data Protection Regulation (GDPR) and the Payment Card Industry Data Security Standard (PCI-DSS)."
+  }
+]

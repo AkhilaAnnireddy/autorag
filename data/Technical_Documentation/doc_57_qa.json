@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the release date of the initial version of the WebSocket protocol?",
+    "answer": "December 2011",
+    "answer_paragraph": "Table 1: WebSocket Protocol Versions\n-----------------------------------\n| Version | Release Date | Description |\n| --- | --- | --- |\n| RFC 6455 | December 2011 | The initial version of the WebSocket protocol |"
+  },
+  {
+    "question": "What are the advantages of using WebSocket?",
+    "answer": "Lower Latency, Better Performance, Increased Scalability",
+    "answer_paragraph": "Table 2: Advantages of WebSocket\n-------------------------------\n| Advantage | Description |\n| --- | --- |\n| Lower Latency | WebSocket enables real-time communication, reducing the latency associated with traditional HTTP requests |\n| Better Performance | WebSocket reduces the overhead associated with establishing and closing connections, resulting in better performance |\n| Increased Scalability | WebSocket enables servers to handle a large number of concurrent connections, making it ideal for large-scale applications |"
+  },
+  {
+    "question": "What are the steps involved in implementing WebSocket?",
+    "answer": "Step 1: Set up a WebSocket Server, Step 2: Establish a Connection, Step 3: Handle Messages",
+    "answer_paragraph": "Table 3: Implementing WebSocket\n--------------------------------\n| Step | Description |\n| --- | --- |\n| Step 1: Set up a WebSocket Server | Set up a WebSocket server using a library such as Node.js or Python |\n| Step 2: Establish a Connection | Establish a connection between the client and server using the WebSocket protocol |\n| Step 3: Handle Messages | Handle messages sent between the client and server using the WebSocket protocol |"
+  },
+  {
+    "question": "What libraries can be used to implement WebSocket?",
+    "answer": "Node.js, Python, Java",
+    "answer_paragraph": "Table 4: WebSocket Libraries\n---------------------------\n| Library | Language | Description |\n| --- | --- | --- |\n| Node.js | JavaScript | A popular library for implementing WebSocket in Node.js |\n| Python | Python | A library for implementing WebSocket in Python |\n| Java | Java | A library for implementing WebSocket in Java |"
+  },
+  {
+    "question": "What are the best practices for WebSocket integration?",
+    "answer": "Use Secure Connections, Handle Disconnections, Monitor Performance",
+    "answer_paragraph": "Table 5: Best Practices for WebSocket Integration\n------------------------------------------------\n| Best Practice | Description |\n| --- | --- |\n| Use Secure Connections | Use secure connections (wss) to protect data sent between the client and server |\n| Handle Disconnections | Handle disconnections and connection timeouts to ensure a seamless user experience |\n| Monitor Performance | Monitor performance and latency to ensure optimal application performance |"
+  },
+  {
+    "question": "When did the WebSocket integration project kick off?",
+    "answer": "January 2022",
+    "answer_paragraph": "Table 6: WebSocket Integration Timeline\n---------------------------------------\n| Date | Milestone | Description |\n| --- | --- | --- |\n| January 2022 | Project Kickoff | The WebSocket integration project kicked off on January 2022 |\n| March 2022 | Server Setup | The WebSocket server was set up in March 2022 |\n| June 2022 | Client Implementation | The client-side implementation was completed in June 2022 |"
+  },
+  {
+    "question": "What is the description of the initial version of the WebSocket protocol?",
+    "answer": "The initial version of the WebSocket protocol",
+    "answer_paragraph": "Table 1: WebSocket Protocol Versions\n-----------------------------------\n| Version | Release Date | Description |\n| --- | --- | --- |\n| RFC 6455 | December 2011 | The initial version of the WebSocket protocol |"
+  },
+  {
+    "question": "What is the advantage of using WebSocket in terms of latency?",
+    "answer": "Lower Latency",
+    "answer_paragraph": "Table 2: Advantages of WebSocket\n-------------------------------\n| Advantage | Description |\n| --- | --- |\n| Lower Latency | WebSocket enables real-time communication, reducing the latency associated with traditional HTTP requests |"
+  },
+  {
+    "question": "What is the library used to implement WebSocket in JavaScript?",
+    "answer": "Node.js",
+    "answer_paragraph": "Table 4: WebSocket Libraries\n---------------------------\n| Library | Language | Description |\n| --- | --- | --- |\n| Node.js | JavaScript | A popular library for implementing WebSocket in Node.js |"
+  },
+  {
+    "question": "What is the best practice for handling disconnections in WebSocket integration?",
+    "answer": "Handle disconnections and connection timeouts to ensure a seamless user experience",
+    "answer_paragraph": "Table 5: Best Practices for WebSocket Integration\n------------------------------------------------\n| Best Practice | Description |\n| --- | --- |\n| Handle Disconnections | Handle disconnections and connection timeouts to ensure a seamless user experience |"
+  }
+]

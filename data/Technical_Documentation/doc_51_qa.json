@@ -1,0 +1,52 @@
+[
+  {
+    "question": "When did NovaTech start using the service mesh to manage their microservices architecture?",
+    "answer": "2020",
+    "answer_paragraph": "The service mesh is a configurable infrastructure layer for microservices applications that makes it easy to manage service discovery, traffic management, and security. At NovaTech, we have been using the service mesh to manage our microservices architecture since 2020, and it has been instrumental in improving the reliability and scalability of our applications."
+  },
+  {
+    "question": "Who leads the team of engineers dedicated to managing the service mesh at NovaTech?",
+    "answer": "Rachel Lee",
+    "answer_paragraph": "Our service mesh is built using Istio, an open-source platform that provides a robust set of features for managing microservices. We have a team of engineers dedicated to managing the service mesh, led by our technical lead, Rachel Lee, who has over 10 years of experience in designing and implementing microservices architectures."
+  },
+  {
+    "question": "What is the average latency of the service mesh at NovaTech?",
+    "answer": "50 milliseconds",
+    "answer_paragraph": "The service mesh has been configured to handle over 10,000 requests per second, with an average latency of 50 milliseconds."
+  },
+  {
+    "question": "What tools does NovaTech use for monitoring and logging the service mesh?",
+    "answer": "Prometheus and Grafana",
+    "answer_paragraph": "We have also implemented a robust monitoring and logging system, using tools such as Prometheus and Grafana, to ensure that we can quickly identify and resolve any issues that may arise."
+  },
+  {
+    "question": "What policy has NovaTech implemented for encrypting traffic between services?",
+    "answer": "mutual TLS",
+    "answer_paragraph": "We have implemented a policy of encrypting all traffic between services, using mutual TLS, and we have also implemented a robust access control system, using role-based access control."
+  },
+  {
+    "question": "What is the maximum data loss allowed by the disaster recovery system at NovaTech?",
+    "answer": "1 hour",
+    "answer_paragraph": "The disaster recovery system is designed to ensure that we can recover from a disaster within 4 hours, with a maximum data loss of 1 hour."
+  },
+  {
+    "question": "What is the expected number of requests per second that NovaTech will handle by the end of 2024?",
+    "answer": "50,000 requests per second",
+    "answer_paragraph": "According to our projections, we expect to handle over 50,000 requests per second by the end of 2024, and we are confident that the service mesh will be able to handle this increased traffic."
+  },
+  {
+    "question": "What is the name of the open-source platform used to build the service mesh at NovaTech?",
+    "answer": "Istio",
+    "answer_paragraph": "Our service mesh is built using Istio, an open-source platform that provides a robust set of features for managing microservices."
+  },
+  {
+    "question": "How many years of experience does Rachel Lee have in designing and implementing microservices architectures?",
+    "answer": "10 years",
+    "answer_paragraph": "We have a team of engineers dedicated to managing the service mesh, led by our technical lead, Rachel Lee, who has over 10 years of experience in designing and implementing microservices architectures."
+  },
+  {
+    "question": "What year did the General Data Protection Regulation (GDPR) come into effect?",
+    "answer": "2018",
+    "answer_paragraph": "The service mesh has been a key factor in our ability to meet the requirements of the General Data Protection Regulation (GDPR), which came into effect in 2018."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is leading the migration process?",
+    "answer": "The migration process will be led by the IT department, with support from the data analytics team.",
+    "answer_paragraph": "Introduction"
+  },
+  {
+    "question": "What is the expected completion date of the migration?",
+    "answer": "March 15, 2024",
+    "answer_paragraph": "Introduction"
+  },
+  {
+    "question": "What tools will be used for data extraction?",
+    "answer": "MySQL",
+    "answer_paragraph": "Migration Process"
+  },
+  {
+    "question": "What is the purpose of the pre-migration checklist?",
+    "answer": "The following tasks must be completed before the migration can begin: 1. Backup all data from the legacy system 2. Verify that all data is consistent and up-to-date 3. Identify and document any data validation rules 4. Develop a plan for data transformation and mapping 5. Test the migration process using a small subset of data",
+    "answer_paragraph": "Pre-Migration Checklist"
+  },
+  {
+    "question": "Who are the personnel involved in the migration process?",
+    "answer": "John Smith, IT Manager, Jane Doe, Data Analyst, Bob Johnson, Cloud Engineer",
+    "answer_paragraph": "Introduction"
+  },
+  {
+    "question": "What are the metrics used to measure the success of the migration?",
+    "answer": "Data quality: measured by the number of errors or inconsistencies in the data, System performance: measured by the response time and throughput of the system, User adoption: measured by the number of users who are actively using the new system",
+    "answer_paragraph": "Post-Migration Checklist"
+  },
+  {
+    "question": "What is the expected duration of the migration process?",
+    "answer": "approximately 30 days",
+    "answer_paragraph": "Conclusion"
+  },
+  {
+    "question": "What is the purpose of the post-migration checklist?",
+    "answer": "The following tasks must be completed after the migration is complete: 1. Verify that all data has been migrated correctly 2. Test the new system to ensure that it is functioning as expected 3. Update all documentation and training materials to reflect the changes 4. Provide training and support to end-users 5. Monitor the system for any issues or errors",
+    "answer_paragraph": "Post-Migration Checklist"
+  },
+  {
+    "question": "What software will be used for data transformation?",
+    "answer": "Python 3.9",
+    "answer_paragraph": "Migration Process"
+  },
+  {
+    "question": "What is the start date of the migration process?",
+    "answer": "February 15, 2024",
+    "answer_paragraph": "Introduction"
+  }
+]
