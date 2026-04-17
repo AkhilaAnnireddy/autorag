@@ -1,52 +1,52 @@
 [
   {
-    "question": "What is the title of the proposed project?",
-    "answer": "EcoPower",
-    "answer_paragraph": "Our company, GreenTech Inc., is pleased to submit this project proposal for the development of a sustainable energy system. The proposed project, titled 'EcoPower,' aims to design and implement a renewable energy solution that reduces carbon emissions and promotes energy efficiency."
+    "question": "What was the revenue for XYZ Corporation in 2022?",
+    "answer": "$10,000,000",
+    "answer_paragraph": "Table 1: Financial Highlights\n| Category | 2022 | 2021 |\n| --- | --- | --- |\n| Revenue | $10,000,000 | $8,000,000 |\n| Net Income | $2,000,000 | $1,500,000 |\n| Total Assets | $50,000,000 | $40,000,000 |"
   },
   {
-    "question": "Who will lead the project?",
-    "answer": "Emily Chen",
-    "answer_paragraph": "The project will be led by our CEO, Emily Chen, who has over 10 years of experience in the energy sector."
+    "question": "What is the name of the Senior Auditor who led the audit team?",
+    "answer": "Jane Doe",
+    "answer_paragraph": "Our audit of XYZ Corporation's financial statements for the fiscal year ended December 31, 2022, was conducted in accordance with auditing standards generally accepted in the United States of America. The audit was performed by our team, led by Senior Auditor, Jane Doe."
   },
   {
-    "question": "What is the total budget for the project?",
-    "answer": "$1.5 million",
-    "answer_paragraph": "The total budget for the project is $1.5 million, which will be allocated as follows: $500,000 for personnel, $300,000 for equipment and materials, $200,000 for travel and training, and $500,000 for contingency funds."
+    "question": "What is the description of the material weakness 'Inadequate Internal Controls'?",
+    "answer": "Lack of segregation of duties in the accounting department",
+    "answer_paragraph": "Table 2: Material Weaknesses\n| Weakness | Description | Recommendation |\n| --- | --- | --- |\n| Inadequate Internal Controls | Lack of segregation of duties in the accounting department | Implement additional controls to ensure proper segregation of duties |\n| Inaccurate Financial Reporting | Incorrect accounting for revenue recognition | Review and revise financial reporting policies to ensure compliance with GAAP |"
   },
   {
-    "question": "What is the expected completion date of the project?",
-    "answer": "December 2024",
-    "answer_paragraph": "The project timeline is approximately 24 months, with the following milestones: completion of the feasibility study by December 2023, design and development by June 2024, and implementation and testing by December 2024."
+    "question": "What is the recommendation for the significant deficiency 'Insufficient Audit Evidence'?",
+    "answer": "Maintain detailed records of audit procedures and evidence",
+    "answer_paragraph": "Table 3: Significant Deficiencies\n| Deficiency | Description | Recommendation |\n| --- | --- | --- |\n| Insufficient Audit Evidence | Inadequate documentation of audit procedures | Maintain detailed records of audit procedures and evidence |\n| Untimely Financial Reporting | Delayed submission of financial statements | Establish a timeline for financial reporting to ensure timely submission |"
   },
   {
-    "question": "How will the project be managed?",
-    "answer": "in accordance with our company's policies and procedures",
-    "answer_paragraph": "The project will be managed in accordance with our company's policies and procedures, which are designed to ensure transparency, accountability, and efficiency."
+    "question": "What was the date of the audit planning activity?",
+    "answer": "January 1, 2022",
+    "answer_paragraph": "Table 4: Audit Schedule\n| Date | Activity | Responsible Party |\n| --- | --- | --- |\n| January 1, 2022 | Audit planning | Jane Doe |\n| February 1, 2022 | Fieldwork | John Smith |\n| March 1, 2022 | Report drafting | Jane Doe |"
   },
   {
-    "question": "What is the purpose of the stakeholder engagement plan?",
-    "answer": "to ensure that all stakeholders are informed and involved throughout the project",
-    "answer_paragraph": "The project team will also establish a stakeholder engagement plan to ensure that all stakeholders are informed and involved throughout the project."
+    "question": "Who was responsible for the fieldwork activity?",
+    "answer": "John Smith",
+    "answer_paragraph": "Table 4: Audit Schedule\n| Date | Activity | Responsible Party |\n| --- | --- | --- |\n| January 1, 2022 | Audit planning | Jane Doe |\n| February 1, 2022 | Fieldwork | John Smith |\n| March 1, 2022 | Report drafting | Jane Doe |"
   },
   {
-    "question": "What is the expected impact of the project on the community?",
-    "answer": "create jobs and stimulate local economic growth",
-    "answer_paragraph": "The project will also create jobs and stimulate local economic growth, which will have a positive impact on the community."
+    "question": "What is the title of Bob Johnson in the audit team?",
+    "answer": "Audit Manager",
+    "answer_paragraph": "Table 5: Audit Team\n| Name | Title | Responsibility |\n| --- | --- | --- |\n| Jane Doe | Senior Auditor | Audit lead |\n| John Smith | Auditor | Fieldwork |\n| Bob Johnson | Audit Manager | Oversight |"
   },
   {
-    "question": "What is the company's environmental policy?",
-    "answer": "designed to minimize the impact of our operations on the environment",
-    "answer_paragraph": "The project will be implemented in accordance with our company's environmental policy, which is designed to minimize the impact of our operations on the environment."
+    "question": "What is the recommendation for the material weakness 'Inaccurate Financial Reporting'?",
+    "answer": "Review and revise financial reporting policies to ensure compliance with GAAP",
+    "answer_paragraph": "Table 2: Material Weaknesses\n| Weakness | Description | Recommendation |\n| --- | --- | --- |\n| Inadequate Internal Controls | Lack of segregation of duties in the accounting department | Implement additional controls to ensure proper segregation of duties |\n| Inaccurate Financial Reporting | Incorrect accounting for revenue recognition | Review and revise financial reporting policies to ensure compliance with GAAP |"
   },
   {
-    "question": "How will the project be evaluated?",
-    "answer": "subject to regular audits and evaluations",
-    "answer_paragraph": "The project will be subject to regular audits and evaluations to ensure that it is meeting the stated objectives and is being implemented in accordance with our company's policies and procedures."
+    "question": "What is the description of the significant deficiency 'Untimely Financial Reporting'?",
+    "answer": "Delayed submission of financial statements",
+    "answer_paragraph": "Table 3: Significant Deficiencies\n| Deficiency | Description | Recommendation |\n| --- | --- | --- |\n| Insufficient Audit Evidence | Inadequate documentation of audit procedures | Maintain detailed records of audit procedures and evidence |\n| Untimely Financial Reporting | Delayed submission of financial statements | Establish a timeline for financial reporting to ensure timely submission |"
   },
   {
-    "question": "What is the expected return on investment for the project?",
-    "answer": "significant returns on investment in the years to come",
-    "answer_paragraph": "We believe that the EcoPower project is a valuable investment in the future of our company and the community, and we are confident that it will have a positive impact on the environment and the economy."
+    "question": "What is the total assets of XYZ Corporation in 2022?",
+    "answer": "$50,000,000",
+    "answer_paragraph": "Table 1: Financial Highlights\n| Category | 2022 | 2021 |\n| --- | --- | --- |\n| Revenue | $10,000,000 | $8,000,000 |\n| Net Income | $2,000,000 | $1,500,000 |\n| Total Assets | $50,000,000 | $40,000,000 |"
   }
 ]
