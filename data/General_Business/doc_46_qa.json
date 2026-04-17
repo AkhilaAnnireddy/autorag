@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the expected completion date of the Eclipse project?",
+    "answer": "December 31, 2023",
+    "answer_paragraph": "The development process is expected to commence on April 1, 2023, and is slated for completion by December 31, 2023."
+  },
+  {
+    "question": "What are the key features of the Eclipse software?",
+    "answer": "The key features of Eclipse include a centralized dashboard for real-time monitoring, automated reporting tools, and advanced data analytics capabilities.",
+    "answer_paragraph": "The key features of Eclipse include a centralized dashboard for real-time monitoring, automated reporting tools, and advanced data analytics capabilities. In terms of technical specifications, Eclipse will be built on a cloud-based infrastructure, utilizing Amazon Web Services (AWS) for scalability and reliability."
+  },
+  {
+    "question": "What is the budget allocated for the planning phase of the Eclipse project?",
+    "answer": "$150,000",
+    "answer_paragraph": "The budget allocated for the project is $1.2 million, which will be distributed across the various phases. The breakdown of the budget is as follows: \n   - Planning phase: $150,000"
+  },
+  {
+    "question": "What is the name of the project manager for the Eclipse project?",
+    "answer": "Michael Patel",
+    "answer_paragraph": "Our development team, led by Project Manager, Michael Patel, will be working closely with the quality assurance team to ensure that the software meets the required standards."
+  },
+  {
+    "question": "What is the frequency of software updates for the Eclipse software?",
+    "answer": "Quarterly",
+    "answer_paragraph": "The following table summarizes the maintenance and update plan: \n   | Activity | Frequency |\n   | --- | --- |\n   | Software updates | Quarterly |"
+  },
+  {
+    "question": "What is the name of the project sponsor for the Eclipse project?",
+    "answer": "Jane Smith",
+    "answer_paragraph": "The key stakeholders for the Eclipse project include: \n   - Project sponsor: Jane Smith"
+  },
+  {
+    "question": "What is the risk management plan for the Eclipse project?",
+    "answer": "The risk management plan for Eclipse includes the following: \n   - Risk identification\n   - Risk assessment\n   - Risk mitigation\n   - Risk monitoring",
+    "answer_paragraph": "The risk management plan for Eclipse includes the following: \n   - Risk identification\n   - Risk assessment\n   - Risk mitigation\n   - Risk monitoring"
+  },
+  {
+    "question": "What is the expected duration of the alpha testing stage?",
+    "answer": "six weeks, from September 1, 2023, to October 15, 2023",
+    "answer_paragraph": "The alpha testing stage is expected to last for six weeks, from September 1, 2023, to October 15, 2023, while the beta testing stage will last for eight weeks, from October 16, 2023, to December 10, 2023."
+  },
+  {
+    "question": "What is the name of the CEO who outlined the Eclipse project during the annual general meeting?",
+    "answer": "Rachel Lee",
+    "answer_paragraph": "As outlined by our CEO, Rachel Lee, during the annual general meeting on February 10, 2023, Eclipse is designed to streamline workflow management across various departments within an organization."
+  },
+  {
+    "question": "What is the expected start date of the implementation phase of the Eclipse project?",
+    "answer": "May 1, 2023",
+    "answer_paragraph": "The implementation phase, scheduled to start on May 1, 2023, will involve the actual development of the software, with the testing phase commencing on September 1, 2023."
+  }
+]

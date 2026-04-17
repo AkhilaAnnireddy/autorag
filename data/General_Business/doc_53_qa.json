@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What was the total greenhouse gas emissions in 2020?",
+    "answer": "1000 + 500 + 2000 = 3500",
+    "answer_paragraph": "Table 1: Greenhouse Gas Emissions\n| Category | 2020 | 2021 | 2022 |\n| --- | --- | --- | --- |\n| Scope 1 | 1000 | 950 | 900 |\n| Scope 2 | 500 | 450 | 400 |\n| Scope 3 | 2000 | 1900 | 1800 |"
+  },
+  {
+    "question": "How much did energy consumption decrease from 2020 to 2022?",
+    "answer": "15%",
+    "answer_paragraph": "Our energy consumption has decreased by 15% from 2020 to 2022, as shown in Table 2."
+  },
+  {
+    "question": "What was the total water consumption in 2022?",
+    "answer": "48000",
+    "answer_paragraph": "Table 3: Water Consumption\n| Location | 2020 | 2021 | 2022 |\n| --- | --- | --- | --- |\n| Headquarters | 10000 | 9000 | 8000 |\n| Manufacturing Plant | 50000 | 45000 | 40000 |\n| Total | 60000 | 54000 | 48000 |"
+  },
+  {
+    "question": "How much hazardous waste was generated in 2021?",
+    "answer": "450",
+    "answer_paragraph": "Table 4: Waste Generation\n| Type | 2020 | 2021 | 2022 |\n| --- | --- | --- | --- |\n| Non-Hazardous | 10000 | 9000 | 8000 |\n| Hazardous | 500 | 450 | 400 |\n| Total | 10500 | 9450 | 8400 |"
+  },
+  {
+    "question": "What was the decrease in greenhouse gas emissions from 2020 to 2022?",
+    "answer": "10%",
+    "answer_paragraph": "As shown in Table 1, our greenhouse gas emissions have decreased by 10% from 2020 to 2022."
+  },
+  {
+    "question": "What is the name of the company that published this sustainability report?",
+    "answer": "GreenTech Inc.",
+    "answer_paragraph": "Our company, GreenTech Inc., is committed to reducing its environmental footprint and promoting sustainable practices throughout its operations."
+  },
+  {
+    "question": "How much electricity was consumed in 2021?",
+    "answer": "9000",
+    "answer_paragraph": "Table 2: Energy Consumption\n| Source | 2020 | 2021 | 2022 |\n| --- | --- | --- | --- |\n| Electricity | 10000 | 9000 | 8000 |\n| Natural Gas | 5000 | 4500 | 4000 |\n| Renewable Energy | 1000 | 1500 | 2000 |"
+  },
+  {
+    "question": "What was the total waste generation in 2022?",
+    "answer": "8400",
+    "answer_paragraph": "Table 4: Waste Generation\n| Type | 2020 | 2021 | 2022 |\n| --- | --- | --- | --- |\n| Non-Hazardous | 10000 | 9000 | 8000 |\n| Hazardous | 500 | 450 | 400 |\n| Total | 10500 | 9450 | 8400 |"
+  },
+  {
+    "question": "How much natural gas was consumed in 2022?",
+    "answer": "4000",
+    "answer_paragraph": "Table 2: Energy Consumption\n| Source | 2020 | 2021 | 2022 |\n| --- | --- | --- | --- |\n| Electricity | 10000 | 9000 | 8000 |\n| Natural Gas | 5000 | 4500 | 4000 |\n| Renewable Energy | 1000 | 1500 | 2000 |"
+  },
+  {
+    "question": "What was the total renewable energy consumption in 2020?",
+    "answer": "1000",
+    "answer_paragraph": "Table 2: Energy Consumption\n| Source | 2020 | 2021 | 2022 |\n| --- | --- | --- | --- |\n| Electricity | 10000 | 9000 | 8000 |\n| Natural Gas | 5000 | 4500 | 4000 |\n| Renewable Energy | 1000 | 1500 | 2000 |"
+  }
+]

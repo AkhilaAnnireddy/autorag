@@ -1,0 +1,38 @@
+
+   Sustainability Report 2022
+   Introduction
+   Our company, GreenTech Inc., is committed to reducing its environmental footprint and promoting sustainable practices throughout its operations. In this report, we outline our progress towards achieving our sustainability goals for the year 2022.
+   Table 1: Greenhouse Gas Emissions
+   | Category | 2020 | 2021 | 2022 |
+   | --- | --- | --- | --- |
+   | Scope 1 | 1000 | 950 | 900 |
+   | Scope 2 | 500 | 450 | 400 |
+   | Scope 3 | 2000 | 1900 | 1800 |
+   As shown in Table 1, our greenhouse gas emissions have decreased by 10% from 2020 to 2022. This reduction is a result of our efforts to increase energy efficiency and switch to renewable energy sources.
+   Energy Consumption
+   Table 2: Energy Consumption
+   | Source | 2020 | 2021 | 2022 |
+   | --- | --- | --- | --- |
+   | Electricity | 10000 | 9000 | 8000 |
+   | Natural Gas | 5000 | 4500 | 4000 |
+   | Renewable Energy | 1000 | 1500 | 2000 |
+   Our energy consumption has decreased by 15% from 2020 to 2022, as shown in Table 2. This reduction is due to our efforts to improve energy efficiency and increase the use of renewable energy sources.
+   Water Consumption
+   Table 3: Water Consumption
+   | Location | 2020 | 2021 | 2022 |
+   | --- | --- | --- | --- |
+   | Headquarters | 10000 | 9000 | 8000 |
+   | Manufacturing Plant | 50000 | 45000 | 40000 |
+   | Total | 60000 | 54000 | 48000 |
+   Our water consumption has decreased by 20% from 2020 to 2022, as shown in Table 3. This reduction is a result of our efforts to implement water-saving measures and reduce waste.
+   Waste Management
+   Table 4: Waste Generation
+   | Type | 2020 | 2021 | 2022 |
+   | --- | --- | --- | --- |
+   | Non-Hazardous | 10000 | 9000 | 8000 |
+   | Hazardous | 500 | 450 | 400 |
+   | Total | 10500 | 9450 | 8400 |
+   Our waste generation has decreased by 20% from 2020 to 2022, as shown in Table 4. This reduction is due to our efforts to reduce waste and increase recycling.
+   Conclusion
+   In conclusion, GreenTech Inc. has made significant progress towards achieving its sustainability goals for the year 2022. We will continue to work towards reducing our environmental footprint and promoting sustainable practices throughout our operations.
+   

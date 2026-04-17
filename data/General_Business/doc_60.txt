@@ -1,0 +1,63 @@
+
+   Internal Audit Report for Fiscal Year 2022
+
+   Introduction:
+   The internal audit department of NovaTech Inc. conducted an audit of the company's financial statements and internal controls for the fiscal year 2022. The audit was performed in accordance with the Institute of Internal Auditors' (IIA) International Standards for the Professional Practice of Internal Auditing. The audit team, led by Audit Manager, Ms. Rachel Lee, consisted of two senior auditors and one junior auditor.
+
+   Table 1: Audit Team Members
+   | Name | Title | Years of Experience |
+   | --- | --- | --- |
+   | Rachel Lee | Audit Manager | 10 |
+   | John Smith | Senior Auditor | 8 |
+   | Emily Chen | Senior Auditor | 6 |
+   | David Kim | Junior Auditor | 2 |
+
+   Scope and Methodology:
+   The audit scope included an examination of the company's financial statements, including the balance sheet, income statement, and cash flow statement. The audit team also evaluated the effectiveness of the company's internal controls, including the control environment, risk assessment, control activities, information and communication, and monitoring activities. The audit was conducted from January 1, 2022, to December 31, 2022.
+
+   Table 2: Audit Scope
+   | Area | Description |
+   | --- | --- |
+   | Financial Statements | Balance sheet, income statement, cash flow statement |
+   | Internal Controls | Control environment, risk assessment, control activities, information and communication, monitoring activities |
+
+   Findings and Recommendations:
+   The audit team identified several findings and recommendations, including the need for improved documentation of internal controls and the implementation of a more robust risk assessment process. The team also noted that the company's financial statements were fairly presented and in accordance with generally accepted accounting principles (GAAP).
+
+   Table 3: Findings and Recommendations
+   | Finding | Recommendation |
+   | --- | --- |
+   | Lack of documentation of internal controls | Implement a documentation process for internal controls |
+   | Inadequate risk assessment process | Develop and implement a more robust risk assessment process |
+   | Inconsistent application of accounting policies | Establish a policy for consistent application of accounting policies |
+
+   Audit Schedule:
+   The audit was conducted in accordance with the following schedule:
+   Table 4: Audit Schedule
+   | Date | Activity |
+   | --- | --- |
+   | January 1, 2022 | Planning and risk assessment |
+   | January 15, 2022 | Fieldwork and testing of internal controls |
+   | February 1, 2022 | Review of financial statements and audit report drafting |
+   | March 1, 2022 | Audit report finalization and presentation to management |
+
+   Conclusion:
+   The internal audit department of NovaTech Inc. concluded that the company's financial statements were fairly presented and in accordance with GAAP. However, the audit team identified areas for improvement in the company's internal controls and risk assessment process. The company's management has agreed to implement the recommendations made by the audit team.
+
+   Table 5: Management's Response
+   | Recommendation | Management's Response |
+   | --- | --- |
+   | Implement a documentation process for internal controls | Agree to implement by June 30, 2023 |
+   | Develop and implement a more robust risk assessment process | Agree to implement by September 30, 2023 |
+   | Establish a policy for consistent application of accounting policies | Agree to implement by December 31, 2023 |
+
+   Appendices:
+   The following appendices are included to provide additional information and support for the audit report:
+   Table 6: Audit Report Appendices
+   | Appendix | Description |
+   | --- | --- |
+   | A | Audit scope and methodology |
+   | B | Findings and recommendations |
+   | C | Audit schedule |
+
+   

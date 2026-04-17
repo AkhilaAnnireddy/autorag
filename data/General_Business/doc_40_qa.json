@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the company's mission as stated in the document?",
+    "answer": "The company's mission is to provide innovative technology solutions to businesses and individuals.",
+    "answer_paragraph": "The following document outlines the objectives and key results (OKRs) for the sales, marketing, and product development teams at NovaTech Inc. for the fiscal year 2024. * The company's mission is to provide innovative technology solutions to businesses and individuals. * The vision is to be a leading provider of AI-powered software by 2027. * The company values include innovation, customer satisfaction, and teamwork."
+  },
+  {
+    "question": "What is the sales team's objective 1?",
+    "answer": "Objective 1: Increase revenue by 20% by the end of Q2 2024.",
+    "answer_paragraph": "* Objective 1: Increase revenue by 20% by the end of Q2 2024. + Key Results: - KR1: Achieve $1.5 million in sales by the end of Q1 2024. - KR2: Expand the customer base by 30% by the end of Q2 2024. - KR3: Maintain a customer satisfaction rating of 90% or higher."
+  },
+  {
+    "question": "What is the marketing team's objective 2?",
+    "answer": "Objective 2: Generate 500 new leads per quarter by the end of Q4 2024.",
+    "answer_paragraph": "* Objective 2: Generate 500 new leads per quarter by the end of Q4 2024. + Key Results: - KR1: Launch a new email marketing campaign by the end of Q2 2024. - KR2: Increase the open rate of marketing emails by 15% by the end of Q3 2024. - KR3: Optimize the website for SEO by the end of Q2 2024."
+  },
+  {
+    "question": "What is the product development team's objective 1?",
+    "answer": "Objective 1: Launch a new product by the end of Q2 2024.",
+    "answer_paragraph": "* Objective 1: Launch a new product by the end of Q2 2024. + Key Results: - KR1: Complete the product design by the end of Q1 2024. - KR2: Conduct user testing and gather feedback by the end of Q1 2024. - KR3: Launch the product with a minimum of 90% customer satisfaction rating."
+  },
+  {
+    "question": "What is the expected outcome of the sales team's KR1?",
+    "answer": "Achieve $1.5 million in sales by the end of Q1 2024.",
+    "answer_paragraph": "* Objective 1: Increase revenue by 20% by the end of Q2 2024. + Key Results: - KR1: Achieve $1.5 million in sales by the end of Q1 2024. - KR2: Expand the customer base by 30% by the end of Q2 2024. - KR3: Maintain a customer satisfaction rating of 90% or higher."
+  },
+  {
+    "question": "How often will progress updates and feedback sessions be held?",
+    "answer": "Regular progress updates and feedback sessions will be held to ensure everyone is on track to meet the goals.",
+    "answer_paragraph": "* The OKRs outlined in this document are designed to align with the company's mission and vision. * The teams are expected to work together to achieve these objectives and key results. * Regular progress updates and feedback sessions will be held to ensure everyone is on track to meet the goals."
+  },
+  {
+    "question": "What is included in Appendix A?",
+    "answer": "Sales Team Organizational Chart",
+    "answer_paragraph": "* Appendix A: Sales Team Organizational Chart * Appendix B: Marketing Team Organizational Chart * Appendix C: Product Development Team Organizational Chart"
+  },
+  {
+    "question": "What is the company's vision as stated in the document?",
+    "answer": "The vision is to be a leading provider of AI-powered software by 2027.",
+    "answer_paragraph": "The following document outlines the objectives and key results (OKRs) for the sales, marketing, and product development teams at NovaTech Inc. for the fiscal year 2024. * The company's mission is to provide innovative technology solutions to businesses and individuals. * The vision is to be a leading provider of AI-powered software by 2027. * The company values include innovation, customer satisfaction, and teamwork."
+  },
+  {
+    "question": "What is the expected outcome of the marketing team's KR2?",
+    "answer": "Increase the open rate of marketing emails by 15% by the end of Q3 2024.",
+    "answer_paragraph": "* Objective 2: Generate 500 new leads per quarter by the end of Q4 2024. + Key Results: - KR1: Launch a new email marketing campaign by the end of Q2 2024. - KR2: Increase the open rate of marketing emails by 15% by the end of Q3 2024. - KR3: Optimize the website for SEO by the end of Q2 2024."
+  },
+  {
+    "question": "What is the expected outcome of the product development team's KR3?",
+    "answer": "Launch the product with a minimum of 90% customer satisfaction rating.",
+    "answer_paragraph": "* Objective 1: Launch a new product by the end of Q2 2024. + Key Results: - KR1: Complete the product design by the end of Q1 2024. - KR2: Conduct user testing and gather feedback by the end of Q1 2024. - KR3: Launch the product with a minimum of 90% customer satisfaction rating."
+  }
+]

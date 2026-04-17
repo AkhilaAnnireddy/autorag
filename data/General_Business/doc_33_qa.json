@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the target revenue growth for the year 2023?",
+    "answer": "15%",
+    "answer_paragraph": "The meeting commenced at 9:00 AM with a brief introduction by John Smith, highlighting the key objectives for the year 2023. The main focus areas include increasing revenue by 15%, reducing operational costs by 8%, and improving customer satisfaction ratings by 12%."
+  },
+  {
+    "question": "What was the net profit for the year 2022?",
+    "answer": "$150,000",
+    "answer_paragraph": "Jane Doe presented the financial review, highlighting the key financial metrics for the year 2022. The revenue for the year was $1.2 million, with a net profit of $150,000. The operating expenses were $800,000, with a significant portion attributed to research and development."
+  },
+  {
+    "question": "What is the budget allocated for marketing in 2023?",
+    "answer": "$200,000",
+    "answer_paragraph": "Alice Brown presented the marketing strategy for the year 2023, focusing on digital marketing and social media campaigns. The budget allocated for marketing is $200,000, with a projected return on investment (ROI) of 20%."
+  },
+  {
+    "question": "Who is responsible for implementing the new IT infrastructure?",
+    "answer": "Bob Johnson",
+    "answer_paragraph": "The following action items were assigned to the respective team members:\n- John Smith: Review and finalize the business strategy for 2023\n- Jane Doe: Prepare the quarterly financial reports\n- Bob Johnson: Implement the new IT infrastructure\n- Alice Brown: Launch the digital marketing campaigns"
+  },
+  {
+    "question": "What is the projected return on investment (ROI) for the marketing campaigns in 2023?",
+    "answer": "20%",
+    "answer_paragraph": "Alice Brown presented the marketing strategy for the year 2023, focusing on digital marketing and social media campaigns. The budget allocated for marketing is $200,000, with a projected return on investment (ROI) of 20%."
+  },
+  {
+    "question": "What is the contact information of the CEO, John Smith?",
+    "answer": "john.smith@company.com",
+    "answer_paragraph": "Appendix:\nTable 4: Employee Directory\n| Name | Designation | Contact Information |\n| --- | --- | --- |\n| John Smith | CEO | john.smith@company.com |\n| Jane Doe | CFO | jane.doe@company.com |\n| Bob Johnson | CTO | bob.johnson@company.com |\n| Alice Brown | CMO | alice.brown@company.com |"
+  },
+  {
+    "question": "What is the agenda for the meeting scheduled on 2023-04-20?",
+    "answer": "Marketing Strategy and Budget Review",
+    "answer_paragraph": "Appendix:\nTable 5: Meeting Schedule\n| Date | Time | Agenda |\n| --- | --- | --- |\n| 2023-02-20 | 9:00 AM | Introduction and Financial Review |\n| 2023-03-20 | 10:00 AM | Progress Review and New Developments |\n| 2023-04-20 | 11:00 AM | Marketing Strategy and Budget Review |"
+  },
+  {
+    "question": "What was the revenue for the year 2022?",
+    "answer": "$1.2 million",
+    "answer_paragraph": "Jane Doe presented the financial review, highlighting the key financial metrics for the year 2022. The revenue for the year was $1.2 million, with a net profit of $150,000. The operating expenses were $800,000, with a significant portion attributed to research and development."
+  },
+  {
+    "question": "What is the target for reducing operational costs in 2023?",
+    "answer": "8%",
+    "answer_paragraph": "The meeting commenced at 9:00 AM with a brief introduction by John Smith, highlighting the key objectives for the year 2023. The main focus areas include increasing revenue by 15%, reducing operational costs by 8%, and improving customer satisfaction ratings by 12%."
+  },
+  {
+    "question": "What is the time scheduled for the meeting on 2023-03-20?",
+    "answer": "10:00 AM",
+    "answer_paragraph": "Appendix:\nTable 5: Meeting Schedule\n| Date | Time | Agenda |\n| --- | --- | --- |\n| 2023-02-20 | 9:00 AM | Introduction and Financial Review |\n| 2023-03-20 | 10:00 AM | Progress Review and New Developments |\n| 2023-04-20 | 11:00 AM | Marketing Strategy and Budget Review |"
+  }
+]

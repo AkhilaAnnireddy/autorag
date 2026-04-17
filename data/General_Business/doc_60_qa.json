@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What was the title of the audit manager who led the audit team?",
+    "answer": "Audit Manager",
+    "answer_paragraph": "The audit team, led by Audit Manager, Ms. Rachel Lee, consisted of two senior auditors and one junior auditor."
+  },
+  {
+    "question": "How many years of experience did John Smith have as a senior auditor?",
+    "answer": "8",
+    "answer_paragraph": "Table 1: Audit Team Members | Name | Title | Years of Experience | | --- | --- | --- | | Rachel Lee | Audit Manager | 10 | | John Smith | Senior Auditor | 8 | | Emily Chen | Senior Auditor | 6 | | David Kim | Junior Auditor | 2 |"
+  },
+  {
+    "question": "What was the description of the area 'Financial Statements' in the audit scope?",
+    "answer": "Balance sheet, income statement, cash flow statement",
+    "answer_paragraph": "Table 2: Audit Scope | Area | Description | | --- | --- | | Financial Statements | Balance sheet, income statement, cash flow statement | | Internal Controls | Control environment, risk assessment, control activities, information and communication, monitoring activities |"
+  },
+  {
+    "question": "What was the recommendation for the finding 'Lack of documentation of internal controls'?",
+    "answer": "Implement a documentation process for internal controls",
+    "answer_paragraph": "Table 3: Findings and Recommendations | Finding | Recommendation | | --- | --- | | Lack of documentation of internal controls | Implement a documentation process for internal controls | | Inadequate risk assessment process | Develop and implement a more robust risk assessment process | | Inconsistent application of accounting policies | Establish a policy for consistent application of accounting policies |"
+  },
+  {
+    "question": "On which date did the audit team conduct fieldwork and testing of internal controls?",
+    "answer": "January 15, 2022",
+    "answer_paragraph": "Table 4: Audit Schedule | Date | Activity | | --- | --- | | January 1, 2022 | Planning and risk assessment | | January 15, 2022 | Fieldwork and testing of internal controls | | February 1, 2022 | Review of financial statements and audit report drafting | | March 1, 2022 | Audit report finalization and presentation to management |"
+  },
+  {
+    "question": "By what date did management agree to implement the recommendation to establish a policy for consistent application of accounting policies?",
+    "answer": "December 31, 2023",
+    "answer_paragraph": "Table 5: Management's Response | Recommendation | Management's Response | | --- | --- | | Implement a documentation process for internal controls | Agree to implement by June 30, 2023 | | Develop and implement a more robust risk assessment process | Agree to implement by September 30, 2023 | | Establish a policy for consistent application of accounting policies | Agree to implement by December 31, 2023 |"
+  },
+  {
+    "question": "What was the description of Appendix A in the audit report?",
+    "answer": "Audit scope and methodology",
+    "answer_paragraph": "Table 6: Audit Report Appendices | Appendix | Description | | --- | --- | | A | Audit scope and methodology | | B | Findings and recommendations | | C | Audit schedule |"
+  },
+  {
+    "question": "What was the name of the junior auditor in the audit team?",
+    "answer": "David Kim",
+    "answer_paragraph": "Table 1: Audit Team Members | Name | Title | Years of Experience | | --- | --- | --- | | Rachel Lee | Audit Manager | 10 | | John Smith | Senior Auditor | 8 | | Emily Chen | Senior Auditor | 6 | | David Kim | Junior Auditor | 2 |"
+  },
+  {
+    "question": "What was the title of the senior auditor with 6 years of experience?",
+    "answer": "Senior Auditor",
+    "answer_paragraph": "Table 1: Audit Team Members | Name | Title | Years of Experience | | --- | --- | --- | | Rachel Lee | Audit Manager | 10 | | John Smith | Senior Auditor | 8 | | Emily Chen | Senior Auditor | 6 | | David Kim | Junior Auditor | 2 |"
+  },
+  {
+    "question": "What was the date of the audit report finalization and presentation to management?",
+    "answer": "March 1, 2022",
+    "answer_paragraph": "Table 4: Audit Schedule | Date | Activity | | --- | --- | | January 1, 2022 | Planning and risk assessment | | January 15, 2022 | Fieldwork and testing of internal controls | | February 1, 2022 | Review of financial statements and audit report drafting | | March 1, 2022 | Audit report finalization and presentation to management |"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is the CEO of Smithson Inc.?",
+    "answer": "John Smith",
+    "answer_paragraph": "Introduction: ... The plan will be reviewed and updated annually, or as needed, by the Business Continuity Planning Team, which consists of: ... John Smith, CEO"
+  },
+  {
+    "question": "What is the purpose of the business continuity plan?",
+    "answer": "to ensure the continued operation of Smithson Inc. in the event of a disaster or major disruption",
+    "answer_paragraph": "Introduction: ... The purpose of this business continuity plan is to ensure the continued operation of Smithson Inc. in the event of a disaster or major disruption."
+  },
+  {
+    "question": "What are the four critical business functions identified in the business impact analysis?",
+    "answer": "Sales and marketing, Customer service, IT and data management, Finance and accounting",
+    "answer_paragraph": "Business Impact Analysis: ... The following business functions have been identified as critical to the operation of Smithson Inc.: ... Sales and marketing, Customer service, IT and data management, Finance and accounting"
+  },
+  {
+    "question": "What is the estimated potential annual revenue loss due to a disruption?",
+    "answer": "$1.2 million",
+    "answer_paragraph": "Business Impact Analysis: ... The potential annual revenue loss due to a disruption is estimated to be $1.2 million."
+  },
+  {
+    "question": "How often will the business continuity plan be reviewed and updated?",
+    "answer": "annually, or as needed",
+    "answer_paragraph": "Maintenance and Review: ... The business continuity plan will be reviewed and updated annually, or as needed, by the Business Continuity Planning Team."
+  },
+  {
+    "question": "What is the definition of business continuity in the plan?",
+    "answer": "the ability of an organization to continue operating in the event of a disaster or major disruption",
+    "answer_paragraph": "Glossary: ... Business continuity: the ability of an organization to continue operating in the event of a disaster or major disruption"
+  },
+  {
+    "question": "Who are the members of the Business Continuity Planning Team?",
+    "answer": "John Smith, Jane Doe, Bob Johnson",
+    "answer_paragraph": "Introduction: ... The plan will be reviewed and updated annually, or as needed, by the Business Continuity Planning Team, which consists of: ... John Smith, CEO, Jane Doe, CIO, Bob Johnson, CFO"
+  },
+  {
+    "question": "What is the timeline for updating the recovery strategies?",
+    "answer": "within 30 days of any changes",
+    "answer_paragraph": "Recovery Strategies: ... The recovery strategies will be updated within 30 days of any changes."
+  },
+  {
+    "question": "What is the purpose of the risk assessment?",
+    "answer": "to identify and evaluate potential risks to the organization",
+    "answer_paragraph": "Risk Assessment: ... The risk assessment was conducted using the following criteria: ... Likelihood of occurrence, Potential impact on business operations, Potential impact on customers"
+  },
+  {
+    "question": "How will the plan be communicated to stakeholders and customers?",
+    "answer": "as needed, in both electronic and hard copy format",
+    "answer_paragraph": "Conclusion: ... The plan will be communicated to all employees, stakeholders, and customers, and will be made available in both electronic and hard copy format."
+  }
+]
