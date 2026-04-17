@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the average response time of the application?",
+    "answer": "around 200ms",
+    "answer_paragraph": "According to our monitoring tools, the average response time of our application is around 200ms, with an average throughput of 500 requests per second."
+  },
+  {
+    "question": "How many CPU cores are allocated to each Docker container?",
+    "answer": "1 CPU core",
+    "answer_paragraph": "Each container will be limited to 2GB of RAM and 1 CPU core to prevent resource over-allocation."
+  },
+  {
+    "question": "Who leads the team responsible for implementing the new feature for automated rollbacks?",
+    "answer": "Sarah Taylor",
+    "answer_paragraph": "The development of this feature is being led by Sarah Taylor, who has over 5 years of experience in the field."
+  },
+  {
+    "question": "What is the name of the automation server used by the team?",
+    "answer": "Jenkins",
+    "answer_paragraph": "According to a study by Jenkins, a leading automation server, the implementation of CI/CD pipelines can reduce the time to market by up to 50% and decrease the failure rate of releases by 30%."
+  },
+  {
+    "question": "What is the total number of EC2 instances in the production environment?",
+    "answer": "10 instances",
+    "answer_paragraph": "As of February 2022, our production environment is running on AWS EC2 instances with a total of 10 instances, each with 4GB of RAM and 2 CPU cores."
+  },
+  {
+    "question": "What is the name of the secrets management tool used by the team?",
+    "answer": "HashiCorp's Vault",
+    "answer_paragraph": "To facilitate this, we'll be utilizing a secrets management tool, such as HashiCorp's Vault, to securely store and manage sensitive data."
+  },
+  {
+    "question": "What is the expected release date of the new feature for automated rollbacks?",
+    "answer": "by the end of Q2, 2022",
+    "answer_paragraph": "This feature is expected to be released by the end of Q2, 2022, and will further enhance the reliability and efficiency of our CI/CD pipeline."
+  },
+  {
+    "question": "Who is the leader of the team of experts at NovaTech?",
+    "answer": "Emily Chen",
+    "answer_paragraph": "At NovaTech, our team of experts led by Emily Chen has been working tirelessly to create a comprehensive guide to facilitate this process."
+  },
+  {
+    "question": "What is the name of the tool used for monitoring and alerting?",
+    "answer": "PagerDuty",
+    "answer_paragraph": "In the event of a failure, our team is notified via PagerDuty, which provides real-time alerts and incident management capabilities."
+  },
+  {
+    "question": "What is the version number of the company's security policy that was last updated on January 10, 2022?",
+    "answer": "version 2.1",
+    "answer_paragraph": "The use of this tool is mandated by our company's security policy, version 2.1, which was last updated on January 10, 2022."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What was the first version of Docker released on March 13, 2013?",
+    "answer": "0.1",
+    "answer_paragraph": "Containerization with Docker is a lightweight and portable way to deploy applications. It allows developers to package their code, along with its dependencies and libraries, into a single container that can be run on any system that supports Docker, without requiring a specific environment to be set up. Docker was first released in 2013 by Docker Inc., a company founded by Solomon Hykes, and has since become one of the most popular containerization platforms. The first version of Docker, 0.1, was released on March 13, 2013, and the latest version, 20.10.7, was released on May 4, 2021."
+  },
+  {
+    "question": "What is the name of the tool that allows developers to define and run multi-container Docker applications?",
+    "answer": "Docker Compose",
+    "answer_paragraph": "For example, Docker provides a feature called Docker Compose, which allows developers to define and run multi-container Docker applications. Docker Compose is a tool for defining and running Docker containers with ease, and it allows developers to create a YAML file that defines the services, networks, and volumes for their application."
+  },
+  {
+    "question": "What is the percentage of companies using Docker, according to a survey by Datadog?",
+    "answer": "over 50%",
+    "answer_paragraph": "According to a survey by Datadog, a cloud-based monitoring platform, the percentage of companies using Docker increased from 20% in 2017 to over 50% in 2020."
+  },
+  {
+    "question": "What is the name of the company that announced the release of Docker 20.10 on November 10, 2020?",
+    "answer": "Docker",
+    "answer_paragraph": "On November 10, 2020, Docker announced the release of Docker 20.10, which includes several new features and improvements, such as improved support for Kubernetes, enhanced security features, and better performance."
+  },
+  {
+    "question": "How many registered users are there on Docker Hub?",
+    "answer": "over 10 million",
+    "answer_paragraph": "Docker has a large and active community of developers and users, with over 10 million registered users on Docker Hub and over 100,000 Docker-related projects on GitHub."
+  },
+  {
+    "question": "What is the purpose of a Dockerfile?",
+    "answer": "to define the base image, copy files, install dependencies, and set environment variables",
+    "answer_paragraph": "A Dockerfile is a text file that contains instructions for building a Docker image, and it is used to define the base image, copy files, install dependencies, and set environment variables."
+  },
+  {
+    "question": "What is the command to build a Docker image with the tag my-app?",
+    "answer": "docker build -t my-app .",
+    "answer_paragraph": "Here is an example of how to build and run a Docker container: | Command | Description | | --- | --- | | docker build -t my-app . | Build a Docker image with the tag my-app |"
+  },
+  {
+    "question": "What is the name of the platform used by Google to deploy its Kubernetes platform?",
+    "answer": "Docker",
+    "answer_paragraph": "The use of Docker has also been adopted by major companies such as Google, Amazon, and Microsoft, with Google using Docker to deploy its Kubernetes platform, Amazon using Docker to deploy its Elastic Container Service, and Microsoft using Docker to deploy its Azure Container Instances."
+  },
+  {
+    "question": "What is the benefit of using Docker Compose to define and run multi-container Docker applications?",
+    "answer": "it simplifies the process of defining and running multi-container Docker applications",
+    "answer_paragraph": "Here are some of the key benefits of using Docker Compose: * Simplifies the process of defining and running multi-container Docker applications * Allows developers to create a YAML file that defines the services, networks, and volumes for their application"
+  },
+  {
+    "question": "What is the name of the report that states the use of Docker can improve the efficiency of application deployment by up to 50%?",
+    "answer": "a report by Forrester",
+    "answer_paragraph": "According to a report by Forrester, the use of Docker can improve the efficiency of application deployment by up to 50%, and it can also reduce the risk of errors and security breaches."
+  }
+]

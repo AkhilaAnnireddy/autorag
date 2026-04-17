@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the purpose of the Load Balancing Configuration Guide?",
+    "answer": "The purpose of this guide is to provide a comprehensive overview of load balancing configuration for the fictional company, NovaTech Inc.",
+    "answer_paragraph": "Introduction\nThe purpose of this guide is to provide a comprehensive overview of load balancing configuration for the fictional company, NovaTech Inc. Load balancing is a critical component of any network infrastructure, as it ensures that incoming traffic is distributed efficiently across multiple servers to improve responsiveness, reliability, and scalability."
+  },
+  {
+    "question": "What are the different load balancing algorithms available?",
+    "answer": "Round-Robin, Least Connection, IP Hash",
+    "answer_paragraph": "Table 1: Load Balancing Algorithms\n| Algorithm | Description |\n| --- | --- |\n| Round-Robin | Each incoming request is sent to the next available server in a predetermined sequence. |\n| Least Connection | Incoming requests are sent to the server with the fewest active connections. |\n| IP Hash | Each incoming request is directed to a server based on the client's IP address. |"
+  },
+  {
+    "question": "How do you configure the server pool?",
+    "answer": "Define the load balancing algorithm to be used and configure the server pool by adding the IP addresses of the available servers.",
+    "answer_paragraph": "Configuration\nTo configure load balancing, follow these steps:\n1. Install and configure the load balancer software on the designated server.\n2. Define the load balancing algorithm to be used (see Table 1).\n3. Configure the server pool by adding the IP addresses of the available servers.\n4. Set the load balancing mode to either 'active-active' or 'active-standby'."
+  },
+  {
+    "question": "What is the status of Server3 in the server pool configuration?",
+    "answer": "Standby",
+    "answer_paragraph": "Table 2: Server Pool Configuration\n| Server IP | Server Name | Status |\n| --- | --- | --- |\n| 192.168.1.100 | Server1 | Active |\n| 192.168.1.101 | Server2 | Active |\n| 192.168.1.102 | Server3 | Standby |"
+  },
+  {
+    "question": "What metrics should be monitored for the load balancing system?",
+    "answer": "CPU utilization, Memory usage, Network traffic",
+    "answer_paragraph": "Monitoring and Maintenance\nRegular monitoring and maintenance of the load balancing system are crucial to ensure optimal performance and uptime. The following metrics should be monitored:\n- CPU utilization\n- Memory usage\n- Network traffic"
+  },
+  {
+    "question": "What is the threshold for CPU utilization?",
+    "answer": "80%",
+    "answer_paragraph": "Table 3: Monitoring Metrics\n| Metric | Description | Threshold |\n| --- | --- | --- |\n| CPU Utilization | The percentage of CPU resources used. | 80% |\n| Memory Usage | The percentage of memory resources used. | 90% |\n| Network Traffic | The amount of incoming and outgoing network traffic. | 1000 Mbps |"
+  },
+  {
+    "question": "What is the solution for the issue of high latency?",
+    "answer": "Check network traffic and adjust load balancing algorithm if necessary.",
+    "answer_paragraph": "Table 4: Troubleshooting Guide\n| Issue | Description | Solution |\n| --- | --- | --- |\n| Server unavailable | The server is not responding to incoming requests. | Check server status and restart if necessary. |\n| High latency | Incoming requests are experiencing high latency. | Check network traffic and adjust load balancing algorithm if necessary. |"
+  },
+  {
+    "question": "When was the load balancing policy implemented at NovaTech Inc.?",
+    "answer": "February 2022",
+    "answer_paragraph": "As of February 2022, NovaTech Inc. has implemented a load balancing policy that requires all network infrastructure to be configured with a minimum of two load balancers in an active-active configuration. This policy ensures that all incoming traffic is distributed efficiently across multiple servers, improving responsiveness, reliability, and scalability."
+  },
+  {
+    "question": "Who are the authors of the Load Balancing Configuration Guide?",
+    "answer": "John Smith, Network Administrator, Jane Doe, System Engineer",
+    "answer_paragraph": "Authors:\n- John Smith, Network Administrator\n- Jane Doe, System Engineer\nDate: March 2022"
+  },
+  {
+    "question": "What is the load balancing algorithm used in the load balancing architecture at NovaTech Inc.?",
+    "answer": "Round-Robin algorithm",
+    "answer_paragraph": "Figure 1: Load Balancing Architecture\nThe load balancing architecture at NovaTech Inc. consists of two load balancers in an active-active configuration, with a server pool of five servers. The load balancing algorithm used is the Round-Robin algorithm, which distributes incoming requests evenly across the available servers."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the data type of the employee_id column in the Employee table?",
+    "answer": "int",
+    "answer_paragraph": "<h3>Employee Table</h3><table><tr><th>Column Name</th><th>Data Type</th><th>Description</th></tr><tr><td>employee_id</td><td>int</td><td>unique identifier for each employee</td></tr><tr><td>name</td><td>varchar(50)</td><td>employee name</td></tr><tr><td>email</td><td>varchar(100)</td><td>employee email address</td></tr><tr><td>department</td><td>varchar(50)</td><td>employee department</td></tr></table>"
+  },
+  {
+    "question": "What is the description of the Order table's total column?",
+    "answer": "total cost of the order",
+    "answer_paragraph": "<h3>Order Table</h3><table><tr><th>Column Name</th><th>Data Type</th><th>Description</th></tr><tr><td>order_id</td><td>int</td><td>unique identifier for each order</td></tr><tr><td>order_date</td><td>date</td><td>date the order was placed</td></tr><tr><td>total</td><td>decimal(10,2)</td><td>total cost of the order</td></tr><tr><td>employee_id</td><td>int</td><td>foreign key referencing the Employee table</td></tr><tr><td>customer_id</td><td>int</td><td>foreign key referencing the Customer table</td></tr></table>"
+  },
+  {
+    "question": "What is the purpose of the mysqldump command in the database backup process?",
+    "answer": "Regular backups are performed daily at 2:00 AM using the mysqldump command.",
+    "answer_paragraph": "<h2>Security and Backup</h2><p>The database is secured using a combination of username and password authentication, as well as SSL encryption. Regular backups are performed daily at 2:00 AM using the mysqldump command. The backups are stored on an external hard drive and retained for 30 days.</p>"
+  },
+  {
+    "question": "What is the data type of the product_id column in the Product table?",
+    "answer": "int",
+    "answer_paragraph": "<h3>Product Table</h3><table><tr><th>Column Name</th><th>Data Type</th><th>Description</th></tr><tr><td>product_id</td><td>int</td><td>unique identifier for each product</td></tr><tr><td>name</td><td>varchar(50)</td><td>product name</td></tr><tr><td>price</td><td>decimal(10,2)</td><td>product price</td></tr><tr><td>description</td><td>varchar(200)</td><td>product description</td></tr></table>"
+  },
+  {
+    "question": "What is the relationship between the Order table and the Employee table?",
+    "answer": "many-to-one",
+    "answer_paragraph": "<h2>Entity Relationship Diagram</h2><p>The entity relationship diagram (ERD) for the GreenTech Inc. database is shown in Table 1.</p><table><tr><th>Entity</th><th>Attributes</th><th>Relationships</th></tr><tr><td>Employee</td><td>employee_id, name, email, department</td><td>one-to-many with Order</td></tr><tr><td>Customer</td><td>customer_id, name, email, address</td><td>one-to-many with Order</td></tr><tr><td>Order</td><td>order_id, order_date, total, employee_id, customer_id</td><td>many-to-one with Employee and Customer</td></tr><tr><td>Product</td><td>product_id, name, price, description</td><td>many-to-many with Order</td></tr></table>"
+  },
+  {
+    "question": "What is the description of the Employee table's department column?",
+    "answer": "employee department",
+    "answer_paragraph": "<h3>Employee Table</h3><table><tr><th>Column Name</th><th>Data Type</th><th>Description</th></tr><tr><td>employee_id</td><td>int</td><td>unique identifier for each employee</td></tr><tr><td>name</td><td>varchar(50)</td><td>employee name</td></tr><tr><td>email</td><td>varchar(100)</td><td>employee email address</td></tr><tr><td>department</td><td>varchar(50)</td><td>employee department</td></tr></table>"
+  },
+  {
+    "question": "What is the purpose of foreign keys in the database?",
+    "answer": "to establish relationships between tables",
+    "answer_paragraph": "<h2>Indexing and Constraints</h2><p>The database uses indexing and constraints to improve query performance and maintain data integrity. The primary keys for each table are employee_id, customer_id, order_id, and product_id. Foreign keys are used to establish relationships between tables.</p>"
+  },
+  {
+    "question": "What is the frequency of database backups?",
+    "answer": "daily at 2:00 AM",
+    "answer_paragraph": "<h2>Security and Backup</h2><p>The database is secured using a combination of username and password authentication, as well as SSL encryption. Regular backups are performed daily at 2:00 AM using the mysqldump command. The backups are stored on an external hard drive and retained for 30 days.</p>"
+  },
+  {
+    "question": "What is the data type of the order_date column in the Order table?",
+    "answer": "date",
+    "answer_paragraph": "<h3>Order Table</h3><table><tr><th>Column Name</th><th>Data Type</th><th>Description</th></tr><tr><td>order_id</td><td>int</td><td>unique identifier for each order</td></tr><tr><td>order_date</td><td>date</td><td>date the order was placed</td></tr><tr><td>total</td><td>decimal(10,2)</td><td>total cost of the order</td></tr><tr><td>employee_id</td><td>int</td><td>foreign key referencing the Employee table</td></tr><tr><td>customer_id</td><td>int</td><td>foreign key referencing the Customer table</td></tr></table>"
+  },
+  {
+    "question": "What is the description of the Product table's price column?",
+    "answer": "product price",
+    "answer_paragraph": "<h3>Product Table</h3><table><tr><th>Column Name</th><th>Data Type</th><th>Description</th></tr><tr><td>product_id</td><td>int</td><td>unique identifier for each product</td></tr><tr><td>name</td><td>varchar(50)</td><td>product name</td></tr><tr><td>price</td><td>decimal(10,2)</td><td>product price</td></tr><tr><td>description</td><td>varchar(200)</td><td>product description</td></tr></table>"
+  }
+]

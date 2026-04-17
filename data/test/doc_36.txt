@@ -1,0 +1,82 @@
+
+   Security Hardening Guide for Enterprise Systems
+   =============================================
+   
+   Introduction
+   ------------
+   * The purpose of this guide is to provide a comprehensive security hardening framework for enterprise systems.
+   * This guide is based on industry best practices and standards, including NIST Special Publication 800-53 and the Center for Internet Security (CIS) Benchmarks.
+   * The target audience for this guide includes system administrators, security professionals, and IT managers.
+   
+   I. Password Policies
+   -------------------
+   * The password policy for all enterprise systems will be as follows:
+     + Minimum password length: 12 characters
+     + Maximum password age: 60 days
+     + Password complexity requirements:
+       - Uppercase letters: 2
+       - Lowercase letters: 2
+       - Numbers: 2
+       - Special characters: 1
+   * The password policy will be enforced using the Active Directory Group Policy Object (GPO) named "Password Policy".
+   
+   II. Account Lockout Policies
+   -------------------------
+   * The account lockout policy for all enterprise systems will be as follows:
+     + Number of invalid login attempts: 3
+     + Account lockout duration: 30 minutes
+     + Account lockout threshold: 3 attempts within 10 minutes
+   * The account lockout policy will be enforced using the Active Directory Group Policy Object (GPO) named "Account Lockout Policy".
+   
+   III. Network Security
+   -------------------
+   * The following network security measures will be implemented:
+     + Firewall configuration:
+       - Block all incoming traffic by default
+       - Allow incoming traffic on ports 80 and 443 for web servers
+       - Allow incoming traffic on port 22 for SSH servers
+     + Intrusion Detection and Prevention Systems (IDPS):
+       - Snort 3.0 will be used as the IDPS solution
+       - The IDPS will be configured to monitor all network traffic and alert on suspicious activity
+   * The network security measures will be enforced using the Cisco ASA 5500-X firewall and the Snort 3.0 IDPS.
+   
+   IV. System Updates and Patching
+   -----------------------------
+   * The following system update and patching policies will be implemented:
+     + Operating system updates:
+       - Windows 10 updates will be applied within 7 days of release
+       - Linux updates will be applied within 3 days of release
+     + Application updates:
+       - Adobe Acrobat updates will be applied within 7 days of release
+       - Microsoft Office updates will be applied within 7 days of release
+   * The system update and patching policies will be enforced using the Microsoft System Center Configuration Manager (SCCM) and the Red Hat Satellite server.
+   
+   V. Incident Response
+   -------------------
+   * The following incident response plan will be implemented:
+     + Incident response team:
+       - Team lead: John Smith, Chief Information Security Officer (CISO)
+       - Team members:
+         - Jane Doe, Security Analyst
+         - Bob Johnson, Network Administrator
+     + Incident response procedures:
+       - Identify and contain the incident
+       - Eradicate the root cause of the incident
+       - Recover from the incident
+       - Post-incident activities:
+         - Conduct a post-incident review
+         - Update incident response procedures as necessary
+   * The incident response plan will be reviewed and updated annually, or as necessary.
+   
+   VI. Conclusion
+   --------------
+   * The security hardening guide for enterprise systems is a comprehensive framework that provides a robust security posture for all enterprise systems.
+   * The guide is based on industry best practices and standards, and is designed to be flexible and adaptable to changing security threats and technologies.
+   * The guide will be reviewed and updated annually, or as necessary, to ensure that it remains relevant and effective.
+   
+   Revision History
+   ----------------
+   * Version 1.0: Initial release, dated February 10, 2023
+   * Version 1.1: Updated to reflect changes in password policy, dated March 15, 2023
+   * Version 1.2: Updated to reflect changes in network security measures, dated April 20, 2023
+   

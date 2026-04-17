@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What was the total cost of the project?",
+    "answer": "$1.2 million",
+    "answer_paragraph": "The total cost of the project was $1.2 million, which included the cost of Azure services, personnel, and equipment."
+  },
+  {
+    "question": "Who led the deployment team?",
+    "answer": "Rachel Lee",
+    "answer_paragraph": "The team responsible for the deployment consisted of 10 members, led by Project Manager, Rachel Lee."
+  },
+  {
+    "question": "What was the duration of the planning phase?",
+    "answer": "January 15, 2023, to February 10, 2023",
+    "answer_paragraph": "During the planning phase, which lasted from January 15, 2023, to February 10, 2023, the team conducted a thorough analysis of the existing infrastructure and identified the requirements for the new deployment."
+  },
+  {
+    "question": "What Azure services were used for the migration?",
+    "answer": "Azure Virtual Machines, Azure Storage, and Azure Networking",
+    "answer_paragraph": "The team used a combination of Azure services, including Azure Virtual Machines, Azure Storage, and Azure Networking, to ensure a seamless migration."
+  },
+  {
+    "question": "What is the expected annual savings in operating costs?",
+    "answer": "$500,000",
+    "answer_paragraph": "The project was considered a success, and the company expects to save $500,000 per year in operating costs."
+  },
+  {
+    "question": "What framework did the deployment team follow?",
+    "answer": "ITIL framework",
+    "answer_paragraph": "The deployment team followed the company's IT policy, which requires all deployments to be conducted in accordance with the ITIL framework."
+  },
+  {
+    "question": "Who will provide level 1 and level 2 support for the new infrastructure?",
+    "answer": "The company's IT department",
+    "answer_paragraph": "The company's IT department will provide level 1 and level 2 support, while the deployment team will provide level 3 support."
+  },
+  {
+    "question": "How often will the company conduct reviews of the infrastructure?",
+    "answer": "quarterly",
+    "answer_paragraph": "The company expects to conduct regular reviews of the infrastructure to ensure that it continues to meet the company's needs, and the reviews will be conducted quarterly."
+  },
+  {
+    "question": "What is the company's goal for reducing operating costs over the next two years?",
+    "answer": "20%",
+    "answer_paragraph": "The company's IT policy requires that all IT initiatives be conducted in accordance with the company's strategic plan, which includes the goal of reducing operating costs by 20% over the next two years."
+  },
+  {
+    "question": "Who will manage the budget for IT initiatives?",
+    "answer": "The company's IT department",
+    "answer_paragraph": "The company's IT department will continue to manage the budget for IT initiatives, and will ensure that all IT initiatives are conducted in accordance with the company's IT policy."
+  }
+]

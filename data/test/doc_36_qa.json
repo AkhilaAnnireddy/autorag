@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the minimum password length for all enterprise systems?",
+    "answer": "Minimum password length: 12 characters",
+    "answer_paragraph": "I. Password Policies"
+  },
+  {
+    "question": "What is the account lockout duration for all enterprise systems?",
+    "answer": "Account lockout duration: 30 minutes",
+    "answer_paragraph": "II. Account Lockout Policies"
+  },
+  {
+    "question": "What is the IDPS solution used for network security?",
+    "answer": "Snort 3.0 will be used as the IDPS solution",
+    "answer_paragraph": "III. Network Security"
+  },
+  {
+    "question": "How often will the Windows 10 updates be applied?",
+    "answer": "Windows 10 updates will be applied within 7 days of release",
+    "answer_paragraph": "IV. System Updates and Patching"
+  },
+  {
+    "question": "Who is the team lead for the incident response team?",
+    "answer": "John Smith, Chief Information Security Officer (CISO)",
+    "answer_paragraph": "V. Incident Response"
+  },
+  {
+    "question": "What is the purpose of the security hardening guide for enterprise systems?",
+    "answer": "The purpose of this guide is to provide a comprehensive security hardening framework for enterprise systems.",
+    "answer_paragraph": "Introduction"
+  },
+  {
+    "question": "What is the maximum password age for all enterprise systems?",
+    "answer": "Maximum password age: 60 days",
+    "answer_paragraph": "I. Password Policies"
+  },
+  {
+    "question": "What is the number of invalid login attempts allowed before account lockout?",
+    "answer": "Number of invalid login attempts: 3",
+    "answer_paragraph": "II. Account Lockout Policies"
+  },
+  {
+    "question": "What is the name of the Active Directory Group Policy Object (GPO) used to enforce the password policy?",
+    "answer": "The password policy will be enforced using the Active Directory Group Policy Object (GPO) named \"Password Policy\".",
+    "answer_paragraph": "I. Password Policies"
+  },
+  {
+    "question": "When was version 1.0 of the security hardening guide initially released?",
+    "answer": "Version 1.0: Initial release, dated February 10, 2023",
+    "answer_paragraph": "Revision History"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the minimum encryption required for API requests?",
+    "answer": "a minimum of TLS 1.2 encryption",
+    "answer_paragraph": "According to the company's policy, all API requests must be made over HTTPS, with a minimum of TLS 1.2 encryption."
+  },
+  {
+    "question": "Who leads the TechCorp development team?",
+    "answer": "John Lee",
+    "answer_paragraph": "The API is maintained by the TechCorp development team, led by John Lee, who has over 10 years of experience in software development."
+  },
+  {
+    "question": "What is the guaranteed uptime of the API?",
+    "answer": "99.99%",
+    "answer_paragraph": "The team is committed to ensuring that the API is reliable, secure, and scalable, with a guaranteed uptime of 99.99% as per the service level agreement."
+  },
+  {
+    "question": "How long are access tokens valid for?",
+    "answer": "30 minutes",
+    "answer_paragraph": "In terms of security, the API uses OAuth 2.0 for authentication and authorization, with access tokens valid for a period of 30 minutes."
+  },
+  {
+    "question": "What is the maximum number of requests per minute per IP address?",
+    "answer": "100 requests per minute per IP address",
+    "answer_paragraph": "The API also implements rate limiting, with a maximum of 100 requests per minute per IP address."
+  },
+  {
+    "question": "When was the current version of the API released?",
+    "answer": "January 15, 2022",
+    "answer_paragraph": "The API is versioned, with the current version being 1.5, which was released on January 15, 2022."
+  },
+  {
+    "question": "What is the company's policy on logging and monitoring API requests?",
+    "answer": "all API requests be logged and monitored in real-time, with any suspicious activity reported to the security team",
+    "answer_paragraph": "The company's security policy requires that all API requests be logged and monitored in real-time, with any suspicious activity reported to the security team."
+  },
+  {
+    "question": "How often does the company plan to release new versions of the API?",
+    "answer": "on a quarterly basis",
+    "answer_paragraph": "The company plans to release new versions of the API on a quarterly basis, with the next release scheduled for April 15, 2022."
+  },
+  {
+    "question": "What is the purpose of the sandbox environment?",
+    "answer": "to test and debug their applications",
+    "answer_paragraph": "The company also provides a sandbox environment for developers to test and debug their applications, which is available on a first-come, first-served basis."
+  },
+  {
+    "question": "How long does the support team take to respond to inquiries?",
+    "answer": "within a period of 2 hours",
+    "answer_paragraph": "The support team is available 24/7, and is committed to responding to all inquiries within a period of 2 hours."
+  }
+]

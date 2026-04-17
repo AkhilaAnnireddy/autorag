@@ -1,0 +1,164 @@
+
+   <h1>Database Schema Documentation</h1>
+   <h2>Introduction</h2>
+   <p>The database schema for the fictional company, GreenTech Inc., was designed and implemented by the IT department in collaboration with the software development team. The database is used to store information about employees, customers, orders, and products. The schema was created using MySQL Workbench and is compatible with MySQL version 8.0. The database is hosted on a Linux server with a 2.5 GHz quad-core processor and 16 GB of RAM.</p>
+   <h2>Entity Relationship Diagram</h2>
+   <p>The entity relationship diagram (ERD) for the GreenTech Inc. database is shown in Table 1.</p>
+   <table>
+      <tr>
+         <th>Entity</th>
+         <th>Attributes</th>
+         <th>Relationships</th>
+      </tr>
+      <tr>
+         <td>Employee</td>
+         <td>employee_id, name, email, department</td>
+         <td>one-to-many with Order</td>
+      </tr>
+      <tr>
+         <td>Customer</td>
+         <td>customer_id, name, email, address</td>
+         <td>one-to-many with Order</td>
+      </tr>
+      <tr>
+         <td>Order</td>
+         <td>order_id, order_date, total, employee_id, customer_id</td>
+         <td>many-to-one with Employee and Customer</td>
+      </tr>
+      <tr>
+         <td>Product</td>
+         <td>product_id, name, price, description</td>
+         <td>many-to-many with Order</td>
+      </tr>
+   </table>
+   <p>Table 1: Entity Relationship Diagram for GreenTech Inc. Database</p>
+   <h2>Table Definitions</h2>
+   <p>The definitions for each table in the database are shown in the following tables.</p>
+   <h3>Employee Table</h3>
+   <table>
+      <tr>
+         <th>Column Name</th>
+         <th>Data Type</th>
+         <th>Description</th>
+      </tr>
+      <tr>
+         <td>employee_id</td>
+         <td>int</td>
+         <td>unique identifier for each employee</td>
+      </tr>
+      <tr>
+         <td>name</td>
+         <td>varchar(50)</td>
+         <td>employee name</td>
+      </tr>
+      <tr>
+         <td>email</td>
+         <td>varchar(100)</td>
+         <td>employee email address</td>
+      </tr>
+      <tr>
+         <td>department</td>
+         <td>varchar(50)</td>
+         <td>employee department</td>
+      </tr>
+   </table>
+   <p>Table 2: Employee Table Definition</p>
+   <h3>Customer Table</h3>
+   <table>
+      <tr>
+         <th>Column Name</th>
+         <th>Data Type</th>
+         <th>Description</th>
+      </tr>
+      <tr>
+         <td>customer_id</td>
+         <td>int</td>
+         <td>unique identifier for each customer</td>
+      </tr>
+      <tr>
+         <td>name</td>
+         <td>varchar(50)</td>
+         <td>customer name</td>
+      </tr>
+      <tr>
+         <td>email</td>
+         <td>varchar(100)</td>
+         <td>customer email address</td>
+      </tr>
+      <tr>
+         <td>address</td>
+         <td>varchar(200)</td>
+         <td>customer address</td>
+      </tr>
+   </table>
+   <p>Table 3: Customer Table Definition</p>
+   <h3>Order Table</h3>
+   <table>
+      <tr>
+         <th>Column Name</th>
+         <th>Data Type</th>
+         <th>Description</th>
+      </tr>
+      <tr>
+         <td>order_id</td>
+         <td>int</td>
+         <td>unique identifier for each order</td>
+      </tr>
+      <tr>
+         <td>order_date</td>
+         <td>date</td>
+         <td>date the order was placed</td>
+      </tr>
+      <tr>
+         <td>total</td>
+         <td>decimal(10,2)</td>
+         <td>total cost of the order</td>
+      </tr>
+      <tr>
+         <td>employee_id</td>
+         <td>int</td>
+         <td>foreign key referencing the Employee table</td>
+      </tr>
+      <tr>
+         <td>customer_id</td>
+         <td>int</td>
+         <td>foreign key referencing the Customer table</td>
+      </tr>
+   </table>
+   <p>Table 4: Order Table Definition</p>
+   <h3>Product Table</h3>
+   <table>
+      <tr>
+         <th>Column Name</th>
+         <th>Data Type</th>
+         <th>Description</th>
+      </tr>
+      <tr>
+         <td>product_id</td>
+         <td>int</td>
+         <td>unique identifier for each product</td>
+      </tr>
+      <tr>
+         <td>name</td>
+         <td>varchar(50)</td>
+         <td>product name</td>
+      </tr>
+      <tr>
+         <td>price</td>
+         <td>decimal(10,2)</td>
+         <td>product price</td>
+      </tr>
+      <tr>
+         <td>description</td>
+         <td>varchar(200)</td>
+         <td>product description</td>
+      </tr>
+   </table>
+   <p>Table 5: Product Table Definition</p>
+   <h2>Indexing and Constraints</h2>
+   <p>The database uses indexing and constraints to improve query performance and maintain data integrity. The primary keys for each table are employee_id, customer_id, order_id, and product_id. Foreign keys are used to establish relationships between tables.</p>
+   <h2>Security and Backup</h2>
+   <p>The database is secured using a combination of username and password authentication, as well as SSL encryption. Regular backups are performed daily at 2:00 AM using the mysqldump command. The backups are stored on an external hard drive and retained for 30 days.</p>
+   <h2>Conclusion</h2>
+   <p>The GreenTech Inc. database schema is designed to support the company's business operations and provide a scalable and secure platform for data storage and retrieval. The database is regularly maintained and updated to ensure optimal performance and data integrity.</p>
+   
